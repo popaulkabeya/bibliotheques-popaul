@@ -1,0 +1,25 @@
+{
+  "name": "Bibliothèque Spirituelle",
+  "short_name": "Bibliothèque",
+  "description": "Lecture hors-ligne et en ligne des Écritures, apocryphes, textes kabbalistiques et grimoires, avec lecture vocale.",
+  "lang": "fr",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#12100e",
+  "theme_color": "#12100e",
+  "categories": ["books", "education", "lifestyle"],
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Reprendre la lecture", "url": "./index.html#/" },
+    { "name": "Prières & Offices", "url": "./index.html#/c/pratique" },
+    { "name": "Kabbale", "url": "./index.html#/c/kabbale" }
+  ]
+}

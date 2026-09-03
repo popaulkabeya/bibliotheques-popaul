@@ -1,0 +1,119 @@
+/* ═══════════════ Rappels · progression ═══════════════ */
+
+.rap-lede{color:var(--parch-2); font-size:14px; line-height:1.7; max-width:66ch; margin:14px 0 0}
+
+.rap-perm{
+  display:flex; align-items:center; gap:14px; flex-wrap:wrap; margin:26px 0 34px;
+  border:1px solid rgba(217,164,65,.3); background:rgba(217,164,65,.07);
+  border-radius:12px; padding:14px 16px; font-size:13px; color:var(--parch-2); line-height:1.55;
+}
+.rap-perm span{flex:1; min-width:220px}
+.rap-perm .mini-btn{flex:0 0 auto; padding:8px 16px}
+.rap-perm.refuse{border-color:rgba(193,120,95,.36); background:rgba(193,120,95,.08); color:var(--warn)}
+
+.rap-vide{color:var(--parch-3); font-style:italic; margin:0 0 18px; font-size:13.5px}
+.rap-list{display:flex; flex-direction:column; gap:9px; margin-bottom:18px}
+.rap-item{
+  display:flex; align-items:center; gap:15px; padding:14px 16px;
+  border:1px solid var(--line); border-radius:12px; background:var(--ink-2);
+  transition:.18s var(--ease);
+}
+.rap-item:hover{border-color:var(--gold-dim)}
+.rap-item.off{opacity:.5}
+.rap-toggle{background:none; border:0; cursor:pointer; font-size:17px; color:var(--gold); padding:0; width:22px}
+.rap-item.off .rap-toggle{color:var(--parch-3)}
+.rap-time{
+  font-family:var(--serif); font-size:19px; color:var(--gold-soft); min-width:82px;
+  font-variant-numeric:tabular-nums; letter-spacing:.01em;
+}
+.rap-body{flex:1; min-width:0; display:flex; flex-direction:column; gap:2px}
+.rap-body b{font-size:14px; font-weight:500}
+.rap-body small{font-size:11.5px; color:var(--parch-3)}
+.rap-next{color:var(--gold-dim)!important}
+.rap-del{background:none; border:0; cursor:pointer; color:var(--parch-3); font-size:14px; padding:5px 7px;
+  border-radius:7px; transition:.16s var(--ease)}
+.rap-del:hover{color:var(--warn); background:rgba(193,120,95,.12)}
+
+.rap-tools{display:flex; gap:9px; flex-wrap:wrap}
+.rap-tools .mini-btn{flex:0 0 auto; padding:9px 16px; font-size:12.5px}
+
+.rap-form{
+  display:grid; grid-template-columns:repeat(auto-fit,minmax(210px,1fr)); gap:16px 18px;
+  border:1px solid var(--line); border-radius:14px; padding:20px; background:var(--ink-2);
+}
+.rap-form label{display:flex; flex-direction:column; gap:7px; font-size:10.5px;
+  letter-spacing:.16em; text-transform:uppercase; color:var(--parch-3)}
+.rap-form input[type=text],.rap-form input:not([type]),.rap-form input[type=time],.rap-form select{
+  background:var(--ink-3); border:1px solid var(--line); border-radius:9px; padding:10px 12px;
+  font-size:13.5px; color:var(--parch); text-transform:none; letter-spacing:0;
+}
+.rap-form input:focus,.rap-form select:focus{outline:none; border-color:var(--gold-dim)}
+.rap-days{grid-column:1/-1; border:1px solid var(--line); border-radius:10px; padding:12px 14px; margin:0}
+.rap-days legend{font-size:10.5px; letter-spacing:.16em; text-transform:uppercase;
+  color:var(--parch-3); padding:0 7px}
+.rap-day{flex-direction:row!important; align-items:center; gap:6px; display:inline-flex!important;
+  margin-right:13px; text-transform:none!important; letter-spacing:0!important;
+  font-size:12.5px!important; color:var(--parch-2)!important; cursor:pointer}
+.rap-day input{accent-color:var(--gold); width:15px; height:15px; cursor:pointer}
+.rap-form .act{grid-column:1/-1; min-width:0}
+
+/* ── bandeau d'alarme ── */
+.alarm-pop{
+  position:fixed; right:22px; bottom:22px; z-index:95; display:flex; align-items:center; gap:14px;
+  max-width:min(430px,92vw); padding:15px 17px; border-radius:14px;
+  background:var(--ink-3); border:1px solid var(--gold-dim); box-shadow:var(--shadow);
+  transform:translateY(18px); opacity:0; transition:.32s var(--ease);
+}
+.alarm-pop.show{transform:none; opacity:1}
+.ap-glyph{font-size:24px; color:var(--gold); flex-shrink:0}
+.ap-body{flex:1; min-width:0; display:flex; flex-direction:column; gap:2px}
+.ap-body b{font-family:var(--serif); font-size:15px}
+.ap-body small{font-size:11.5px; color:var(--parch-3)}
+.ap-go{background:var(--gold); color:var(--ink); border:0; border-radius:8px; padding:8px 14px;
+  font-size:12.5px; font-weight:600; cursor:pointer; flex-shrink:0}
+.ap-go:hover{background:var(--gold-soft)}
+.ap-close{background:none; border:0; color:var(--parch-3); cursor:pointer; font-size:13px; padding:4px}
+.ap-close:hover{color:var(--parch)}
+
+/* ── progression ── */
+.card-pct{
+  position:absolute; bottom:8px; right:10px; z-index:2; font-size:10px;
+  font-variant-numeric:tabular-nums; color:var(--gold-soft);
+  background:rgba(18,16,14,.82); border:1px solid rgba(217,164,65,.3);
+  border-radius:20px; padding:2px 7px; backdrop-filter:blur(6px);
+}
+.vol-prog{color:var(--gold-soft)}
+.reader-prog{
+  flex-shrink:0; font-size:11.5px; color:var(--parch-3); font-variant-numeric:tabular-nums;
+  border:1px solid var(--line); border-radius:20px; padding:4px 11px; white-space:nowrap;
+}
+@media (max-width:760px){ .reader-prog{display:none} }
+@media (max-width:620px){
+  .alarm-pop{right:12px; left:12px; bottom:12px; max-width:none}
+  .rap-time{min-width:66px; font-size:17px}
+}
+
+/* ── planificateur dans la fiche d'un ouvrage ── */
+.sheet-plan:empty{display:none}
+.sheet-plan{margin-top:16px}
+.plan-form{
+  display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:13px 15px;
+  border:1px solid var(--gold-dim); border-radius:13px; padding:17px;
+  background:rgba(217,164,65,.05); animation:planIn .28s var(--ease);
+}
+@keyframes planIn{from{opacity:0; transform:translateY(-6px)}}
+.plan-h{
+  grid-column:1/-1; margin:0; font-size:10.5px; letter-spacing:.18em; text-transform:uppercase;
+  color:var(--gold-soft); font-family:var(--sans);
+}
+.plan-form label{display:flex; flex-direction:column; gap:6px; font-size:10.5px;
+  letter-spacing:.15em; text-transform:uppercase; color:var(--parch-3)}
+.plan-form input,.plan-form select{
+  background:var(--ink); border:1px solid var(--line); border-radius:8px; padding:9px 11px;
+  font-size:13px; color:var(--parch); text-transform:none; letter-spacing:0;
+}
+.plan-form input:focus,.plan-form select:focus{outline:none; border-color:var(--gold-dim)}
+.plan-form .rap-days{grid-column:1/-1}
+.plan-actions{grid-column:1/-1; display:flex; gap:9px}
+.plan-actions .act{flex:1; min-width:0}
+.act.on{border-color:var(--gold); color:var(--gold-soft); background:rgba(217,164,65,.13)}

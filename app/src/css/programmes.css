@@ -1,0 +1,129 @@
+/* ═══════════════ Programmes de prière ═══════════════ */
+
+.pg-lede{color:var(--parch-2); font-size:14px; line-height:1.7; max-width:66ch; margin:14px 0 0}
+.pg-vide{color:var(--parch-3); font-style:italic; margin:0; font-size:13.5px; line-height:1.6}
+.pg-retour{
+  display:inline-block; margin-bottom:16px; font-size:12px; letter-spacing:.14em;
+  text-transform:uppercase; color:var(--parch-3); text-decoration:none;
+}
+.pg-retour:hover{color:var(--gold)}
+
+/* ── la carte d'un programme ── */
+.pg-liste{display:flex; flex-direction:column; gap:16px}
+.pg-card{
+  border:1px solid var(--line); border-radius:14px; background:var(--ink-2);
+  padding:20px 22px; transition:.18s var(--ease);
+}
+.pg-card:hover{border-color:var(--gold-dim)}
+.pg-card.termine{opacity:.62}
+.pg-card.encours{border-color:rgba(217,164,65,.34); background:rgba(217,164,65,.045)}
+.pg-card-head{display:flex; align-items:baseline; gap:14px; flex-wrap:wrap}
+.pg-titre{
+  font-family:var(--serif); font-size:20px; color:var(--parch); text-decoration:none;
+  line-height:1.25; flex:1; min-width:180px;
+}
+.pg-titre:hover{color:var(--gold-soft)}
+.pg-etat{
+  flex:0 0 auto; font-size:10px; letter-spacing:.16em; text-transform:uppercase;
+  padding:4px 10px; border-radius:20px; border:1px solid var(--line); color:var(--parch-3);
+}
+.pg-etat.encours{color:var(--gold); border-color:var(--gold-dim); background:rgba(217,164,65,.1)}
+.pg-etat.avenir{color:var(--ok); border-color:rgba(110,168,143,.4)}
+.pg-periode{margin:9px 0 0; font-size:12.5px; color:var(--parch-3); font-variant-numeric:tabular-nums}
+.pg-periode.grand{font-size:14px; margin-top:12px}
+.pg-periode b{color:var(--gold-soft); font-weight:500}
+.pg-card-int{margin:9px 0 0; font-size:13.5px; color:var(--parch-2); font-style:italic; line-height:1.6}
+.pg-card-int.grand{font-size:15px; max-width:62ch}
+
+.pg-barre{height:4px; border-radius:3px; background:var(--ink-3); margin:15px 0 7px; overflow:hidden}
+.pg-barre.grand{height:6px; margin-top:20px}
+.pg-barre span{display:block; height:100%; background:linear-gradient(90deg,var(--gold-dim),var(--gold));
+  border-radius:3px; transition:width .3s var(--ease)}
+.pg-compte{margin:0; font-size:11.5px; color:var(--parch-3); font-variant-numeric:tabular-nums}
+
+/* ── une séance ── */
+.pg-seances{display:flex; flex-direction:column; gap:8px; margin-top:16px}
+.pg-seance{
+  display:flex; align-items:center; gap:14px; padding:12px 14px;
+  border:1px solid var(--line); border-radius:11px; background:var(--ink);
+  transition:.16s var(--ease);
+}
+.pg-seance:hover{border-color:var(--gold-dim)}
+.pg-seance.fait{opacity:.5}
+.pg-seance.fait .pg-corps b{text-decoration:line-through; text-decoration-color:var(--parch-3)}
+.pg-check{background:none; border:0; cursor:pointer; font-size:17px; color:var(--gold); padding:0; width:22px; flex:0 0 auto}
+.pg-seance.fait .pg-check{color:var(--ok)}
+.pg-heure{
+  font-family:var(--serif); font-size:17px; color:var(--gold-soft); min-width:70px; flex:0 0 auto;
+  font-variant-numeric:tabular-nums; letter-spacing:.01em;
+}
+.pg-corps{flex:1; min-width:0; display:flex; flex-direction:column; gap:2px}
+.pg-corps b{font-size:14px; font-weight:500; color:var(--parch)}
+.pg-corps small{font-size:11.5px; color:var(--parch-3); line-height:1.45}
+.pg-passage{color:var(--parch-2)!important}
+.pg-intention{color:var(--gold-dim)!important; font-style:italic}
+.pg-ouvrir{
+  flex:0 0 auto; font-size:11px; letter-spacing:.14em; text-transform:uppercase;
+  color:var(--parch-2); text-decoration:none; border:1px solid var(--line);
+  padding:7px 13px; border-radius:8px; transition:.16s var(--ease);
+}
+.pg-ouvrir:hover{color:var(--gold); border-color:var(--gold-dim); background:rgba(217,164,65,.1)}
+
+/* ── le détail, jour par jour ── */
+.pg-jour{border-left:2px solid var(--line); padding:0 0 22px 20px; margin-left:6px; position:relative}
+.pg-jour:last-child{padding-bottom:0}
+.pg-jour::before{
+  content:""; position:absolute; left:-5px; top:6px; width:8px; height:8px;
+  border-radius:50%; background:var(--ink-3); border:1px solid var(--line);
+}
+.pg-jour.passe::before{background:var(--parch-3); border-color:var(--parch-3)}
+.pg-jour.auj{border-left-color:var(--gold-dim)}
+.pg-jour.auj::before{background:var(--gold); border-color:var(--gold); box-shadow:0 0 0 4px rgba(217,164,65,.16)}
+.pg-jour-tete{display:flex; align-items:baseline; gap:12px; margin-bottom:10px; flex-wrap:wrap}
+.pg-jour-n{font-size:11px; letter-spacing:.18em; text-transform:uppercase; color:var(--parch-3)}
+.pg-jour.auj .pg-jour-n{color:var(--gold)}
+.pg-jour-date{font-family:var(--serif); font-size:15px; color:var(--parch-2)}
+.pg-jour .pg-seance{margin-bottom:8px}
+
+.pg-tools{display:flex; gap:9px; flex-wrap:wrap; margin-top:18px}
+.pg-tools .mini-btn{flex:0 0 auto; padding:9px 16px; font-size:12.5px}
+.pg-modeles{display:flex; gap:9px; flex-wrap:wrap; margin-top:16px}
+.pg-modeles .mini-btn{padding:10px 17px; font-size:13px}
+
+/* ── composer ── */
+.pg-form{
+  display:grid; grid-template-columns:repeat(auto-fit,minmax(210px,1fr)); gap:16px 18px;
+  border:1px solid var(--line); border-radius:14px; padding:20px; background:var(--ink-2);
+}
+.pg-form label{display:flex; flex-direction:column; gap:7px; font-size:10.5px;
+  letter-spacing:.16em; text-transform:uppercase; color:var(--parch-3)}
+.pg-form label.large{grid-column:1/-1}
+.pg-form-full{grid-column:1/-1}
+.pg-form input,.pg-form select{
+  font:inherit; font-size:14px; letter-spacing:normal; text-transform:none;
+  color:var(--parch); background:var(--ink); border:1px solid var(--line);
+  border-radius:9px; padding:10px 12px; width:100%;
+}
+.pg-form input:focus,.pg-form select:focus{outline:none; border-color:var(--gold-dim)}
+.pg-sh{
+  font-size:11px; letter-spacing:.18em; text-transform:uppercase; color:var(--parch-3);
+  margin:6px 0 12px; font-weight:400;
+}
+.pg-brouillon{display:flex; flex-direction:column; gap:8px; margin-bottom:16px}
+.pg-br-item{
+  display:flex; align-items:center; gap:14px; padding:11px 13px;
+  border:1px solid var(--line); border-radius:10px; background:var(--ink);
+}
+.pg-ajout{
+  display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:13px 15px;
+  align-items:end; border:1px dashed var(--line); border-radius:12px; padding:16px;
+}
+.pg-ajout .mini-btn{height:41px}
+
+@media (max-width:640px){
+  .pg-seance{flex-wrap:wrap; gap:10px}
+  .pg-heure{min-width:58px; font-size:15px}
+  .pg-ouvrir{margin-left:auto}
+  .pg-card{padding:17px 16px}
+  .pg-jour{padding-left:16px}
+}

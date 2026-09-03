@@ -1,0 +1,53 @@
+/* ═══════════════ Pratique — régularité ═══════════════ */
+.pr-vide{color:var(--parch-3); font-style:italic; font-size:14px}
+.pr-vide a{color:var(--gold-soft); text-decoration:underline; text-underline-offset:3px; margin-left:6px}
+
+.pr-stats{display:grid; grid-template-columns:repeat(auto-fit,minmax(170px,1fr)); gap:12px; margin:26px 0 38px}
+.pr-stat{border:1px solid var(--line); border-radius:13px; padding:18px 18px 15px; background:var(--ink-2)}
+.pr-stat b{display:block; font-family:var(--serif); font-size:32px; line-height:1; color:var(--gold-soft);
+  font-variant-numeric:tabular-nums; margin-bottom:8px}
+.pr-stat span{font-size:11px; letter-spacing:.14em; text-transform:uppercase; color:var(--parch-3)}
+
+/* semaine */
+.pr-semaine{display:grid; grid-template-columns:repeat(7,1fr); gap:8px}
+.pr-jour{border:1px solid var(--line); border-radius:11px; padding:12px 8px 10px; background:var(--ink-2);
+  text-align:center; display:flex; flex-direction:column; gap:6px; align-items:center}
+.pr-jour.auj{border-color:var(--gold-dim); background:rgba(217,164,65,.06)}
+.pr-jour-nom{font-size:10px; letter-spacing:.16em; text-transform:uppercase; color:var(--parch-3)}
+.pr-jour-num{font-family:var(--serif); font-size:20px; color:var(--parch); line-height:1}
+.pr-points{display:flex; flex-wrap:wrap; justify-content:center; gap:5px; min-height:14px; margin-top:4px}
+.pr-points i,.pr-legende i{display:inline-block; width:11px; height:11px; border-radius:50%; border:1.5px solid transparent}
+.pr-points i.ok,.pr-legende i.ok{background:var(--ok); border-color:var(--ok)}
+.pr-points i.ko,.pr-legende i.ko{background:var(--warn); border-color:var(--warn)}
+.pr-points i.av,.pr-legende i.av{background:transparent; border-color:var(--parch-3)}
+.pr-points i.none{background:transparent; border-color:var(--line)}
+.pr-legende{margin:12px 0 0; font-size:11.5px; color:var(--parch-3); display:flex; gap:14px; align-items:center}
+.pr-legende i{margin-right:5px; vertical-align:middle}
+
+/* par prière */
+.pr-liste{display:flex; flex-direction:column; gap:9px}
+.pr-ligne{border:1px solid var(--line); border-radius:12px; padding:14px 16px; background:var(--ink-2);
+  display:grid; grid-template-columns:minmax(180px,1.4fr) 1fr 1fr; gap:12px 22px; align-items:center}
+.pr-ligne-tete b{display:block; font-size:14.5px; font-weight:500}
+.pr-ligne-tete small{font-size:11.5px; color:var(--parch-3)}
+.pr-mesure{display:flex; align-items:center; gap:10px; font-size:11px}
+.pr-mesure>span{color:var(--parch-3); letter-spacing:.12em; text-transform:uppercase; min-width:30px}
+.pr-mesure em{font-style:normal; color:var(--parch-2); font-variant-numeric:tabular-nums; min-width:36px; text-align:right}
+.pr-barre{flex:1; height:6px; border-radius:6px; background:rgba(239,230,214,.08); overflow:hidden}
+.pr-barre span{display:block; height:100%; background:linear-gradient(90deg,var(--gold-dim),var(--ok)); border-radius:6px;
+  transition:width .5s var(--ease)}
+
+/* cinq semaines */
+.pr-grille{display:grid; grid-template-columns:repeat(7,1fr); gap:6px; max-width:420px}
+.pr-case{display:block; aspect-ratio:1; border-radius:6px; background:rgba(239,230,214,.06); border:1px solid transparent}
+.pr-case.peu{background:rgba(193,120,95,.45)}
+.pr-case.moitie{background:rgba(217,164,65,.5)}
+.pr-case.plein{background:var(--ok)}
+.pr-case.auj{border-color:var(--gold-soft)}
+
+@media (max-width:700px){
+  .pr-ligne{grid-template-columns:1fr}
+  .pr-semaine{gap:5px}
+  .pr-jour{padding:9px 4px 8px}
+  .pr-jour-num{font-size:17px}
+}

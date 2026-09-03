@@ -1,0 +1,2234 @@
+{
+  "title": "Bibliothèque Spirituelle",
+  "version": "1.0.0",
+  "categories": [
+    {
+      "id": "ecritures",
+      "order": 1,
+      "name": "Écritures & Canon élargi",
+      "glyph": "✝",
+      "accent": "#d9a441",
+      "intro": "Le socle. Les textes reçus comme Écriture par les Églises d'Orient, et les plus anciens témoins manuscrits qui nous soient parvenus."
+    },
+    {
+      "id": "apocryphes",
+      "order": 2,
+      "name": "Apocryphes & Gnose",
+      "glyph": "☥",
+      "accent": "#c1785f",
+      "intro": "Ce que le canon latin a laissé de côté : évangiles écartés, dialogues du Ressuscité, corpus de Nag Hammadi et littérature gnostique."
+    },
+    {
+      "id": "kabbale",
+      "order": 3,
+      "name": "Kabbale & Tradition juive",
+      "glyph": "מ",
+      "accent": "#7d8ec4",
+      "intro": "La clé herméneutique. Sans les lettres, les sephiroth et les Noms, les grimoires qui suivent restent illisibles."
+    },
+    {
+      "id": "doctrine",
+      "order": 4,
+      "name": "Doctrine & Haute Magie",
+      "glyph": "⚹",
+      "accent": "#9b7fc0",
+      "intro": "La théorie avant la pratique. Éliphas Lévi, qui a refondé tout l'occultisme moderne en deux volumes."
+    },
+    {
+      "id": "grimoires",
+      "order": 5,
+      "name": "Grimoires & Magie cérémonielle",
+      "glyph": "⛧",
+      "accent": "#a85c5c",
+      "intro": "Les livres opératifs, du cycle salomonien savant jusqu'aux grimoires populaires de colportage."
+    },
+    {
+      "id": "pratique",
+      "order": 6,
+      "name": "Prières, Offices & Pratique",
+      "glyph": "☩",
+      "accent": "#6ea88f",
+      "intro": "Le retour au quotidien : offices, oraisons et recueils destinés à être récités, pas seulement lus."
+    }
+  ],
+  "books": [
+    {
+      "id": "bible-ethiopienne",
+      "category": "ecritures",
+      "order": 1,
+      "title": "La Bible Éthiopienne",
+      "subtitle": "Les Livres Oubliés",
+      "author": "Canon Tewahedo",
+      "era": "Canon des 81 livres",
+      "lang": "fr",
+      "glyph": "✝",
+      "tags": [
+        "canon",
+        "éthiopie",
+        "hénoch",
+        "jubilés",
+        "audio"
+      ],
+      "summary": "Le canon le plus large du christianisme : l'Église orthodoxe éthiopienne Tewahedo retient 81 livres, dont Hénoch, les Jubilés et les Maccabées éthiopiens, absents de toutes les autres bibles.",
+      "volumes": [
+        {
+          "label": "Édition EPUB",
+          "type": "epub",
+          "path": "Bible-Ethiopienne/Bible-Ethiopienne-Livres-Oublies-FR.epub",
+          "bytes": 605647
+        },
+        {
+          "label": "Édition PDF",
+          "type": "pdf",
+          "path": "Bible-Ethiopienne/Bible-Ethiopienne-Livres-Oublies-FR.pdf",
+          "bytes": 4190415
+        },
+        {
+          "label": "Livre audio — 11 pistes",
+          "type": "audio",
+          "path": "Bible-Ethiopienne/Livre-Audio",
+          "tracks": [
+            "Bible-Ethiopienne/Livre-Audio/01 - Introduction.m4a",
+            "Bible-Ethiopienne/Livre-Audio/02 - Le Livre d'Hénoch (I).m4a",
+            "Bible-Ethiopienne/Livre-Audio/03 - Le Livre d'Hénoch (II).m4a",
+            "Bible-Ethiopienne/Livre-Audio/04 - Le Livre des Jubilés (I).m4a",
+            "Bible-Ethiopienne/Livre-Audio/05 - Le Livre des Jubilés (II).m4a",
+            "Bible-Ethiopienne/Livre-Audio/06 - Le Quatrième Livre d’Esdras.m4a",
+            "Bible-Ethiopienne/Livre-Audio/07 - Psaume 151 et Prière de Manassé.m4a",
+            "Bible-Ethiopienne/Livre-Audio/08 - Deutérocanoniques — Tobie et Judith.m4a",
+            "Bible-Ethiopienne/Livre-Audio/09 - Deutérocanoniques — Sagesse et Ecclésiastique.m4a",
+            "Bible-Ethiopienne/Livre-Audio/10 - Deutérocanoniques — Baruch, Esther, Daniel.m4a",
+            "Bible-Ethiopienne/Livre-Audio/11 - Les livres sans traduction française.m4a"
+          ],
+          "sizes": [
+            1966198,
+            19481679,
+            48373300,
+            56895251,
+            44889567,
+            43383302,
+            1382100,
+            33716537,
+            76686024,
+            24999284,
+            2090803
+          ]
+        }
+      ],
+      "bytes": 358660107
+    },
+    {
+      "id": "garima",
+      "category": "ecritures",
+      "order": 2,
+      "title": "Les Évangiles de Garima",
+      "subtitle": "Manuscrit enluminé du monastère d'Abba Garima",
+      "author": "Anonyme, Éthiopie",
+      "era": "≈ 390–660 ap. J.-C.",
+      "lang": "gez",
+      "glyph": "❈",
+      "tags": [
+        "manuscrit",
+        "enluminure",
+        "guèze"
+      ],
+      "summary": "Le plus ancien évangéliaire chrétien illustré et relié encore existant. Écrit en guèze sur parchemin, redécouvert et restauré au monastère d'Abba Garima, au Tigré.",
+      "volumes": [
+        {
+          "label": "Planches du manuscrit",
+          "type": "gallery",
+          "path": "Evangiles-de-Garima",
+          "images": [
+            "Evangiles-de-Garima/Garima-01-page-enluminee.jpg",
+            "Evangiles-de-Garima/Garima-02-illumination.jpg",
+            "Evangiles-de-Garima/Garima-03-vue-generale.jpg",
+            "Evangiles-de-Garima/Garima-04-restauration.jpg",
+            "Evangiles-de-Garima/Garima-05-restauration.jpg",
+            "Evangiles-de-Garima/Garima-06-restauration.jpg"
+          ],
+          "sizes": [
+            1677488,
+            579690,
+            56184,
+            613982,
+            692102,
+            714615
+          ]
+        }
+      ],
+      "bytes": 4334061
+    },
+    {
+      "id": "evangiles-apocryphes",
+      "category": "apocryphes",
+      "order": 1,
+      "title": "Les Évangiles Apocryphes",
+      "subtitle": "Recueil général",
+      "author": "Gustave Brunet",
+      "era": "1863",
+      "lang": "fr",
+      "glyph": "☥",
+      "tags": [
+        "apocryphes",
+        "protévangile",
+        "nicodème",
+        "audio"
+      ],
+      "summary": "La compilation française classique : Protévangile de Jacques, Évangile de l'Enfance, Actes de Pilate, Évangile de Nicodème. Point d'entrée obligé du corpus apocryphe.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Evangiles-Apocryphes-Brunet-FR.md",
+          "bytes": 652601
+        },
+        {
+          "label": "Fac-similé PDF",
+          "type": "pdf",
+          "path": "Evangiles-Apocryphes-Brunet-FR.pdf",
+          "bytes": 16419169
+        },
+        {
+          "label": "Livre audio — 19 pistes",
+          "type": "audio",
+          "path": "Evangiles-Apocryphes-Audio",
+          "tracks": [
+            "Evangiles-Apocryphes-Audio/01 - Avant-propos.m4a",
+            "Evangiles-Apocryphes-Audio/02 - Histoire de Joseph le charpentier.m4a",
+            "Evangiles-Apocryphes-Audio/03 - Évangile de l’Enfance.m4a",
+            "Evangiles-Apocryphes-Audio/04 - Protévangile de Jacques-le-Mineur.m4a",
+            "Evangiles-Apocryphes-Audio/05 - Évangile de Thomas l’Israélite.m4a",
+            "Evangiles-Apocryphes-Audio/06 - Évangile de la Nativité de sainte Marie.m4a",
+            "Evangiles-Apocryphes-Audio/07 - Histoire de la Nativité de Marie et de l’Enfance du Sauveur.m4a",
+            "Evangiles-Apocryphes-Audio/08 - Évangile de Nicodème.m4a",
+            "Evangiles-Apocryphes-Audio/09 - Autres évangiles et écrits apocryphes.m4a",
+            "Evangiles-Apocryphes-Audio/10 - Histoire du combat apostolique, par Abdyas.m4a",
+            "Evangiles-Apocryphes-Audio/11 - Notice sur les écrits apocryphes de l’Ancien Testament.m4a",
+            "Evangiles-Apocryphes-Audio/12 - Livres attribués à Adam.m4a",
+            "Evangiles-Apocryphes-Audio/13 - Livre d’Énoch.m4a",
+            "Evangiles-Apocryphes-Audio/14 - Livres attribués à Abraham.m4a",
+            "Evangiles-Apocryphes-Audio/15 - Testaments des douze Patriarches.m4a",
+            "Evangiles-Apocryphes-Audio/16 - Livres attribués à Joseph.m4a",
+            "Evangiles-Apocryphes-Audio/17 - Livres attribués à Salomon.m4a",
+            "Evangiles-Apocryphes-Audio/18 - L’Ascension d’Isaïe, le prophète.m4a",
+            "Evangiles-Apocryphes-Audio/19 - Quatrième Livre d’Esdras.m4a"
+          ],
+          "sizes": [
+            9169513,
+            21384906,
+            33624352,
+            14734941,
+            9404648,
+            10684141,
+            24242993,
+            42589970,
+            7557986,
+            9447839,
+            1329997,
+            6414583,
+            11411749,
+            1609063,
+            2784008,
+            2692922,
+            1750119,
+            6579745,
+            4154299
+          ]
+        }
+      ],
+      "bytes": 238639544
+    },
+    {
+      "id": "evangile-thomas",
+      "category": "apocryphes",
+      "order": 2,
+      "title": "L'Évangile selon Thomas",
+      "subtitle": "114 logia de Jésus — Nag Hammadi, Codex II",
+      "author": "trad. Mattison",
+      "era": "Copié IVᵉ s. — source Iᵉʳ–IIᵉ s.",
+      "lang": "fr",
+      "glyph": "☥",
+      "tags": [
+        "nag hammadi",
+        "logia",
+        "gnose",
+        "audio"
+      ],
+      "summary": "Pas un récit mais une collection de paroles. Le plus important des textes de Nag Hammadi, découvert en 1945 en Haute-Égypte.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Evangile-de-Thomas-Mattison-FR.md",
+          "bytes": 30502
+        },
+        {
+          "label": "Livre audio",
+          "type": "audio",
+          "path": "Evangile-de-Thomas-Audio",
+          "tracks": [
+            "Evangile-de-Thomas-Audio/01 - Évangile selon Thomas.m4a"
+          ],
+          "sizes": [
+            10286497
+          ]
+        }
+      ],
+      "bytes": 10316999
+    },
+    {
+      "id": "evangile-philippe",
+      "category": "apocryphes",
+      "order": 3,
+      "title": "L'Évangile selon Philippe",
+      "subtitle": "Nag Hammadi, Codex II",
+      "author": "trad. Mattison",
+      "era": "IIIᵉ s.",
+      "lang": "fr",
+      "glyph": "☥",
+      "tags": [
+        "nag hammadi",
+        "sacrements",
+        "chambre nuptiale",
+        "audio"
+      ],
+      "summary": "Florilège valentinien sur les cinq sacrements et le mystère de la chambre nuptiale. Source du passage célèbre sur Marie-Madeleine compagne du Sauveur.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Evangile-de-Philippe-Mattison-FR.md",
+          "bytes": 51968
+        },
+        {
+          "label": "Livre audio — 18 pistes",
+          "type": "audio",
+          "path": "Evangile-de-Philippe-Audio",
+          "tracks": [
+            "Evangile-de-Philippe-Audio/01 - Païens, Hébreux et chrétiens.m4a",
+            "Evangile-de-Philippe-Audio/02 - Vie, mort, lumière et ténèbres.m4a",
+            "Evangile-de-Philippe-Audio/03 - Les noms.m4a",
+            "Evangile-de-Philippe-Audio/04 - Les archontes.m4a",
+            "Evangile-de-Philippe-Audio/05 - La naissance virginale.m4a",
+            "Evangile-de-Philippe-Audio/06 - Jésus, Christ, Messie, Nazaréen.m4a",
+            "Evangile-de-Philippe-Audio/07 - La résurrection.m4a",
+            "Evangile-de-Philippe-Audio/08 - Voir Jésus.m4a",
+            "Evangile-de-Philippe-Audio/09 - Le Père, le Fils et le Saint-Esprit.m4a",
+            "Evangile-de-Philippe-Audio/10 - Humains et animaux.m4a",
+            "Evangile-de-Philippe-Audio/11 - Devenir chrétien.m4a",
+            "Evangile-de-Philippe-Audio/12 - Le mystère du mariage.m4a",
+            "Evangile-de-Philippe-Audio/13 - Vaincre le monde.m4a",
+            "Evangile-de-Philippe-Audio/14 - Adam, Ève et la chambre nuptiale.m4a",
+            "Evangile-de-Philippe-Audio/15 - Baptême, chrême, eucharistie, chambre nuptiale.m4a",
+            "Evangile-de-Philippe-Audio/16 - Croissance spirituelle.m4a",
+            "Evangile-de-Philippe-Audio/17 - Déraciner le mal.m4a",
+            "Evangile-de-Philippe-Audio/18 - Conclusion.m4a"
+          ],
+          "sizes": [
+            412801,
+            523248,
+            466116,
+            551797,
+            241213,
+            136882,
+            671329,
+            314076,
+            904876,
+            461530,
+            1735147,
+            392114,
+            1195281,
+            2234497,
+            2992665,
+            1561133,
+            1559675,
+            428815
+          ]
+        }
+      ],
+      "bytes": 16835163
+    },
+    {
+      "id": "judas-marie",
+      "category": "apocryphes",
+      "order": 4,
+      "title": "Évangile de Judas & Évangile de Marie",
+      "subtitle": "Codex Tchacos et Papyrus de Berlin",
+      "author": "trad. Mattison",
+      "era": "IIᵉ s.",
+      "lang": "fr",
+      "glyph": "☥",
+      "tags": [
+        "judas",
+        "marie-madeleine",
+        "séthien"
+      ],
+      "summary": "Deux renversements de perspective : Judas comme seul disciple ayant compris, et Marie-Madeleine comme dépositaire d'un enseignement réservé.",
+      "volumes": [
+        {
+          "label": "Édition PDF",
+          "type": "pdf",
+          "path": "Judas-et-Marie-Mattison-FR.pdf",
+          "bytes": 922021
+        },
+        {
+          "label": "Livre audio — 5 pistes",
+          "type": "audio",
+          "path": "Judas-et-Marie-Audio",
+          "tracks": [
+            "Judas-et-Marie-Audio/01 - Introduction.m4a",
+            "Judas-et-Marie-Audio/02 - Évangile de Judas (I).m4a",
+            "Judas-et-Marie-Audio/03 - Évangile de Judas (II).m4a",
+            "Judas-et-Marie-Audio/04 - Évangile de Judas (III) — La trahison.m4a",
+            "Judas-et-Marie-Audio/05 - Évangile de Marie.m4a"
+          ],
+          "sizes": [
+            462228,
+            2697054,
+            3026283,
+            2440242,
+            2705223
+          ]
+        }
+      ],
+      "bytes": 12253051
+    },
+    {
+      "id": "apocryphon-jean",
+      "category": "apocryphes",
+      "order": 5,
+      "title": "L'Apocryphon de Jean",
+      "subtitle": "Le Livre secret de Jean — Nag Hammadi, Codex II",
+      "author": "trad. Samuel Zinner, éd. Mark M. Mattison",
+      "era": "IIᵉ s. — copié IVᵉ s.",
+      "lang": "fr",
+      "glyph": "☥",
+      "tags": [
+        "nag hammadi",
+        "gnose",
+        "séthien",
+        "cosmologie",
+        "éons",
+        "genèse gnostique"
+      ],
+      "summary": "Le grand texte fondateur du gnosticisme séthien : une révélation du Sauveur ressuscité à l'apôtre Jean sur l'origine de Dieu, des éons, du monde et de l'homme. Là où Thomas et Philippe livrent des paroles, celui-ci déroule un récit cosmologique complet — la « Genèse » gnostique. Suit le Codex II, recension longue.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Apocryphon-de-Jean-Zinner-Mattison-FR.md",
+          "bytes": 51555
+        }
+      ],
+      "bytes": 51555
+    },
+    {
+      "id": "epitre-apotres",
+      "category": "apocryphes",
+      "order": 6,
+      "title": "L'Épître des Apôtres",
+      "subtitle": "Epistula Apostolorum — Patrologia Orientalis, t. IX",
+      "author": "L. Guerrier & S. Grébaut",
+      "era": "IIᵉ s. — éd. 1913",
+      "lang": "fr",
+      "glyph": "☥",
+      "tags": [
+        "patrologie",
+        "éthiopien",
+        "dialogue"
+      ],
+      "summary": "Dialogue du Christ ressuscité avec les Onze, conservé surtout en version éthiopienne. Texte anti-gnostique qui emprunte pourtant la forme gnostique du dialogue révélé.",
+      "volumes": [
+        {
+          "label": "Édition critique PDF",
+          "type": "pdf",
+          "path": "Epitre-des-Apotres-PO9-Guerrier-Grebaut-FR.pdf",
+          "bytes": 41840778
+        }
+      ],
+      "bytes": 41840778
+    },
+    {
+      "id": "pistis-sophia",
+      "category": "apocryphes",
+      "order": 7,
+      "title": "Pistis Sophia",
+      "subtitle": "Codex Askewianus",
+      "author": "G. R. S. Mead",
+      "era": "IIIᵉ–IVᵉ s. — trad. 1896",
+      "lang": "fr",
+      "glyph": "☥",
+      "tags": [
+        "gnose",
+        "sophia",
+        "éons",
+        "mystères",
+        "audio"
+      ],
+      "summary": "Le grand traité gnostique copte : la chute et la repentance de Sophia, les treize éons, et les mystères transmis par Jésus durant les onze années suivant la résurrection.",
+      "volumes": [
+        {
+          "label": "Édition PDF",
+          "type": "pdf",
+          "path": "Pistis-Sophia-Mead-FR.pdf",
+          "bytes": 17005020
+        },
+        {
+          "label": "Livre audio — 14 pistes",
+          "type": "audio",
+          "path": "Pistis-Sophia-Audio",
+          "tracks": [
+            "Pistis-Sophia-Audio/01 - Partie 1.m4a",
+            "Pistis-Sophia-Audio/02 - Partie 2.m4a",
+            "Pistis-Sophia-Audio/03 - Partie 3.m4a",
+            "Pistis-Sophia-Audio/04 - Partie 4.m4a",
+            "Pistis-Sophia-Audio/05 - Partie 5.m4a",
+            "Pistis-Sophia-Audio/06 - Partie 6.m4a",
+            "Pistis-Sophia-Audio/07 - Partie 7.m4a",
+            "Pistis-Sophia-Audio/08 - Partie 8.m4a",
+            "Pistis-Sophia-Audio/09 - Partie 9.m4a",
+            "Pistis-Sophia-Audio/10 - Partie 10.m4a",
+            "Pistis-Sophia-Audio/11 - Partie 11.m4a",
+            "Pistis-Sophia-Audio/12 - Partie 12.m4a",
+            "Pistis-Sophia-Audio/13 - Partie 13.m4a",
+            "Pistis-Sophia-Audio/14 - Partie 14.m4a"
+          ],
+          "sizes": [
+            19435380,
+            22271451,
+            17719741,
+            16844092,
+            17429861,
+            17053940,
+            16361891,
+            16770586,
+            15611178,
+            15418751,
+            15825923,
+            16265086,
+            16533891,
+            3136352
+          ]
+        }
+      ],
+      "bytes": 243683143
+    },
+    {
+      "id": "verite-jacques",
+      "category": "apocryphes",
+      "order": 8,
+      "title": "L'Évangile de Vérité & Le Livre secret de Jacques",
+      "subtitle": "Deux textes du Codex I de Nag Hammadi",
+      "author": "trad. Mark M. Mattison",
+      "era": "IIᵉ s.",
+      "lang": "fr",
+      "glyph": "☥",
+      "tags": [
+        "nag-hammadi",
+        "gnose",
+        "valentinien",
+        "jacques",
+        "mattison"
+      ],
+      "summary": "Deux textes gnostiques du Codex I de Nag Hammadi, traduits du copte par Mark M. Mattison et versés par lui au domaine public. L'Évangile de Vérité, méditation valentinienne sur le sens de la venue du Christ ; le Livre secret de Jacques, lettre rapportant un dialogue révélé à Jacques et à Pierre après la résurrection. Traduits de l'anglais et annotés en français, à la suite de l'Évangile de Judas et de l'Évangile de Marie déjà présents dans cette bibliothèque.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Verite-et-Jacques-Mattison-FR.md",
+          "bytes": 58850
+        },
+        {
+          "label": "Édition PDF",
+          "type": "pdf",
+          "path": "Verite-et-Jacques-Mattison-FR.pdf",
+          "bytes": 1541564
+        }
+      ],
+      "bytes": 1600414
+    },
+    {
+      "id": "sepher-yetzirah",
+      "category": "kabbale",
+      "order": 1,
+      "title": "Sepher Yetzirah",
+      "subtitle": "Le Livre de la Formation",
+      "author": "trad. W. Wynn Westcott",
+      "era": "IIᵉ–VIᵉ s.",
+      "lang": "fr",
+      "glyph": "מ",
+      "tags": [
+        "kabbale",
+        "sephiroth",
+        "22 lettres",
+        "audio"
+      ],
+      "summary": "Le plus court et le plus fondamental des livres kabbalistiques : les 32 voies de la Sagesse, les 10 sephiroth et les 22 lettres par lesquelles le monde est formé. À lire en premier.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Sepher-Yetzirah-Westcott-FR.md",
+          "bytes": 26300
+        },
+        {
+          "label": "Livre audio — 7 pistes",
+          "type": "audio",
+          "path": "Sepher-Yetzirah-Audio",
+          "tracks": [
+            "Sepher-Yetzirah-Audio/01 - Chapitre I.m4a",
+            "Sepher-Yetzirah-Audio/02 - Chapitre II.m4a",
+            "Sepher-Yetzirah-Audio/03 - Chapitre III.m4a",
+            "Sepher-Yetzirah-Audio/04 - Chapitre IV.m4a",
+            "Sepher-Yetzirah-Audio/05 - Chapitre V.m4a",
+            "Sepher-Yetzirah-Audio/06 - Chapitre VI.m4a",
+            "Sepher-Yetzirah-Audio/07 - Les Trente-Deux Sentiers de Sagesse.m4a"
+          ],
+          "sizes": [
+            1390284,
+            587590,
+            721817,
+            1332886,
+            1539701,
+            852264,
+            2362205
+          ]
+        }
+      ],
+      "bytes": 8813047
+    },
+    {
+      "id": "zohar",
+      "category": "kabbale",
+      "order": 2,
+      "title": "Le Zohar",
+      "subtitle": "Le Livre de la Splendeur — 6 tomes",
+      "author": "trad. Jean de Pauly",
+      "era": "XIIIᵉ s. — trad. 1906–1911",
+      "lang": "fr",
+      "glyph": "ז",
+      "tags": [
+        "kabbale",
+        "zohar",
+        "midrash",
+        "mystique"
+      ],
+      "summary": "L'œuvre maîtresse de la Kabbale, commentaire mystique de la Torah attribué à Rabbi Shimon bar Yohaï. La traduction intégrale de Jean de Pauly reste la seule en français.",
+      "volumes": [
+        {
+          "label": "Tome I",
+          "type": "pdf",
+          "path": "Zohar-Jean-de-Pauly-FR/Zohar-Tome-1-FR.pdf",
+          "bytes": 22446025
+        },
+        {
+          "label": "Tome II",
+          "type": "pdf",
+          "path": "Zohar-Jean-de-Pauly-FR/Zohar-Tome-2-FR.pdf",
+          "bytes": 24947005
+        },
+        {
+          "label": "Tome III",
+          "type": "pdf",
+          "path": "Zohar-Jean-de-Pauly-FR/Zohar-Tome-3-FR.pdf",
+          "bytes": 17388707
+        },
+        {
+          "label": "Tome IV",
+          "type": "pdf",
+          "path": "Zohar-Jean-de-Pauly-FR/Zohar-Tome-4-FR.pdf",
+          "bytes": 10033053
+        },
+        {
+          "label": "Tome V",
+          "type": "pdf",
+          "path": "Zohar-Jean-de-Pauly-FR/Zohar-Tome-5-FR.pdf",
+          "bytes": 13946098
+        },
+        {
+          "label": "Tome VI",
+          "type": "pdf",
+          "path": "Zohar-Jean-de-Pauly-FR/Zohar-Tome-6-FR.pdf",
+          "bytes": 13944943
+        }
+      ],
+      "bytes": 102705831
+    },
+    {
+      "id": "franck-kabbale",
+      "category": "kabbale",
+      "order": 3,
+      "title": "La Kabbale",
+      "subtitle": "La philosophie religieuse des Hébreux",
+      "author": "Adolphe Franck",
+      "era": "1843",
+      "lang": "fr",
+      "glyph": "מ",
+      "tags": [
+        "kabbale",
+        "philosophie",
+        "étude critique",
+        "audio"
+      ],
+      "summary": "La première étude académique française de la Kabbale. Utile comme grille de lecture rationnelle avant d'aborder le Zohar dans le texte.",
+      "volumes": [
+        {
+          "label": "Édition PDF",
+          "type": "pdf",
+          "path": "Franck-La-Kabbale-FR.pdf",
+          "bytes": 16080344
+        },
+        {
+          "label": "Livre audio — 13 pistes",
+          "type": "audio",
+          "path": "Franck-Kabbale-Audio",
+          "tracks": [
+            "Franck-Kabbale-Audio/01 - Partie 1.m4a",
+            "Franck-Kabbale-Audio/02 - Partie 2.m4a",
+            "Franck-Kabbale-Audio/03 - Partie 3.m4a",
+            "Franck-Kabbale-Audio/04 - Partie 4.m4a",
+            "Franck-Kabbale-Audio/05 - Partie 5.m4a",
+            "Franck-Kabbale-Audio/06 - Partie 6.m4a",
+            "Franck-Kabbale-Audio/07 - Partie 7.m4a",
+            "Franck-Kabbale-Audio/08 - Partie 8.m4a",
+            "Franck-Kabbale-Audio/09 - Partie 9.m4a",
+            "Franck-Kabbale-Audio/10 - Partie 10.m4a",
+            "Franck-Kabbale-Audio/11 - Partie 11.m4a",
+            "Franck-Kabbale-Audio/12 - Partie 12.m4a",
+            "Franck-Kabbale-Audio/13 - Partie 13.m4a"
+          ],
+          "sizes": [
+            19636385,
+            19097062,
+            17814634,
+            19160464,
+            17522449,
+            17421485,
+            17205401,
+            18475303,
+            17339656,
+            21994108,
+            18503864,
+            18824245,
+            2722505
+          ]
+        }
+      ],
+      "bytes": 241797905
+    },
+    {
+      "id": "hershon-talmud",
+      "category": "kabbale",
+      "order": 4,
+      "title": "Talmudic Miscellany",
+      "subtitle": "Mille extraits du Talmud, du Midrash et de la Kabbale",
+      "author": "Paul Isaac Hershon",
+      "era": "1880",
+      "lang": "fr",
+      "glyph": "ת",
+      "tags": [
+        "talmud",
+        "midrash",
+        "aggada",
+        "audio"
+      ],
+      "summary": "Anthologie de mille passages du Talmud et du Midrash. Le contexte rabbinique dont la Kabbale est issue, en morceaux courts et lisibles.",
+      "volumes": [
+        {
+          "label": "Édition PDF",
+          "type": "pdf",
+          "path": "Hershon-Talmudic-Miscellany-FR.pdf",
+          "bytes": 19646004
+        },
+        {
+          "label": "Livre audio — 16 pistes",
+          "type": "audio",
+          "path": "Hershon-Talmud-Audio",
+          "tracks": [
+            "Hershon-Talmud-Audio/01 - Partie 1.m4a",
+            "Hershon-Talmud-Audio/02 - Partie 2.m4a",
+            "Hershon-Talmud-Audio/03 - Partie 3.m4a",
+            "Hershon-Talmud-Audio/04 - Partie 4.m4a",
+            "Hershon-Talmud-Audio/05 - Partie 5.m4a",
+            "Hershon-Talmud-Audio/06 - Partie 6.m4a",
+            "Hershon-Talmud-Audio/07 - Partie 7.m4a",
+            "Hershon-Talmud-Audio/08 - Partie 8.m4a",
+            "Hershon-Talmud-Audio/09 - Partie 9.m4a",
+            "Hershon-Talmud-Audio/10 - Partie 10.m4a",
+            "Hershon-Talmud-Audio/11 - Partie 11.m4a",
+            "Hershon-Talmud-Audio/12 - Partie 12.m4a",
+            "Hershon-Talmud-Audio/13 - Partie 13.m4a",
+            "Hershon-Talmud-Audio/14 - Partie 14.m4a",
+            "Hershon-Talmud-Audio/15 - Partie 15.m4a",
+            "Hershon-Talmud-Audio/16 - Partie 16.m4a"
+          ],
+          "sizes": [
+            18771174,
+            17676979,
+            17022964,
+            17483605,
+            17285693,
+            18605315,
+            17900817,
+            17404884,
+            18463890,
+            18376788,
+            17902195,
+            17963964,
+            18109244,
+            18121142,
+            19433496,
+            19646359
+          ]
+        }
+      ],
+      "bytes": 309814513
+    },
+    {
+      "id": "levi-dogme",
+      "category": "doctrine",
+      "order": 1,
+      "title": "Dogme de la Haute Magie",
+      "subtitle": "Tome I — La doctrine",
+      "author": "Éliphas Lévi",
+      "era": "1854",
+      "lang": "fr",
+      "glyph": "⚹",
+      "tags": [
+        "occultisme",
+        "tarot",
+        "pentagramme",
+        "audio"
+      ],
+      "summary": "Le livre qui a fondé l'occultisme moderne. Vingt-deux chapitres calqués sur les arcanes majeurs du Tarot. À lire impérativement avant le Rituel.",
+      "volumes": [
+        {
+          "label": "Édition PDF",
+          "type": "pdf",
+          "path": "Dogme-Eliphas-Levi-FR.pdf",
+          "bytes": 11401863
+        },
+        {
+          "label": "Livre audio — 9 pistes",
+          "type": "audio",
+          "path": "Dogme-Eliphas-Levi-Audio",
+          "tracks": [
+            "Dogme-Eliphas-Levi-Audio/01 - Partie 1.m4a",
+            "Dogme-Eliphas-Levi-Audio/02 - Partie 2.m4a",
+            "Dogme-Eliphas-Levi-Audio/03 - Partie 3.m4a",
+            "Dogme-Eliphas-Levi-Audio/04 - Partie 4.m4a",
+            "Dogme-Eliphas-Levi-Audio/05 - Partie 5.m4a",
+            "Dogme-Eliphas-Levi-Audio/06 - Partie 6.m4a",
+            "Dogme-Eliphas-Levi-Audio/07 - Partie 7.m4a",
+            "Dogme-Eliphas-Levi-Audio/08 - Partie 8.m4a",
+            "Dogme-Eliphas-Levi-Audio/09 - Partie 9.m4a"
+          ],
+          "sizes": [
+            18034673,
+            17758519,
+            17921026,
+            17566240,
+            18230702,
+            18106826,
+            18498700,
+            18048564,
+            882175
+          ]
+        }
+      ],
+      "bytes": 156449288
+    },
+    {
+      "id": "levi-rituel",
+      "category": "doctrine",
+      "order": 2,
+      "title": "Rituel de la Haute Magie",
+      "subtitle": "Tome II — La pratique",
+      "author": "Éliphas Lévi",
+      "era": "1856",
+      "lang": "fr",
+      "glyph": "⚹",
+      "tags": [
+        "occultisme",
+        "rituel",
+        "cérémonie",
+        "audio"
+      ],
+      "summary": "Le versant opératif du Dogme : préparations, cercle, armes magiques, évocations. Lévi y donne aussi sa lecture des grimoires classiques qui suivent.",
+      "volumes": [
+        {
+          "label": "Édition PDF",
+          "type": "pdf",
+          "path": "Rituel-Eliphas-Levi-FR.pdf",
+          "bytes": 12508719
+        },
+        {
+          "label": "Livre audio — 10 pistes",
+          "type": "audio",
+          "path": "Rituel-Eliphas-Levi-Audio",
+          "tracks": [
+            "Rituel-Eliphas-Levi-Audio/01 - Partie 1.m4a",
+            "Rituel-Eliphas-Levi-Audio/02 - Partie 2.m4a",
+            "Rituel-Eliphas-Levi-Audio/03 - Partie 3.m4a",
+            "Rituel-Eliphas-Levi-Audio/04 - Partie 4.m4a",
+            "Rituel-Eliphas-Levi-Audio/05 - Partie 5.m4a",
+            "Rituel-Eliphas-Levi-Audio/06 - Partie 6.m4a",
+            "Rituel-Eliphas-Levi-Audio/07 - Partie 7.m4a",
+            "Rituel-Eliphas-Levi-Audio/08 - Partie 8.m4a",
+            "Rituel-Eliphas-Levi-Audio/09 - Partie 9.m4a",
+            "Rituel-Eliphas-Levi-Audio/10 - Partie 10.m4a"
+          ],
+          "sizes": [
+            17665781,
+            18414064,
+            18755941,
+            18116441,
+            18436378,
+            18654680,
+            18627330,
+            18381674,
+            18320043,
+            794178
+          ]
+        }
+      ],
+      "bytes": 178675229
+    },
+    {
+      "id": "levi-histoire",
+      "category": "doctrine",
+      "order": 3,
+      "title": "Histoire de la Magie",
+      "subtitle": "Tome III — Deuxième volet du cours",
+      "author": "Éliphas Lévi",
+      "era": "1860",
+      "lang": "fr",
+      "glyph": "⚹",
+      "tags": [
+        "occultisme",
+        "histoire",
+        "kabbale",
+        "audio"
+      ],
+      "summary": "Le versant historique du cours : sept livres de sept chapitres, des origines fabuleuses de la magie chez les Hébreux et les Égyptiens jusqu'aux magnétiseurs du XIXe siècle. Annonce la Clef des Grands Mystères, alors « à publier plus tard ».",
+      "volumes": [
+        {
+          "label": "Édition PDF",
+          "type": "pdf",
+          "path": "Histoire-de-la-Magie-Levi-FR.pdf",
+          "bytes": 23419812
+        },
+        {
+          "label": "Livre audio — 17 pistes",
+          "type": "audio",
+          "path": "Histoire-Magie-Levi-Audio",
+          "tracks": [
+            "Histoire-Magie-Levi-Audio/01 - Partie 1.m4a",
+            "Histoire-Magie-Levi-Audio/02 - Partie 2.m4a",
+            "Histoire-Magie-Levi-Audio/03 - Partie 3.m4a",
+            "Histoire-Magie-Levi-Audio/04 - Partie 4.m4a",
+            "Histoire-Magie-Levi-Audio/05 - Partie 5.m4a",
+            "Histoire-Magie-Levi-Audio/06 - Partie 6.m4a",
+            "Histoire-Magie-Levi-Audio/07 - Partie 7.m4a",
+            "Histoire-Magie-Levi-Audio/08 - Partie 8.m4a",
+            "Histoire-Magie-Levi-Audio/09 - Partie 9.m4a",
+            "Histoire-Magie-Levi-Audio/10 - Partie 10.m4a",
+            "Histoire-Magie-Levi-Audio/11 - Partie 11.m4a",
+            "Histoire-Magie-Levi-Audio/12 - Partie 12.m4a",
+            "Histoire-Magie-Levi-Audio/13 - Partie 13.m4a",
+            "Histoire-Magie-Levi-Audio/14 - Partie 14.m4a",
+            "Histoire-Magie-Levi-Audio/15 - Partie 15.m4a",
+            "Histoire-Magie-Levi-Audio/16 - Partie 16.m4a",
+            "Histoire-Magie-Levi-Audio/17 - Partie 17.m4a"
+          ],
+          "sizes": [
+            18344657,
+            18006772,
+            18496101,
+            18499016,
+            18382808,
+            18342885,
+            17750994,
+            17747011,
+            17741968,
+            17972848,
+            18561053,
+            18246376,
+            18882891,
+            18546485,
+            17626616,
+            18517357,
+            13926108
+          ]
+        }
+      ],
+      "bytes": 329011758
+    },
+    {
+      "id": "levi-clef",
+      "category": "doctrine",
+      "order": 4,
+      "title": "La Clef des Grands Mystères",
+      "subtitle": "Tome IV — Suivant Hénoch, Abraham, Hermès et Salomon",
+      "author": "Éliphas Lévi",
+      "era": "1861",
+      "lang": "fr",
+      "glyph": "⚹",
+      "tags": [
+        "occultisme",
+        "kabbale",
+        "alchimie"
+      ],
+      "summary": "Le troisième et dernier livre du cours, annoncé dans la Préface de l'Histoire de la Magie. Quatre parties (mystères religieux, philosophiques, naturels, pratiques) suivies d'un vaste Supplément : articles sur la Kabbale, l'Asch Mezareph attribué à Abraham le Juif, sept chapitres d'Hermès, doctrines occultes de l'Inde, et les prières du Grimoire des bergers.",
+      "volumes": [
+        {
+          "label": "Édition PDF",
+          "type": "pdf",
+          "path": "Clef-Grands-Mysteres-Levi-FR.pdf",
+          "bytes": 17472806
+        }
+      ],
+      "bytes": 17472806
+    },
+    {
+      "id": "clavicule-salomon",
+      "category": "grimoires",
+      "order": 1,
+      "title": "La Clavicule de Salomon",
+      "subtitle": "Clavicula Salomonis",
+      "author": "Pseudo-Salomon",
+      "era": "XIVᵉ–XVIIᵉ s.",
+      "lang": "fr",
+      "glyph": "⛧",
+      "tags": [
+        "salomon",
+        "pentacles",
+        "cérémoniel",
+        "audio"
+      ],
+      "summary": "La matrice de toute la magie cérémonielle occidentale : purifications, cercle, pentacles planétaires, consécration des instruments. Tous les grimoires qui suivent en dérivent.",
+      "volumes": [
+        {
+          "label": "Édition PDF",
+          "type": "pdf",
+          "path": "La-Clavicule-de-Salomon-FR.pdf",
+          "bytes": 7989261
+        },
+        {
+          "label": "Livre audio — 6 pistes",
+          "type": "audio",
+          "path": "Clavicule-Salomon-Audio",
+          "tracks": [
+            "Clavicule-Salomon-Audio/01 - Partie 1.m4a",
+            "Clavicule-Salomon-Audio/02 - Partie 2.m4a",
+            "Clavicule-Salomon-Audio/03 - Partie 3.m4a",
+            "Clavicule-Salomon-Audio/04 - Partie 4.m4a",
+            "Clavicule-Salomon-Audio/05 - Partie 5.m4a",
+            "Clavicule-Salomon-Audio/06 - Partie 6.m4a"
+          ],
+          "sizes": [
+            18935494,
+            18759166,
+            18013104,
+            18441211,
+            18845765,
+            13047878
+          ]
+        }
+      ],
+      "bytes": 114031879
+    },
+    {
+      "id": "goetia",
+      "category": "grimoires",
+      "order": 2,
+      "title": "The Goetia",
+      "subtitle": "Lemegeton Clavicula Salomonis Regis — Livre I",
+      "author": "S. L. MacGregor Mathers & Aleister Crowley",
+      "era": "éd. 1904",
+      "lang": "en",
+      "glyph": "⛧",
+      "tags": [
+        "lemegeton",
+        "72 esprits",
+        "sceaux"
+      ],
+      "summary": "La Petite Clef de Salomon : les 72 esprits, leurs sceaux et leurs offices. Édition Mathers de 1904 avec la préface de Crowley.",
+      "volumes": [
+        {
+          "label": "Édition 1904 (EN)",
+          "type": "pdf",
+          "path": "Goetia-Lemegeton-Mathers-Crowley-1904-EN.pdf",
+          "bytes": 1001749
+        }
+      ],
+      "bytes": 1001749
+    },
+    {
+      "id": "abramelin",
+      "category": "grimoires",
+      "order": 3,
+      "title": "Le Livre de la Magie Sacrée d'Abramelin le Mage",
+      "subtitle": "3 livres",
+      "author": "trad. S. L. MacGregor Mathers",
+      "era": "XVᵉ s. — trad. 1898",
+      "lang": "en",
+      "glyph": "⛧",
+      "tags": [
+        "abramelin",
+        "ange gardien",
+        "carrés magiques",
+        "audio"
+      ],
+      "summary": "L'opération des six mois menant à la connaissance et la conversation du Saint Ange Gardien, suivie des carrés de lettres. Le grimoire le plus exigeant du corpus.",
+      "volumes": [
+        {
+          "label": "Livre I — Introduction (EN)",
+          "type": "pdf",
+          "path": "Livre-d-Abramelin-Mathers-EN/Abramelin-1-Introduction-Livre1-EN.pdf",
+          "bytes": 529466
+        },
+        {
+          "label": "Livre II (EN)",
+          "type": "pdf",
+          "path": "Livre-d-Abramelin-Mathers-EN/Abramelin-2-Livre2-EN.pdf",
+          "bytes": 485643
+        },
+        {
+          "label": "Livre III (EN)",
+          "type": "pdf",
+          "path": "Livre-d-Abramelin-Mathers-EN/Abramelin-3-Livre3-EN.pdf",
+          "bytes": 598859
+        },
+        {
+          "label": "Livre audio — 10 pistes (EN)",
+          "type": "audio",
+          "path": "Livre-d-Abramelin-Mathers-EN/Livre-Audio",
+          "tracks": [
+            "Livre-d-Abramelin-Mathers-EN/Livre-Audio/Livre-I/01 - Part 1.m4a",
+            "Livre-d-Abramelin-Mathers-EN/Livre-Audio/Livre-I/02 - Part 2.m4a",
+            "Livre-d-Abramelin-Mathers-EN/Livre-Audio/Livre-I/03 - Part 3.m4a",
+            "Livre-d-Abramelin-Mathers-EN/Livre-Audio/Livre-II/01 - Part 1.m4a",
+            "Livre-d-Abramelin-Mathers-EN/Livre-Audio/Livre-II/02 - Part 2.m4a",
+            "Livre-d-Abramelin-Mathers-EN/Livre-Audio/Livre-II/03 - Part 3.m4a",
+            "Livre-d-Abramelin-Mathers-EN/Livre-Audio/Livre-II/04 - Part 4.m4a",
+            "Livre-d-Abramelin-Mathers-EN/Livre-Audio/Livre-III/01 - Part 1.m4a",
+            "Livre-d-Abramelin-Mathers-EN/Livre-Audio/Livre-III/02 - Part 2.m4a",
+            "Livre-d-Abramelin-Mathers-EN/Livre-Audio/Livre-III/03 - Part 3.m4a"
+          ],
+          "sizes": [
+            18597177,
+            17155346,
+            17383300,
+            17120306,
+            19550941,
+            18017443,
+            9620957,
+            17299665,
+            16030709,
+            13159626
+          ]
+        }
+      ],
+      "bytes": 165549438
+    },
+    {
+      "id": "moise-6-7",
+      "category": "grimoires",
+      "order": 4,
+      "title": "Le Sixième et le Septième Livre de Moïse",
+      "subtitle": "Édition intégrale + livre audio",
+      "author": "Pseudo-Moïse",
+      "era": "XVIIIᵉ–XIXᵉ s.",
+      "lang": "fr",
+      "glyph": "⛧",
+      "tags": [
+        "moïse",
+        "sceaux",
+        "schemhamphoras",
+        "psaumes",
+        "audio"
+      ],
+      "summary": "Sceaux planétaires, Schemhamphoras, magie des Israélites et usage magique des Psaumes. Le grimoire le plus diffusé dans les traditions afro-atlantiques.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Septieme-Livres-de-Moise/Sixieme-et-Septieme-Livres-de-Moise-FR.md",
+          "bytes": 435924
+        },
+        {
+          "label": "Édition PDF",
+          "type": "pdf",
+          "path": "Septieme-Livres-de-Moise/Sixieme-et-Septieme-Livres-de-Moise-FR.pdf",
+          "bytes": 16254352
+        },
+        {
+          "label": "Livre audio — 10 pistes",
+          "type": "audio",
+          "path": "Septieme-Livres-de-Moise/Livre-Moise-Audio",
+          "tracks": [
+            "Septieme-Livres-de-Moise/Livre-Moise-Audio/01 - Introduction.mp3",
+            "Septieme-Livres-de-Moise/Livre-Moise-Audio/02 - Le Sixième Livre de Moïse.mp3",
+            "Septieme-Livres-de-Moise/Livre-Moise-Audio/03 - Le Septième Livre de Moïse.mp3",
+            "Septieme-Livres-de-Moise/Livre-Moise-Audio/04 - La Magie des Israélites (1).mp3",
+            "Septieme-Livres-de-Moise/Livre-Moise-Audio/05 - La Magie des Israélites (2).mp3",
+            "Septieme-Livres-de-Moise/Livre-Moise-Audio/06 - Kabbale magique et Lois magiques de Moïse.mp3",
+            "Septieme-Livres-de-Moise/Livre-Moise-Audio/07 - Appendice - Des esprits et de leurs offices.mp3",
+            "Septieme-Livres-de-Moise/Livre-Moise-Audio/08 - Schemhamphoras et les sept Semiphoras.mp3",
+            "Septieme-Livres-de-Moise/Livre-Moise-Audio/09 - L'Usage des Psaumes (1).mp3",
+            "Septieme-Livres-de-Moise/Livre-Moise-Audio/10 - L'Usage des Psaumes (2).mp3"
+          ],
+          "sizes": [
+            1223280,
+            4858848,
+            3096000,
+            25203024,
+            19103472,
+            11560608,
+            7707312,
+            21147696,
+            22668768,
+            29644416
+          ]
+        }
+      ],
+      "bytes": 162903700
+    },
+    {
+      "id": "honorius",
+      "category": "grimoires",
+      "order": 5,
+      "title": "Le Grimoire du Pape Honorius",
+      "subtitle": "Grimorium Honorii",
+      "author": "attribué à Honorius III",
+      "era": "XVIIᵉ–XVIIIᵉ s.",
+      "lang": "fr",
+      "glyph": "⛧",
+      "tags": [
+        "honorius",
+        "conjurations",
+        "clérical",
+        "audio"
+      ],
+      "summary": "Le plus controversé des grimoires cléricaux : il place les conjurations sous une autorité pontificale supposée, en greffant la messe sur l'évocation. Le fac-similé est un scan ancien ; une transcription texte nettoyée en accompagne la lecture et la mise en voix.",
+      "volumes": [
+        {
+          "label": "Texte nettoyé",
+          "type": "md",
+          "path": "Grimoire-du-Pape-Honorius/Grimoire-Honorius-Texte-Nettoye-FR.md",
+          "bytes": 61342
+        },
+        {
+          "label": "Fac-similé PDF — 140 pages",
+          "type": "pdf",
+          "path": "Grimoire-du-Pape-Honorius/Grimoire-du-Pape-Honorius-FR.pdf",
+          "bytes": 6527968
+        },
+        {
+          "label": "Livre audio — 3 pistes",
+          "type": "audio",
+          "path": "Grimoire-du-Pape-Honorius/Livre-Audio",
+          "tracks": [
+            "Grimoire-du-Pape-Honorius/Livre-Audio/01 - Le Grand Grimoire.m4a",
+            "Grimoire-du-Pape-Honorius/Livre-Audio/02 - Prélude.m4a",
+            "Grimoire-du-Pape-Honorius/Livre-Audio/03 - Second Livre — Sanctum Regnum.m4a"
+          ],
+          "sizes": [
+            119171,
+            10648814,
+            11070148
+          ]
+        }
+      ],
+      "bytes": 28427443
+    },
+    {
+      "id": "enchiridion",
+      "category": "grimoires",
+      "order": 6,
+      "title": "L'Enchiridion du Pape Léon III",
+      "subtitle": "Enchiridion Leonis Papae",
+      "author": "attribué à Léon III",
+      "era": "éd. 1633",
+      "lang": "fr",
+      "glyph": "⛧",
+      "tags": [
+        "enchiridion",
+        "oraisons",
+        "protection",
+        "audio"
+      ],
+      "summary": "Manuel de poche d'oraisons protectrices, psaumes et signes, censé avoir été offert par Léon III à Charlemagne. À la charnière du grimoire et du livre de prières.",
+      "volumes": [
+        {
+          "label": "Édition PDF",
+          "type": "pdf",
+          "path": "Enchiridion-Pape-Leon-FR.pdf",
+          "bytes": 6270499
+        },
+        {
+          "label": "Livre audio — 5 pistes",
+          "type": "audio",
+          "path": "Enchiridion-Audio",
+          "tracks": [
+            "Enchiridion-Audio/01 - Partie 1.m4a",
+            "Enchiridion-Audio/02 - Partie 2.m4a",
+            "Enchiridion-Audio/03 - Partie 3.m4a",
+            "Enchiridion-Audio/04 - Partie 4.m4a",
+            "Enchiridion-Audio/05 - Partie 5.m4a"
+          ],
+          "sizes": [
+            20928604,
+            21655643,
+            21169073,
+            21515927,
+            16771867
+          ]
+        }
+      ],
+      "bytes": 108311613
+    },
+    {
+      "id": "petit-albert",
+      "category": "grimoires",
+      "order": 7,
+      "title": "Le Petit Albert",
+      "subtitle": "Secrets merveilleux de la magie naturelle et cabalistique",
+      "author": "attribué à Albert le Petit",
+      "era": "1706",
+      "lang": "fr",
+      "glyph": "⛧",
+      "tags": [
+        "colportage",
+        "magie naturelle",
+        "recettes",
+        "audio"
+      ],
+      "summary": "Le best-seller de la littérature de colportage : main de gloire, talismans, recettes domestiques et médecine populaire. Magie pratique plus que cérémonielle.",
+      "volumes": [
+        {
+          "label": "Édition PDF",
+          "type": "pdf",
+          "path": "Le-Petit-Albert-FR.pdf",
+          "bytes": 5448957
+        },
+        {
+          "label": "Livre audio — 4 pistes",
+          "type": "audio",
+          "path": "Petit-Albert-Audio",
+          "tracks": [
+            "Petit-Albert-Audio/01 - Partie 1.m4a",
+            "Petit-Albert-Audio/02 - Partie 2.m4a",
+            "Petit-Albert-Audio/03 - Partie 3.m4a",
+            "Petit-Albert-Audio/04 - Partie 4.m4a"
+          ],
+          "sizes": [
+            18854461,
+            18360508,
+            18049858,
+            15517561
+          ]
+        }
+      ],
+      "bytes": 76231345
+    },
+    {
+      "id": "secrets-egyptiens",
+      "category": "grimoires",
+      "order": 8,
+      "title": "Les Secrets Égyptiens d'Albert le Grand",
+      "subtitle": "Admirables secrets",
+      "author": "attribué à Albert le Grand",
+      "era": "XVIIIᵉ s.",
+      "lang": "fr",
+      "glyph": "⛧",
+      "tags": [
+        "colportage",
+        "secrets",
+        "remèdes",
+        "audio"
+      ],
+      "summary": "Le pendant du Petit Albert : remèdes, secrets de la nature et procédés talismaniques attribués au Doctor Universalis, qui n'y est évidemment pour rien.",
+      "volumes": [
+        {
+          "label": "Édition PDF",
+          "type": "pdf",
+          "path": "Secrets-Egyptiens-Albert-le-Grand-FR.pdf",
+          "bytes": 9462206
+        },
+        {
+          "label": "Livre audio — 8 pistes",
+          "type": "audio",
+          "path": "Secrets-Egyptiens-Audio",
+          "tracks": [
+            "Secrets-Egyptiens-Audio/01 - Partie 1.m4a",
+            "Secrets-Egyptiens-Audio/02 - Partie 2.m4a",
+            "Secrets-Egyptiens-Audio/03 - Partie 3.m4a",
+            "Secrets-Egyptiens-Audio/04 - Partie 4.m4a",
+            "Secrets-Egyptiens-Audio/05 - Partie 5.m4a",
+            "Secrets-Egyptiens-Audio/06 - Partie 6.m4a",
+            "Secrets-Egyptiens-Audio/07 - Partie 7.m4a",
+            "Secrets-Egyptiens-Audio/08 - Partie 8.m4a"
+          ],
+          "sizes": [
+            17421107,
+            17845668,
+            16708922,
+            16838131,
+            17271169,
+            17921983,
+            17458421,
+            3491156
+          ]
+        }
+      ],
+      "bytes": 134418763
+    },
+    {
+      "id": "dragon-rouge",
+      "category": "grimoires",
+      "order": 9,
+      "title": "Le Véritable Dragon Rouge",
+      "subtitle": "Le Grand Grimoire",
+      "author": "Anonyme",
+      "era": "éd. 1521 (fictive) — XIXᵉ s.",
+      "lang": "fr",
+      "glyph": "⛧",
+      "tags": [
+        "grand grimoire",
+        "pacte",
+        "lucifuge",
+        "audio"
+      ],
+      "summary": "Le grimoire du pacte et de la baguette foudroyante, avec le dialogue fameux avec Lucifuge Rofocale. Sommet de la littérature magique populaire française.",
+      "volumes": [
+        {
+          "label": "Édition PDF",
+          "type": "pdf",
+          "path": "Le-Veritable-Dragon-Rouge-FR.pdf",
+          "bytes": 2190943
+        },
+        {
+          "label": "Livre audio — 2 pistes",
+          "type": "audio",
+          "path": "Dragon-Rouge-Audio",
+          "tracks": [
+            "Dragon-Rouge-Audio/01 - Partie 1.m4a",
+            "Dragon-Rouge-Audio/02 - Partie 2.m4a"
+          ],
+          "sizes": [
+            20201219,
+            7923126
+          ]
+        }
+      ],
+      "bytes": 30315288
+    },
+    {
+      "id": "long-lost-friend",
+      "category": "grimoires",
+      "order": 10,
+      "title": "Long Lost Friend",
+      "subtitle": "Der lange verborgene Freund",
+      "author": "Johann Georg Hohman",
+      "era": "1820",
+      "lang": "fr",
+      "glyph": "⛧",
+      "tags": [
+        "powwow",
+        "braucherei",
+        "guérison",
+        "audio"
+      ],
+      "summary": "Le manuel du powwow (Braucherei) des Allemands de Pennsylvanie : charmes de guérison, formules contre le feu et le sang, protection du bétail.",
+      "volumes": [
+        {
+          "label": "Édition PDF",
+          "type": "pdf",
+          "path": "Long-Lost-Friend-FR.pdf",
+          "bytes": 3832304
+        },
+        {
+          "label": "Livre audio — 3 pistes",
+          "type": "audio",
+          "path": "Long-Lost-Friend-Audio",
+          "tracks": [
+            "Long-Lost-Friend-Audio/01 - Partie 1.m4a",
+            "Long-Lost-Friend-Audio/02 - Partie 2.m4a",
+            "Long-Lost-Friend-Audio/03 - Partie 3.m4a"
+          ],
+          "sizes": [
+            16552526,
+            16999803,
+            11148592
+          ]
+        }
+      ],
+      "bytes": 48533225
+    },
+    {
+      "id": "grimorium-verum",
+      "category": "grimoires",
+      "order": 11,
+      "title": "Grimorium Verum",
+      "subtitle": "Les véritables clavicules de Salomon",
+      "author": "Attribué à Plaingière (trad.)",
+      "era": "1517 [1817]",
+      "lang": "fr",
+      "glyph": "☠",
+      "tags": [
+        "salomon",
+        "clavicules",
+        "caractères",
+        "conjuration",
+        "1817"
+      ],
+      "summary": "Le grimoire salomonien le plus recopié d'Europe après la Clavicule elle-même : les caractères pour appeler les puissances, leurs secrets naturels et surnaturels, et la Clef de l'œuvre pour s'en servir. Édition « Alibeck l'Égyptien », Memphis, 1517 [1817], texte établi d'après la transcription CC-BY 4.0 de Joseph H. Peterson (Esoteric Archives).",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Grimorium-Verum-FR.md",
+          "bytes": 58321
+        },
+        {
+          "label": "Édition PDF",
+          "type": "pdf",
+          "path": "Grimorium-Verum-FR.pdf",
+          "bytes": 1399572
+        }
+      ],
+      "bytes": 1457893
+    },
+    {
+      "id": "testament-salomon",
+      "category": "grimoires",
+      "order": 12,
+      "title": "Testament de Salomon",
+      "subtitle": "Comment Salomon soumit les démons à la construction du Temple",
+      "author": "Attribué à Salomon, fils de David",
+      "era": "Iᵉʳ-Vᵉ s. — trad. 1898",
+      "lang": "fr",
+      "glyph": "⛧",
+      "tags": [
+        "salomon",
+        "démons",
+        "décans",
+        "zodiaque",
+        "temple",
+        "conybeare"
+      ],
+      "summary": "Le texte fondateur de la magie salomonienne : Salomon, muni d'un anneau donné par l'archange Michel, interroge un à un les démons — nom, signe zodiacal, méfait, ange qui le contrarie — avant de les mettre au travail à la construction du Temple. Comprend les trente-six esprits décans du zodiaque, à l'origine des listes de démons des grimoires salomoniens postérieurs. Traduit du grec par F. C. Conybeare, 1898, d'après le manuscrit de Paris.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Testament-de-Salomon-Conybeare-FR.md",
+          "bytes": 71627
+        },
+        {
+          "label": "Édition PDF",
+          "type": "pdf",
+          "path": "Testament-de-Salomon-Conybeare-FR.pdf",
+          "bytes": 1800588
+        }
+      ],
+      "bytes": 1872215
+    },
+    {
+      "id": "livret-trois-prieres",
+      "category": "pratique",
+      "order": 1,
+      "title": "Les Trois Prières du Jour",
+      "subtitle": "Livret de prière — matin, midi et soir",
+      "author": "Popaul Kabeya",
+      "era": "Livret personnel",
+      "lang": "fr",
+      "glyph": "☩",
+      "tags": [
+        "matin",
+        "midi",
+        "soir",
+        "quotidien",
+        "notre père",
+        "éphésiens 3.20",
+        "décrets",
+        "audio"
+      ],
+      "summary": "Trois offices bâtis sur le même socle : le Notre Père, l'invocation propre à l'heure, le Sceau d'Éphésiens 3.20-21, puis les décrets et la doxologie. Le matin ouvre sur l'identité et l'abondance, midi décharge et bénit, le soir rend grâce et entre dans le silence.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Livret-Trois-Prieres-du-Jour/Livret-Trois-Prieres-du-Jour-FR.md",
+          "bytes": 7551
+        },
+        {
+          "label": "Livret PDF — 4 pages",
+          "type": "pdf",
+          "path": "Livret-Trois-Prieres-du-Jour/Livret-Trois-Prieres-du-Jour-FR.pdf",
+          "bytes": 66209
+        },
+        {
+          "label": "Livre audio — 3 pistes",
+          "type": "audio",
+          "path": "Livret-Trois-Prieres-du-Jour/Livre-Audio",
+          "tracks": [
+            "Livret-Trois-Prieres-du-Jour/Livre-Audio/01 - I · Invocation du Matin — 6 h 00.m4a",
+            "Livret-Trois-Prieres-du-Jour/Livre-Audio/02 - II · Invocation de Midi — 12 h 00.m4a",
+            "Livret-Trois-Prieres-du-Jour/Livre-Audio/03 - III · Invocation du Soir — 21 h 00.m4a"
+          ],
+          "sizes": [
+            935446,
+            804323,
+            740534
+          ]
+        }
+      ],
+      "bytes": 2554063
+    },
+    {
+      "id": "abbe-julio",
+      "category": "pratique",
+      "order": 2,
+      "title": "Le Livre Secret de l'Abbé Julio",
+      "subtitle": "Prières merveilleuses pour la guérison",
+      "author": "Abbé Julio (Ernest Houssay)",
+      "era": "1908",
+      "lang": "fr",
+      "glyph": "☩",
+      "tags": [
+        "guérison",
+        "oraisons",
+        "pantacles",
+        "audio"
+      ],
+      "summary": "La passerelle entre grimoire et livre de prières : oraisons de guérison, exorcismes doux et pantacles chrétiens. Le plus utilisé des recueils de ce type.",
+      "volumes": [
+        {
+          "label": "Édition PDF",
+          "type": "pdf",
+          "path": "Livre-Secret-Abbe-Julio-FR.pdf",
+          "bytes": 26035996
+        },
+        {
+          "label": "Livre audio — 20 pistes",
+          "type": "audio",
+          "path": "Abbe-Julio-Audio",
+          "tracks": [
+            "Abbe-Julio-Audio/01 - Partie 1.m4a",
+            "Abbe-Julio-Audio/02 - Partie 2.m4a",
+            "Abbe-Julio-Audio/03 - Partie 3.m4a",
+            "Abbe-Julio-Audio/04 - Partie 4.m4a",
+            "Abbe-Julio-Audio/05 - Partie 5.m4a",
+            "Abbe-Julio-Audio/06 - Partie 6.m4a",
+            "Abbe-Julio-Audio/07 - Partie 7.m4a",
+            "Abbe-Julio-Audio/08 - Partie 8.m4a",
+            "Abbe-Julio-Audio/09 - Partie 9.m4a",
+            "Abbe-Julio-Audio/10 - Partie 10.m4a",
+            "Abbe-Julio-Audio/11 - Partie 11.m4a",
+            "Abbe-Julio-Audio/12 - Partie 12.m4a",
+            "Abbe-Julio-Audio/13 - Partie 13.m4a",
+            "Abbe-Julio-Audio/14 - Partie 14.m4a",
+            "Abbe-Julio-Audio/15 - Partie 15.m4a",
+            "Abbe-Julio-Audio/16 - Partie 16.m4a",
+            "Abbe-Julio-Audio/17 - Partie 17.m4a",
+            "Abbe-Julio-Audio/18 - Partie 18.m4a",
+            "Abbe-Julio-Audio/19 - Partie 19.m4a",
+            "Abbe-Julio-Audio/20 - Partie 20.m4a"
+          ],
+          "sizes": [
+            19261481,
+            20513942,
+            18444395,
+            18712464,
+            18698960,
+            19615738,
+            19491972,
+            21399215,
+            21018076,
+            20856041,
+            20764025,
+            20922533,
+            20651263,
+            20831732,
+            20036539,
+            20284591,
+            20829514,
+            22541731,
+            23688550,
+            1998916
+          ]
+        }
+      ],
+      "bytes": 416597674
+    },
+    {
+      "id": "office-matin-soir",
+      "category": "pratique",
+      "order": 3,
+      "title": "Office du Matin et du Soir",
+      "subtitle": "Cadre quotidien",
+      "author": "Compilation",
+      "era": "—",
+      "lang": "fr",
+      "glyph": "☩",
+      "tags": [
+        "office",
+        "quotidien",
+        "psaumes",
+        "audio"
+      ],
+      "summary": "La structure de base d'une pratique régulière : deux offices courts qui encadrent la journée. Le point de départ recommandé.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Office-Matin-et-Soir/Office-Matin-et-Soir-FR.md",
+          "bytes": 10977
+        },
+        {
+          "label": "Version PDF",
+          "type": "pdf",
+          "path": "Office-Matin-et-Soir/Office-Matin-et-Soir-FR.pdf",
+          "bytes": 76702
+        },
+        {
+          "label": "Livre audio — 4 pistes",
+          "type": "audio",
+          "path": "Office-Matin-et-Soir/Livre-Audio",
+          "tracks": [
+            "Office-Matin-et-Soir/Livre-Audio/01 - Office du Matin et du Soir.m4a",
+            "Office-Matin-et-Soir/Livre-Audio/02 - 1. Office du matin.m4a",
+            "Office-Matin-et-Soir/Livre-Audio/03 - 2. Office du soir.m4a",
+            "Office-Matin-et-Soir/Livre-Audio/04 - 3. Prière de toute heure.m4a"
+          ],
+          "sizes": [
+            117788,
+            2258139,
+            1267945,
+            288006
+          ]
+        }
+      ],
+      "bytes": 4019557
+    },
+    {
+      "id": "recueil-prieres",
+      "category": "pratique",
+      "order": 4,
+      "title": "Recueil de Prières et Invocations",
+      "subtitle": "Anthologie générale",
+      "author": "Compilation",
+      "era": "—",
+      "lang": "fr",
+      "glyph": "☩",
+      "tags": [
+        "prières",
+        "invocations",
+        "anthologie",
+        "audio"
+      ],
+      "summary": "Recueil général d'oraisons et d'invocations, à piocher selon l'intention et le moment.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Recueil-Prieres-et-Invocations/Recueil-Prieres-et-Invocations-FR.md",
+          "bytes": 507405
+        },
+        {
+          "label": "Version PDF",
+          "type": "pdf",
+          "path": "Recueil-Prieres-et-Invocations/Recueil-Prieres-et-Invocations-FR.pdf",
+          "bytes": 888250
+        },
+        {
+          "label": "Livre audio — 7 pistes",
+          "type": "audio",
+          "path": "Recueil-Prieres-et-Invocations/Livre-Audio",
+          "tracks": [
+            "Recueil-Prieres-et-Invocations/Livre-Audio/01 - 1. Prières de guérison.m4a",
+            "Recueil-Prieres-et-Invocations/Livre-Audio/02 - 2. Prières de protection.m4a",
+            "Recueil-Prieres-et-Invocations/Livre-Audio/03 - 3. Prières pour la maison et les biens.m4a",
+            "Recueil-Prieres-et-Invocations/Livre-Audio/04 - 4. Prières de délivrance et d'exorcisme.m4a",
+            "Recueil-Prieres-et-Invocations/Livre-Audio/05 - 5. Prières de prospérité et de faveur.m4a",
+            "Recueil-Prieres-et-Invocations/Livre-Audio/06 - 6. Invocations angéliques et divines.m4a",
+            "Recueil-Prieres-et-Invocations/Livre-Audio/07 - 7. Bénédictions diverses.m4a"
+          ],
+          "sizes": [
+            27046363,
+            26709830,
+            11930121,
+            11810692,
+            13310658,
+            39162687,
+            27802499
+          ]
+        }
+      ],
+      "bytes": 159168505
+    },
+    {
+      "id": "prieres-faveur",
+      "category": "pratique",
+      "order": 5,
+      "title": "Prières de Faveur et d'Autorité",
+      "subtitle": "Intentions ciblées",
+      "author": "Compilation",
+      "era": "—",
+      "lang": "fr",
+      "glyph": "☩",
+      "tags": [
+        "faveur",
+        "autorité",
+        "intention",
+        "audio"
+      ],
+      "summary": "Oraisons orientées vers la faveur, l'influence et l'autorité, dans la lignée des psaumes d'ascendant.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Prieres-de-Faveur-et-d-Autorite/Prieres-de-Faveur-et-d-Autorite-FR.md",
+          "bytes": 14524
+        },
+        {
+          "label": "Version PDF",
+          "type": "pdf",
+          "path": "Prieres-de-Faveur-et-d-Autorite/Prieres-de-Faveur-et-d-Autorite-FR.pdf",
+          "bytes": 132516
+        },
+        {
+          "label": "Livre audio — 6 pistes",
+          "type": "audio",
+          "path": "Prieres-de-Faveur-et-d-Autorite/Livre-Audio",
+          "tracks": [
+            "Prieres-de-Faveur-et-d-Autorite/Livre-Audio/01 - Prières de Faveur et d'Autorité.m4a",
+            "Prieres-de-Faveur-et-d-Autorite/Livre-Audio/02 - 1. Se gouverner soi-même.m4a",
+            "Prieres-de-Faveur-et-d-Autorite/Livre-Audio/03 - 2. Trouver faveur auprès des hommes.m4a",
+            "Prieres-de-Faveur-et-d-Autorite/Livre-Audio/04 - 3. Devant les juges et les adversaires.m4a",
+            "Prieres-de-Faveur-et-d-Autorite/Livre-Audio/05 - 4. Sur le domaine et les éléments.m4a",
+            "Prieres-de-Faveur-et-d-Autorite/Livre-Audio/06 - 5. Le commandement des esprits.m4a"
+          ],
+          "sizes": [
+            104775,
+            954686,
+            789845,
+            658904,
+            859357,
+            2434296
+          ]
+        }
+      ],
+      "bytes": 5948903
+    },
+    {
+      "id": "priere-deblocage",
+      "category": "pratique",
+      "order": 6,
+      "title": "Prière du Matin — Déblocage Financier",
+      "subtitle": "Séquence matinale",
+      "author": "Compilation",
+      "era": "—",
+      "lang": "fr",
+      "glyph": "☩",
+      "tags": [
+        "matin",
+        "prospérité",
+        "déblocage",
+        "audio"
+      ],
+      "summary": "Séquence courte à réciter au lever, centrée sur le déblocage des situations matérielles et financières.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Priere-du-Matin-Deblocage-Financier/Priere-du-Matin-Deblocage-Financier-FR.md",
+          "bytes": 20358
+        },
+        {
+          "label": "Version PDF",
+          "type": "pdf",
+          "path": "Priere-du-Matin-Deblocage-Financier/Priere-du-Matin-Deblocage-Financier-FR.pdf",
+          "bytes": 93049
+        },
+        {
+          "label": "Livre audio — 7 pistes",
+          "type": "audio",
+          "path": "Priere-du-Matin-Deblocage-Financier/Livre-Audio",
+          "tracks": [
+            "Priere-du-Matin-Deblocage-Financier/Livre-Audio/01 - Prière du Matin pour le Déblocage des Finances.m4a",
+            "Priere-du-Matin-Deblocage-Financier/Livre-Audio/02 - 1. Ouverture — se tenir devant Dieu.m4a",
+            "Priere-du-Matin-Deblocage-Financier/Livre-Audio/03 - 2. La dispersion — que Dieu se lève.m4a",
+            "Priere-du-Matin-Deblocage-Financier/Livre-Audio/04 - 3. Le déblocage — la tempête et le port.m4a",
+            "Priere-du-Matin-Deblocage-Financier/Livre-Audio/05 - 4. La fondation et la borne.m4a",
+            "Priere-du-Matin-Deblocage-Financier/Livre-Audio/06 - 5. Le sceau du jour.m4a",
+            "Priere-du-Matin-Deblocage-Financier/Livre-Audio/07 - 6. Ordre du matin.m4a"
+          ],
+          "sizes": [
+            130171,
+            996170,
+            1276850,
+            1189550,
+            956791,
+            1055666,
+            1564885
+          ]
+        }
+      ],
+      "bytes": 7283490
+    },
+    {
+      "id": "sept-jours-travail",
+      "category": "pratique",
+      "order": 7,
+      "title": "Sept Jours contre les Attaques au Travail",
+      "subtitle": "Office de sept jours",
+      "author": "Compilation",
+      "era": "—",
+      "lang": "fr",
+      "glyph": "☩",
+      "tags": [
+        "travail",
+        "adversaires",
+        "calomnie",
+        "faveur",
+        "élévation",
+        "sept jours",
+        "psaume 91",
+        "psaume 35"
+      ],
+      "summary": "Office de sept jours pour l'homme attaqué dans son métier. Chaque jour porte son psaume, sa prière du matin, son décret à dire à la porte, un verset à porter au long des heures et sa prière du soir. La marche va de la garde (Ps 91) au discernement, au silence des accusateurs (Ps 35), au renversement du conseil qui nuit (Ps 7), à la faveur devant les chefs, à l'élévation (Ps 75, Daniel), et se scelle par l'action de grâce. Prie contre le conseil, la langue et le piège — jamais contre la vie de l'adversaire.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Sept-Jours-Resistance-Professionnelle/Sept-Jours-Resistance-Professionnelle-FR.md",
+          "bytes": 34491
+        },
+        {
+          "label": "Fascicule PDF — 37 pages",
+          "type": "pdf",
+          "path": "Sept-Jours-Resistance-Professionnelle/Sept-Jours-Resistance-Professionnelle-FR.pdf",
+          "bytes": 141763
+        }
+      ],
+      "bytes": 176254
+    },
+    {
+      "id": "sept-nuits-famille",
+      "category": "pratique",
+      "order": 8,
+      "title": "Sept Nuits de Prière pour la Famille",
+      "subtitle": "Programme de minuit",
+      "author": "",
+      "era": "Livret personnel",
+      "lang": "fr",
+      "glyph": "✝",
+      "tags": [
+        "famille",
+        "délivrance",
+        "unité"
+      ],
+      "summary": "Programme de sept nuits à 1h du matin pour une famille dispersée : unité, protection, guérison, déblocage, prospérité, délivrance des esprits de mort, action de grâce. Passages bibliques vérifiés, prières composées, déclarations à dire ensemble, et un programme d'une heure détaillé pour chaque nuit.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Sept-Nuits-de-Priere-Familiale/Sept-Nuits-de-Priere-Familiale-FR.md",
+          "bytes": 15695
+        },
+        {
+          "label": "Édition PDF",
+          "type": "pdf",
+          "path": "Sept-Nuits-de-Priere-Familiale/Sept-Nuits-de-Priere-Familiale-FR.pdf",
+          "bytes": 105858
+        }
+      ],
+      "bytes": 121553
+    },
+    {
+      "id": "koran",
+      "category": "ecritures",
+      "order": 3,
+      "title": "Le Koran",
+      "subtitle": "Traduction de Kazimirski, 1869",
+      "author": "Albin de Kazimirski Biberstein",
+      "era": "1869",
+      "lang": "fr",
+      "glyph": "☾",
+      "tags": [
+        "koran",
+        "islam",
+        "sourates",
+        "kazimirski",
+        "écriture",
+        "1869"
+      ],
+      "summary": "Les cent quatorze sourates dans la traduction française du XIXᵉ siècle qui a fait connaître le Koran au lecteur européen. Donnée intégralement, avec l'introduction du traducteur et ses mille deux cent vingt-huit notes, rassemblées en fin de volume.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Koran-Kazimirski-FR.md",
+          "bytes": 1514708
+        },
+        {
+          "label": "Version PDF — 648 pages",
+          "type": "pdf",
+          "path": "Koran-Kazimirski-FR.pdf",
+          "bytes": 36246426
+        }
+      ],
+      "bytes": 37761134
+    },
+    {
+      "id": "yahweh",
+      "category": "ecritures",
+      "order": 4,
+      "title": "The Book of Yahweh",
+      "subtitle": "La Bible yahviste — fragments du document primitif (EN)",
+      "author": "Clarimond Mansfield (éd.)",
+      "era": "1922",
+      "lang": "en",
+      "glyph": "יהוה",
+      "tags": [
+        "yahviste",
+        "source J",
+        "Genèse",
+        "Exode",
+        "Juges",
+        "Wellhausen",
+        "1922"
+      ],
+      "summary": "Les passages attribués au « Yahviste », le plus ancien narrateur de la Bible hébraïque, extraits de sept livres de l'Ancien Testament et remis bout à bout par Mansfield d'après la théorie documentaire. Édition anglaise de 1922, texte de la King James ; traduction française à venir.",
+      "volumes": [
+        {
+          "label": "Édition 1922 (EN)",
+          "type": "pdf",
+          "path": "Livre-de-Yahweh-Mansfield/Livre-de-Yahweh-Mansfield-1922-EN.pdf",
+          "bytes": 16474688
+        }
+      ],
+      "bytes": 16474688
+    },
+    {
+      "id": "imitation",
+      "category": "pratique",
+      "order": 9,
+      "title": "L'Imitation de Jésus-Christ",
+      "subtitle": "Les quatre livres",
+      "author": "Attribué à Thomas a Kempis",
+      "era": "XVᵉ s.",
+      "lang": "fr",
+      "glyph": "✝",
+      "tags": [
+        "imitation",
+        "kempis",
+        "vie intérieure",
+        "consolation",
+        "dévotion",
+        "chapitres"
+      ],
+      "summary": "Après la Bible, le livre chrétien le plus recopié et le plus lu. Quatre livres, cent dix-sept chapitres, écrits pour être pris un peu chaque jour plutôt que lus d'un trait.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Imitation-Jesus-Christ-FR.md",
+          "bytes": 628147
+        },
+        {
+          "label": "Version PDF — 180 pages",
+          "type": "pdf",
+          "path": "Imitation-Jesus-Christ-FR.pdf",
+          "bytes": 18764195
+        }
+      ],
+      "bytes": 19392342
+    },
+    {
+      "id": "vie-devote",
+      "category": "pratique",
+      "order": 10,
+      "title": "Introduction à la vie dévote",
+      "subtitle": "Saint François de Sales",
+      "author": "François de Sales, trad. Jean Brignon",
+      "era": "1609",
+      "lang": "fr",
+      "glyph": "❦",
+      "tags": [
+        "françois de sales",
+        "dévotion",
+        "laïcs",
+        "oraison",
+        "tentations",
+        "brignon"
+      ],
+      "summary": "François de Sales écrit pour une femme mariée, chargée d'une maison et d'affaires : son propos est que la vie spirituelle ne demande pas de quitter le monde. Cinq parties, de l'oraison aux tentations.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Introduction-Vie-Devote-FR.md",
+          "bytes": 631353
+        },
+        {
+          "label": "Version PDF — 199 pages",
+          "type": "pdf",
+          "path": "Introduction-Vie-Devote-FR.pdf",
+          "bytes": 17180038
+        }
+      ],
+      "bytes": 17811391
+    },
+    {
+      "id": "combat-spirituel",
+      "category": "pratique",
+      "order": 11,
+      "title": "Le Combat spirituel",
+      "subtitle": "Lorenzo Scupoli, trad. Brignon 1703",
+      "author": "Lorenzo Scupoli, trad. Jean Brignon",
+      "era": "1703",
+      "lang": "fr",
+      "glyph": "⚔",
+      "tags": [
+        "scupoli",
+        "brignon",
+        "lutte intérieure",
+        "paix de l'âme",
+        "défiance de soi",
+        "1703"
+      ],
+      "summary": "Trois siècles durant, le livre de chevet de qui voulait mener la lutte intérieure sans quitter le monde — François de Sales le portait sur lui. Soixante-six chapitres, suivis d'un second traité sur la paix de l'âme que les éditions anciennes lui joignent.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Combat-Spirituel-Scupoli-FR.md",
+          "bytes": 348152
+        },
+        {
+          "label": "Version PDF — 151 pages",
+          "type": "pdf",
+          "path": "Combat-Spirituel-Scupoli-FR.pdf",
+          "bytes": 11016278
+        }
+      ],
+      "bytes": 11364430
+    },
+    {
+      "id": "jean-de-la-croix",
+      "category": "pratique",
+      "order": 12,
+      "title": "Les Œuvres spirituelles de Jean de la Croix",
+      "subtitle": "Traduction Maillard, 1834",
+      "author": "Saint Jean de la Croix, trad. Jean Maillard",
+      "era": "XVIᵉ s. — éd. 1834",
+      "lang": "fr",
+      "glyph": "✞",
+      "tags": [
+        "jean de la croix",
+        "nuit obscure",
+        "mont-carmel",
+        "vive flamme",
+        "cantiques",
+        "mystique",
+        "maximes"
+      ],
+      "summary": "Le docteur de la nuit. La Montée du Mont-Carmel, la Nuit obscure de l'âme, la Vive Flamme de l'amour et les Cantiques spirituels, suivis des lettres, précautions, sentences et maximes. Jean de la Croix décrit ce que devient l'âme quand Dieu retire toute consolation sensible — non comme une épreuve à subir, mais comme le chemin de l'union.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Jean-de-la-Croix-Oeuvres-FR.md",
+          "bytes": 1597685
+        },
+        {
+          "label": "Version PDF — 472 pages",
+          "type": "pdf",
+          "path": "Jean-de-la-Croix-Oeuvres-FR.pdf",
+          "bytes": 38514645
+        }
+      ],
+      "bytes": 40112330
+    },
+    {
+      "id": "prieres-invocations",
+      "category": "pratique",
+      "order": 13,
+      "title": "Prières, Invocations et Exercices",
+      "subtitle": "Recueil thématique",
+      "author": "Compilation",
+      "era": "—",
+      "lang": "fr",
+      "glyph": "☩",
+      "tags": [
+        "refuge",
+        "calomnie",
+        "abandon",
+        "sourates de refuge",
+        "oraison universelle",
+        "maximes",
+        "jean de la croix",
+        "françois de sales",
+        "koran",
+        "imitation"
+      ],
+      "summary": "Les prières, invocations et exercices tirés des cinq volumes entrés dans la bibliothèque : le Koran, l'Imitation, le Combat spirituel, la Vie dévote et Jean de la Croix. Classés par usage — se mettre en présence, demander la lumière, chercher refuge contre l'attaque, s'abandonner, tenir la journée.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Prieres-Invocations-Exercices/Prieres-Invocations-Exercices-FR.md",
+          "bytes": 14537
+        },
+        {
+          "label": "Fascicule PDF — 17 pages",
+          "type": "pdf",
+          "path": "Prieres-Invocations-Exercices/Prieres-Invocations-Exercices-FR.pdf",
+          "bytes": 83417
+        }
+      ],
+      "bytes": 97954
+    },
+    {
+      "id": "traite-priere",
+      "category": "pratique",
+      "order": 14,
+      "title": "Traité de la Prière",
+      "subtitle": "Cent cinquante-trois chapitres sur l'oraison",
+      "author": "Attribué à Évagre le Pontique",
+      "era": "IVᵉ s. — trad. 1925",
+      "lang": "fr",
+      "glyph": "✝",
+      "tags": [
+        "oraison",
+        "désert",
+        "prière",
+        "évagre",
+        "1925"
+      ],
+      "summary": "Le traité classique de la prière du désert égyptien, en cent cinquante-trois courts chapitres adressés en forme de lettre à un ami — un pour chaque poisson de la pêche miraculeuse de saint Jean. Traduction de Dom J. Joliet, bénédictin de Solesmes, parue dans La Vie Spirituelle en 1925.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Traite-Priere-Evagre-FR.md",
+          "bytes": 37084
+        },
+        {
+          "label": "Version PDF",
+          "type": "pdf",
+          "path": "Traite-Priere-Evagre-FR.pdf",
+          "bytes": 972430
+        }
+      ],
+      "bytes": 1009514
+    }
+  ],
+  "totalBytes": 3885903525,
+  "generatedAt": "2026-09-03"
+}

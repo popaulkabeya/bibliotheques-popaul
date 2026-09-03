@@ -1,0 +1,31 @@
+/* ═══════════════ Recherche dans les textes ═══════════════ */
+.tresults{margin:0 0 40px}
+.tresults .home-h span{font-family:var(--sans); font-size:11px; color:var(--gold); margin-left:8px}
+.tgroup{margin-bottom:22px}
+.tbook{margin:0 0 8px; font-size:11px; letter-spacing:.16em; text-transform:uppercase; color:var(--cat,var(--gold))}
+.tsnip{
+  display:flex; gap:14px; align-items:flex-start; padding:12px 15px; margin-bottom:7px; cursor:pointer;
+  border:1px solid var(--line); border-left:3px solid var(--cat,var(--gold)); border-radius:10px;
+  background:var(--ink-2); transition:.18s var(--ease);
+}
+.tsnip:hover{transform:translateX(3px); border-color:color-mix(in srgb,var(--cat) 45%,var(--line))}
+.tref{flex-shrink:0; font-size:11px; color:var(--parch-3); min-width:58px; padding-top:3px;
+  font-variant-numeric:tabular-nums}
+.tsnip p{margin:0; font-family:var(--serif); font-size:14px; line-height:1.6; color:var(--parch-2)}
+.tsnip mark{background:rgba(217,164,65,.28); color:var(--parch); border-radius:3px; padding:0 2px}
+.tsnip small{display:block; font-family:var(--sans); font-size:11px; color:var(--parch-3); margin-top:4px}
+
+.tindex{
+  border:1px dashed var(--gold-dim); border-radius:13px; padding:18px 20px; margin-bottom:34px;
+  display:flex; flex-wrap:wrap; gap:14px; align-items:center; background:rgba(217,164,65,.05);
+}
+.tindex p{flex:1; min-width:240px; margin:0; font-size:13px; line-height:1.6; color:var(--parch-2)}
+.tindex .mini-btn{flex:0 0 auto; padding:9px 16px}
+.tprog{width:100%; height:5px; background:rgba(239,230,214,.08); border-radius:5px; overflow:hidden}
+.tprog span{display:block; height:100%; background:var(--gold); transition:width .3s var(--ease)}
+.tprog-txt{width:100%; font-size:11.5px; color:var(--parch-3); margin:0}
+.tnone{color:var(--parch-3); font-style:italic; font-size:13.5px; margin:0 0 30px}
+
+/* passage repéré dans le lecteur */
+.locate-flash{animation:locate 2.6s var(--ease)}
+@keyframes locate{0%,60%{background:rgba(217,164,65,.28); box-shadow:0 0 0 6px rgba(217,164,65,.18)}100%{background:transparent; box-shadow:none}}

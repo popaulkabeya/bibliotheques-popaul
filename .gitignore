@@ -1,0 +1,21 @@
+# Système
+.DS_Store
+*.log
+node_modules/
+
+# Contenu de la bibliothèque : gros fichiers binaires (PDF, EPUB, audio, images de manuscrits).
+# Ce sont TES textes, pas du code — ils n'ont pas besoin d'un historique de diffs, et 3,5 Go
+# dans Git serait ingérable. Le code qui les catalogue et les sert, lui, est suivi.
+*.pdf
+*.epub
+*.mp3
+*.m4a
+*.jpg
+*.jpeg
+*.png
+!app/icons/*.png
+!app/icons/*.jpg
+
+# Scratch
+scratch/
+*.tmp
