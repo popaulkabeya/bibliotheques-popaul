@@ -16430,21 +16430,21 @@ ZENDJEBIL, LXXVI, 17.
 
 # 116. Notes
 
-**1.** Toutes les fois donc que l’on rencontre les mots
+**1.** Toutes les fois donc que l’on rencontre les mots : *Mahomet a dit* ou *le plus véridique des hommes a dit*, il ne s’agit plus d’un passage du Koran, mais des paroles de Mahomet conservées par la tradition.
 
 **2.** *Essai sur l’histoire des Arabes*, I, p. 7.
 
-**3.** Genèse, XXXVII
+**3.** Genèse, XXXVII ; Juges, VI, VIII ; Isaïe, XXI ; Ézéchiel, XXVII.
 
 **4.** Caussin de Perceval, *Essai sur l’histoire des Arabes*, I, p. 236.
 
 **5.** Caussin de Perceval, I, p. 237-240.
 
-**6.** Les lexicographes arabes ne sont pas d’accord sur la signification du mot *koreïch*
+**6.** Les lexicographes arabes ne sont pas d’accord sur la signification du mot *koreïch* ; il y a au moins six explications différentes de ce nom, toutes sont plus ou moins forcées. À en juger par la forme grammaticale, *koreïch* est le diminutif de *karch*, qui signifie une espèce de poisson très-vorace qui dévore d’autres poissons : ce n’a donc été d’abord qu’un sobriquet devenu dans la suite le nom de toute une famille issue de Fihr Koreïch.
 
-**7.** Le nom *Mahomet* s’éloigne un peu de la véritable orthographe arabe. C’est *Mohammad* (le glorifié) qu’on devrait dire
+**7.** Le nom *Mahomet* s’éloigne un peu de la véritable orthographe arabe. C’est *Mohammad* (le glorifié) qu’on devrait dire ; les Turcs prononcent *Méhémet*, quand il est question d’un personnage vivant du nom de Mohammed, c’est au contraire l’usage en français de se servir de la forme *Mohammed*, lorsqu’on parle des Arabes vivants qui portent ce même nom.
 
-**8.** M.
+**8.** M. Caussin de Perceval, qui s’est livré à une discussion très-détaillée sur cette question, fixe la date de naissance de Mahomet au 29 août de 570 de J.-C. Voy. l’*Essai sur l’histoire des Arabes*, I, p. 268-283.
 
 **9.** Cette maladie pouvait être l’épilepsie. En effet, le vulgaire en Orient croit que les épileptiques sont possédés du démon.
 
@@ -16464,7 +16464,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **17.** Voy. chap. XVII, 87.
 
-**18.** Abou-Talib protégeait son neveu à cause des liens du sang, car il était idolâtre, et ne convertit à l’islam qu’à son lit de mort
+**18.** Abou-Talib protégeait son neveu à cause des liens du sang, car il était idolâtre, et ne convertit à l’islam qu’à son lit de mort ; on doute même de cette conversion. Khadidja porte chez les musulmans le surnom de *ommoui-mouminin*, mère des croyants.
 
 **19.** Mahomet, prévenu d’un complot tramé contre sa vie, sortit de chez lui par une porte de derrière, en laissant son neveu Ali dans son lit.
 
@@ -16474,31 +16474,31 @@ ZENDJEBIL, LXXVI, 17.
 
 **22.** Il est à remarquer que les princes musulmans commencent par cette formule de salut les lettres qu’ils adressent aux princes non musulmans.
 
-**23.** Il serait inutile de discuter ici la valeur des arguments que les chiites produisent en faveur d’Ali, gendre de Mahomet, arguments tirés de plusieurs passages du Koran et de la tradition. Tous ces arguments sont donnés fort longuement dans un exposé de la doctrine chiite intitulé «
+**23.** Il serait inutile de discuter ici la valeur des arguments que les chiites produisent en faveur d’Ali, gendre de Mahomet, arguments tirés de plusieurs passages du Koran et de la tradition. Tous ces arguments sont donnés fort longuement dans un exposé de la doctrine chiite intitulé « Hakkoul-yakin » (la vérité certaine), ouvrage persan composé vers 1696 de notre ère, par Mohammed-Bakir, fils de Mohammed-Taki, et imprimé à Ispahan.
 
-**24.** Cette explication du mot *ommi* est donnée dans l’ouvrage persan intitulé «
+**24.** Cette explication du mot *ommi* est donnée dans l’ouvrage persan intitulé « Hakkoul-yakin. »
 
-**25.** Voici quelques-uns des miracles opérés par Mahomet ou des qualités miraculeuses qui lui sont propres
+**25.** Voici quelques-uns des miracles opérés par Mahomet ou des qualités miraculeuses qui lui sont propres : Une fois il a fendu la lune en deux au vu de tout le monde ; sur sa demande Dieu a fait rebrousser chemin au soleil, afin qu’Ali pût s’acquitter de la prière de l’après-midi qu’il avait manquée, parce que le prophète s’était endormi sur ses genoux et qu’Ali ne voulait pas le réveiller ; toutes les fois que le prophète marchait à côté de quelque autre personne, Mahomet, quoique de taille moyenne, paraissait toujours la dépasser de toute la tête ; son visage était toujours resplendissant de lumière, et lorsqu’il tenait ses doigts devant son visage, ils brillaient comme des flambeaux de la lumière empruntée à son visage ; on a souvent entendu les pierres, les arbres et les plantes saluer Mahomet et s’incliner devant lui ; des animaux tels que les gazelles, les loups, les lézards, parlaient à Mahomet, et le chevreau rôti en entier lui adressait aussi la parole ; il avait un pouvoir absolu sur les démons qui le redoutaient et croyaient à son apostolat. Il a rendu la vue à des aveugles, il a guéri des malades et même ressuscité des morts ; il a fait un jour descendre une table toute dressée pour Ali et sa famille, qui avaient faim ; il a prédit que sa postérité issue de Fatima serait la victime des injustices et des persécutions, et que les Ommaïades régneraient mille mois, et c’est ce qui s’est réalisé, etc. Voy. aussi la note du chap. VIII, 1, sur le voyage miraculeux de Mahomet aux cieux.
 
-**26.** Le premier chapitre est appelé *fatihat ol kitâb*, chapitre qui ouvre le livre, ou simplement *el fatiha*
+**26.** Le premier chapitre est appelé *fatihat ol kitâb*, chapitre qui ouvre le livre, ou simplement *el fatiha* ; on l’appelle aussi : *el sourat el ouafiyè*, le chapitre qui complète tous les autres ; *el sourat et kafiyé*, le chapitre suffisant, c’est-à-dire qui tient lieu des autres ; *el sourat el hamd*, ou *el choukr*, ou *el doua*, le chapitre de la louange et des actions de grâces et de la prière ; *el sourat el chafiye*, le chapitre qui guérit ; *el chefa*, le remède ; *aças*, la base ; *sourat el kenz*, chapitre du trésor. On l’appelle encore *sab’ol meçani*, les sept (versets) répétés ; car les musulmans les récitent plus souvent que les autres, et en font une prière à laquelle ils attribuent des vertus merveilleuses. On le nomme enfin *omm’ol Kour’an*, mère du Koran ; *omm’ol kitâb*, mère du livre ; il ne faut pas confondre l’acception que ce dernier nom a ici avec celles des autres passages du Koran que nous ferons remarquer en leur lieu. Voyez entre autres, chap. III, 5, et chapitre XLIII, 3.
 
-**27.** En arabe, *bismillahi’rrahmani’rrahim*. Cette invocation se lit en tête de tous les chapitres du Koran, le chapitre IX seul excepté. Le mot *rahman* est appliqué à Dieu comme embrassant dans sa miséricorde tous les êtres, sans distinction aucune
+**27.** En arabe, *bismillahi’rrahmani’rrahim*. Cette invocation se lit en tête de tous les chapitres du Koran, le chapitre IX seul excepté. Le mot *rahman* est appliqué à Dieu comme embrassant dans sa miséricorde tous les êtres, sans distinction aucune ; *rahim*, au contraire, veut dire miséricordieux, dans un sens plus restreint, envers les bons, les fidèles, ceux qui méritent sa grâce. Bien que la traduction donnée ici ne rende pas la nuance qui existe entre ces deux mots arabes, nous l’avons conservée comme étant généralement adoptée.
 
 **28.** Le mot *alemin* qui se trouve dans le texte a été traduit diversement. La collation de différents passages où se trouve ce mot nous permet de le traduire tantôt par univers, tantôt par tous, tout le monde, les humains.
 
 **29.** Arbitre suprême et absolu au jour du jugement dernier, parce que ce jour-là donnera pour séjour éternel, aux uns le paradis, et aux autres l’enfer.
 
-**30.** Le sentier droit est l’*islâm*
+**30.** Le sentier droit est l’*islâm* : l’islamisme.
 
-**31.** On entend par les mots
+**31.** On entend par les mots : *Ceux que tu as comblés*, etc., les prophètes et les envoyés de Dieu.
 
-**32.** Les commentateurs expliquent les mots
+**32.** Les commentateurs expliquent les mots : *qui ont encouru ta colère*, les juifs, et les mots : *qui s’égarent*, aux chrétiens. En général, Mahomet traite avec beaucoup plus de douceur les chrétiens que les juifs. Voy. ch. V, vers. 85-87. Après le dernier verset de ce chapitre, il faut dire *amin* (amen) ; c’est la *sunna* (usage) fondée par ces paroles de Mahomet : « Gabriel m’a appris à dire amen chaque fois que j’aurais achevé de réciter la Fatiha.
 
 **33.** Ce chapitre a été intitulé *La Vache*, parce que, entre autres choses, il y est question de la vache que Moïse avait ordonnée aux Israélites d’immoler. Voy. le verset 67.
 
 **34.** Un grand nombre de chapitres du Koran portent soit pour titre, soit au premier verset, des lettres isolées dont la signification et la valeur sont inconnues.
 
-**35.** Par *des choses cachées* on entend le paradis et l’enfer, les récompenses et les peines de l’autre monde, la résurrection et tout ce qui en matière de religion échappe à l’évidence des sens. Le mot arabe du texte
+**35.** Par *des choses cachées* on entend le paradis et l’enfer, les récompenses et les peines de l’autre monde, la résurrection et tout ce qui en matière de religion échappe à l’évidence des sens. Le mot arabe du texte : *al-ghaib* se prend souvent dans le sens de *monde invisible* opposé au *chahada*, *monde visible*
 
 **36.** Avant Mahomet, d’autres prophètes avaient reçu la révélation, indépendamment d’un grand nombre de prophètes chargés d’une mission spéciale. C’est surtout à Moïse, à David et à Jésus-Christ, que Mahomet fait ici allusion.
 
@@ -16506,45 +16506,45 @@ ZENDJEBIL, LXXVI, 17.
 
 **38.** Nous traduisons indistinctement par *prophète* ou *envoyé* ou *messager*, le mot arabe *reçoul*, messager. La distinction qu’on établit quelquefois à cet égard est expliquée au chap. XIX, 42, note.
 
-**39.** Littéralement
+**39.** Littéralement : *Ne corrompez pas sur la terre* ; mots par lesquels on entend les crimes tels que les brigandages, les violences, la débauche et l’idolâtrie. Pour faire mieux ressortir le contraste entre cette phrase et celle qui termine le verset, il faudrait traduire cette dernière : *Loin de là, nous corrigeons*.
 
-**40.** Le texte porte
+**40.** Le texte porte : *Quand ils sont à l’écart avec leurs Satans*. Le mot *chéitan*, Satan, ne se dit pas seulement en arabe de Satan, diable (diabolus), mais de tout homme ou de tout être qui convie au mal. Dans ce verset, on doit entendre par les tentateurs les chrétiens et les juifs, hostiles à la mission de Mahomet, et cherchant à en détourner les Arabes idolâtres et les nouveaux convertis.
 
-**41.** Les commentateurs donnent à ces mots le sens de
+**41.** Les commentateurs donnent à ces mots le sens de : *Ils ne se convertiront pas*.
 
-**42.** Lorsqu’un prédicateur, dans la mosquée ou un orateur arabe, harangue le peuple, il se sert, dans son allocution, des mots
+**42.** Lorsqu’un prédicateur, dans la mosquée ou un orateur arabe, harangue le peuple, il se sert, dans son allocution, des mots : Ô hommes ! C’est-à-dire : Ô vous qui m’écoutez. De même, dans le Koran, ces mots ne s’adressent pas à tous les hommes, aux mortels, mais aux Mecquois ou aux Médinois que prêchait Mahomet. C’est le caractère propre à tous les discours tenus par Mahomet et à toutes les institutions et préceptes d’avoir une application actuelle et restreinte aux peuples de l’Arabie, sans embrasser les autres peuples, le genre humain. Les commentateurs font observer cependant que les mots : *Ô hommes !* s’appliquent plus particulièrement aux Mecquois, tandis que les Médinois sont interpellés par les mots : Ô croyants, Ô vous qui croyez. Les habitants de la ville de Mahomet persévéraient dans l’idolâtrie lorsque les Médinois avaient déjà accueilli chez eux le nouveau prophète.
 
-**43.** Les mots
+**43.** Les mots : *min douni-’llahi*, sont traduits ordinairement par : *A l’exclusion de Dieu *. Cependant *min doumi* est une locution adverbiale qui exprime qu’avant de parvenir à tel objet, on en rencontre un autre sur son chemin ; ainsi, dans ce passage, et dans les passages analogues du Koran, elle veut dire que dans le culte idolâtre il y avait, entre les hommes et le Dieu unique, des êtres, des divinités intermédiaires. Mahomet n’accuse pas les Arabes d’adorer des divinités exclusivement et absolument, mais de mêler au culte de Dieu celui d’autres divinités. De même les païens de l’antiquité classique consentaient volontiers à placer le Dieu des chrétiens parmi les divinités de l’Olympe, mais non pas à sacrifier entièrement leur polythéisme. C’est ce qui résulte de beaucoup de passages du Koran, où les idolâtres sont réputés reconnaître l’action du Dieu suprême.
 
 **44.** Les pierres, c’est-à-dire, les statues en pierre des fausses divinités.
 
-**45.** C’est-à-dire
+**45.** C’est-à-dire : Dans l’autre monde, sur la terre.
 
 **46.** C’est-à-dire que ces fruits seront d’un goût bien plus exquis que ceux de la terre, quoique semblables en apparence à ces derniers, et ce, pour causer aux bienheureux une surprise agréable.
 
 **47.** Les Arabes faisaient un reproche à Mahomet de mêler aux enseignements graves et sérieux des paraboles tirées de choses viles, comme des insectes, de parler de l’abeille, de l’araignée et de la fourmi. Mahomet répond ici à ce reproche.
 
-**48.** Le mot du texte *el khaçiram* veut dire proprement ceux qui perdent à quel- que marché, à quelque spéculation
+**48.** Le mot du texte *el khaçiram* veut dire proprement ceux qui perdent à quel- que marché, à quelque spéculation ; déçus, frustrés dans leurs calculs
 
-**49.** Le ciel formait d’abord un tout
+**49.** Le ciel formait d’abord un tout ; Dieu l’a partagé en sept cieux posés les uns au-dessus des autres, comme les pellicules de l’oignon.
 
-**50.** On peut aussi traduite
+**50.** On peut aussi traduite : *du nombre des infidèles*, car en arabe le mot *kafir* signifie proprement celui qui enduit et recouvre la surface d’un objet avec quelque chose pour faire disparaître une écriture, etc. ; de là l’ingrat et l’infidèle, l’homme qui efface de son souvenir les bienfaits de Dieu.
 
-**51.** Dans le verset précédent, c’est Mahomet qui raconte lui-même ou répète les paroles de l’ange Gabriel
+**51.** Dans le verset précédent, c’est Mahomet qui raconte lui-même ou répète les paroles de l’ange Gabriel ; Dans celui-ci, c’est Dieu qui est censé parler lui-même. Ce changement subit de narrateur se reproduit à chaque instant dans le Koran, non seulement dans les différents versets, mais dans la même période. Le lecteur jugera par la du désordre que ces changements de personnes jettent dans les phrases ; le traducteur a cru devoir respecter à cet égard la contexture de l’original.
 
 **52.** C’est-à-dire hommes et démons.
 
-**53.** Le mot arabe *aiè* signifie *signe*, mais surtout un signe d’avertissement du ciel, et par conséquent *miracle*, *prodige*
+**53.** Le mot arabe *aiè* signifie *signe*, mais surtout un signe d’avertissement du ciel, et par conséquent *miracle*, *prodige* ; Mais il signifie en outre *verset du Koran*, chaque verset étant la parole de Dieu, et regardé comme un *miracle* et un *avertissement*. Pour nous rapprocher autant que possible du texte arabe, nous avons conservé partout l’expression de signe ; Et c’est à cause de cela qu’on trouvera dans cette traduction les mots : *réciter* ou *relire les signes de Dieu*, c’est-à-dire, les versets du Coran révélés à Mahomet.
 
 **54.** Mahomet reproche aux juifs, et souvent aux chrétiens, d’altérer le sens des Écritures pour ôter ou éluder les passages dans lesquels la venue de Mahomet a dû être prédite selon lui.
 
-**55.** Les commentateurs ajoutent
+**55.** Les commentateurs ajoutent : · de la prière musulmane, de l’aumône musulmane, et c’est pour éviter toute équivoque, qu’il est dit : *Courbez-vous*, etc., car les génuflexions (rak’at) sont particulières aux musulmans.
 
-**56.** Le Livre, pris absolument, veut dire
+**56.** Le Livre, pris absolument, veut dire : tout livre révélé, les Écritures : le Pentateuque en parlant aux juifs ; l’Évangile, en parlant aux chrétiens ; il s’applique aussi au Koran. Nous ferons observer. à ce sujet, que dans ses prédications, Mahomet distingue les idolâtres et les ignorants de ceux qui ont, à quelque époque que ce soit, reçu des livres sacrés ; ces derniers sont appelés famille du Livre, gens des Écritures.
 
-**57.** Cette phrase se retrouve textuellement toutes les fois qu’il s’agit des persécutions que les Israélites éprouvaient en Égypte
+**57.** Cette phrase se retrouve textuellement toutes les fois qu’il s’agit des persécutions que les Israélites éprouvaient en Égypte ; on dirait que Mahomet chercha à la mettre en relief. Si l’on se rappelle que les Arabes idolâtres regardaient comme une calamité la naissance d’une fille, il faudra convenir qu’on ne pouvait jeter plus de défaveur sur un prince idolâtre et impie (dont Pharaon est le type), qu’en insistant sur cette espèce de préférence donnée aux filles sur les garçons.
 
-**58.** La distinction
+**58.** La distinction : *el-forkan*, s’applique ici au Pentateuque comme, dans d’autres passages, au Koran. Ce mot désigne tout livre de révélation divine en tant qu’il distingue le licite de l’illicite. On peut dire que, dans chaque livre divin, la partie qui traite des usages, des aliments, etc., s’appelle *el-forkan* (distinction), de même que la partie dogmatique *el-houda* (direction).
 
 **59.** D’après les commentateurs, il doit être question ici de soixante-dix hommes d’entre les Israélites, qui, non contents d’entendre Moïse s’entretenir avec Dieu, désiraient le voir de leurs propres yeux. Ils ont été d’abord tués par la foudre et ressuscités ensuite à la prière de Moïse.
 
@@ -16552,15 +16552,15 @@ ZENDJEBIL, LXXVI, 17.
 
 **61.** Ce passage, ainsi que le verset 59, chap. XXVI, où les Israélites sont censés retourner en Égypte, est un de ces anachronisme dont le Koran fourmille, et qui établissent parfaitement l’extrême ignorance du prophète arabe.
 
-**62.** On a voulu conclure des paroles de ce verset que les hommes de toute religion, pourvu qu’elle renferme ces trois choses, l’unité de Dieu, la vie future et la pratique des bonnes œuvres, peuvent être sauvés d’après le Koran. Quelques commentateurs embarrassés de cette latitude de sens, ont soutenu que Mahomet entendait par là que tout homme qui devient croyant (musulman) et qui pratique la vertu sera sauvé, n’importe la religion à laquelle il aura appartenu. Cette interprétation est vicieuse d’abord quant à la lettre, parce que les mots
+**62.** On a voulu conclure des paroles de ce verset que les hommes de toute religion, pourvu qu’elle renferme ces trois choses, l’unité de Dieu, la vie future et la pratique des bonnes œuvres, peuvent être sauvés d’après le Koran. Quelques commentateurs embarrassés de cette latitude de sens, ont soutenu que Mahomet entendait par là que tout homme qui devient croyant (musulman) et qui pratique la vertu sera sauvé, n’importe la religion à laquelle il aura appartenu. Cette interprétation est vicieuse d’abord quant à la lettre, parce que les mots : *ceux qui croient* sont suivis de la conjonction *et* ; il y a donc disjonction entre les croyants (musulmans) et les juifs, chrétiens et sabéens ; elle est vicieuse quant au sens, parce qu’il était superflu, surtout au commencement de la mission, de dire que la religion dans laquelle on était n’empêchait point le salut. Quel que soit du reste, le véritable sens du verset qui nous occupe, le sentiment général des docteurs musulmans est qu’il a été abrogé par le chap. III, verset 79 et par d’autres passages du Koran où la croyance en Dieu en la vie future et en la mission de Mahomet, est regardée comme indispensable pour le salut. L’importance de ce passage nous a forcé de le traduire aussi littéralement que possible. Nous ferons observer en passant que les sabéens, dont il est question dans ce verset, étaient une secte chrétienne, et nullement les sabéens adorateurs des astres, par conséquent polythéistes, et comme tels, exclus virtuellement de toute indulgence supposée dans ce verset ; au lieu de sabéens, il vaudrait mieux dire sabéites. Comp. V, 73.
 
-**63.** Cette phrase n’est évidemment qu’une métaphore, qui ne choquerait dans aucune langue européenne
+**63.** Cette phrase n’est évidemment qu’une métaphore, qui ne choquerait dans aucune langue européenne ; cependant les commentateur prennent ces mots à la lettre, et disent que les Israélites se refusant obstinément à recevoir la loi, Dieu, pour les effrayer, arracha le mont Sinaï de ses racines, et le tint suspendu sur leurs têtes.
 
 **64.** Ceci doit se rapporter à la transgression du sabbat, commise par les Juifs de la ville Aïla, sur les bords de la mer Rouge, sous le règne de David. Une quantité infinie de poissons, disent les commentateurs, s’approchaient du rivage, et y restaient toute la journée du sabbat, comme pour tenter les habitants. Ceux-ci ne pouvant résister à la tentation, prenaient le poisson, malgré les avertissements des hommes pieux, rigides observateurs du sabbat. David, ajoute-t-on, maudit les transgresseurs et les fit métamorphoser en singes.
 
 **65.** Les Juifs demandaient à Moïse de découvrir un meurtrier (voyez plus bas, verset 67). Comme moyen d’y parvenir, Moïse ordonna d’immoler une vache ce qui en apparence n’avait aucun rapport avec le meurtre.
 
-**66.** Moïse avait établi le sacrifice de la vache et l’emploi de ses cendres comme expiation et purification d’un homme qui aurait touché un cadavre. Voy. *les Nombres*, Chap
+**66.** Moïse avait établi le sacrifice de la vache et l’emploi de ses cendres comme expiation et purification d’un homme qui aurait touché un cadavre. Voy. *les Nombres*, Chap ; iX. L’auteur du Koran, puisant on ne sait à quelles sources, refait l’histoire de cette disposition de Moïse à sa manière. Voici, d’après tes commentateurs du Koran, le récit qui sert de base aux versets 63-69 : Un homme pieux parmi les Israélites avait une génisse et un enfant mâle ; il conduisit sa génisse dans le désert et l’abandonna à la sauvegarde de Dieu jusqu’à l’époque où son fils deviendrait majeur. Peu de temps après, l’homme pieux mourut, laissant son fils avec sa mère. La mère du jeune homme, se trouvant quelques années après dans la gêne, l’envoya à la recherche de la vache, unique bien qui leur restât. La vache, jusqu’alors sauvage et ne se laissant saisir par personne, suivit sans résistance le jeune homme. Celui-ci, conformément au désir de sa mère, conduisit la vache au marché pour la vendre et en retirer quelque argent. Un inconnu, c’était l’ange de Dieu, offrit d’abord six, puis douze dinars au jeune homme, à condition de ne point consulter la mère sur la valeur du marché. Le jeune homme cependant raconta la chose à sa mère, qui, de son côté, croyant voir dans l’insistance de l’inconnu une intervention du ciel, recommanda à son fils de retourner au marché, et de consulter l’inconnu, qui ne manquerait pas de se présenter de nouveau, sur le meilleur emploi à faire de la vache. Alors l’ange révéla au jeune homme qu’il devait garder sa vache, car avant peu un événement qui arriverait chez les Juifs lui fournirait l’occasion de la vendre pour la quantité d’or que pourrait contenir sa peau. En effet, quelque temps après, un riche Israélite, nommé Hamiel, fut tué par un de ses parents qui convoitait sa femme ou ses richesses. L’auteur du crime était inconnu, et des hommes innocents furent inquiétés par des accusations injustes. Pour lever le doute et tirer les Juifs de la perplexité où ils étaient, Dieu ordonna à Moïse de chercher une vache ayant tous les signes indiqués par la révélation, de l’égorger, et de frapper le cadavre de Hamiel avec l’un de ses membres. Le cadavre frappé ainsi se leva, révéla le nom de son meurtrier, et mourut une seconde fois. Pour obtenir la vache en question, les Juifs durent, quoique à contre-cœur, donner au jeune homme la somme qu’il demandait.
 
 **67.** Mahomet reproche ici aux juifs d’altérer les copies des Écritures dans le but d’en retrancher tous les passages où la mission du prophète arabe a été prédite
 
@@ -16570,51 +16570,51 @@ ZENDJEBIL, LXXVI, 17.
 
 **70.** Par l’esprit de la sainteté, le Saint-Esprit, Mahomet entend toujours l’ange Gabriel qui, selon lui, accompagnait constamment Jésus, fils de Marie, de même que plus tard il apportait la révélation à Mahomet.
 
-**71.** Il est presque superflu de faire observer que cette expression usitée dans la Bible signifie
+**71.** Il est presque superflu de faire observer que cette expression usitée dans la Bible signifie : Nos cœurs sont endurcis, insensibles à la raison.
 
 **72.** Ceci s’adresse aux juifs, qui regardaient l’ange Gabriel comme leur ennemi parce que c’était par son ministère que Dieu leur annonçait toutes les calamités et exécutait ses arrêts.
 
 **73.** Les démons, disent les commentateurs, avaient enfoui sous le trône de Salomon des livres de magie, et répandirent après sa mort le bruit qu’on n’avait qu’à chercher sous le trône les livres contenant la science par laquelle Salomon s’était soumis les hommes, les génies et les vents. Voyez sur Salomon, chap. XXVII, XXXIV et XXXVIII.
 
-**74.** L’histoire de ces deux anges paraît être empruntée aux traditions talmudiques. Voici ce qu’en disent les commentateurs
+**74.** L’histoire de ces deux anges paraît être empruntée aux traditions talmudiques. Voici ce qu’en disent les commentateurs : Les anges déploraient en présence de Dieu la méchanceté des hommes, malgré l’envoi réitéré des prophètes. Dieu leur ordonna de choisir deux d’entre eux pour juger les hommes. Harout et Marout furent ces deux juges, et ils s’acquittèrent scrupuleusement de leur charge, jusqu’au moment où une femme d’une rare beauté (on l’appelle Zohra, mot que l’on traduit communément par Vénus) leur apparut, invoquant leur autorité contre son mari. Les deux anges, épris de ses charmes, voulurent la séduire ; mais elle disparut en un clin d’œil, et les anges, revenant au ciel, se virent l’entrée défendue. Grâce à l’intervention d’un bienheureux, Dieu leur donna le choix entre les peines de ce monde et celles de l’enfer, qu’ils savaient être éternelles. Ils choisirent donc les tourments de ce monde ; c’est ainsi qu’ils restent à Babylone, suspendus entre le ciel et la terre. Tel est le résumé le plus accrédité des commentateurs sur ce passage, bien qu’il serve peu à l’expliquer. D’autres docteurs pensent que Harout et Marout n’étaient que des magiciens enseignant la magie aux hommes. Des commentateurs ajoutent que c’étaient deux hommes qu’on appelait anges à cause de leur extérieur séduisant.
 
-**75.** Mahomet veut substituer, dans la salutation, le mot *ondhor* à celui de *raï*, que les Juifs employaient à dessein comme ayant les mêmes lettres radicales que le verbe *roua*, expression de mauvaise augure qui veut dire
+**75.** Mahomet veut substituer, dans la salutation, le mot *ondhor* à celui de *raï*, que les Juifs employaient à dessein comme ayant les mêmes lettres radicales que le verbe *roua*, expression de mauvaise augure qui veut dire : être malheureux
 
 **76.** Voyez sur les abrogations dans le Koran la notice sur Mahomet, placée en tête de cette traduction.
 
 **77.** De leur faire voir Dieu.
 
-**78.** Mot à mot jusqu’à ce que Dieu vienne avec son ordre ou avec son affaire, car le mot *amr*, qui signifie *ordre*, *arrêt*, *commandement*, s’emploie tout aussi souvent dans le sens de *chose*, *affaire*, *événement*
+**78.** Mot à mot jusqu’à ce que Dieu vienne avec son ordre ou avec son affaire, car le mot *amr*, qui signifie *ordre*, *arrêt*, *commandement*, s’emploie tout aussi souvent dans le sens de *chose*, *affaire*, *événement* ; la chose ou l’affaire de Dieu, c’est quelque événement marquant, un fait providentiel qui change la face des choses. C’est l’acception la plus fréquente de ce mot dans le Koran, bien que dans certains passages ces deux sens se confondent, puisque tout commandement n’a lieu que d’après un ordre de Dieu.
 
-**79.** Le texte porte
+**79.** Le texte porte : celui qui se fera *mouslim* (musulman). Ce mot veut dire : résigné à la volonté de Dieu, qui s’est livré entièrement à Dieu. Nous feront observer, en passant, que les mahométans établissent une distinction entre *mouslim*, musulman, et *moumin*, croyant. Le premier se rapporte au culte extérieur, aux pratiques religieuses établies par Mahomet ; le dernier implique la foi vive et sincère. Pour citer un exemple, les Persans (les Chiites), dans leur haine contre les Turcs (Sunnites), veulent bien reconnaître qu’ils sont *mouslimin * (musulmans), mais ils ne sauraient leur accorder le nom de *mouminin* (vrais croyants).
 
-**80.** Par ces mots
+**80.** Par ces mots : *ceux qui ne connaissent, ceux qui ne savent rien*, Mahomet entend les Arabes idolâtres, comme n’ayant jusqu’alors reçu aucune révélation, aucun livre sacré, par opposition aux juifs et aux chrétiens, qui possédaient les écritures.
 
 **81.** Ce verset se trouve abrogé par le verset 130 du même chapitre. Le temple de la Ka’ba, à la Mecque, a été définitivement désigné comme le point vers lequel les musulmans doivent se tourner en priant.
 
-**82.** Toutes les fois que Mahomet cite ces paroles
+**82.** Toutes les fois que Mahomet cite ces paroles : Dieu a un fils, des enfants, des filles, etc., qui expriment selon lui la croyance des chrétiens et des Arabes idolâtres, il s’empresse d’ajouter *sobhanahou*, par sa gloire, c’est-à-dire loin de sa gloire ce blasphème.
 
 **83.** C’est-à-dire, après la révélation du Koran.
 
 **84.** C’est-à-dire le chef spirituel, chargé de diriger les hommes dans l’accomplissement des œuvres de dévotion, de présider aux prières, etc.
 
-**85.** C’est le temple de la Ka’ba (à la Mecque) dont la fondation est attribuée, à Abraham, aidé par son fils Ismaël. Ce temple a subi de nombreux changements
+**85.** C’est le temple de la Ka’ba (à la Mecque) dont la fondation est attribuée, à Abraham, aidé par son fils Ismaël. Ce temple a subi de nombreux changements : mais on montre encore aujourd’hui l’endroit où Abraham se tenait en travaillant à la construction de la charpente du temple ; cet endroit est appelé la *place* ou *station d’Abraham*. Au nombre, des cérémonie religieuses pratiquées pendant le pèlerinage de la Mecque, était celle faire sept fois le tour de la Ka’ba : cette pratique s’était conservée parmi les arabes idolâtres. Mahomet l’a conservée comme une cérémonie religieuse datant de l’époque de l’établissement du culte unitaire par Abraham.
 
-**86.** Par les mots
+**86.** Par les mots : *vaquer à la prière* il faut entendre ici un acte déterminé de dévotion qui consiste à se tenir assis ou à genoux dans une mosquée pendant des heures ou même des journées entières. Cela s’appelle *itikaf*.
 
-**87.** Voy. ci-dessus la note du verset 109. Mahomet, en mettant dans la bouche d’Abraham le mot *mouslim* (musulman), qui littéralement veut dire livré à Dieu, résigné à la volonté de Dieu, veut rattacher sa religion au culte primitif, au culte d’Abraham. C’est en même temps la religion naturelle de l’homme, selon lui. La tradition attribue à Mahomet ces paroles
+**87.** Voy. ci-dessus la note du verset 109. Mahomet, en mettant dans la bouche d’Abraham le mot *mouslim* (musulman), qui littéralement veut dire livré à Dieu, résigné à la volonté de Dieu, veut rattacher sa religion au culte primitif, au culte d’Abraham. C’est en même temps la religion naturelle de l’homme, selon lui. La tradition attribue à Mahomet ces paroles : « Tout homme naît musulman ; ce sont ses parents qui le rendent juif, chrétien ou mage (adorateur du feu). »
 
 **88.** Mot à mot, qui leur lise tes signes. Le mot *signe* étant applicable aux versets d’un livre divin, on peut lui adjoindre le mot *lire*.
 
 **89.** C’est-à-dire, le code sacré.
 
-**90.** Par baptême, les commentateurs entendent la religion que Dieu établit pour les hommes en les créant, et dont les marques subsistent dans l’homme, de même que les traces de l’eau sur les vêtements du baptisé. Cette interprétation est loin d’être satisfaisante. Mahomet n’a-t-il pas plutôt employé ce mot en vue des chrétiens, pour dire que c’est sa religion qui était une vraie renaissance qu’ils devaient adopter
+**90.** Par baptême, les commentateurs entendent la religion que Dieu établit pour les hommes en les créant, et dont les marques subsistent dans l’homme, de même que les traces de l’eau sur les vêtements du baptisé. Cette interprétation est loin d’être satisfaisante. Mahomet n’a-t-il pas plutôt employé ce mot en vue des chrétiens, pour dire que c’est sa religion qui était une vraie renaissance qu’ils devaient adopter ? Nous ferons observer, en passant, que le mot dont se sert ici Mahomet, *sebgha*, signifie littéralement la même chose que baptême, proprement : immersion ; mais que les chrétiens se servent aujourd’hui du mot *ta’mid* (confirmation).
 
 **91.** Dans ce verset Mahomet fait allusion aux non musulmans qui, en voyant les musulmans se tourner tantôt d’un côté du ciel, tantôt de l’autre en faisant la prière, ne pouvaient pas s’expliquer ce changement.
 
 **92.** Selon les commentateurs, cela veut dire que les Arabes ne donnent dans aucun excès, et que chez eux les vices des autres peuples sont mitigés par une modération innée. Cette explication est loin d’être satisfaisante.
 
-**93.** C’est-à-dire
+**93.** C’est-à-dire : ceux qui, avant l’établissement définitif de la Kebla de la Mecque, se tournaient, en priant, du côté de Jérusalem, ne seront pas pour cela frustrés de leur récompense au ciel.
 
 **94.** L’oratoire sacré est la traduction littérale de *mesdjid el-haram*, c’est l’enceinte du temple de la Ka’ba, à la Mecque.
 
@@ -16624,19 +16624,19 @@ ZENDJEBIL, LXXVI, 17.
 
 **97.** Ou *ne soyez pas ingrats*, car le mot traduit généralement par *infidèle* signifie *ingrat*, proprement *qui efface le souvenir des bienfaits reçus.*
 
-**98.** C’est l’expression consacrée pour dire
+**98.** C’est l’expression consacrée pour dire : *Pour la cause de Dieu*.
 
-**99.** Les mahométans se conforment scrupuleusement à cette recommandation. Toutes les fois qu’un grand malheur leur arrive, ils s’écrient avec calme et résignation
+**99.** Les mahométans se conforment scrupuleusement à cette recommandation. Toutes les fois qu’un grand malheur leur arrive, ils s’écrient avec calme et résignation : « Nous sommes à Dieu, et nous retournerons à lui. » C’est ainsi que les juifs ont coutume de s’écrier avec Job, quand ils éprouvent quelques pertes « Dieu l’a donné, Dieu l’a ôté, que le nom de Dieu soit loué. »
 
 **100.** *Safa et Merwa*, collines sur le territoire de la Mecque. Comme les Arabes idolâtres y pratiquaient certaines cérémonies de leur culte, les musulmans hésitaient à y aller. Mahomet lève leurs scrupules en disant que ces collines sont des monuments de Dieu. Le mot que nous traduisons par monuments s’applique ordinairement dans le Koran, à tout lieu ou signe soit naturel soit artificiel qui est l’objet de certain rites.
 
-**101.** Mot à mot
+**101.** Mot à mot : Ceux qui ont été suivis.
 
-**102.** Mot à mot
+**102.** Mot à mot : Nous en *serions libres, nous romprions avec eux comme*, etc.
 
 **103.** Voyez, sur la valeur de cette allocution, la note du v. 19.
 
-**104.** Le Koran, en général, est très-bref dans ses dispositions législatives tant civiles que pénales. La *Sonna* ou la tradition a dû y suppléer de bonne heure. C’est ainsi qu’en développant le sens de ce verset, on applique la loi du talion à l’homme meurtrier d’une femme. Dans l’application de la peine, on a encore égard à la religion du coupable
+**104.** Le Koran, en général, est très-bref dans ses dispositions législatives tant civiles que pénales. La *Sonna* ou la tradition a dû y suppléer de bonne heure. C’est ainsi qu’en développant le sens de ce verset, on applique la loi du talion à l’homme meurtrier d’une femme. Dans l’application de la peine, on a encore égard à la religion du coupable : un esclave croyant n’est pas puni de mort pour le meurtre d’un homme libre, mais infidèle.
 
 **105.** Par frère, il faut entendre ici un autre homme, un Arabe, surtout un croyant.
 
@@ -16646,21 +16646,21 @@ ZENDJEBIL, LXXVI, 17.
 
 **108.** Cela veut dire que la crainte des représailles contient les hommes et les éloigne du meurtre.
 
-**109.** Le texte porte
+**109.** Le texte porte : *Son crime retombe sur ceux qui les dénaturent*, c’est-à-dire qu’on ne saurait faire un reproche au testateur des dispositions défavorables, qu’on lui attribut, mais bien à celui qui les à altérées en les rapportant.
 
-**110.** Selon les commentateurs, cette expression signifie
+**110.** Selon les commentateurs, cette expression signifie : *vous vous rendez des services mutuels* ; ou bien : *vous cachez un secrets les uns des autres* ; ou bien : en vous embrassant vous êtes comme un vêtement l’un pour l’autre.
 
-**111.** Mot à mot
+**111.** Mot à mot : Que vous agissez en traîtres envers vous-mêmes, c’est-à-dire que voue finissez toujours par éluder les préceptes.
 
-**112.** Limites de Dieu, c’est-à-dire limites, barrières que Dieu a posées autour de sa loi
+**112.** Limites de Dieu, c’est-à-dire limites, barrières que Dieu a posées autour de sa loi : de là le mot limite, en arabe *hadd*, pluriel *hodoud*, se prend pour prescription de la loi ; cette expression rappelle celle de *sepes legis*, appliquée aux lois de Moïse.
 
 **113.** Ou versets du Koran.
 
 **114.** Ceci s’applique aux jeux de hasard, aux gageures, aux cadeaux à l’aide desquels on corrompt les juges.
 
-**115.** Lorsque les Arabes revenaient du pèlerinage de la Mecque, ils se croyaient sanctifiés
+**115.** Lorsque les Arabes revenaient du pèlerinage de la Mecque, ils se croyaient sanctifiés ; et, regardant comme profane la porte par laquelle ils entraient d’habitude dans leurs maisons, ils en faisaient ouvrir une du côté opposé. Mahomet condamne cet usage.
 
-**116.** Combattre dans la voie, dans le sentier de Dieu, est une expression consacrée pour dire
+**116.** Combattre dans la voie, dans le sentier de Dieu, est une expression consacrée pour dire : Faire la guerre sainte pour la cause de Dieu, Les commandements renfermés dans les versets 186-190 sont des dispositions de circonstance ; elles s’appliquent aux idolâtres de la Mecque, ainsi que les mots *oratoire sacré*, *tentation de l’idolâtrie*, le font voir. À cette époque, Mahomet n’était pas encore maître de la Mecque, et sa position lui prescrivait de se tenir sur la défensive : la guerre d’agression y est donc condamnée formellement. Il ne faut pas cependant conclure que ces commandements sont capables d’enchaîner la foi, la fidélité des musulmans. Les mots : *tuez-les partout où vous les trouverez et chassez-les d’où ils vous auront chassés*, ainsi que ces autres : jusqu’à ce que tout culte soit celui du Dieu unique, laissent une telle latitude, qu’il n’est pas étonnant que l’islamisme se soit toujours cru libre de tout engagement envers les peuples d’une autre religion, lorsque ses forces ou les circonstances favorables lui ont permis de ressaisir les pays échappés à sa domination.
 
 **117.** C’est-à-dire que, si vous êtes attaqués dans un des mois sacrés ou dans les enceintes sacrées, il vous est permis d’user de représailles dans ces mêmes mois et ces mêmes lieux.
 
@@ -16668,13 +16668,13 @@ ZENDJEBIL, LXXVI, 17.
 
 **119.** Ce sont les mois *chawwal*, dhoul-kadeh* et *dhoul-hidjdjeh**
 
-**120.** Selon les commentateurs, ces mots d’un sens si général veulent dire
+**120.** Selon les commentateurs, ces mots d’un sens si général veulent dire : Il vous est permis de demander l’accroissement de votre avoir par le commerce même pendant que vous venez en pèlerins à la Mecque. Les Arabes idolâtres qui faisaient aussi le pèlerinage de la Mecque, exerçaient le trafic dans les marchés voisins d’Okadh, de Medjionna, etc. Depuis la venue de Mahomet, les musulmans s’abstenaient du commerce pendant le pèlerinage, craignant que ce ne fût un péché. Mahomet le leur permit pour ne pas priver beaucoup d’entre eux du seul moyen de livre qu’ils eussent.
 
 **121.** C’est le nom d’une montagne où Mahomet s’étant retiré un jour pour prier, son visage devint tout rayonnant.
 
-**122.** Les mots du texte sont
+**122.** Les mots du texte sont : *Souvenez-vous de Dieu* ; ces mots peuvent se prendre tantôt dans un sens très-général et tantôt dans le sens de : Rappelez let nom de Dieu, priez Dieu, faites des actes de dévotion ; c’est le contexte qui sert à préciser le sens
 
-**123.** Le personnage auquel il est fait allusion ici s’appelait Ath
+**123.** Le personnage auquel il est fait allusion ici s’appelait Ath ?? s ben Choraïk.
 
 **124.** C’est un nommé Sohaib qui, persécuté par les idolâtres, se sauva pour aller rejoindre Mahomet, laissant tout son avoir entre les mains des infidèles.
 
@@ -16684,23 +16684,23 @@ ZENDJEBIL, LXXVI, 17.
 
 **127.** C’est-à-dire éviter de combattre pour la cause de Dieu
 
-**128.** Le mot tentation signifie aussi désordre, anarchie, et ce dernier sens peut être fort bien ici à sa place
+**128.** Le mot tentation signifie aussi désordre, anarchie, et ce dernier sens peut être fort bien ici à sa place ; mais en adoptant avec les commentateurs le sens de *tentation*, il faut ajouter de *l’idolâtrie*.
 
 **129.** Ou versets du Koran.
 
-**130.** Mot à mot
+**130.** Mot à mot : celui qui corrompt d’avec celui qui améliore.
 
-**131.** Voici comment les commentateurs entendent ce passage
+**131.** Voici comment les commentateurs entendent ce passage : « Venite ad agrum vestrum quomodocunque volueritis, id est stando, sedendo, jacendo à parte anteriori seu posteriori. Judaei enim dicebant : Qui coierit cum uxore sua in vase quidem anteriori, sed à parte postica, procreabit filium sagaciorem ingeniosiorem. »*Traduction : « Allez dans votre champ comme vous le voulez, c’est-à-dire debout, assis, couché face à face ou par derrière. Les juifs disent cependant : celui qui a copulé avec son épouse non par devant mais par derrière engendrera un fils très habile et très ingénieux. »*
 
 **132.** Par ces mots, Mahomet recommande aux croyants de faire quelque acte de dévotion ou de charité avant de voir leurs femmes.
 
-**133.** Prendre Dieu pour point de mire, veut dire l’invoquer et se servir de son nom. Les commentateurs cependant pensent qu’il faut lire
+**133.** Prendre Dieu pour point de mire, veut dire l’invoquer et se servir de son nom. Les commentateurs cependant pensent qu’il faut lire : quand vous jurerez de n’être point justes, vertueux, etc. ; car, disent-ils, les Arabes idolâtres avaient coutume de jurer qu’ils ne feront pas telle bonne action. Mahomet a, du reste, recommandé de rétracter son serment toutes les fois qu’on croit faire mieux en ne le tenant pas.
 
-**134.** Mot à mot
+**134.** Mot à mot : *ont un degré au-dessus*, c’est-à-dire leur sont supérieurs. Voy. IV, 38.
 
 **135.** Sans entraîner d’autre conséquence que de reprendre simplement sa femme.
 
-**136.** C’est-à-dire
+**136.** C’est-à-dire : si vous avez une aversion prononcée pour votre femme, il vaut mieux se séparer d’elle qu’offenser Dieu par les mauvais traitements et l’injustice.
 
 **137.** Au sujet de l’expression *limites de Dieu*, voyez ci-dessus, verset 153, note 2.
 
@@ -16708,7 +16708,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **139.** Pendant ces quatre mois et dix jours.
 
-**140.** Mot à mot
+**140.** Mot à mot :* Que vous n’aurez pas touchée *.
 
 **141.** On ne sait pas ce que c’était que la prière du milieu. Quelques commentateurs croient que c’est la prière de l’après midi.
 
@@ -16716,13 +16716,13 @@ ZENDJEBIL, LXXVI, 17.
 
 **143.** L’arche contenait, suivant les docteurs musulmans, les souliers et la baguette de Moïse, la mitre d’Aaron, un vase plein de manne, et les débris des deux tables de la loi.
 
-**144.** C’est le livre des Psaumes. Il faut remarquer que Mahomet ne reconnaît que quatre livres divins
+**144.** C’est le livre des Psaumes. Il faut remarquer que Mahomet ne reconnaît que quatre livres divins : ce sont le Pentateuque, les Psaumes, l’Évangile et le Koran ; les autres livres envoyés aux prophètes ont été, selon lui, perdus.
 
 **145.** Par l’esprit de la sainteté, Mahomet entend l’ange Gabriel.
 
-**146.** Le trône, *korsi*, qui est au-dessus du ciel et de la terre, est le trône de justice, le tribunal de Dieu
+**146.** Le trône, *korsi*, qui est au-dessus du ciel et de la terre, est le trône de justice, le tribunal de Dieu ; celui qui est désigné par le nom d’*arch*, est le trône de la majesté divine, et bien au-dessus des cieux.
 
-**147.** Tout ce verset est récité comme prière
+**147.** Tout ce verset est récité comme prière ; on le porte même au bras en guise d’amulette. On l’appelle verset du trône.
 
 **148.** Ce passage s’adressait à ceux des musulmans qui voulaient forcer leurs enfants demeurés idolâtres, à embrasser l’islam.
 
@@ -16754,7 +16754,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **162.** Le mot *ahl*, que l’on traduit ordinairement par *famille*, se prend dans le sens plus général de *peuple*, de *partisans* de…, *gens de*…
 
-**163.** Il s’agit du combat de Bedr, premier engagement qu’eut Mahomet avec les idolâtres, en l’année II de l’hégire, c’est-à-dire depuis sa fuite de la Mecque. Les forces de Mahomet montaient à trois cent quatre-vingt-dix hommes
+**163.** Il s’agit du combat de Bedr, premier engagement qu’eut Mahomet avec les idolâtres, en l’année II de l’hégire, c’est-à-dire depuis sa fuite de la Mecque. Les forces de Mahomet montaient à trois cent quatre-vingt-dix hommes ; celles des idolâtres à un mille environ. Le premier combat fut entièrement à l’avantage du prophète. Le miracle dont il est parlé dans ce verset consiste en ce que Mahomet prit une poignée de poussière, et la lança aux yeux de ses ennemis, qui furent mis en déroute ; et en ce que les musulmans parurent aux idolâtres deux fois plus nombreux qu’eux parce que Dieu avait envoyé mille, et puis trois mille anges, conduits par l’ange Gabriel monté sur son cheval *Hiaxoun*.
 
 **164.** C’est-à-dire, chevaux d’élite, ceux que l’on garde avec soin et que l’on marque de son chiffre.
 
@@ -16762,23 +16762,23 @@ ZENDJEBIL, LXXVI, 17.
 
 **166.** C’est-à-dire que la science ou la révélation a fait surgir des disputes entre eux.
 
-**167.** Par les ignorants, Mahomet entend les Arabes idolâtres. Le mot arabe n’est pas cependant ici celui dont le Koran se sert habituellement en parlant des idolâtres
+**167.** Par les ignorants, Mahomet entend les Arabes idolâtres. Le mot arabe n’est pas cependant ici celui dont le Koran se sert habituellement en parlant des idolâtres ; c’est le mot *ommiin*, les gens du peuple. Or *ommi* (illettré) s’applique sans défaveur à Mahomet lui-même.
 
-**168.** On a dit plus haut que cette expression est identique avec celle d’être, de se faire musulman
+**168.** On a dit plus haut que cette expression est identique avec celle d’être, de se faire musulman ; nous la traduirons tantôt par s’abandonner, tantôt par se livrer, tantôt par se résigner à la volonté de Dieu.
 
 **169.** Voyez chapitre II, verset 74 et note.
 
-**170.** La famille d’Imran peut entendre selon les commentateurs soit de la famille de Moïse et d’Aaron, fils d’Imran, de la tribu de Lévi
+**170.** La famille d’Imran peut entendre selon les commentateurs soit de la famille de Moïse et d’Aaron, fils d’Imran, de la tribu de Lévi ; soit de la famille de Jésus fils de Marie, fille d’Imran, fils de Nathan, fils d’Éléazar, etc… issu de la tribu de Juda. La femme d’Imran est Hanna (Anne)
 
-**171.** Mot à mot
+**171.** Mot à mot : *écrit pour toi*, comme en vertu d’un engagement par écrit, dans le sens de : libre de toute préoccupation mondaine et appartenant exclusivement à Dieu.
 
 **172.** C’est-à-dire que le garçon pouvait s’acquitter des cérémonies religieuses comme prêtre.
 
 **173.** C’est l’épithète donnée constamment à *Satan*, parce que, dit la tradition, Abraham assaillit un jour à coups de pierres le diable qui voulait le tenter.
 
-**174.** Le texte est trop vague pour qu’on puisse préciser à qui se rapporte le pronom lui
+**174.** Le texte est trop vague pour qu’on puisse préciser à qui se rapporte le pronom lui ; il est plus simple de le rapporter à la mère de Marie.
 
-**175.** Zacharie, en se retirant, avait soin de fermer toutes les sept portes du temple
+**175.** Zacharie, en se retirant, avait soin de fermer toutes les sept portes du temple ; il n’en trouvait pas moins, à chaque visite, des fruits d’été en hiver, et de fruits d’hiver en été, disent les commentateurs.
 
 **176.** Le mot dont se sert ici le Koran est *séiid*, seigneur, prince, cid, sidi.
 
@@ -16786,7 +16786,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **178.** Les prêtres se disputaient à qui aurait soin de Marie. On finit par s’en remettre à la décision du sort. Tous donc, et ils étaient vingt-cinq, jetèrent des roseaux couverts d’inscriptions tirées de la loi dans les eaux du Jourdain. Le roseau de Zacharie ayant surnagé seul, ce fut à lui qu’échut le soin de Marie.
 
-**179.** Le texte porte ici
+**179.** Le texte porte ici : *inni motewaffika*. Ce mot s’emploie dans le sens de *faire subir la mort*, en parlant de Dieu qui appelle et reçoit auprès de lui les hommes à l’expiration du terme de leur vie. Les commentateurs, embarrassés de ce passage, qui est en contradiction avec l’opinion que Jésus-Christ n’est pas mort, mais que Dieu mit à sa place un autre individu, pensent que ce mot, quoique placé le premier dans le texte, doit, quant au sens, suivre les autres dans cet ordre : *Je t’élèverai à moi, et à la fin je te ferai mourir tout comme les autres hommes*. Quelques commentateurs croient que Jésus était réellement mort avant son *assomption* pendant trois heures seulement, mais non point crucifié par les Juifs. On peut cependant expliquer ce passage des deux manières suivantes. Le mot *motewaffi* veut dire littéralement, en parlant de Dieu, celui qui reçoit *chez soi*, sous-entendu *à l’expiration du terme de la vie*, par conséquent, appliqué aux hommes en général, *qui fait mourir* ; mais il n’impliqua pas rigoureusement et littéralement l’idée de la mort. La seconde manière d’interpréter ce passage est celle-ci : En supposant que le mot *motewaffi* ne puisse jamais être employé qu’avec l’idée de faire mourir, le mot n’étant pas au futur, mais au participe (ainsi que nous l’avons traduit pour être plus près du texte), Mahomet aurait eu soin d’établir ici que Jésus-Christ est homme, qu’il n’est pas immortel, que sa vie est au pouvoir de Dieu, et alors il lui importait peu si les mots se suivaient dans l’ordre des temps ou non.
 
 **180.** Ce passage fait allusion à la dispute que les chrétiens du Nedjran (pays de l’Arabie), ayant à leur tête leur évêque Abou-Hareth, avaient engagée avec Mahomet au sujet de la Passion de Jésus-Christ. On se donna rendez-vous le lendemain. Mahomet amena sa fille Fatima, son gendre Ali avec leurs deux fils, Hassan et Houssein. Les commentateurs disent que lorsque les chrétiens, arrivés à l’endroit convenu, virent Mahomet agenouillé prier Dieu avec ferveur, ils perdirent contenance, renoncèrent à la dispute qui pouvait entraîner leur défaite, et se retirèrent, en s’engageant à devenir tributaires de Mahomet. Le passage en question, connu sous le nom de *mobaheleh* d’une grande importance chez tous les musulmans, l’est encore plus particulièrement chez les chiites (partisans d’Ali), parce que Mahomet, ayant amené Fatima, Ali, Hassan et Houssein, emploie les mots *nos âmes et les vôtres* (que nous avons traduits par nous et vous), ce qui sert à établir l’intime union, *l’inséparabilité* de Mahomet et de sa famille.
 
@@ -16810,9 +16810,9 @@ ZENDJEBIL, LXXVI, 17.
 
 **190.** *Témoins* est employé ici dans le sens de martyrs.
 
-**191.** Beaucoup de musulmans, voyant la victoire de Bedr, regrettaient de n’avoir pas été du nombre des combattants
+**191.** Beaucoup de musulmans, voyant la victoire de Bedr, regrettaient de n’avoir pas été du nombre des combattants ; ils furent découragés à la vue des forces supérieures des idolâtres au combat d’Ohod ; et c’est cette lâcheté que Mahomet leur reproche ici.
 
-**192.** C’est-à-dire, apostasieriez-vous
+**192.** C’est-à-dire, apostasieriez-vous ? On avait répandu le bruit de la mort de Mahomet au combat d’Ohod. Les idolâtres engageaient les musulmans à revenir à leur culte, puisque le prophète était tué.
 
 **193.** Le livre évident, le livre éternel des arrêts de Dieu, ou la destinée de chaque être est fixée d’avance.
 
@@ -16822,61 +16822,61 @@ ZENDJEBIL, LXXVI, 17.
 
 **196.** C’est-à-dire, des pensées elles qu’elles germent naturellement chez les idolâtres.
 
-**197.** Après le combat de Bedr, ou, comme d’autres pensent, à celui d’Ohod, une partie des musulmans craignaient que Mahomet, s’emparant de la meilleure portion du butin, n’en laissât que très peu à ses soldats
+**197.** Après le combat de Bedr, ou, comme d’autres pensent, à celui d’Ohod, une partie des musulmans craignaient que Mahomet, s’emparant de la meilleure portion du butin, n’en laissât que très peu à ses soldats ; on tenait, là-dessus des propos malveillants. Mahomet répond à ces accusations. Selon la tradition, tout homme qui aura trompé dans ce monde son prochain, paraîtra au jour de la résurrection, portant sur ses épaules les objets qu’il aura obtenus par fraude, et sera couvert de honte.
 
 **198.** Quelques hommes défiaient Mahomet de distinguer les vrais croyants des hypocrites.
 
 **199.** Mahomet reproche ici à quelques Arabes le peu d’empressement à payer les Contributions. Les avares, avait-il déclaré, porteront au jour du jugement un serpent en guise de collier.
 
-**200.** Mahomet avait engagé, par une lettre, les juifs de Kaïnoka à embrasser l’islam
+**200.** Mahomet avait engagé, par une lettre, les juifs de Kaïnoka à embrasser l’islam ; entre autres il s’était servi de cette expression métaphorique : Faites à Dieu un prêt généreux. Les juifs, toujours portés à tourner en ridicule les paroles du prophète arabe, s’écriaient : « Dieu est donc bien pauvre, puisqu’il faut lui faire un prêt. » C’est à cette occasion que fut révélé le verset 177.
 
-**201.** C’est aux juifs que s’adresse ce verset
+**201.** C’est aux juifs que s’adresse ce verset : Ils croyaient, disent les commentateurs, que la preuve la plus évidente de la mission prophétique, c’était d’amener du ciel le feu qui consume les sacrifices. Jésus-Christ et Mahomet seraient les seuls qui n’eussent pas fait le miracle en question. Quant aux prophètes qui l’auraient fait, et dont parle le verset 180, on ne sait sur quel fondement les commentateurs citent Zacharie et saint Jean-Baptiste.
 
 **202.** Par le livre qui éclaire, Mahomet entend l’Évangile.
 
-**203.** Mot à mot
+**203.** Mot à mot : *toute âme goûtera la mort*.
 
-**204.** Ces derniers mots sont susceptibles d’un autre sens
+**204.** Ces derniers mots sont susceptibles d’un autre sens ; on peut les traduire ainsi : Ceci, une telle conduite, est de la fermeté nécessaire dans les choses *de ce monde*.
 
 **205.** Par ta gloire, *sobhanaka*. Cette expression suit ordinairement les opinions erronées ou un blasphème proféré contre Dieu. Voy. chap. II, verset 110 note.
 
 **206.** Mot à mot, leurs mouvements en tous sens, leurs allées et venues. Voy. XL, 4.
 
-**207.** Cette expression qui n’est qu’une métaphore, est ridiculement interprétée par les commentateurs. Dieu réglera le compte des hommes, disent-ils
+**207.** Cette expression qui n’est qu’une métaphore, est ridiculement interprétée par les commentateurs. Dieu réglera le compte des hommes, disent-ils ; car dans la moitié d’une journée il aura jugé tout le genre humain.
 
-**208.** Car les Arabes avaient coutume de dire, en demandant quelque chose
+**208.** Car les Arabes avaient coutume de dire, en demandant quelque chose : « Au nom de Dieu, faites ou dites-moi quelque chose. »
 
-**209.** Il y a dans le texte
+**209.** Il y a dans le texte : Ce *que vos mains droites ont acquis *, expression consacrée pour désigner une esclave achetée à prix d’argent, ou une captive prise à la guerre.
 
 **210.** Il est nécessaire de faire observer ici (et cette observation s’appliquera à tous les passages analogues du Koran) que le mot *sadouka* traduit ordinairement par dot, est l’argent on les objets de prix que l’homme donne aux parents de la femme qu’il épouse. Ce n’est donc pas la femme qui apporte quelque chose à son mari, mais le mari qui apporte une dot.
 
 **211.** Le mot *ineptes* s’applique ici aux orphelins mineurs capables de faire un mauvais usage de leur héritage et de le gaspiller par la légèreté propre au (jeune age)
 
-**212.** Cette phrase elliptique signifie
+**212.** Cette phrase elliptique signifie : En vous occupant des enfants laissés par d’autres, ayez toujours présent à votre pensée le sort de vos propres enfants, et agissez comme vous voudriez qu’on agît à l’égard des vôtres.
 
 **213.** Proprement, les limites que Dieu a établies
 
-**214.** Il s’agit de la fornication aussi bien que de l’adultère
+**214.** Il s’agit de la fornication aussi bien que de l’adultère ; car le mot *femmes* (*niça*) n’a pas ici rigoureusement le sens à épouse ; le mot particulièrement appliqué à l’adultère est *zina*. Dans les commencements de l’islamisme, on murait la femme coupable, peine qui ne résulte cependant pas du texte du Koran. On y a substitué plus tard, pour une personne libre (non mariée), le fouet et le bannissement. Quant à l’adultère, la tradition, qui prescrit la lapidation, a renchéri sur les dispositions du Koran contenues dans le chapitre XXIV.
 
-**215.** On croit qu’il s’agit, dans ce passage, du crime de sodomie
+**215.** On croit qu’il s’agit, dans ce passage, du crime de sodomie ; et les mots faites-leur du mal sont interprétés par les commentateurs par ; réprimandez-les publiquement, ou souffletez-les avec leurs pantoufles.
 
 **216.** C’est-à-dire, si vous répudiez une femme pour en épouser une autre, n’ôtez pas à la femme que vous répudiez les cent dinars de dot qu’elle a reçus de vous.
 
-**217.** Mot à mot
+**217.** Mot à mot : vos mères qui vous ont allaités. Et le commentateur dit à cette occasion : Dieu a assimilé l’allaitement à la parenté au point d’appeler la nourrice mère.
 
 **218.** On ne devait pas toucher à ce qui était un fait accompli, et donner à la loi une force rétroactive.
 
-**219.** Le mot arabe *mohsâna* signifie proprement *femmes gardées* c’est-à-dire celles qui sont sous l’autorité d’un mari et sont très-réservées dans leurs manières
+**219.** Le mot arabe *mohsâna* signifie proprement *femmes gardées* c’est-à-dire celles qui sont sous l’autorité d’un mari et sont très-réservées dans leurs manières ; femmes de bonne maison, de condition libre.
 
 **220.** C’est-à-dire, contentez-vous de la profession de foi de celles que vous épousez, sans écouter leurs consciences.
 
 **221.** Voy. chap. V, 7.
 
-**222.** Ce passage prouve que la peine de l’adultère n’était point la mort
+**222.** Ce passage prouve que la peine de l’adultère n’était point la mort ; autrement il ne serait pas question de la moitié de la peine.
 
-**223.** C’est-à-dire, ne vous enlevez pas les uns aux autres ce que chacun possède, par les jeux de hasard, par l’usure et autres gains illicites
+**223.** C’est-à-dire, ne vous enlevez pas les uns aux autres ce que chacun possède, par les jeux de hasard, par l’usure et autres gains illicites ; mais vous pouvez avoir le bien d’autrui légitimement, c’est-à-dire par le trafic, par le commerce.
 
-**224.** Le sens de ce passage est incertain, et le vague résulte de l’emploi différent que peut avoir le mot *nafs* (personne, individu, âme, soi-même), en sorte qu’on peut tout aussi bien traduire ne tuez pas vous-mêmes, vos personnes, les uns les autres, ne vous entretuez pas, ou bien ne vous tuez pas vous-mêmes, ne commettez pas le suicide. Les commentateurs ne savent pas eux-mêmes dans quel sens il faut prendre ces mots
+**224.** Le sens de ce passage est incertain, et le vague résulte de l’emploi différent que peut avoir le mot *nafs* (personne, individu, âme, soi-même), en sorte qu’on peut tout aussi bien traduire ne tuez pas vous-mêmes, vos personnes, les uns les autres, ne vous entretuez pas, ou bien ne vous tuez pas vous-mêmes, ne commettez pas le suicide. Les commentateurs ne savent pas eux-mêmes dans quel sens il faut prendre ces mots ; cela peut signifier, disent-ils, ne vous jetez pas vous-même dans la mort comme les Hindous idolâtres, ou bien ne vous tuez pas entre vous, musulmans, car vous ne faites qu’un seul, et pour ainsi dire une seule âme (*nafs*). On rencontre, il est vrai, souvent en arabe l’expression *la taktol nafsak*, ne tue pas ton âme, c’est-à-dire, ne te tue pas (à force de te livrer à la douleur, etc.) ; mais le mot *nafs*, mis au pluriel, jette du vague ; il en serait de même en français, si on se contentait de dire : « Ne vous tuez pas. » Le commencement du verset est dirigé contre la convoitise et l’enlèvement illicite du bien d’autrui, et le législateur a pu ajouter en passant la défense du meurtre. D’un autre côté, les mots à la fin du verset : « Dieu est miséricordieux envers vous », sembleraient indiquer qu’il s’agit de la défense du suicide.Voy. IV, 69, où l’on se sert de cette expression.
 
 **225.** C’est-à-dire, leurs personnes et l’avoir de leurs maris.
 
@@ -16890,9 +16890,9 @@ ZENDJEBIL, LXXVI, 17.
 
 **230.** Voy. chap. II, 61.
 
-**231.** C’est la traduction littérale du texte. On explique ce passage de deux manières
+**231.** C’est la traduction littérale du texte. On explique ce passage de deux manières : les réprouvés auront le cou tordu, en sorte que ce qui était devant sera derrière ; ou bien, les traits, la bouche, le nez, seront effacés et rendus plats et unis comme l’est le derrière de la tête.
 
-**232.** Mot à mot
+**232.** Mot à mot : il pardonnera ce qui est en deçà, c’est-à-dire le péché d’idolâtrie est le plus grand des péchés capitaux.
 
 **233.** Le mot que nous traduisons par brin, signifie proprement le brin de crasse roulé que l’on enlève sur la main ou entre les doigts, ou le brin dans le creux du noyau de datte.
 
@@ -16904,9 +16904,9 @@ ZENDJEBIL, LXXVI, 17.
 
 **237.** Ce passage doit se rapporter à une décision de Mahomet prononcée dans un procès entre un juif et un musulman. Ce dernier, se croyant lésé, refusa de s’y soumettre, et voulut porter le différend devant un autre tribunal. Omar, plus tard calife, lui trancha la tête, et termina ainsi le débat.
 
-**238.** Mot à mot
+**238.** Mot à mot : retirez vos mains, c’est-à-dire ne touchez à aucun travail.
 
-**239.** C’est-à-dire, pourquoi ne prolonges-tu pas la trêve qui nous permet de vivre
+**239.** C’est-à-dire, pourquoi ne prolonges-tu pas la trêve qui nous permet de vivre ?
 
 **240.** C’est ainsi que les juifs attribuaient la cherté des vivres à Mahomet, lorsqu’il alla à Médine, ce qui s’explique fort naturellement par l’affluence des gens qui étaient à sa suite.
 
@@ -16914,7 +16914,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **242.** Ceci se rapporte à ceux qui demandèrent à Mahomet d’être congédiés avant d’arriver à Médine, et qui continuèrent à cheminer de journée en journée jusqu’à ce qu’ils rencontrèrent des idolâtres. Les musulmans étaient partagés d’avis et ne savaient pas, si ces hommes devaient être regardés comme des hypocrites et des infidèles, ou comme des fidèles que le hasard avait jetés au milieu des infidèles.
 
-**243.** Il arrivait souvent que les mahométans rencontraient dans leurs courses des hommes qu’ils ne connaissaient pas et les tuaient. Les agresseurs, pour se disculper, disaient que c’étaient des infidèles
+**243.** Il arrivait souvent que les mahométans rencontraient dans leurs courses des hommes qu’ils ne connaissaient pas et les tuaient. Les agresseurs, pour se disculper, disaient que c’étaient des infidèles ; en réalité, c’était pour les dépouiller, qu’ils les traitaient d’infidèles.
 
 **244.** Ce verset s’applique à ces Arabes qui, après avoir embrassé l’islam à la Mecque, n’émigrèrent pas lorsqu’il fallait émigrer pour rompre avec les idolâtres, et qui conservèrent des relations avec eux. Les anges dont il est parlé ici sont les deux anges qui examinent les morts dans leurs tombeaux.
 
@@ -16924,15 +16924,15 @@ ZENDJEBIL, LXXVI, 17.
 
 **247.** Les Arabes adoraient *Lat*, *Ozza* et *Menat*, qu’ils croyaient être filles de Dieu.
 
-**248.** Mahomet s’élève ici contre certaines coutumes des Arabes idolâtres. Les commentateurs pensent que par les mots
+**248.** Mahomet s’élève ici contre certaines coutumes des Arabes idolâtres. Les commentateurs pensent que par les mots : *je leur ordonnerai de changer, d’altérer la création de Dieu*, Mahomet a voulu condamner la castration des esclaves, les marques imprimées sur leurs visages et leurs corps, la coutume d’affiler les dents, et le crime contre nature, tant parmi les hommes que parmi les femmes.
 
-**249.** Le sens du texte est ici très-douteux, à cause de la particule *an* qui, surtout dans le Koran, s’emploie pour l’affirmative comme pour la négative. On peut donc traduire
+**249.** Le sens du texte est ici très-douteux, à cause de la particule *an* qui, surtout dans le Koran, s’emploie pour l’affirmative comme pour la négative. On peut donc traduire : *à qui vous ne donnez pas…* et *que vous refusez d’épouser*, ou bien : à qui vous ne donnez pas… et que vous voulez épouser.
 
 **250.** Aux enfants sans protection ou en bas âge.
 
 **251.** C’est-à-dire la femme peut abandonner à son mari la dot entière, ou une portion, pour se le concilier.
 
-**252.** L’homme qui a plus d’une femme ne doit pas se laisser tellement entraîner par son amour pour l’une qu’il néglige tout à fait l’autre. À ce sujet, Mahomet dit
+**252.** L’homme qui a plus d’une femme ne doit pas se laisser tellement entraîner par son amour pour l’une qu’il néglige tout à fait l’autre. À ce sujet, Mahomet dit : « Celui qui a deux femmes et penche entièrement pour l’une d’elles, paraîtra au jour de la résurrection avec des fesses inégales. »
 
 **253.** C’est-à-dire, il fera trouver au mari une femme qui lui plaira mieux, et à la femme un autre mari qui remplacera la perte de celui qui l’a répudiée.
 
@@ -16942,7 +16942,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **256.** Ceci se rapporte à quelques juifs versés dans les Écritures et amis de Mahomet, quoique n’ayant point embrassé sa nouvelle religion.
 
-**257.** Cela veut dire
+**257.** Cela veut dire : Vous, juifs, ne refusez pas de croire à la mission de Jésus, et vous, chrétiens, ne le regardez pas comme Dieu ; renfermez-vous dans le vrai.
 
 **258.** Le titre de cette sourate lui vient du miracle opéré par Jésus-Christ, qui, à la prière des Apôtres, fait descendre du ciel une table couverte de mets. Versets 112 et suiv. On rappelle encore *’okoud*, engagements, mot qui se trouve au verset 1
 
@@ -16956,47 +16956,47 @@ ZENDJEBIL, LXXVI, 17.
 
 **263.** Les Arabes, en tuant le gibier à la chasse, invoquaient les noms de leurs divinités. Mahomet ordonne en ce cas d’invoquer le nom de Dieu par la formule *bismillah* (au nom de Dieu).
 
-**264.** Les Arabes idolâtres avaient coutume de se partager un chameau égorgé en tirant au sort à qui appartiendrait telle ou telle partie de l’animal
+**264.** Les Arabes idolâtres avaient coutume de se partager un chameau égorgé en tirant au sort à qui appartiendrait telle ou telle partie de l’animal ; cela se faisait au moyen de flèches sans fer et non empennées, conservées au nombre de sept dans le temple de la Caaba.
 
 **265.** Selon les commentateurs sonnites, le mot *aujourd’hui*, employé dans ces versets, s’applique non pas à tel ou tel jour précis, mais à tout le temps de la mission de Mahomet. Il en est autrement des chiites, partisans d’Ali, gendre de Mahomet. Ils soutiennent que ces versets ont été révélés le jour où Mahomet a mis la dernière main à son apostolat et à la législation de son peuple, en investissant son gendre Ali des fonctions de l’imamat auprès de l’étang de Khom, et en le nommant son successeur.
 
 **266.** Relatives aux aliments défendus.
 
-**267.** Le mot du texte *taiibat* a un sens aussi général que le mot *bon*
+**267.** Le mot du texte *taiibat* a un sens aussi général que le mot *bon* ; il faut entendre ici par bon ce qui est pur et n’est pas nuisible à la santé.
 
-**268.** On pourrait dire que Mahomet n’avait aucun droit de prononcer sur ce qu’il est permis de manger aux non musulmans
+**268.** On pourrait dire que Mahomet n’avait aucun droit de prononcer sur ce qu’il est permis de manger aux non musulmans ; aussi faut-il comprendre ces mots dans le sens suivant : Vous et les juifs et les chrétiens avez des préceptes communs au sujet de la nourriture.
 
-**269.** Ce sont les mariages mixtes entre les musulmans et les femmes chrétiennes et juives
+**269.** Ce sont les mariages mixtes entre les musulmans et les femmes chrétiennes et juives ; les femmes idolâtres sont exclues de cette permission.
 
 **270.** Ces préceptes donnés aux hommes sont conçus à peu près dans les mêmes termes que ceux qui concernent les femmes. Voy. IV, 29. Le mot *khidn*, pl. *akhdan*, employé dans le texte, signifie amant et maîtresse.
 
 **271.** Cette ablution avec du sable fin à défaut d’eau s’appelle *teiammoum*.
 
-**272.** Ce passage doit se rapporter à une tentative d’assassinat sur la personne de Mahomet. Il y a différentes versions là-dessus. D’après l’une, Mahomet ayant un jour ôté ses armes, et les ayant suspendues sur un arbre pendant que sa suite était à quelque distance de lui, un Arabe du désert fondit sur lui
+**272.** Ce passage doit se rapporter à une tentative d’assassinat sur la personne de Mahomet. Il y a différentes versions là-dessus. D’après l’une, Mahomet ayant un jour ôté ses armes, et les ayant suspendues sur un arbre pendant que sa suite était à quelque distance de lui, un Arabe du désert fondit sur lui ; et, tenant le sabre nu sur sa tête, lui dit : « Qui est-ce qui m’empêche de te tuer ? — C’est Dieu. » répondit Mahomet. Sur ce, l’ange Gabriel ôta le sabre des mains de l’Arabe. Mahomet le saisit et demanda à son tour à l’Arabe : « Qui est-ce qui m’empêche de te tuer ? – Personne. » Reprit l’Arabe, et il embrassa l’islam.
 
 **273.** C’est Dieu qui parle. Le changement des pronoms *nous* et *il* est trop fréquent dans le Koran, pour que nous soyons obligés d’en faire l’observation chaque fois qu’il se présente.
 
 **274.** Le plus grave reproche que Mahomet adresse aux chrétiens, c’est d’avoir interpolé ou altéré les Écritures, dans la but d’en ôter toute illusion à sa venue.
 
-**275.** C’est l’histoire de Caïn et d’Abel. Les mahométans appellent le premier *Kabil*, et le dernier *Habil*, mais ces deux noms ne se trouvent nulle part dans le Koran
+**275.** C’est l’histoire de Caïn et d’Abel. Les mahométans appellent le premier *Kabil*, et le dernier *Habil*, mais ces deux noms ne se trouvent nulle part dans le Koran ; c’est la tradition qui y supplée.
 
 **276.** Un corbeau, disent les commentateurs, en avait tué un autre et l’enterra en grattant la terre.
 
-**277.** Le mot *feçad* du texte, que nous traduisons par *désordre*, signifie proprement corruption
+**277.** Le mot *feçad* du texte, que nous traduisons par *désordre*, signifie proprement corruption ; il s’applique aux violences, aux brigandages commis sur les grands chemins et à la propagation de *l’idolâtrie*, qui est la corruption du culte simple d’un seul Dieu ; le verset en question prescrit par conséquent la mort de l’idolâtre.
 
-**278.** La sonna ou la tradition supplée au vague et à l’énonciation par trop générale des peines. Ainsi on punit le meurtrier de la peine de mort. Si le meurtrier a en outre commis un vol, dépouillé un autre en brigand, il sera crucifié. Celui qui dépouille sans tuer, aura la main droite et le pied gauche coupés
+**278.** La sonna ou la tradition supplée au vague et à l’énonciation par trop générale des peines. Ainsi on punit le meurtrier de la peine de mort. Si le meurtrier a en outre commis un vol, dépouillé un autre en brigand, il sera crucifié. Celui qui dépouille sans tuer, aura la main droite et le pied gauche coupés ; les attaques contre les voyageurs doivent être punies du bannissement. Quant au vol, on ne doit couper la main (au poignet) que lorsque la valeur de l’objet volé dépasse quatre dinars (environ cinquante francs).
 
-**279.** C’est-à-dire, si Mahomet vous donne le texte de l’Écriture tel que nous vous le donnons, adoptez le
+**279.** C’est-à-dire, si Mahomet vous donne le texte de l’Écriture tel que nous vous le donnons, adoptez le ; sinon, non.
 
 **280.** Se livrent aux gains illicites, à la corruption, à la malversation.
 
-**281.** Ce passage est susceptible d’une autre interprétation, savoir
+**281.** Ce passage est susceptible d’une autre interprétation, savoir : celui qui donne des aumônes après avoir blessé quelqu’un, obtiendra l’expiation de ses péchés ; la traduction exprime plutôt le sens que les mots du texte arabe.
 
-**282.** Le mot que nous traduisons par sentier
+**282.** Le mot que nous traduisons par sentier ; est proprement le sentier qui conduit à un abreuvoir ; au figuré ce mot se dit de la règle de conduite de la loi.
 
-**283.** L’ignorance, *eldjahiliieh*, s’applique toujours à l’époque de l’idolâtrie chez les Arabes. Le passage signifie
+**283.** L’ignorance, *eldjahiliieh*, s’applique toujours à l’époque de l’idolâtrie chez les Arabes. Le passage signifie : « Aiment-ils mieux être jugés selon les lois sauvages des idolâtres, que par la loi divine ? »
 
-**284.** Mot à mot
+**284.** Mot à mot : la blâme du blâmant. C’est un idiotisme arabe.
 
 **285.** Le mot arabe *weli*, signifie ami, patron, protecteur, allié, saint (ami de Dieu).
 
@@ -17016,31 +17016,31 @@ ZENDJEBIL, LXXVI, 17.
 
 **293.** Les Arabes idolâtres avaient coutume de consulter le sort au moyen de flèches déposées chez les gardiens du temple de La Mecque.
 
-**294.** Pour mieux inculquer ce précepte que la vraie piété ne consiste pas dans ce qu’on mange, Mahomet répète ces mots
+**294.** Pour mieux inculquer ce précepte que la vraie piété ne consiste pas dans ce qu’on mange, Mahomet répète ces mots : Quiconque croit et puis croit encore, etc.
 
 **295.** La tenue sacrée des pèlerins qui se rendent à la Mecque consiste en une pièce d’étoffe grossière jetée sur le corps, etc. (Voy. chap. II, 192.)
 
-**296.** Ces noms ne sont pas précisément des noms propres, mais des appellatifs, des noms donnés aux chamelles ou aux brebis que les idolâtres avaient coutume de marquer en leur fondant les oreilles, en les laissant paître librement
+**296.** Ces noms ne sont pas précisément des noms propres, mais des appellatifs, des noms donnés aux chamelles ou aux brebis que les idolâtres avaient coutume de marquer en leur fondant les oreilles, en les laissant paître librement ; Et ils regardaient ces femelles comme consacrées à leurs divinités, lorsqu’elles leur avaient déjà donné cinq portées, dont la dernière était un mâle, etc. Mahomet condamne ces usages comme des superstitions.
 
-**297.** Les mots
+**297.** Les mots : *Parmi vous ou parmi d’autres*, s’appliquent non pas à des noms arabes ou à des idolâtres, mais à des croyants qui ne sont cependant liés entre eux par aucun degré de parenté.
 
 **298.** Voyez chap. III, vers. 41-43
 
-**299.** On verra, chap. III, 48, note, les raisons qui nous font substituer les mots
+**299.** On verra, chap. III, 48, note, les raisons qui nous font substituer les mots : *Tu m’as recueilli chez toi*, aux mots : *Tu m’as fait mourir*. Voyez aussi chapitre XXXIX, 43, note.
 
-**300.** Car alors il n’aurait plus été question d’avertissement, mais d’un châtiment
+**300.** Car alors il n’aurait plus été question d’avertissement, mais d’un châtiment ; les apôtres et les prophètes avertissent, mais les anges sont les exécuteurs des menaces.
 
-**301.** . Car les hommes ne sauraient soutenir l’éclat éblouissant d’un ange. Mahomet lui-même, disent les commentateurs, ne pouvait regarder linge Gabriel en face
+**301.** . Car les hommes ne sauraient soutenir l’éclat éblouissant d’un ange. Mahomet lui-même, disent les commentateurs, ne pouvait regarder linge Gabriel en face ; c’est pourquoi Dieu l’envoyait sous la forme humaine.
 
 **302.** C’est-à-dire, ils savent parfaitement bien que Mahomet est l’envoyé de Dieu.
 
 **303.** L’heure, c’est le jour du jugement dernier.
 
-**304.** C’est-à-dire, les animaux sont tout aussi bien sous le contrôle de Dieu, que le genre humain
+**304.** C’est-à-dire, les animaux sont tout aussi bien sous le contrôle de Dieu, que le genre humain ; Dieu s’en occupe.
 
 **305.** Non seulement les hommes, mais les animaux et tous les êtres créés, comparaîtront au jour du jugement dernier pour rendre compte de leurs actions. Le livre dont il est parlé ici est le livre des arrêts éternels.
 
-**306.** Les mots du texte peuvent être traduits soit par
+**306.** Les mots du texte peuvent être traduits soit par : *Satan leur a embelli leurs actions ;* soit par : *Satan leur a préparé (disposé, arrangé comme il lui convenait) leurs actions*.
 
 **307.** Le châtiment. Les infidèles défiaient Mahomet de hâter le châtiment dont il les menaçait sans cesse.
 
@@ -17048,7 +17048,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **309.** Des anges qui vous gardent et épient vos actions.
 
-**310.** Mot à mot
+**310.** Mot à mot : Nos envoyés, les anges, recueillent chacun de vous, reçoivent son souffle, son âme. Cet ange s’appelle Israfil.
 
 **311.** Les musulmans objectèrent que, s’il fallait s’éloigner des infidèles toutes les fois qu’ils raillent la nouvelle religion, on ne pourrait rester nulle part un seul instant. Mahomet complète le précepte du verset précédent par celui-ci.
 
@@ -17056,27 +17056,27 @@ ZENDJEBIL, LXXVI, 17.
 
 **313.** Le mot réceptacle est employé ici dans un sens analogue à celui qu’il a en botanique.
 
-**314.** C’est-à-dire
+**314.** C’est-à-dire : Ah ! Que je voudrais vous faire comprendre qu’ils (les infidèles) n’y croient pas !
 
 **315.** Selon les croyances des Arabes et des mahométans en général, il existe des génies croyants et des génies rebelles, infidèles, malfaisants.
 
 **316.** Le clinquant des discours sont des paroles vaines dont l’apparence séduit et égare.
 
-**317.** C’est-à-dire, vous pouvez manger de tout animal qui a été égorgé sous l’invocation du nom de Dieu
+**317.** C’est-à-dire, vous pouvez manger de tout animal qui a été égorgé sous l’invocation du nom de Dieu ; ce qui exclut les animaux morts, etc.
 
 **318.** Le dehors et le dedans du péché, ce sont le péché et les apparences.
 
-**319.** Ce verset s’applique aux grands, aux hommes riches de la Mecque les plus hostiles à Mahomet
+**319.** Ce verset s’applique aux grands, aux hommes riches de la Mecque les plus hostiles à Mahomet ; ils entrainaient contre lui les faibles, le peuple.
 
 **320.** Ici, comme chez les poètes arabes anciens, le cœur agité par quelque trouble, est comparé à un oiseau qui s’agite et bat des ailes.
 
 **321.** C’est-à-dire, que Dieu, avant de punir une cité, envoyait des apôtres chargés d’y porter ses avertissements.
 
-**322.** Nous avons traduit leurs compagnons pour suivre le texte
+**322.** Nous avons traduit leurs compagnons pour suivre le texte ; nous ferons cependant observer que le pronom relatif *leurs* ne veut pas dire que les autres dieux soient des compagnons des hommes ; Il signifie *les compagnons du Dieu de leur invention*. Nous nous servons aussi quelquefois du mot associant, qui est le vrai sens du mot arabe *mouchrik*, traduit généralement par *idolâtre*.
 
-**323.** Ce verset a trait à quelques pratiques religieuses en usage chez les Arabes idolâtres, telles que le partage des terrains, des fruits et des récoltes en deux portions, dont l’une était celle du Dieu suprême, l’autre consacrée aux divinités subalternes représentées par les idoles. La portion de Dieu servait à nourrir les pauvres, les voyageurs
+**323.** Ce verset a trait à quelques pratiques religieuses en usage chez les Arabes idolâtres, telles que le partage des terrains, des fruits et des récoltes en deux portions, dont l’une était celle du Dieu suprême, l’autre consacrée aux divinités subalternes représentées par les idoles. La portion de Dieu servait à nourrir les pauvres, les voyageurs ; celle des idoles était affectée aux offrandes et à la rétribution des prêtres. Si un fruit tombait de la portion destinée à Dieu sur le terrain consacré aux idoles, on le donnait aux idoles, mais on n’agissait pas ainsi dans le cas contraire ; car Dieu, disaient les idolâtres, étant riche, pouvait se passer de tout.
 
-**324.** Le texte précise le sang fluide
+**324.** Le texte précise le sang fluide ; car le foie et le mou, que les Arabes regardaient comme le sang à l’état solide, n’étaient pas défendus.
 
 **325.** Les Arabes païens avaient l’habitude de tuer leurs enfants en temps de disette.
 
@@ -17084,7 +17084,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **327.** C’est le caractère général de la Théodicée mahométane, que la bonté et la miséricorde de Dieu l’emportent sur sa sévérité. Ainsi les degrés de l’enfer sont moins nombreux que ceux du paradis, et la récompense réservée aux justes plus grande que le châtiment des criminels n’est rigoureux.
 
-**328.** Mot à mot
+**328.** Mot à mot : *aucune porteuse de fardeau ne sera chargée du fardeau d’un autre*.
 
 **329.** *El·araf* dont il est question dans ce chapitre, est une séparation, une ligne entre l’enfer et le paradis, et vue également par les habitants de l’un et de l’autre. C’est une espèce de purgatoire.
 
@@ -17094,45 +17094,45 @@ ZENDJEBIL, LXXVI, 17.
 
 **332.** C’est-à-dire, les hommes et Satan seront dans une inimitié éternelle.
 
-**333.** Le mot du texte qui répond à turpitude est
+**333.** Le mot du texte qui répond à turpitude est : *el-fahicha* ; cela s’entend surtout de tout péché contre la chasteté.
 
-**334.** Mot à mot
+**334.** Mot à mot : prenez vos ornements.
 
 **335.** Nous avons préféré le mot *oratoire*, qui répond au *mesdjid* (mosquée) du texte, pour éviter la confusion avec le mot temple, qui peut se dire de toute maison d’adoration. Nous ferons observer, en passant, que le mot *djami*, employé aujourd’hui pour toute mosquée spacieuse où par conséquent peut se faire la prière du vendredi, est inconnu dans le Koran. La mosquée de la Mecque seule à conservé jusqu’à ce jour le nom de *mesdjid*, bien que ce soit une grande mosquée.
 
 **336.** C’est-à-dire, en recueillent leur souffle, leur âme à l’heure de la mort. Il s’agit ici des anges de la mort, Nakir et Monkir, appelés envoyés de Dieu.
 
-**337.** On connait cette comparaison appliquée dans l’Évangile aux riches
+**337.** On connait cette comparaison appliquée dans l’Évangile aux riches ; on sait également que quelques modernes exégètes, s’appuyant sur une variante du texte grec de l’Évangile, ont cherché à substituer au mot chameau le mot *câble*, non seulement parce que l’hyperbole serait en quelque sorte moins outrée, mais encore parce qu’un trou d’aiguille est destiné à recevoir plutôt un fil, un cordon, et par hyperbole un câble plutôt qu’un chameau. D’un autre côté, bien que le Koran ne puisse être invoqué comme une autorité pour l’explication de l’Évangile, l’expression du texte arabe prouverait au moins que la version du *chameau passant par le trou d’une aiguille*, pouvait seule avoir cours parmi les chrétiens du temps de Mahomet. Il n’est pas inutile cependant d’ajouter que dans l’écriture primitive arabe, dans l’écriture cufique, les mots *djémel* (chameau), et *habl* (câble), pouvaient être aisément confondus.
 
 **338.** Le mot du texte, *hidjab*, qui se dit d’un voile ou d’une portière, s’emploie aussi pour tout ce qui cache une chose à nos regards, que ce soit une muraille, une toile ou autre chose semblable.
 
 **339.** *Elaraf* un rempart placé entre le paradis et l’enfer, et d’où les bienheureux comme les réprouvés peuvent être vus par ceux qui se tiennent sur le rempart. L’origine de ce mot est inconnue, car l’étymologie que donnent les commentateurs (ce mot, disent-ils, vient de *arafa*, connaître, parce que ceux qui sont sur l*’araf* reconnaissent les réprouvés à leur marque) est tirée sans aucun doute du texte même, ou *elaraf* et *arafa*, connaître, sont rapprochés, et n’est ni plus vraie ni plus ingénieuse que la plupart des étymologies des auteurs orientaux. Au reste, il est impossible de se faire une idée quelconque de la manière dont Mahomet concevait le paradis et l’enfer quant à leur position, tant les détails relatifs à ce sujet, renfermés dans le Koran, sont confus, incohérents et contradictoires.
 
-**340.** C’est-à-dire, avant coureurs de la pluie, qui est un bienfait réel pour les pays tels que l’Arabie
+**340.** C’est-à-dire, avant coureurs de la pluie, qui est un bienfait réel pour les pays tels que l’Arabie ; de là le mot *grâce*, *faveur de Dieu*, est devenu en quelque sorte l’équivalent de *pluie*.
 
-**341.** Très souvent, après une parabole amenée à la suite de ses avertissements, Mahomet ajoute cette phrase
+**341.** Très souvent, après une parabole amenée à la suite de ses avertissements, Mahomet ajoute cette phrase : *C’est ainsi que nous manions nos enseignements*, comme pour s’applaudir de l’adresse avec laquelle il les applique aux circonstances.
 
-**342.** Mot à mot
+**342.** Mot à mot : *Leur frère*, pour *leur concitoyen*.
 
-**343.** Mot à mot
+**343.** Mot à mot : *qu’il vous a ajouté de l’ampleur quant à votre visage*. Le peuple d’Ad, selon la tradition, qui a longtemps eu cours en Arabie, était remarquable par sa taille gigantesque. Quelques auteurs mahométans (et nous ne citerons ici que le savant et judicieux Ebn Khaldoun) font cependant observer que les habitations de cette peuplade, dont on voit encore des traces, n’ont rien qui fasse conclure à cette prétendue taille gigantesque, et qu’elles ne dépassent pas les proportions des édifices des autres peuples.
 
 **344.** C’est·à-dire, leur concitoyen.
 
 **345.** Imprimer un sceau sur le cœur d’un homme, c’est le rendre endurci insensible à tout avertissement.
 
-**346.** Voici ce qu’on lit à ce sujet dans les commentateurs
+**346.** Voici ce qu’on lit à ce sujet dans les commentateurs : « Moïse avait la peau très-rouge, cuivrée, de sorte que lorsqu’il fit voir sa main tout éclatante de blancheur et resplendissante, il était naturel qu’on y vit un miracle. La main blanche de Moïse est devenue chez les musulmans le synonyme de *main puissante, puissance*. C’est l’expression *iad hazaka* du texte hébreu, la main puissante qui a délivré les israélites de l’esclavage.
 
-**347.** Littéralement
+**347.** Littéralement : fais-le espérer, laisse-lui quelque espoir, ne lui donne pas tout de suite une réponse péremptoire.
 
-**348.** Cela veut dire un pied gauche et une main droite, ou une main gauche et un pied droit à chacun
+**348.** Cela veut dire un pied gauche et une main droite, ou une main gauche et un pied droit à chacun : Ce genre de supplice est connu en Orient.
 
 **349.** Pour avoir voulu voir Dieu. Nul être créé ne saurait voir Dieu sans mourir sur-le-champ. Ce passage du Koran est fréquemment cité dans les ouvrages mystiques musulmans Les ascètes, qui prétendent recevoir des manifestations de Dieu, ne voient que ses attributs et non pas son essence.
 
-**350.** Les commentaires ne nous donnent aucune explication satisfaisante de ce passage. Le veau, disent-ils, a été fait d’ornements d’or que les Israélites avaient enlevés en quittant l’Égypte, et le Samaritain qui l’a fondu a jeté dans la bouche du veau une poignée de poussière ramassée sur les traces du cheval de l’ange Gabriel
+**350.** Les commentaires ne nous donnent aucune explication satisfaisante de ce passage. Le veau, disent-ils, a été fait d’ornements d’or que les Israélites avaient enlevés en quittant l’Égypte, et le Samaritain qui l’a fondu a jeté dans la bouche du veau une poignée de poussière ramassée sur les traces du cheval de l’ange Gabriel ; c’est par la vertu de cette poussière que le veau reçut la vie et se mit à mugir ; ou bien le Samaritain a su ménager la fonte de manière que le vent, en passant par la gueule du veau, lui faisait rendre un son semblable au mugissement d’un veau vivant. Tout cela n’explique pas encore les mots *veau en corps* ou *corporel*.
 
 **351.** L’affaire de Dieu, sa vengeance.
 
-**352.** Dieu avait ordonné à Moïse de se rendre à la montagne de Sinaï avec soixante-dix hommes
+**352.** Dieu avait ordonné à Moïse de se rendre à la montagne de Sinaï avec soixante-dix hommes ; lorsque tous s’y rendirent, Dieu parla à Moïse dans un nuage. Les soixante-dix israélites, l’entendant parler, demandèrent à Moïse de leur faire voir Dieu ; c’est pour les punir de cette coupable curiosité, que la montagne tremble.
 
 **353.** Voy. chap. II, verset 51.
 
@@ -17146,29 +17146,29 @@ ZENDJEBIL, LXXVI, 17.
 
 **358.** Dieu fit comparaître un jour toutes les générations futures des hommes qui devaient naître d’Adam, pour leur faire prendre un engagement solennel d’obéissance, et afin que plus tard il pût leur rappeler ce pacte et se servir de leur propre témoignage contre eux.
 
-**359.** Selon les uns, il s’agit ici d’un juif qui d’abord reconnut dans Mahomet le prophète prédit par les Écritures, mais qui ensuite, par orgueil et par jalousie, refusa de croire à sa mission
+**359.** Selon les uns, il s’agit ici d’un juif qui d’abord reconnut dans Mahomet le prophète prédit par les Écritures, mais qui ensuite, par orgueil et par jalousie, refusa de croire à sa mission ; selon d’autres, il serait ici question de Balaam, le Chananéen, qui, refusant d’abord de maudire Moïse, se laissa dans la suite entraîner par les suggestions de Satan, et fut condamné à tirer la langue comme un chien.
 
-**360.** Parmi les noms de Dieu, en arabe, se trouve *rahman*, le miséricordieux. Un Arabe idolâtre, entendant ce nom appliqué par Mahomet à Dieu, se mit à rire en disant qu’il ne connaissait qu’un seul individu de ce nom dans la province de Yemama. D’autres Arabes répétaient que les noms de leurs idoles, tels que Alozza, Allat, Menat, venaient des noms que Mahomet donnait à Dieu, tels que Elaziz, Allah, Mennan. Dans le chapelet mahométan, Dieu a quatre-vingt-dix-neuf noms, parmi lesquels sont
+**360.** Parmi les noms de Dieu, en arabe, se trouve *rahman*, le miséricordieux. Un Arabe idolâtre, entendant ce nom appliqué par Mahomet à Dieu, se mit à rire en disant qu’il ne connaissait qu’un seul individu de ce nom dans la province de Yemama. D’autres Arabes répétaient que les noms de leurs idoles, tels que Alozza, Allat, Menat, venaient des noms que Mahomet donnait à Dieu, tels que Elaziz, Allah, Mennan. Dans le chapelet mahométan, Dieu a quatre-vingt-dix-neuf noms, parmi lesquels sont : le grand, le bon, le clément, le savant, le sage, le subtil, le bienfaisant, etc.
 
-**361.** Mot à mot
+**361.** Mot à mot : ma ruse est solide, on ne saurait la déjouer à force de temps.
 
 **362.** Non-seulement elle préoccupe la pensée des hommes, mais celle des anges aussi.
 
-**363.** Le mot du texte est *salihan*, qui veut dire juste, vertueux et bon. On pourrait donc traduire
+**363.** Le mot du texte est *salihan*, qui veut dire juste, vertueux et bon. On pourrait donc traduire : si tu nous donnes un fils vertueux, prière toute naturelle dans la bouche de nos premiers parents ; cette acception même est la plus générale et la plus fréquente. Cependant on est convenu de donner à ce mot, dans ce passage, la signification *de bien fait, de forme humaine*, d’après les commentateurs qui racontent qu’Ève étant enceinte, Satan lui prédisait qu’elle mettrait au monde une brute ; Il promettait d’ailleurs de détourner d’elle ce malheur, à condition que l’enfant serait nommé *Abdolhareth* (serviteur du cultivateur), ou serviteur d*’Alhareth*, car Satan portait ce nom parmi les anges auxquels il se disait appartenir ; C’était un acte d’idolâtrie ; Car, dans le nom d’un homme, le mot serviteur ne doit jamais se joindre à un autre nom qu’à celui de Dieu. Dieu punit nos premiers parents de cet acte de rébellion. L’enfant ne vécut point. Quelques commentateurs combattent cette explication comme incompatible avec le caractère prophétique d’Adam, et appliquent le sens des versets en question à un des ancêtres de Mahomet, qui donna à ses enfants des noms du culte idolâtre. On pourrait objecter que les premiers mots du verset 189 ne sont applicables qu’à Adam.
 
-**364.** En traduisant mot à mot, les deux premiers mots de ce verset voudraient dire
+**364.** En traduisant mot à mot, les deux premiers mots de ce verset voudraient dire : « Prends ce qui te vient de soi-même, » c’est·à-dire prends les hommes comme ils sont et leurs actions, sois accommodant et n’exige pas ce qui est trop lourd. Ou bien, « perçois le superflu en fait d’aumônes. »
 
-**365.** C’est-à-dire, invoque la protection de Dieu en prononçant ces mots
+**365.** C’est-à-dire, invoque la protection de Dieu en prononçant ces mots : « Je cherche un refuge auprès de Dieu contre les machinations de Satan. »
 
-**366.** Le mot *taïf* employé ici, veut dire, d’après l’étymologie, rôdeur, et se dit de toute vision, fantôme, que ce soit une apparition quelconque ou la création du cerveau surexcité
+**366.** Le mot *taïf* employé ici, veut dire, d’après l’étymologie, rôdeur, et se dit de toute vision, fantôme, que ce soit une apparition quelconque ou la création du cerveau surexcité ; les orientaux attribuent ces apparitions à Satan ; dans ce cas, ils ont l’habitude, comme le recommande ici le Koran, de prononcer le nom de Dieu.
 
-**367.** Selon les uns, le mot *frères*, qu’il faut prendre dans le sens de compagnons, s’applique ici aux hommes acquis à Satan
+**367.** Selon les uns, le mot *frères*, qu’il faut prendre dans le sens de compagnons, s’applique ici aux hommes acquis à Satan ; selon d’autres, aux démons.
 
 **368.** De Médine où Mahomet s’était fixé depuis sa fuite de La Mecque.
 
 **369.** De Médine, où Mahomet s’était fixé depuis sa fuite de la Mecque.
 
-**370.** Ceci se rapporte au premier combat de Bedr. Mahomet avait appris qu’une caravane de Koreïchites revenait, chargée de marchandises, de Syrie à la Mecque et il conçut le projet de l’attaquer. La caravane, de son côté, craignant sur sa route une attaque de Mahomet, envoya à la Mecque demander une escorte, et prit, en attendant, la route la plus rapprochée de la mer. Les Mecquois, au nombre d’environ mille hommes, se dirigèrent à la rencontre de la caravane. Ce fut alors que les avis se partagèrent dans le camp de Mahomet
+**370.** Ceci se rapporte au premier combat de Bedr. Mahomet avait appris qu’une caravane de Koreïchites revenait, chargée de marchandises, de Syrie à la Mecque et il conçut le projet de l’attaquer. La caravane, de son côté, craignant sur sa route une attaque de Mahomet, envoya à la Mecque demander une escorte, et prit, en attendant, la route la plus rapprochée de la mer. Les Mecquois, au nombre d’environ mille hommes, se dirigèrent à la rencontre de la caravane. Ce fut alors que les avis se partagèrent dans le camp de Mahomet : les uns jugeaient qu’il était plus avantageux de se jeter sur la caravane ; d’autres qu’il fallait frapper un grand coup, et, malgré en disproportion des forces, attaquer les Mecquois. Mahomet cherchait à donner du courage aux siens en leur promettant l’assistance divine.
 
 **371.** Avant le combat, les mahométans occupaient un terrain aride et dépourvu d’eau. Ils en tiraient un mauvais augure pour le succès de leur entreprise. Satan exploitait cette situation dans leurs songes, et cherchait à ébranler leur foi. Dans la nuit, Dieu envoya une pluie abondante pour les désaltérer et les purifier.
 
@@ -17176,7 +17176,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **373.** Savoir, à la Mecque. Mahomet s’adresse ici aux *Mohadjers*, c’est-à-dire à ceux qui avaient émigré de la Mecque.
 
-**374.** Le pronom *ils* se rapporte, selon les uns, aux fidèles mêlés aux idolâtres
+**374.** Le pronom *ils* se rapporte, selon les uns, aux fidèles mêlés aux idolâtres ; selon d’autres, aux idolâtres eux-mêmes, qui, dans un accès de repentir, implorent le pardon de Dieu.
 
 **375.** La garde du temple de la Mecque était toujours confiée à quelque famille influente, même du temps du paganisme, et on se disputait cet honneur.
 
@@ -17186,9 +17186,9 @@ ZENDJEBIL, LXXVI, 17.
 
 **378.** La journée de Bedr, où les infidèles furent pour la première fois en présence des croyants, et où la séparation entre les deux cultes fut scellée par la victoire des uns et la défaite des autres.
 
-**379.** La caravane des Koreïchites suivait la route la plus rapprochée de la mer
+**379.** La caravane des Koreïchites suivait la route la plus rapprochée de la mer ; elle se trouvait par conséquent plus bas que les musulmans d’un côté, et les Mecquois idolâtres de l’autre.
 
-**380.** La supériorité des forces ennemies vous aurait effrayés au point de vous faire abandonner le champ de bataille
+**380.** La supériorité des forces ennemies vous aurait effrayés au point de vous faire abandonner le champ de bataille ; mais ignorant leur nombre, vous avez tenu bon.
 
 **381.** Pour attaquer des forces plus considérables que les leurs.
 
@@ -17196,27 +17196,27 @@ ZENDJEBIL, LXXVI, 17.
 
 **383.** C’est·à-dire, si Dieu n’avait pas autorisé précédemment (en termes généraux) la rançon des captifs.
 
-**384.** C’est à dire, la rançon des captifs pris au combat de Bedr. Après le combat de Bedr, on amena devant Mahomet soixante-dix prisonniers. Quelques musulmans zélés opinaient pour la mort
+**384.** C’est à dire, la rançon des captifs pris au combat de Bedr. Après le combat de Bedr, on amena devant Mahomet soixante-dix prisonniers. Quelques musulmans zélés opinaient pour la mort ; mais, comme il se trouvait parmi les captifs des parents de Mahomet, on les relâche moyennant une rançon. À la suite de cet acte de faiblesse, que certaines révélations antérieures semblaient autoriser, Mahomet en reçut une qui condamnait l’élargissement des captifs.
 
 **385.** Comme infidèles, virtuellement toujours en état de trahison envers Dieu.
 
-**386.** Ce passage a été révélé pour fixer les rapports légaux entre les Arabes
+**386.** Ce passage a été révélé pour fixer les rapports légaux entre les Arabes ; il arrivait que les compagnons de Mahomet et ceux qui avaient émigré héritaient les uns des autres au préjudice des parents.
 
 **387.** Ce chapitre est intitulé l’immunité (*elberat*) parce qu’il parle de l’immunité accordée par Mahomet aux infidèles pendant un certain temps, ou bien parce que, ce terme expiré, les fidèles seront dans une liberté complète (*berat*) d’agir avec les idolâtras comme ils voudront. Il est intitulé *le Repentir*, car il est question du repentir dans ce chapitre. C’est la seule sourate en tête de laquelle ne se trouve pas l’invocation usuelle *bismillahi rahmanirrahim* (au nom du Dieu clément et miséricordieux). On croît que cette omission vient de ce que ce chapitre a dû dans l’origine n’en former qu’un seul avec le précédent, ou bien de ce que Mahomet n’a rien décidé là·dessus, le chapitre ayant été révélé peu de temps avant sa mort. C’est encore la seule sourate qui ait été révélée, dit-on, à la fois, quelques versets exceptés.
 
-**388.** C’est-a-dire que ces mots
+**388.** C’est-a-dire que ces mots : Dieu est *libre de tout engagement*, etc. ne concernent pas ceux avec lesquels on a fait un traité.
 
-**389.** Les quatre mois
+**389.** Les quatre mois : *chawwal, dhoulcada. dhoulhiddjé et moharram*.
 
 **390.** Ce mot peut être placé ici à dessein pour effrayer les idolâtres, puisque les croyants eux-mêmes ne sont pas sûrs d’être dirigés.
 
 **391.** Ceci s’adresse à quelques Arabes qui faisaient valoir les soins qu’ils prenaient des pèlerins comme un titre à la récompense de Dieu.
 
-**392.** La bataille de Honeïn, vallée située à trois milles de la Mecque, du côté de Taïef, fut donnée la huitième année de l’hégire. Mahomet y avait réuni jusqu’à douze mille combattants
+**392.** La bataille de Honeïn, vallée située à trois milles de la Mecque, du côté de Taïef, fut donnée la huitième année de l’hégire. Mahomet y avait réuni jusqu’à douze mille combattants ; les tribus Hawazen et Thakif, en guerre avec Mahomet, n’y étaient qu’au nombre de quatre mille. Cette supériorité de forces inspira aux musulmans une grande présomption, que Dieu punit en jetant le désordre dans leurs rangs. Les musulmans prirent d’abord la fuite. Le courage de Mahomet et de ses parents finit par rallier les fuyards et réparer la défaite.
 
 **393.** À cause des pertes que vous éprouverez en cessant des relations de commerce avec ceux qui viennent à la Mecque.
 
-**394.** Ce passage établit une différence entre les idolâtres qui doivent être exterminés, et les peuples qui ont par-devers eux quelque livre sacré. Du temps de Mahomet on y joignait les mages, adorateurs du feu, comme ayant aussi quelques livres sacrés. Quant aux mots
+**394.** Ce passage établit une différence entre les idolâtres qui doivent être exterminés, et les peuples qui ont par-devers eux quelque livre sacré. Du temps de Mahomet on y joignait les mages, adorateurs du feu, comme ayant aussi quelques livres sacrés. Quant aux mots : *tous sans exception*, c’est une explication que nous hasardons, à la place de celle *de leurs propres mains* (*`an yedin*) du texte que les commentateurs interprètent différemment. Les uns croient que ces mots veulent dire : *de leurs propres mains, et non pas par l’entremise d’un tiers* ; d’autres pensent que ces mots veulent dire : *par les riches seulement*, explications toutes peu satisfaisantes. Peut-être les mots : *tous sans exception*, s’appliquent-ils mieux à un impôt perçu par tète, par main, à une capitation enfin.
 
 **395.** Ozaïr est le même qu’Esdras. C’est cet homme, disent les commentateurs, que Dieu avait fait mourir, et qu’il ressuscite au bout de cent ans. Ozaïr ressuscité récita aux juifs tout le Pentateuque qu’il savait par cœur avant de mourir, ce qui fit dire aux juifs que, pour le faire, il fallait qu’il fût fils de Dieu.
 
@@ -17228,17 +17228,17 @@ ZENDJEBIL, LXXVI, 17.
 
 **399.** Par ce passage, l’intercalation d’un mois tous les trois ans, pratique en usage chez es Arabes et les juifs pour ramener les années lunaires aux solaires, est formellement défendue.
 
-**400.** Les quatre mois sacrés, pendant lesquels toute hostilité cessait, étaient observés par les Arabes avant Mahomet
+**400.** Les quatre mois sacrés, pendant lesquels toute hostilité cessait, étaient observés par les Arabes avant Mahomet ; mais ils se mettaient quelquefois à leur aise, quand l’intérêt de la guerre l’exigeait, et remettaient l’observance d’un mois sacré à un autre mois.
 
-**401.** Mot à mot
+**401.** Mot à mot : *Deuxième de deux* ; Mahomet se sauva de la Mecque avec Abou bekr. Poursuivis par les idolâtres frotte. Dieu ordonna à une araignée d’étendre sa toile sur l’entrée de la grotte ; les idolâtres en conclurent que la grotte ne contenait personne, et passèrent outre.
 
-**402.** Ces mots en arabe peuvent signifier
+**402.** Ces mots en arabe peuvent signifier : A cheval ou à pied, bon gré, mal gré, couverts de cuirasses ou légèrement armés.
 
 **403.** Il s’agit ici de l’expédition de Tabouk, ville située à moitié chemin entre Médine et Damas. Elle eut lieu contre les Grecs dans l’année 9 de l’hégire. Mahomet était déjà à la tête d’une armée considérable (environ trente mille hommes)·
 
-**404.** Par les mots
+**404.** Par les mots : *l’une de deux belles choses*, les musulmans entendent le martyre ou la victoire. On l’emploie aussi pour : l’un de deux avantages quelconques.
 
-**405.** *Aux indigents et aux pauvres*
+**405.** *Aux indigents et aux pauvres* ; en arabe, ce n’est peut-être qu’un pléonasme. On veut cependant établir une distinction entre ces deux mots. Par les indigents, *fokara*, on entendrait ceux qui sont réduits à la misère et ne peuvent plus se relever, et par les pauvres, *meçakin*, ceux qui sont momentanément dans la géne.
 
 **406.** Après la bataille de Honeïn, Mahomet avait fait distribuer des présents aux Arabes pour les gagner à en cause. Depuis l’établissement de l’islam, cette prescription n’a plus de valeur.
 
@@ -17248,7 +17248,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **409.** Celui de tuer Mahomet
 
-**410.** Quelques musulmans firent, à l’occasion de l’expédition de Tabouk, des dons généreux, et qui dépassaient leurs moyens
+**410.** Quelques musulmans firent, à l’occasion de l’expédition de Tabouk, des dons généreux, et qui dépassaient leurs moyens ; l’un d’entre eux offrit le blé qu’il avait moissonné pendant toute une nuit. Les hypocrites décriaient ces dons en les attribuant à des motifs de vanité.
 
 **411.** C’est-à-dire ceux qui, à cause de leur âge et de leurs infirmités, sont autorisés à rester dans leurs foyers.
 
@@ -17256,9 +17256,9 @@ ZENDJEBIL, LXXVI, 17.
 
 **413.** Pour être, lors de la défaite des musulmans, délivrés de l’obligation de faire des aumônes.
 
-**414.** Mot à mot
+**414.** Mot à mot : *mauvais tour du sort contre eux*. Ces mots peuvent être, par conséquent, entendus comme une malédiction.
 
-**415.** Les Mohadjers sont ceux qui émigrèrent de la Mecque
+**415.** Les Mohadjers sont ceux qui émigrèrent de la Mecque ; les Ansars ou auxiliaires, sont les Médinois qui accueillirent Mahomet fugitif, et l’aidèrent dans ses entreprises.
 
 **416.** C’est-à-dire, en les punissant dans ce monde et dans l’autre.
 
@@ -17274,13 +17274,13 @@ ZENDJEBIL, LXXVI, 17.
 
 **422.** Il s’agit ici de trois d’entre les Ansars qui, par négligence ou manque de foi, n’avaient pas suivi Mahomet à Tabouk. Il défendit aux fidèles tout commerce avec eux, et ne leva l’excommunication qu’après cinquante jours de pénitence de leur part.
 
-**423.** Le grand trône, le trône désigné en arabe par *elarch*, est celui de la majesté divine
+**423.** Le grand trône, le trône désigné en arabe par *elarch*, est celui de la majesté divine ; il est placé dans le ciel le plus élevé, dans le ciel sans étoiles.
 
 **424.** Les philosophes mystiques musulmans citent fréquemment ce passage, selon lequel toute la création est une émanation, une manifestation variée et continuelle des attributs de Dieu, unique et invariable dans son essence.
 
-**425.** Mot a mot
+**425.** Mot a mot : *pour la vérité* ou *en toute vérité*.
 
-**426.** Mot à mot
+**426.** Mot à mot : *Qui n’espèrent pas notre entrevue*, c’est-à-dire de comparaître devant Dieu au jour du jugement dernier.
 
 **427.** Mahomet n’a commencé son apostolat qu’à l’âge de quarante ans.
 
@@ -17294,15 +17294,15 @@ ZENDJEBIL, LXXVI, 17.
 
 **432.** Le pronom *vos* ne veut pas dire les compagnons des idolâtres, mais les compagnons que les idolâtres donnent à Dieu.
 
-**433.** Cela veut dire
+**433.** Cela veut dire : Soit que nous te fassions mourir ; mais dans ce passage comme dans d’autres, le Koran évite de se servir du mot mourir en parlant de Mahomet et de Jésus.
 
 **434.** Nous ferons observer qu’il s’agit ici des infidèles de la Mecque, et par les hommes il faut entendre les Mecquois.
 
 **435.** Par le Livre évident ou Livre qui met tout en évidence, il faut entendre ici le Livre qui est au ciel et où toutes les actions des hommes sont consignées.
 
-**436.** Houd est le nom d’un prophète envoyé auprès du peuple d’Ad
+**436.** Houd est le nom d’un prophète envoyé auprès du peuple d’Ad ; il est question de lui non-seulement dans ce chapitre mais dans plusieurs autres.
 
-**437.** Ou bien
+**437.** Ou bien : *ses faveurs à tout possesseur de mérite*. Il est difficile de rendre autrement les paroles du texte, ou le mot *fadhl* veut dire également *faveur*, appliqué à Dieu, et *mérite*, appliqué à l’homme.
 
 **438.** Le Koran représente la poitrine, comme un morceau d’étoffe que l’on ploie pour y cacher quelque chose.
 
@@ -17312,13 +17312,13 @@ ZENDJEBIL, LXXVI, 17.
 
 **441.** Sourat, sourate, chapitre du Koran. Ce passage mérite d’être remarqué, il prouve que les dix premiers chapitres existaient déjà à cette époque.
 
-**442.** C’est-à-dire
+**442.** C’est-à-dire : êtes-vous résignés à la volonté de Dieu (*moslimin*) ?
 
-**443.** On peut traduire encore
+**443.** On peut traduire encore : *et la fournaise déborda*. Les commentateurs ne sont pas d’accord sur le sens du mot fournaise, ni sur l’endroit où elle était. On suppose que cette fournaise n’était qu’un réservoir d’eau comprimée, et qui crève pour opérer l’inondation. On le place tantôt dans l’Irak arabique, à l’endroit ou était la ville de Koufa, tantôt dans la Mésopotamie, et tantôt dans l’Inde. Peut-être l’expression : *La fournaise creva*, n’est-elle qu’une locution métaphorique correspondante à cette autre : *les cataractes du ciel s’ouvrirent*. Le mot du texte *tannour*, dont on a fait aujourd’hui, dans le langage usuel, *tandour*, est un trou circulaire pratiqué ordinairement en milieu d’une chambre, se rétrécissant vers sa base. Il a deux pieds de profondeur ; on y allume le feu, et, quand il est éteint, on applique sur les parois ardentes du four la pâte ronde et mince, seule espèce de pain connue en Orient. Quelques commentateurs, prenant le mot *tannour* du Koran pour un four de ce genre, se sont plu à débiter des contes ridicules, en rapportant que la fournaise qui a causé l’inondation était celle où Ève faisait le pain.
 
 **444.** Un des fils de Noé que la tradition représente comme infidèle.
 
-**445.** Mot à mot
+**445.** Mot à mot : que sa course et son mouillage au nom de Dieu !
 
 **446.** La tradition mahométane désigne cette montagne comme l’endroit où l’arche de Noé s’arrêta. Djoudi est le nom donné à une des hauteurs peu élevées et ne méritant pas le nom de montagne, dans la partie septentrionale de la Mésopotamie, et qui la séparent de l’Arménie. Elles sont à peu de distance de la ville actuelle de Djezireh. Nous ferons observer ici que cette tradition n’est pas seulement celle des mahométans, elle s’est toujours maintenue chez les Chaldéens. Le nom de *Djoudi* répond au *Djordi*, *montes Gordyai*, et n’en est peut-être qu’une altération.
 
@@ -17330,13 +17330,13 @@ ZENDJEBIL, LXXVI, 17.
 
 **450.** Vous qui aviez le projet de m’élire roi et d’augmenter ainsi ma considération.
 
-**451.** Le mot que nous traduisons ici par *rire* est susceptible d’une autre interprétation
+**451.** Le mot que nous traduisons ici par *rire* est susceptible d’une autre interprétation ; il veut dire : *menstrua passa est*, ce qui lui présageait la possibilité d’enfanter.
 
-**452.** Mots mot
+**452.** Mots mot : Détourne-toi de cela, c’est-à-dire brisons là-dessus, laisse cela là.
 
 **453.** Voyant que c’étaient des jeunes gens et que lui n’était pas assez fort pour les protéger.
 
-**454.** Mot à mot
+**454.** Mot à mot : *Si je pouvais trouver refuge auprès d’une colonne puissante*. Le mot *rokn* veut dire pilastre, et métaphoriquement *chef, grand*.
 
 **455.** On croit que le sens de ces mots est que sur chaque brique étant gravé le nom de l’individu qu’elle devait frapper.
 
@@ -17348,19 +17348,19 @@ ZENDJEBIL, LXXVI, 17.
 
 **459.** C’est ainsi, je pense qu’il faut entendre le mot *sailin*, puisque cette histoire a été racontée par Mahomet aux Koreïchites, qui, pour l’embarrasser, lui demandèrent l’histoire de Joseph.
 
-**460.** D’après une autre leçon
+**460.** D’après une autre leçon ; nous paîtrons les troupeaux et nous jouerons.
 
 **461.** En Égypte, quand ses frères vinrent chercher des vivres.
 
-**462.** Mot à mot
+**462.** Mot à mot : *d’un sang mensonger*, c’est-à-dire, qui n’était pas le sang de Joseph.
 
-**463.** Joseph est pour les mahométans le type de la beauté. De là l’expression
+**463.** Joseph est pour les mahométans le type de la beauté. De là l’expression : « vendre Joseph pour un vil prix, » est devenue proverbiale, et revient au même que : « vendre un trésor inestimable pour un objet de nulle valeur. »
 
 **464.** Le nom de l’Égyptien, trésorier du roi, selon les commentateurs est *Kitfir* ou *Itfir*, altération du nom de Putiphar, occasionnée par la confusion des lettres *k* et *f* qui ne diffèrent que par les points, la lettre p n’existant pas on arabe. Le nom de le femme, d’après les mahométans, est Zuleïkha.
 
-**465.** Les commentateurs ajoutent
+**465.** Les commentateurs ajoutent : il y en avait sept.
 
-**466.** Mot a mot
+**466.** Mot a mot : tourne le dos à cette affaire, laisse cela là.
 
 **467.** *Aziz* veut dire en arabe puissant, et aussi cher. Dans le premier sens, ce mot s’applique à Dieu. Il est employé exceptionnellement ici pour l’intendant de trésor en Égypte, et ce titre s’est conservé longtemps chez les Orientaux comme particulier aux gouverneurs de l’Égypte et aux lieutenants des califes dans ce pays.
 
@@ -17372,13 +17372,13 @@ ZENDJEBIL, LXXVI, 17.
 
 **471.** C’est-à-dire, dans vos magasins, sans le battre.
 
-**472.** Dans le texte arabe, les mots
+**472.** Dans le texte arabe, les mots : *moi-même*, *ma personne*, et les mots : *le sang*, *la passion* sont rendus par le même mot *nafs* dans les deux cas, et nous ferons observer à cette occasion que, lorsqu’on traduit en général *nafs* par âme, il faut y attacher plutôt le sens du principe de la vie, du sang, du penchant, que celui de l’âme immatérielle, esprit, *rouh*. Les commentateurs, s’appuyant sur ce verset du Koran, ainsi que sur le verset 24, et bien plus encore sur les contes des juifs, racontent que Joseph, malgré l’apparition de l’ange Gabriel, était prêt de céder aux sollicitations de la femme, et ne reprit l’empire sur sa passion que lorsque l’ombre de Jacob lui apparut, et, le frappant sur les extrémités des doigts, eut dissipé les désirs qui le maîtrisaient.
 
-**473.** Cela peut vouloir dure qu’une charge de chameau de plus pour le chameau de Benjamin sera peu de chose pour un roi d’Égypte, ou bien en attribuant ces derniers à mots à Jacob, ils signifieraient
+**473.** Cela peut vouloir dure qu’une charge de chameau de plus pour le chameau de Benjamin sera peu de chose pour un roi d’Égypte, ou bien en attribuant ces derniers à mots à Jacob, ils signifieraient : c’est trop peu de chose pour que je risque mon fils.
 
 **474.** C’est·à-dire, d’après l’usage en vigueur chez nous Hébreux, le voleur est retenu comme esclave.
 
-**475.** D’après les commentateurs, Joseph, étant tout petit, aurait volé une ceinture à sa tante
+**475.** D’après les commentateurs, Joseph, étant tout petit, aurait volé une ceinture à sa tante ; selon d’autres, une poule, pour la donner à un pauvre, ou enfin une idole à son grand-père Laban.
 
 **476.** Le titre de cette sourate est pris du verset 14, qui commence par le mot tonnerre.
 
@@ -17388,9 +17388,9 @@ ZENDJEBIL, LXXVI, 17.
 
 **479.** Le Clément sans bornes, *errahmam*, est un des noms de Dieu dans le chapelet musulman. Ce nom, porté par quelques individus parmi les Arabes, était une innovation lorsque Mahomet l’appliqua pour la première fois à Dieu.
 
-**480.** Le mot du texte est
+**480.** Le mot du texte est : *ne désespèrent pas*, que les commentateurs, s’appuyant sur une tradition, regardent comme équivalent de *ne savent-ils pas* ?
 
-**481.** Les mots soulignés ne se trouvent pas dans le texte, la phrase n’est pas achevée
+**481.** Les mots soulignés ne se trouvent pas dans le texte, la phrase n’est pas achevée ; mais ici comme dans d’autres passages du Koran, il n’est pas difficile de la compléter. Ces mots s’appliquent à Dieu.
 
 **482.** Le mot du texte *ommo’lkitab* (la mère du Livre), qui ordinairement sert à désigner le premier chapitre du Koran, veut dire ici le prototype du Koran, le livre des arrêts éternels de Dieu.
 
@@ -17402,7 +17402,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **486.** Soit de colère et de dépit pour se mordre les doigts, soit pour ne pas éclater de rire, soit pour donner à entendre à ces prophètes qu’ils eussent à se taire.
 
-**487.** Le mot du texte arabe qui se trouve à cet endroit est *mékami*, ma place
+**487.** Le mot du texte arabe qui se trouve à cet endroit est *mékami*, ma place ; ce qui signifie la place, l’endroit on le genre humain comparaître devant Dieu au jour du jugement, ou bien la surveillance que Dieu exerce sur les actions des hommes.
 
 **488.** C’est-à-dire, l’enfer l’attend dans l’autre vie, il y sera précipité.
 
@@ -17412,11 +17412,11 @@ ZENDJEBIL, LXXVI, 17.
 
 **491.** *Ou d’incrédulité*, car le mot *kofr* a ces deux sens.
 
-**492.** Selon les commentateurs, cela veut dire
+**492.** Selon les commentateurs, cela veut dire : Ce jour-là l’homme coupable ne pourra acheter rien pour offrir en expiation de ses fautes, et il ne trouvera pas d’amis qui intercède avec succès en sa faveur.
 
 **493.** lsmaël s’établit en Arabie. On sait du reste que la tradition mahométane attribue à Abraham la fondation de la Caaba, temple de la Mecque.
 
-**494.** Hedjr est le nom d’une vallée autos Médine et la Syrie. C’était autrefois le pays des Thémoudites, peuple criminel exterminé par ordre de Dieu
+**494.** Hedjr est le nom d’une vallée autos Médine et la Syrie. C’était autrefois le pays des Thémoudites, peuple criminel exterminé par ordre de Dieu ; il en aussi question vers la fin du chapitre.
 
 **495.** Voyez sur ces lettres, II, 1.
 
@@ -17424,9 +17424,9 @@ ZENDJEBIL, LXXVI, 17.
 
 **497.** Qu’elle les amuse au point qu’ils ne songent pas à la vie future.
 
-**498.** Littéralement
+**498.** Littéralement : *qui n’ait eu un livre connu*. Cependant le mot *kitab*, que l’on traduit généralement par *livre*, n’a pas souvent dans le Koran cette signification ; il s’emploie pour tout *écrit*, *acte*, *écriture*, *déclartion*.
 
-**499.** Le mot *medjnoun* du texte, veut dire
+**499.** Le mot *medjnoun* du texte, veut dire : possédé d’un *djinn*, génie, démon ; et se dit d’un fou ; d’un idiot.
 
 **500.** C’est-à-dire, non pas pour répondre au premier défi des infidèles et satisfaire le désir ou la curiosité des hommes, mais dans un but sérieux.
 
@@ -17438,19 +17438,19 @@ ZENDJEBIL, LXXVI, 17.
 
 **504.** Voy. le chap. XXXVII, 6 seq.
 
-**505.** Mot à mot
+**505.** Mot à mot : dont vous n’êtes pas les gardiens, c’est-à-dire, vous n’êtes pas obligés de vous donner la peine de la conserver.
 
-**506.** Les commentateurs interprètent différemment ce passage. Les uns croient qu’il veut dire que Dieu connaît les hommes des générations antérieures et de celles qui les suivent
+**506.** Les commentateurs interprètent différemment ce passage. Les uns croient qu’il veut dire que Dieu connaît les hommes des générations antérieures et de celles qui les suivent ; d’autres qu’il s’agit ici des combattants qui s’élancent les premiers et de ceux qui viennent à la suite ; d’autres enfin croient y voir une allusion à ce qu’un jour une belle femme priant dans une mosquée tout près de Mahomet, quelques-uns sortirent avant pour éviter de la voir, d’autres au contraire restèrent pour la voir sortir.
 
 **507.** Voy. au sujet de cette épithète, III, 34.
 
-**508.** Mot à mot
+**508.** Mot à mot : *j’ornerai* pour eux. Ces mots peuvent signifier, soit : j’embellirai toutes leurs actions à leurs yeux, afin qu’ils ne se doutent pas de leurs propres péchés, soit : je disposerai tout de manière qu’ils tomberont facilement dans le piège.
 
-**509.** C’est-à-dire, sur le chemin où les voyageurs qui se rendent en Syrie peuvent voir et découvrir les traces de ces villes. Le texte porte
+**509.** C’est-à-dire, sur le chemin où les voyageurs qui se rendent en Syrie peuvent voir et découvrir les traces de ces villes. Le texte porte : *elle est sur le chemin qui est là*. (le pronom peut se rapporter à une seule ville, Sodome, où à la réunion de cinq villes.
 
 **510.** Voy. la note du titre de ce chapitre.
 
-**511.** Les sept versets du chap. I. On sait que la rédaction actuelle du Koran n’est pas la rédaction, primitive
+**511.** Les sept versets du chap. I. On sait que la rédaction actuelle du Koran n’est pas la rédaction, primitive ; cependant ce passage, ainsi que le verset 16 du chap. XI, ferait supposer qu’une partie au moins du Koran était déjà en ordre du temps de Mahomet même et formait un ensemble.
 
 **512.** Sois doux et bienveillant pour eux.
 
@@ -17460,19 +17460,19 @@ ZENDJEBIL, LXXVI, 17.
 
 **515.** Le titre de cette sourate est pris du verset 70.
 
-**516.** Nous dirons ici une fois pour toutes que les mots *bilhakki*, pour la vérité, qui reviennent si souvent dans le Koran, veulent dire
+**516.** Nous dirons ici une fois pour toutes que les mots *bilhakki*, pour la vérité, qui reviennent si souvent dans le Koran, veulent dire : *en toute vérité*, sérieusement, en opposition à *bilbathili*, en vain, et comme pour s’en faire un jeu.
 
 **517.** Ceci est une allusion à un Arabe idolâtre qui apporta un os rongé par la carie, et demanda à Mahomet s’il était possible qu’un os pourri fût restitué il la vie et que les morts fussent ressuscités.
 
-**518.** Il y a dans le texte
+**518.** Il y a dans le texte : *Pour y trouvez du beau pour vous* ; par là Mahomet veut dire que ceux qui possèdent des troupeaux trouvent de quoi s’enorgueillir quand ils les réunissent autour de leurs habitations.
 
-**519.** *D’espèces différentes*. On peut aussi traduire
+**519.** *D’espèces différentes*. On peut aussi traduire : *de couleurs différentes*.
 
-**520.** Ce passage, à cause de la particule *an*, peut se traduire encore
+**520.** Ce passage, à cause de la particule *an*, peut se traduire encore : *il a établi des montagnes* (*ou des bases solides*), *afin que la terre ne s’échappe pas*.
 
 **521.** Dans le désert, les Arabes n’ont souvent pas d’autre moyen de s’orienter que de grands blocs de pierres, des tas de pierres jetés çà et là.
 
-**522.** Mot à mot
+**522.** Mot à mot : *sans science*, c’est-à-dire sans avoir par devers eux la science nécessaire pour diriger les autres.
 
 **523.** Selon les commentateurs, ces mots sont une allusion il Nemrod, fils de Canaan, qui a bâti un palais à Babel, haut de cinq mille coudées, pour observer de là ce qui se passait au ciel. Dieu a détruit cet édifice par une tempête.
 
@@ -17482,71 +17482,71 @@ ZENDJEBIL, LXXVI, 17.
 
 **526.** Les Arabes idolâtres regardaient les anges comme des filles de Dieu.
 
-**527.** Nous avons déjà dit que les mots
+**527.** Nous avons déjà dit que les mots : *gloire à lui*, sont mis dans le Koran toutes les fois qu’on cite quelque blasphème, quelque opinion étrange sur Dieu.
 
-**528.** Les Arabes idolâtres regardaient comme un malheur la naissance d’une fille
+**528.** Les Arabes idolâtres regardaient comme un malheur la naissance d’une fille ; ils avaient même coutume de les enterrer vives.
 
 **529.** Ou *de différentes couleurs *, le miel étant tantôt rouge, tantôt jaune et tantôt blanc.
 
-**530.** Mot à mot
+**530.** Mot à mot : *tel d’entre vous est porté au plus bas âge *, c’est-à-dire à la vieillesse faible et impuissante.
 
 **531.** C’est-à-dire, il tombera en enfance, et oubliera tout ce qu’il avait su.
 
-**532.** Mot à mot
+**532.** Mot à mot : *ce que leurs mains droites ont acquis*. C’est ainsi qu’on désigne les esclaves achetés et les captifs.
 
 **533.** La parabole de l’esclave du verset précédent, et de l’h0mme muet de celui-ci, s’appliquent aux idoles et à leur inutilité pour l’homme.
 
-**534.** Mot à mot
+**534.** Mot à mot : *l’affaire de l’heure*, c’est-à-dire du jour de la résurrection.
 
 **535.** Le mot *beït*, en arabe, veut dire tente ou toute autre habitation.
 
-**536.** Le texte arabe porte que ces mots
+**536.** Le texte arabe porte que ces mots : *et il ne leur sera pas donné de permission* (*de congé*)· ; les commentateurs y suppléent par les mots : *de présenter des excuses*, ou *de retourner sur la terre pour mieux vivre*.
 
-**537.** C’est-à-dire
+**537.** C’est-à-dire : les divinités chimériques s’empresseront elles-mêmes de désavouer toute prétention de se croire égales à Dieu.
 
 **538.** Nous traduisons ainsi partout le mot arabe *fahcha* ou *fahicha*, qui s’applique à tout péché charnel.
 
 **539.** Mahomet reproche ici aux Arabes leur mauvaise foi dans les traités, qu’ils ne regardaient comme obligatoires que lorsqu’ils étaient les plus faibles.
 
-**540.** Mot à mot
+**540.** Mot à mot : le lapidé. Il arriva plus d’une fois à Mahomet de prononcer des blasphèmes ou des paroles futiles au milieu des plus graves discours ou des prières ; il attribuait ces écarts à l’action du diable. Pour se prémunir contre ce danger, il ordonne d’invoquer l’assistance de Dieu ; c’est ce que font les musulmans, en prononçant, avant la prière, ces mots : *Je me réfugie auprès de Dieu contre Satan le lapidé*. Au sujet de cette épithète, voy. chap. III, 34.
 
-**541.** Cet homme qui était censé instruire Mahomet dans la Bible, était selon les uns Djebr-er-Roumi, c’est-à-dire grec, ou romain d’Orient, esclave d’Amir de Hadramaut
+**541.** Cet homme qui était censé instruire Mahomet dans la Bible, était selon les uns Djebr-er-Roumi, c’est-à-dire grec, ou romain d’Orient, esclave d’Amir de Hadramaut ; selon d’autres, Mahomet était accusé par les Arabes de puiser ses prétendues révélations chez deux individus, Djebr et Yesar, fabricants de sabres établis à la Mecque, adonnés à la lecture du Pentateuque et de l’Évangile : selon d’autres, c’était Salman le persan, un des hommes les plus dévoués à Mahomet et à sa famille. Ce passage prouve, dans tous les cas, que la personne à laquelle les Arabes faisaient allusion, était un étranger. L’expression *langue barbare* est l’équivalent du mot *adjemi*, qui se dit de tout idiome non arabe.
 
 **542.** Proprement, *rassuré*, *tranquillisé par la foi*, c’est l’expression dont on se sert toujours en parlant de musulmans qui par crainte ont embrassé une autre religion quoique au fond ils soient musulmans.
 
-**543.** Mot à mot
+**543.** Mot à mot : *il la revêtit du vêtement de la faim*, etc.
 
-**544.** Il y a dans le texte
+**544.** Il y a dans le texte : Abraham était un peuple, c’est-à-dire la nation d’Abraham dont les Koreïchites idolâtres prétendaient tirer leur origine.
 
 **545.** C’est-à-dire, le sabbat a été institué pour les juifs.
 
-**546.** Le titre de cette sourate est emprunté à son sujet même. Il s’agit ici du voyage aérien que Mahomet aurait fait d’abord du temple de la Mecque au temple de Jérusalem, et ensuite à travers les sept cieux jusqu’au trône de Dieu. Mahomet aurait été transporté dans les régions célestes par l’ange Gabriel, sur une monture nommée *Borak*, que la tradition représente comme un être ailé à la figure de femme, au corps de cheval, à la queue de paon. On a longtemps disputé, dans les premiers temps de l’islam, sur l’authenticité de ce fait
+**546.** Le titre de cette sourate est emprunté à son sujet même. Il s’agit ici du voyage aérien que Mahomet aurait fait d’abord du temple de la Mecque au temple de Jérusalem, et ensuite à travers les sept cieux jusqu’au trône de Dieu. Mahomet aurait été transporté dans les régions célestes par l’ange Gabriel, sur une monture nommée *Borak*, que la tradition représente comme un être ailé à la figure de femme, au corps de cheval, à la queue de paon. On a longtemps disputé, dans les premiers temps de l’islam, sur l’authenticité de ce fait ; les uns soutenant que cette ascension nocturne eut lieu en vision seulement ; d’autres qu’elle fut effectuée par Mahomet réellement et corporellement. Ceux qui étaient pour la première de ces deux versions s’étayaient du témoignage de Moawiah, compagnon de Mahomet (plus tard calife), qui avait toujours regardé ce voyage comme une simple vision, et d’Aïcha, femme du prophète, qui assurait que Mahomet n’avait jamais découché. Il ne fallait que l’intervention de ces deux personnages si odieux à quelques sectes, aux chiites, par exemple, pour faire accréditer l’opinion contraire. Aussi, c’est une des croyances universellement reçues aujourd’hui chez les musulmans, que cette ascension a eu lieu en réalité. On ajoute que ce voyage céleste, où Mahomet a vu les sept cieux et s’est entretenu avec Dieu, s’est fait si rapidement, que le prophète trouva son lit qu’il avait quitté, tout chaud, et que, le pot ou il chauffait de l’eau étant près de se renverser à son départ, il revint assez à temps pour le relever sans qu’il y eût une goutte d’eau de répandue.
 
-**547.** Les commentateurs entendent par les mots
+**547.** Les commentateurs entendent par les mots : deux fois, les deux grands crimes commis par les juifs, d’abord l’assassinat du prophète Isaïe et l’emprisonnement de Jérémie, puis la mort de Zacharie, de Jean-Baptiste, et le complot contre la vie de Jésus-Christ.
 
 **548.** Selon les commentateurs, se souciant peu, du reste, de l’exactitude chronologique en tout ce qui regarde les peuples étrangers, il peut être question ici soit de Djalout le Philistin (Goliath), soit de Nabuchodonosor, soit de Sennachérib l’Assyrien, tous instruments de la colère de Dieu.
 
 **549.** Cette seconde punition peut se rapporter à la conquête d’Antiochus Épiphane, ou bien à la destruction de Jérusalem par les Romains.
 
-**550.** Cette expression figurée, qui veut dire que la nuit étant obscure ne paraît pas, pour ainsi dire, est interprétée ainsi par les musulmans
+**550.** Cette expression figurée, qui veut dire que la nuit étant obscure ne paraît pas, pour ainsi dire, est interprétée ainsi par les musulmans : Dieu avait d’abord créé la lune aussi éclatante que le soleil, mais aurait dans la suite ordonné à l’ange Gabriel de passer une aile sur sa face. (Voy. Tabari, traduct. de M. L. Duheux, p. 221.)
 
 **551.** Cela signifie que le jour a été donné aux hommes pour vaquer à des occupations lucratives, au commerce, etc. et pour compter les années.
 
 **552.** Expression figurée pour *destinée de l’homme*, et empruntée au langage et aux croyances des Arabes anciens.
 
-**553.** Mot à mot
+**553.** Mot à mot : de leur dire *fi !*
 
-**554.** Mot à mot
+**554.** Mot à mot : abaisse vers eux l’aile de ton humilité.
 
 **555.** Ne sois ni avare ni prodigue.
 
 **556.** On ne doit tuer un homme que pour le meurtre, pour l’apostasie et l’adultère. Ce dernier cas même est controversé.
 
-**557.** Nous traduisons le mot *veli* du texte par *proche*, qui est le sens propre de ce mot, mais qui, à cause même de ce sens primitif et général, signifie
+**557.** Nous traduisons le mot *veli* du texte par *proche*, qui est le sens propre de ce mot, mais qui, à cause même de ce sens primitif et général, signifie : patron et client, protecteur et protégé, allié et saint (proche de Dieu). Par le *pouvoir*, il tout entendre le droit d’exiger du meurtrier une satisfaction, c’est-à-dire le prix du sang.
 
-**558.** Rien n’est plus vague que ce précepte sur un point aussi délicat du droit pénal. Les mots
+**558.** Rien n’est plus vague que ce précepte sur un point aussi délicat du droit pénal. Les mots : *qu’il ne dépasse pas la limite*, peuvent signifier qu’en tuant le meurtrier, il s’abstienne de cruautés sur sa personne, ou bien qu’il se contente de tuer le meurtrier sans étendre sa vengeance sur sa famille. Les mots : *il est assisté*, peuvent également se rapporter au meurtrier qui serait vengé à son tour si l’on dépassait la limite, ou à l’homme tué que ce précepte cherche à protéger. Le mot du texte *mansour*, qui, selon sa forme grammaticale, veut dire *assisté*, veut dire toujours *victorieux*, *vainqueur* (assisté de Dieu). Le sens qui s’offre le plus naturellement à l’esprit serait : *que le proche de la victime ne dépasse pas la limite de la stricte justice sur le meurtrier : car celui-ci serait assisté, secouru, vengé à son tour*.
 
-**559.** On explique ce passage ainsi *Ne cours pas après des choses vaines et qui ne te serviront à rien*
+**559.** On explique ce passage ainsi *Ne cours pas après des choses vaines et qui ne te serviront à rien* ; ou bien : *N’accuse personne d’aucun crime si tu n’en as pas acquis la certitude*.
 
 **560.** Il s’agit évidemment ici de saints invoqués par les chrétiens ou même de Jésus-Christ.
 
@@ -17554,15 +17554,15 @@ ZENDJEBIL, LXXVI, 17.
 
 **562.** Il s’agit ici de cette ascension aux cieux qui donne le titre à cette *sourate*, et que les musulmans croient avoir eu lieu réellement. L’arbre maudit est le Zakkoum, au sujet duquel voyez le chapitre LVI.
 
-**563.** Expression proverbiale pour dire
+**563.** Expression proverbiale pour dire : Avec toutes tes forces.
 
 **564.** Ce livre c’est le livre où sont inscrites les actions de chacun.
 
-**565.** Le mot *sonnet*, *sonna*, que nous traduisons ici par *voie*, signifie au figuré
+**565.** Le mot *sonnet*, *sonna*, que nous traduisons ici par *voie*, signifie au figuré : *usage*, *coutume* et *tradition*.
 
-**566.** Les mots du texte sont
+**566.** Les mots du texte sont : *la lecture de l’aube du jour est vue*, ou *se fait en présence de témoins*. On entend par là que les anges en sont témoins.
 
-**567.** Il est à remarquer que c’est dans ce genre de veilles que les hommes adonnés à la vie spirituelle, parmi les musulmans, éprouvent leurs extases et les manifestations de Dieu. On emploie, dans le langage de ces hommes, le mot *mekam*, place, pour un des degrés de ce rapprochement de Dieu
+**567.** Il est à remarquer que c’est dans ce genre de veilles que les hommes adonnés à la vie spirituelle, parmi les musulmans, éprouvent leurs extases et les manifestations de Dieu. On emploie, dans le langage de ces hommes, le mot *mekam*, place, pour un des degrés de ce rapprochement de Dieu ; et nul doute que cette acception ne lui soit venue du passage qui nous occupe.
 
 **568.** On peut entendre ceci soit comme une prière à Dieu, pour qu’il accorde à l’homme une mort et une résurrection désirée, soit, en supposant qu’il s’agit ici de Mahomet, pour que Dieu lui accorde la libre entrée à la Mecque et la faculté d’en sortir libre.
 
@@ -17570,21 +17570,21 @@ ZENDJEBIL, LXXVI, 17.
 
 **570.** C’est-à-dire, il n’y a qu’un petit nombre qui sache quelque chose là-dessus.
 
-**571.** Ce passage, disent les commentateurs, a été révélé lorsque les idolâtres ayant entendu Mahomet dans se prière dire
+**571.** Ce passage, disent les commentateurs, a été révélé lorsque les idolâtres ayant entendu Mahomet dans se prière dire : *Ya allah, ya rahman*, lui reprochèrent d’invoquer deux êtres différents tandis qu’il venait de leur dire : « N’adorez pas deux dieux. » (XVI, 53)
 
 **572.** Ce chapitre est intitulé *la Caverne*, parce qu’il y est question de la caverne des Sept-Dormants. Voy. verset 8.
 
-**573.** C’est·à-dire, c’est un péché énorme que de dire
+**573.** C’est·à-dire, c’est un péché énorme que de dire : *Dieu a un fils*.
 
-**574.** On n’est pas d’accord sur la signification du mot *Rakim*. Les uns croient que c’est le nom du chien des Sept-Dormants
+**574.** On n’est pas d’accord sur la signification du mot *Rakim*. Les uns croient que c’est le nom du chien des Sept-Dormants ; d’autres que c’est le nom d’une table sur laquelle étaient inscrits les noms des hommes qui s’étaient retirés dans la caverne, et en effet la forme de ce mot dérivé de la racine *rakama*, tracer des caractères, broder, dessiner, équivaut à *markoum* et peut s’appliquer à une table couverte de caractères.
 
 **575.** Les Sept-Dormants dont il est question ici devaient être des jeunes gens de bonne famille d’Éphèse, sous le règne de l’empereur Decius, que les commentateurs appellent à tort Decianus.
 
-**576.** Toutes les fois que dans le Koran une personne fait une question à ses compagnons, en lieu d’employer le pronom nous, elle parle à la seconde personne de pluriel, bien qu’elle fasse partie de la troupe. Ainsi, pour conserver cette particularité du texte arabe, nous avons traduit
+**576.** Toutes les fois que dans le Koran une personne fait une question à ses compagnons, en lieu d’employer le pronom nous, elle parle à la seconde personne de pluriel, bien qu’elle fasse partie de la troupe. Ainsi, pour conserver cette particularité du texte arabe, nous avons traduit : *Combien de temps êtes-vous restés ici ?* pour : *sommes-nous restés ici ?*
 
 **577.** C’est·à-dire ç’en serait fait du salut de vos âmes.
 
-**578.** Mahomet, questionné par les juifs au sujet des Sept-Dormants, leur promit de leur répondre le lendemain, oubliant d’ajouter
+**578.** Mahomet, questionné par les juifs au sujet des Sept-Dormants, leur promit de leur répondre le lendemain, oubliant d’ajouter : S’il plait à Dieu. En punition de cet oubli, La révélation se fit attendre quelques jours.
 
 **579.** C’est-à-dire, qui adressent à Dieu des prières pour attirer ses regards.
 
@@ -17596,13 +17596,13 @@ ZENDJEBIL, LXXVI, 17.
 
 **583.** On doit entendre par là la création d’abord directe d’Adam, créé de limon, ensuite le création de la race humaine par la génération.
 
-**584.** Ce passage embarrasse les commentateurs. Éblis est ici compté parmi les génies, *eldjinn*, race intermédiaire entre les hommes et les anges, et dont l’origine et la nature sont aussi vaguement définies dans le Koran que dans presque toutes les religions
+**584.** Ce passage embarrasse les commentateurs. Éblis est ici compté parmi les génies, *eldjinn*, race intermédiaire entre les hommes et les anges, et dont l’origine et la nature sont aussi vaguement définies dans le Koran que dans presque toutes les religions ; Éblis était d’abord un ange, ainsi que le dit le Koran en plusieurs endroits ; sa rébellion l’a fait précipiter du ciel, il devient Satan, *echcheïtan*, le tentateur, le diable, l’ennemi déclaré des humains. Les anges ne peuvent ni enfanter ni engendrer, et ne pèchent point, tandis que les génies se reproduisent, sont sujets au péché et passibles des châtiments de la vie future. Quelques commentateurs croient qu’il faut regarder Éblis comme le père de la race des génies ; mais le texte qui nous occupe dit : il était du nombre des génies. Quelle que soit l’affinité des êtres désignés par le nom de *cheïtan*, Satan (au pluriel *cheïatin*), avec cent de génies (*djinn*), tous deux représentant le principe de mal, il est nécessaire de les distinguer, d’en distinguer le caractère et l’apparition dans les différents cultes. Satan appartient au culte, sinon primitif, du moins fort ancien, des peuples sémitiques ; il se rattache au mythe de la chute de l’ange et de l’homme : les génies appartiennent plutôt aux mythes perses et indiens (*div*, *deva*). et n’auraient fait invasion dans les cultes des peuples sémitiques que plus tard. On voit par les passages du Koran, chap. II, 96, et chap. XIX, 69, que les mots génies et Satan sont identiques ; on peut le prouver encore par des passages analogues, chap. XXVII, 39-40, LXXII, 11. Pour mettre le lecteur français à même de s’éclairer sur cette question, nous traduisons partout le mot *cheïatin* par *démons*, *cheïtan* par *Satan*, et *djinn* par *génies*.
 
 **585.** Josué, fils de Noun.
 
-**586.** Ces deux mers, disent les commentateurs, sont la mer de la Grèce et la mer de la Perse. Comme ce passage ne trouve aucune explication plausible dans le sens littéral, les commentateurs ajoutent que Moïse veut parler de sa prochaine entrevue avec Khedr, personnage mystérieux dont il sera question plus loin, dans ce cas la confluent des deux mers serait l’entrevue de Moïse, océan de la science extérieure et Khedr, océan de la science surnaturelle, intérieure. Moïse s’entretenant un jour avec Dieu, lui demanda
+**586.** Ces deux mers, disent les commentateurs, sont la mer de la Grèce et la mer de la Perse. Comme ce passage ne trouve aucune explication plausible dans le sens littéral, les commentateurs ajoutent que Moïse veut parler de sa prochaine entrevue avec Khedr, personnage mystérieux dont il sera question plus loin, dans ce cas la confluent des deux mers serait l’entrevue de Moïse, océan de la science extérieure et Khedr, océan de la science surnaturelle, intérieure. Moïse s’entretenant un jour avec Dieu, lui demanda : « Connais-tu parmi tes serviteurs (les humains) un homme plus savant que moi ? » Dieu lui répondit : « Oui. — Et où le trouverai-je ? — Tu le trouveras au confluent des deux mers. — Et comment trouverai-je cet endroit ? — Prends un poisson, et à l’endroit où le poisson aura disparu, tu attendras cet homme (Khedr).
 
-**587.** Ce poisson devait être cuit et servir de repas à Moïse et à Josué. Moïse s’étant endormi, le poisson mis dans la marmite commença à se remuer, et sautant de la marmite tomba dans la mer, car on était sur le rivage de l’Océan de l’eau de la vie
+**587.** Ce poisson devait être cuit et servir de repas à Moïse et à Josué. Moïse s’étant endormi, le poisson mis dans la marmite commença à se remuer, et sautant de la marmite tomba dans la mer, car on était sur le rivage de l’Océan de l’eau de la vie ; à l’aide de cette eau le poisson fut rendu à la vie.
 
 **588.** Voyez la note du verset 81.
 
@@ -17618,15 +17618,15 @@ ZENDJEBIL, LXXVI, 17.
 
 **594.** Jardins du paradis. C’est un pléonasme, car le mot *djennat* (jardins) d’origine arabe, est la même chose que *ferdous* (paradisus, paradis), d’origine indienne (paradisa). Cependant les commentateurs ont soin de dite que *ferdous* est un jardin planté à la fois de vignes et de palmiers, et que c’est l’étage le plus élevé de la demeure des bienheureux.
 
-**595.** On voit par ce passage qu’Alexandre le Grand n’est nullement aux yeux de Mahomet un idolâtre, et les musulmans ne sauraient concevoir qu’un prince dont la mémoire s’est conservée dans l’admiration traditionnelle de l’0rient, fût païen
+**595.** On voit par ce passage qu’Alexandre le Grand n’est nullement aux yeux de Mahomet un idolâtre, et les musulmans ne sauraient concevoir qu’un prince dont la mémoire s’est conservée dans l’admiration traditionnelle de l’0rient, fût païen ; Alexandre le Grand est donc un envoyé de Dieu, chargé d’une mission spéciale dans les contrées lointaines, celle d’y détruire le mal.
 
 **596.** Voy. II, 1, note.
 
-**597.** C’est l’expression figurée assez commune chez les poètes arabes pour dire
+**597.** C’est l’expression figurée assez commune chez les poètes arabes pour dire : mes cheveux sont blanchis par l’âge.
 
 **598.** C’est-à-dire, je crains que mes neveux ne s’éloignent du culte du vrai Dieu.
 
-**599.** Mot à mot
+**599.** Mot à mot : Nous ne lui avons pas donné d’homonyme jusqu’ici.
 
 **600.** Voy. chap. III, 37.
 
@@ -17634,15 +17634,15 @@ ZENDJEBIL, LXXVI, 17.
 
 **602.** Du côté de l’est de Jérusalem ou du côté de l’est de la maison de ses parents. C’est à cause de cela, ajoute gravement le commentateur, que les chrétiens se tournent dans leurs prières vers l’Orient.
 
-**603.** Il faut suppléer par ces mots
+**603.** Il faut suppléer par ces mots : Tu ne t’approcheras pas de moi. L’ange Gabriel, qui, selon les mahométans, est le Saint-Esprit, s’approcha de Marie et souffla sur son sein. Le souffle divin descendit dans son sein, et engendra Jésus.
 
-**604.** Soit l’enfant, qui, aussitôt né, se mit à parler
+**604.** Soit l’enfant, qui, aussitôt né, se mit à parler ; soit l’ange Gabriel, qui dans ce moment l’accouchait.
 
 **605.** Rafraichir son œil est une expression arabe pour dire se consoler. De là vient que les Orientaux, qui regardent la postérité, surtout mâle, comme le plus grand bienfait du ciel, appellent leurs enfants *korret ol’aïn*, fraîcheur des yeux.
 
 **606.** On a vu plus haut (chap. III) que Mahomet n’admettait point la Passion de Jésus-Christ. Le verset 34 a pour but de faire regarder Jésus comme simple mortel et prophète, dont la vie est à la disposition de Dieu, qui fera mourir tous les êtres pour les ressusciter ensuite. Aussi, d’après Mahomet, Jésus-Christ, qui a été enlevé au ciel, doit mourir réellement avant le jour du jugement dernier.
 
-**607.** Nous croyons nécessaire de fixer l’attention du lecteur sur les noms de *prophète* (*nebi*) et d’envoyé (*reçoul*), joints aux noms de personnages dont il est question dans ce chapitre. Ces mots appartenant tous les deux à Moïse, à Jésus, à Mahomet, l’on s’est habitué à se servir indistinctement de l’un ou de l’autre et d’en confondre la signification
+**607.** Nous croyons nécessaire de fixer l’attention du lecteur sur les noms de *prophète* (*nebi*) et d’envoyé (*reçoul*), joints aux noms de personnages dont il est question dans ce chapitre. Ces mots appartenant tous les deux à Moïse, à Jésus, à Mahomet, l’on s’est habitué à se servir indistinctement de l’un ou de l’autre et d’en confondre la signification ; ils ne peuvent pas cependant s’appliquer indistinctement à tous les personnages qui ont reçu quelque révélation. Le titre de *nebi*, prophète, appartient à Abraham, à Isaac, à Jacob ; ils sont dépositaires du culte du Dieu unique, mais leur ministère se renferme dans leur famille. D’autres sont des *reçouls* (*envoyés*, *apôtres*), chargés d’une mission spéciale auprès d’un peuple incrédule : tels étaient Houd, Saleh, Choaïb, qui prêchaient les peuples de l’Arabie. C’est à ce titre qu’Alexandre le Grand, que les mahométans ne peuvent, dans leur admiration, se figurer comme idolâtre, est un apôtre envoyé pour châtier les peuples méchants et idolâtres. (Voy. chap. XVIII, vers. 86.) Moïse, Jésus, Mahomet, qui réunissaient dans leur famille le don de prophétie à l’apostolat, réunissent ces deux titres ; à ces nome de *nebi* et *reçoul*, les mahométans joignent encore celui de *veli* (ami de Dieu, ou saint). Ainsi, d’après ce que nous venons de dire, les uns sont *nebi*, *reçoul* et *veli*, et ce sont les plus grands dépositaires de la mission divine ; d’autres, *nebi* et *veli* seulement ; d’autres enfin, *veli* seulement, comme, par exemple, Ali, gendre de Mahomet.
 
 **608.** Énoch. Le verset 58 fait allusion à l’enlèvement d’Énoch au ciel, comme on le lit dans la Genèse.
 
@@ -17650,51 +17650,51 @@ ZENDJEBIL, LXXVI, 17.
 
 **610.** Car, disent les commentateurs, les idolâtres nomment bien leurs idoles *dieux* (*ilah*), mais non pas *Allah*, le Dieu unique.
 
-**611.** Dans d’autres passages analogues, le Koran s’exprime ainsi
+**611.** Dans d’autres passages analogues, le Koran s’exprime ainsi : Nous rassemblerons les hommes et les génies.
 
-**612.** Le supplice de l’heure
+**612.** Le supplice de l’heure ; c’est le châtiment du jugement dernier.
 
 **613.** Tout seul, c’est-à-dire dépouillé de tout et tout nu.
 
 **614.** Le mot du texte peut également être traduit par *appui *, *force* et *gloire*, *honneur*.
 
-**615.** Ou bien
+**615.** Ou bien : désavoueront le culte, etc.
 
 **616.** Dans le texte, *cheïatin *, pluriel de *cheïtan*, Satan. Voyez chap. XVIII, verset 48.
 
 **617.** Voy. II, 1.
 
-**618.** Les mots
+**618.** Les mots : *si tu élèves ta voix*, doivent s’entendre de la prière que Mahomet recommande de faire à voix basse.
 
 **619.** Nous ferons observer ici, une fois pour toutes, que le mot Dieu avec un D majuscule, répond toujours au mot arabe *Allah*, le Dieu unique, tandis que dieu, divinité, rend le mot *ilah* sans article.
 
 **620.** Comme le Grand, le Bon, le Savant, etc.
 
-**621.** Pour dire
+**621.** Pour dire : fais cesser l’angoisse qui m’oppresse.
 
 **622.** On sait par le Pentateuque que Moïse avait l’élocution difficile.
 
-**623.** Mot à mot
+**623.** Mot à mot : ceins mes reins avec lui.
 
-**624.** Mot à mot
+**624.** Mot à mot : or j’ai jeté sur toi l’amour de ma part, c’est-à-dire je t’ai donné quelque charme qui te fera bien venir chez Pharaon lui-même.
 
-**625.** Mot à mot
+**625.** Mot à mot : que son œil fût rafraîchi.
 
 **626.** C’est-à-dire, pour mes buts à moi.
 
-**627.** Pharaon semble ébranlé, et demande à Moïse
+**627.** Pharaon semble ébranlé, et demande à Moïse : Alors comment expliquer les croyances de tant de siècles ?
 
 **628.** Il s’agit ici du livre éternel qui est dans le ciel.
 
-**629.** Mot à mot
+**629.** Mot à mot : des couples.
 
 **630.** C’est-à-dire que de part et d’autre les chances soient égales.
 
-**631.** Mot à mot
+**631.** Mot à mot ; *au jour de l’ornement*, c’est-à-dire au jour des réjouissances prochaines où la ville sera parée et le peuple rassemblé dans les rues.
 
-**632.** Ou bien
+**632.** Ou bien ; ils veulent vous priver de vos chefs.
 
-**633.** Dans le texte
+**633.** Dans le texte : *essameri*, que l’on traduit par le Samaritain, attendu que les commentateurs font observer que ce n’était pas le nom propre, mais ethnique de cet individu. Nous avons à peine besoin de faire remarquer ici combien les docteurs mahométans sont ignorants de l’histoire des juifs, lorsqu’ils parient de Samaritains à l’époque de Moïse.
 
 **634.** Tels que les bagues, les bracelets et autres ornements que les juifs avaient enlevés aux Égyptiens.
 
@@ -17702,15 +17702,15 @@ ZENDJEBIL, LXXVI, 17.
 
 **636.** Car, disent les commentateurs, celui qui le toucherait devait et donner la fièvre au samaritain, et la gagner de lui, en sorte que le samaritain était condamné à être traité comme un pestiféré.
 
-**637.** Le mot arabe *xorkan* (acc. pl. de *axrak*) signifie proprement ceux qui ont les yeux bleus, et peut s’appliquer à ceux qui ont la cataracte, ou à ceux qui ont les yeux naturellement bleus. Les Arabes ont toujours eu une grande aversion pour les hommes aux yeux bleus signe caractéristique des Grecs leurs ennemis, et Mahomet a pu réellement donner aux réprouvés cette marque
+**637.** Le mot arabe *xorkan* (acc. pl. de *axrak*) signifie proprement ceux qui ont les yeux bleus, et peut s’appliquer à ceux qui ont la cataracte, ou à ceux qui ont les yeux naturellement bleus. Les Arabes ont toujours eu une grande aversion pour les hommes aux yeux bleus signe caractéristique des Grecs leurs ennemis, et Mahomet a pu réellement donner aux réprouvés cette marque ; toutefois, les XX, versets 124 et 125 de ce même chapitre, où Satan est menacé de comparaître aveugle au jour du jugement, et où Mahomet se sert du mot *a’ma*, aveugle font penser qu’il s’agit de la cécité dans le verset qui nous occupe.
 
-**638.** Ce doit être l’ange lsrafil qui mènera les hommes tout droit au jour du jugement
+**638.** Ce doit être l’ange lsrafil qui mènera les hommes tout droit au jour du jugement ; il se tiendra sur un rocher devant Jérusalem.
 
 **639.** Les hommes seront toujours en guerre avec les démons.
 
-**640.** Ce chapitre est intitulé
+**640.** Ce chapitre est intitulé : *les Prophètes*, car il y est question de plusieurs prophètes. La tradition rapporte que Mahomet, interrogé sur le nombre de tous les prophètes depuis la création du monde, répondit qu’il y en eut cent vingt-quatre mille, dont trois cent treize étaient des envoyés ou apôtres. Cette tradition vient à l’appui de la distinction que nous avons faite entre les prophètes les apôtres, au chapitre XIX.
 
-**641.** Ces mots peuvent être traduits aussi
+**641.** Ces mots peuvent être traduits aussi : *un livre qui fait votre renom*, qui vous rendra célèbre ; car le mot *dhikr* signifie souvenir, récit, et ce qui sert à rappeler quelque chose ou à avertir quelqu’un.
 
 **642.** Les anges et les bienheureux.
 
@@ -17728,23 +17728,23 @@ ZENDJEBIL, LXXVI, 17.
 
 **649.** Tout livre divin contient la distinction, la lumière et l’avertissement, en tant qu’il distingue le licite de l’illicite, qu’il guide les hommes vers la vérité et qu’il leur annonce des peines et des récompenses.
 
-**650.** Voici l’explication de ce passage
+**650.** Voici l’explication de ce passage : Quelques brebis avaient fait des dégâts dans le champ d’un cultivateur ; celui-ci fit comparaître le propriétaire du troupeau devant David, qui décida que le cultivateur avait à prendre les brebis comme compensation des dommages qu’elles avaient causés. Salomon, présent à ce jugement, et âgé alors de onze ans, fut d’avis qu’il était plus raisonnable de donner au cultivateur l’usufruit seulement des brebis, c’est-à-dire que la laine, le lait et les petits des brebis lui appartiendraient pendant le temps suffisant pour compenser ses pertes. David approuva le jugement de son fils.
 
 **651.** Selon la tradition musulmane, David aurait le premier inventé les cottes de mailles à la place dés cuirasses en plaques de fer. Le fer, dit-on, devenait entre ses mains souple et ductile comme de la cire.
 
-**652.** On ne sait pas auquel des prophètes connus dans les Écritures répond Dhoulkefl
+**652.** On ne sait pas auquel des prophètes connus dans les Écritures répond Dhoulkefl ; selon les uns, c’est Élïe (Élias) ; selon d’autres c’est Zacharie ou Isaïe. *Dhoulkefl* peut signifier : homme plein de soins (pour son peuple), ou homme faible, ou homme qui a une part, un lot.
 
 **653.** Dhoulnoun, l’homme au poisson. Sous ce nom on reconnaît le prophète Jonas.
 
 **654.** C’est-à-dire du ventre du poisson qui l’avait avalé.
 
-**655.** Dieu
+**655.** Dieu ! ne me laisse pas mourir sans enfants ; toutefois, si tu ne me donnes cas d’héritiers, peu importe ; car après tout tu vaux mieux. Voy. III, 33, XIX, 1.
 
 **656.** Il est presque inutile de rappeler qu’il s’agit ici de Marie, mère de Jésus, qui est compris parmi les prophètes.
 
 **657.** On a vu dans le chapitre {{Réf Kazimirski|239|18|98), qu’Iadjoudj et Madjoudj (Gog et Magog de la Bible) étaient deux peuplades barbares, terribles à leurs voisins. Dhoul’Karneïn mit un terme à leurs invasions en élevant un mur d’airain dans le seul défilé qui pouvait leur livrer passage. Ce mur s’écroulera au jour de la résurrection, et c’est à ce temps qu’il est fait allusion ici.
 
-**658.** La signification de ce passage est très-incertaine. *Sidjill* veut dire rouleau sur lequel on écrit, de sorte que mot à mot le sens serait
+**658.** La signification de ce passage est très-incertaine. *Sidjill* veut dire rouleau sur lequel on écrit, de sorte que mot à mot le sens serait : Nous plierons les cieux du pli (c’est-à-dire comme on plie un rouleau) d’un rouleau pour l’écriture (c’est-à-dire pour écrire). D’autres disent que *Sidjill* est l’ange qui inscrit les actions des hommes sur un rouleau, d’autres enfin que *Sidjill* est le nom d’un secrétaire de Mahomet. Il est assez étrange que les traditionnistes, qui savent tant de détails miraculeux sur le vie de Mahomet, aient à ce point laissé dans le vague certains passages du Koran.
 
 **659.** La création d’Adam, ou la création immédiate par les mains de Dieu.
 
@@ -17752,13 +17752,13 @@ ZENDJEBIL, LXXVI, 17.
 
 **661.** Garçon ou fille.
 
-**662.** Mot à mot
+**662.** Mot à mot : debout sur une pointe, sur un escarpement.
 
 **663.** Revient à ses erreurs.
 
 **664.** On assimile ici la vie de ce monde et de l’autre à une marchandise sur laquelle on fait des spéculations, et qui chez ces hommes aboutit à une faillite.
 
-**665.** Voici quel peut être le sens de ce passage
+**665.** Voici quel peut être le sens de ce passage : Dieu secourra le prophète, quels que soient les artifices de ses ennemis. Mahomet leur dit en les narguant : Il ne vous reste qu’à vous pendre de désespoir et de dépit. Les mots : *vers le ciel*, veulent dire seulement : *en haut*, *en haut du plancher de sa maison*.
 
 **666.** Ce sont les idolâtres.
 
@@ -17772,9 +17772,9 @@ ZENDJEBIL, LXXVI, 17.
 
 **671.** Il peut être question ici de tout puits comblé par la succession des années dans une contrée autrefois habitée et ensuite déserte, à la destruction du peuple qui s’en servait, de tout château démoli, ou bien c’est une allusion à un puits dans la province de Hadhramout et au château situé sur cette montagne et dont il reste encore des traces.
 
-**672.** Selon quelques auteurs, le mot *temenna*, désirer, former un vœu, signifie aussi *lire*, *réciter le Koran*, et quelques auteurs ont pensé que ce verset contenait une allusion à une de ces hallucinations dont Mahomet n’était pas exempt. Une fois, disent-ils, qu’il récitait le verset 19, chap. LIII, où il demande ce que c’est qu’Alozza et Allat (divinités arabes), par distraction il s’empressa de répondre lui-même
+**672.** Selon quelques auteurs, le mot *temenna*, désirer, former un vœu, signifie aussi *lire*, *réciter le Koran*, et quelques auteurs ont pensé que ce verset contenait une allusion à une de ces hallucinations dont Mahomet n’était pas exempt. Une fois, disent-ils, qu’il récitait le verset 19, chap. LIII, où il demande ce que c’est qu’Alozza et Allat (divinités arabes), par distraction il s’empressa de répondre lui-même : « Ce sont de belles et dignes demoiselles qu’il faut adorer » ; et les idolâtres présents, de se prosterner aussitôt en signe d’adoration. C’est alors que Mahomet s’aperçut de sa méprise. D’autres pensent que, dans ce passage, il s’agit en général de toute suggestion de Satan. C’était sans doute, disent quelques auteurs, une épreuve que Dieu suscita pour éprouver les musulmans. La plupart des théologiens rejettent toute cette histoire comme apocryphe.
 
-**673.** Le lecteur ne peut pas manquer d’observer qu’il n’y a aucune liaison logique entre ce verset et le verset précédent. L’expression *fait entrer le jour dans la nuit,* etc., est assez commune dans le Koran
+**673.** Le lecteur ne peut pas manquer d’observer qu’il n’y a aucune liaison logique entre ce verset et le verset précédent. L’expression *fait entrer le jour dans la nuit,* etc., est assez commune dans le Koran ; elle repose sur la métaphore qui représente le jour et la nuit chacun à son tour, comme un fourreau.
 
 **674.** Ces mots s’emploient dans le Koran pour les esclaves des deux sexes pris à la guerre ou achetés.
 
@@ -17782,11 +17782,11 @@ ZENDJEBIL, LXXVI, 17.
 
 **676.** C’est-à-dire en donnant à l’homme le corps entier on en l’animant par l’âme. C’est sur ce passage que s’appuie Abou Hanifa, pour dire que celui qui s’empare d’un œuf, si cet œuf éclot chez lui, est tenu de restituer un œuf et non pas un poulet, attendu que c’est une *autre création*, une autre forme.
 
-**677.** On peut encore traduire ces mots ainsi
+**677.** On peut encore traduire ces mots ainsi : *et nous n’étions pas inattentifs dans l’œuvre de la création*.
 
 **678.** Voy. chap. IX, 42.
 
-**679.** Par ces mots, les commentateurs entendent soit une des villes
+**679.** Par ces mots, les commentateurs entendent soit une des villes : Jérusalem, Damas, Ramla ; soit l’endroit où Marie se retira pour mettre au monde Jésus.
 
 **680.** Bons au goût, purs et licites.
 
@@ -17804,27 +17804,27 @@ ZENDJEBIL, LXXVI, 17.
 
 **687.** D’avoir propagé ou admis des propos outrageants contre la femme du prophète. Voy. la note ci-après.
 
-**688.** C’est-à-dire, qui ont porté contre Aïécha, femme de Mahomet, l’accusation d’adultère. Voici l’historique de cet événement. Dans l’année 6 de l’hégire, Mahomet avait entrepris l’expédition contre la tribu Mostalek. Au retour de cette course, et non loin de Médine, un soir quand on levait le camp pour continuer la route, Aïécha descendit de son chameau et s’éloigna pour quelque temps. Ses gens, la croyant déjà montée dans sa chaise, emmenèrent le chameau, et toute la caravane poursuivit sa route. Aïécha, se voyant abandonnée, resta à l’endroit même où elle était descendue, attendant qu’on revînt la chercher, et Gnit par s’endormir. Peu de temps après, un jeune homme, Safwan Ebn el-Moattal, vint à passer par là
+**688.** C’est-à-dire, qui ont porté contre Aïécha, femme de Mahomet, l’accusation d’adultère. Voici l’historique de cet événement. Dans l’année 6 de l’hégire, Mahomet avait entrepris l’expédition contre la tribu Mostalek. Au retour de cette course, et non loin de Médine, un soir quand on levait le camp pour continuer la route, Aïécha descendit de son chameau et s’éloigna pour quelque temps. Ses gens, la croyant déjà montée dans sa chaise, emmenèrent le chameau, et toute la caravane poursuivit sa route. Aïécha, se voyant abandonnée, resta à l’endroit même où elle était descendue, attendant qu’on revînt la chercher, et Gnit par s’endormir. Peu de temps après, un jeune homme, Safwan Ebn el-Moattal, vint à passer par là ; voyant quelqu’un couché par terre, il s’approcha, et, reconnaissant que c’était une femme, prononça ces mots : « Nous sommes à Dieu et nous retournerons à lui. » Puis il se mit à l’écart, réveilla Aïécha, et lui offrit son chameau. Aïécha accepta l’offre. C’est ainsi que le lendemain elle parvint à rejoindre la troupe. Quand l’absence d’Aïécha et son retour avec Safwan furent connus, on tint sur elle des propos malveillants. Mahomet, ne sachant pas ce qu’il devait croire, se trouvait dans une grande perplexité, et ce ne fut qu’au bout d’un mois qu’il déclara connaître la vérité par suite d’une révélation tout à l’avantage de sa femme. Cette révélation forme le principal sujet de ce chapitre.
 
 **689.** Ces paroles doivent s’adresser à Mahomet, à sa famille et à Safwan, car la propagation de ces calomnies ne servit qu’à mieux établir l’innocence et l’honneur des uns et des autres.
 
 **690.** Parmi les personnes qui avaient calomnié Aïécha, il y avait un homme parent d’Aboubekr, à qui celui-ci faisait beaucoup de bien. Aboubekr, pour le punir, voulait lui retirer ses aumônes. Mahomet le lui défendit par ce verset.
 
-**691.** Il faut sans doute entendre ici
+**691.** Il faut sans doute entendre ici : à moins qu’on ne vous l’ait permis une fois pour toutes.
 
 **692.** Comme les bagues, et non pas les ornements qu’elles portent aux jambes.
 
-**693.** Ce passage est dirigé contre un, certain Abdallah Ebn Obbah, qui avait six concubines esclaves
+**693.** Ce passage est dirigé contre un, certain Abdallah Ebn Obbah, qui avait six concubines esclaves ; il les engageait à se prostituer et à lui rapporter, l’argent qu’elles recueillaient de ce honteux trafic.
 
-**694.** Ce verset relève les musulmans des scrupules fondés sur quelques usages superstitieux chez les Arabes
+**694.** Ce verset relève les musulmans des scrupules fondés sur quelques usages superstitieux chez les Arabes : tel était, par exemple, l’usage de ne point admettre à leur table les boiteux ou les aveugles, et de ne point faire de repas chez d’autres personnes ; quelques-uns, au contraire, se faisaient un scrupule de manger seuls.
 
 **695.** C’est-à-dire, ne soyez pas trop familiers avec lui.
 
 **696.** *Alforkan*, ou la distinction, est un des noms du Koran. Voy. note 1, page 13.
 
-**697.** Mordre le revers, le dos de sa main, est chez les Orientaux un signe de dépit et de désespoir. Ce passage peut tout simplement s’appliquer au dénouaient réservé aux infidèles le jour du jugement dernier
+**697.** Mordre le revers, le dos de sa main, est chez les Orientaux un signe de dépit et de désespoir. Ce passage peut tout simplement s’appliquer au dénouaient réservé aux infidèles le jour du jugement dernier ; les mots des versets précédents le font entendre assez clairement. Les commentateurs rattachent cependant les paroles des versets 29, 30, 31, à un fait particulier. Un Mecquois idolâtre, nommé Okba, invita un jour Mahomet à un repas ; le prophète ne voulut accepter l’invitation qu’à condition qu’Okba embrasserait l’islam. Celui-ci le fit, et Mahomet mangea avec le nouveau converti. Peu de temps après, Okba eut à essuyer des reproches amers sur son apostasie de la part d’un de ses amis. Okba allégua pour excuse que c’était seulement pour décider Mahomet à manger avec lui qu’il avait embrassé l’islam. Là-dessus l’autre engagea Okba à insulter le prophète en public, et à lui cracher au visage. Okba suivit ce conseil ; celle insulte lui attira la menace de Mahomet. Quelque temps après, Okba, tombé au pouvoir de Mahomet, fut tué par Ali. Le verset 30 semble faire allusion aux instigateurs de l’ami. Comme nous l’avons dit tout à l’heure, les versets 27, 38, 29, n’ont qu’un sens général applicable au jour du jugement ; mais, pendant les prédications de Mahomet, ses auditeurs croyaient trouver dans ses paroles des allusions à tel ou tel fait particulier dont on s’entretenait alors.
 
-**698.** On n’est pas d’accord sur la position de l’endroit désigné par *Rass*
+**698.** On n’est pas d’accord sur la position de l’endroit désigné par *Rass* : les uns le placent dans le Yémama, d’autres dans le Hadramaut, d’autres enfin près d’Antioche. *Rass* veut dire aussi puits, citerne. Comme la signification de ce mot n’est pas bien établie, il vaut mieux traduire le mot arabe *ashab* par *hommes de…* que par *habitants de..*
 
 **699.** C’est Sodome, qui se trouvait sur la route de Syrie.
 
@@ -17854,7 +17854,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **712.** Locution arabe, dont on se sert pour ne pas répéter une chose connue.
 
-**713.** Abîmer la terre, le pays, veut dire
+**713.** Abîmer la terre, le pays, veut dire : commettre des brigandages, des désordres. Nous ayons employé le mot *abîmer* pour conserver l’antithèse du texte formée par le mot *améliorer*.
 
 **714.** C’était une femelle de chameau qui buvait toute l’eau d’un jour de la fontaine, de sorte que les Thémoudites n’en avaient que le lendemain.
 
@@ -17864,7 +17864,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **717.** Les paroles du Koran lues au ciel, que les démons ont saisies par hasard.
 
-**718.** C’est-à-dire, ils s’abandonnent à leur imagination, et abordent toute sorte de sujets. De tout temps, les Arabes ont cultivé avec beaucoup de soin leur langue, aimé la poésie et honoré les poëtes. A Okadh, marché du Hedjaz, indépendamment des foires hebdomadaires, se tenait tous les ans une foire qui durait un mois. Là, au milieu des affaires de commerce, des poëtes accourus de tous les points de l’Arabie venaient réciter leurs poëmes (*kasidah*), chanter leurs exploits et leurs aventures, se provoquer à qui traiterait mieux tel sujet. C’était un tournoi poétique dont les nombreux auditeurs, citadins et bédouins, étaient les juges. Au plus digne était réservée la récompense de voir ses poëmes inscrits en lettres d’or et suspendus au temple vénéré de la Caaba. De là les sept poëmes le plus en vogue avant Mahomet sont appelés *modhahhabat* (dorés) et *moallakat* (suspendus). Les Arabes du désert excellaient surtout dans la poésie
+**718.** C’est-à-dire, ils s’abandonnent à leur imagination, et abordent toute sorte de sujets. De tout temps, les Arabes ont cultivé avec beaucoup de soin leur langue, aimé la poésie et honoré les poëtes. A Okadh, marché du Hedjaz, indépendamment des foires hebdomadaires, se tenait tous les ans une foire qui durait un mois. Là, au milieu des affaires de commerce, des poëtes accourus de tous les points de l’Arabie venaient réciter leurs poëmes (*kasidah*), chanter leurs exploits et leurs aventures, se provoquer à qui traiterait mieux tel sujet. C’était un tournoi poétique dont les nombreux auditeurs, citadins et bédouins, étaient les juges. Au plus digne était réservée la récompense de voir ses poëmes inscrits en lettres d’or et suspendus au temple vénéré de la Caaba. De là les sept poëmes le plus en vogue avant Mahomet sont appelés *modhahhabat* (dorés) et *moallakat* (suspendus). Les Arabes du désert excellaient surtout dans la poésie ; la langue s’est toujours conservée plus pure et plus correcte sous les tentes ; souvent une mère bédouine infligeait une correction douloureuse à son enfant coupable de quelque faute de grammaire. Mahomet devait à la vigueur de son langage, souvent poétique, une grande partie du succès qui couronna ses efforts ; il a même recommandé à ses compagnons de consulter les œuvres des poëtes arabes, et d’y chercher l’interprétation des mots ou expressions obscures du Koran. D’où vient donc que le prophète arabe a supprimé cette fameuse foire d’Okadh, et lancé un anathème contre les poëtes ? En voici la raison. Les Arabes du désert, en général, et parmi eux les poëtes, goûtaient fort peu le nouveau culte ; ils étaient attachés aux plaisirs de la vie nomade et accoutumés à ses peines ; indépendants, indociles à supporter un joug quelconque, braves, généreux, mais fiers et vindicatifs, toujours à la piste d’un ennemi pour venger quelque offense, ou sur les pas d’une beauté du désert, austères et sauvages comme Schanfara, aimant les plaisirs et la vie joyeuse comme Amrolkaïs, insouciants sur la vie future, sceptiques et épicuriens, ils n’étaient pas des premiers à suivre le nouveau prophète. Les poëtes cherchaient à perpétuer ces habitudes de la vie nomade ; Mahomet voyait dans ces instincts négatifs ou destructeurs un grand obstacle à l’établissement de sa doctrine morale et religieuse, et il les condamne. Si l’on ajoute à cela que la verve satirique de quelques-uns s’était exercée contre le nouveau prophète, on ne s’étonnera pas du jugement qu’il en a porté. Quelques historiens accusent Amrolkaïs d’avoir écrit des satires contre Mahomet, qui, à son tour, aurait chargé le poëte Lebid, nouveau converti, d’y répondre. M. de Slane, qui a publié les poésies d’Amrolkaïs, combat cette opinion, quant à Amrolkaïs et à Lebid ; il n’en est pas moins vrai que Mahomet avait à ses ordres quelques poëtes dévoués, et les versets 227 et 228 y font allusion. Il disait à Caab, l’un d’entre eux : « Combats les (les poëtes) avec tes satires, car, j’en jure par celui tient mon âme dans ses mains, les satires font plus de mal que les flèches. »
 
 **719.** Cette exception s’adresse à quelques poëtes qui avaient embrassé l’islam, tels que Lebid, Hassan, Caab.
 
@@ -17882,7 +17882,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **726.** Selon les mahométans, le nom de cette reine de Saba était Balkis. Le trône dont il est ici question était d’or et d’argent, long de quatre-vingts coudées, large de quarante, et haut de trente. Il était surmonté d’une couronne de perles et de pierres précieuses. Il est encore question de baba au chap. XXXIV.
 
-**727.** Les mots
+**727.** Les mots : *abandonnée à la volonté…* ne peuvent s’entendre autrement que par rapport à Dieu ; aussi pourrait-on traduire ici : *Faites-vous musulmane*. Nous avons déjà fait observer ailleurs que Mahomet cherchait à rattacher ses dogmes à ceux des anciens prophètes d’Israël.
 
 **728.** Voyez plus haut le verset 30.
 
@@ -17890,13 +17890,13 @@ ZENDJEBIL, LXXVI, 17.
 
 **730.** Voy. chap. XVIII, 48, et LXXII.
 
-**731.** Mot à mot
+**731.** Mot à mot : avant que ton clignement d’œil revienne à toi, c’est-à-dire, que tu fermes l’œil et le rouvres.
 
-**732.** La reine a fait là preuve de beaucoup d’esprit, disent les commentateurs, au lieu de dire
+**732.** La reine a fait là preuve de beaucoup d’esprit, disent les commentateurs, au lieu de dire : *houa houa*, c’est lui, c’est mon trône, elle s’exprime avec doute :* On dirait que c’est le même*. Quant aux mots qui suivent, les commentateurs ne sont pas sûrs si c’est la reine qui dit : « Nous avons précédemment reçu de Dieu la science, et nous savons, ô Salomon, que vous êtes un prophète, » ou bien si ce sont les grands de la cour de Salomon qui se disent ces mots entre eux. Dans la première version, les mots arabes avant *elle* voudraient dire : *avant cette circonstance, avant ce moment-ci.*
 
 **733.** Les commentateurs ajoutent que Salomon n’avait fait introduire la reine dans l’appartement pavé de cristal que pour lui procurer une illusion, et pour s’assurer, en la forçant à se retrousser, si elle avait les jambes semblables à celles d’une chèvre, comme on le lui avait rapporté.
 
-**734.** Mot à mot
+**734.** Mot à mot : votre oiseau est auprès de Dieu.
 
 **735.** Voy. XXV, 55
 
@@ -17906,25 +17906,25 @@ ZENDJEBIL, LXXVI, 17.
 
 **738.** Le Livre de l’évidence ou le Livre évident est un livre gardé au ciel, et où sont inscrits tous les arrêts qui régissent le monde Le Livre évident est aussi un des noms du Koran.
 
-**739.** Le monstre, la bête dont il est question dans ce verset s’appelle en arabe *eldjassaça*, l’espion. Les commentateurs donnent des détails sur la grandeur et la forme de la bête, détails qu’ils font remonter soit à Mahomet, soit à Ali, soit à Abou Horeïra, compagnon du prophète. Ainsi, le monstre doit avoir soixante coudées de long
+**739.** Le monstre, la bête dont il est question dans ce verset s’appelle en arabe *eldjassaça*, l’espion. Les commentateurs donnent des détails sur la grandeur et la forme de la bête, détails qu’ils font remonter soit à Mahomet, soit à Ali, soit à Abou Horeïra, compagnon du prophète. Ainsi, le monstre doit avoir soixante coudées de long ; il a la tête du taureau, les yeux du porc, les oreilles de l’éléphant, les cornes du cerf, le cou de l’autruche, le poitrail du lion, la queue du bélier, les pieds du chameau. On ne saurait l’atteindre dans sa marche, ni échapper à sa poursuite. Il sortira, d’après la tradition, d’une des grandes mosquées. Ce monstre doit porter le bâton de Moïse et le sceau de Salomon ; partout sur son passage il marquera les hommes de l’un ou de l’autre. Ceux qui seront touchés du bâton de Moïse auront le visage éclatant de blancheur, ce sont les bons ; ceux qui porteront l’empreinte du sceau, auront le visage noir, ce sont les réprouvés.
 
 **740.** Le titre de cette sourate est emprunté au verset 25, ou nous traduisons le mot *keças* par *aventures*.
 
-**741.** Mot à mot
+**741.** Mot à mot : un des corrupteurs, dans le sens de ceux qui sèment le désordre ; qui ravagent le pays, etc.
 
-**742.** Chefs spirituels des autres peuples
+**742.** Chefs spirituels des autres peuples ; il s’agit ici des Israélites.
 
 **743.** C’est la manière dont Mahomet entend l’histoire des Israélites. On a vu des passages analogues à celui-ci, chap. II, 58.
 
 **744.** Selon le Koran, Haman est le vizir de Pharaon.
 
-**745.** Mot à mot
+**745.** Mot à mot : c’est la fraîcheur de l’œil pour moi et pour toi. Les parent se servent des mots fraîcheur de l’œil comme d’un terme de caresse et d’tfiectioft en parlant de leurs enfants. Voy. chap. XIX, 26, note.
 
 **746.** C’est-à-dire, il refusait de téter toutes les nourrices qu’on lui amenait.
 
-**747.** Les mots
+**747.** Les mots : *son compatriote*, ne se trouvent pas dans le texte ; on y lit seulement : il dit, et les commentateurs croient que c’est l’Israélite qui prononce ces paroles offensé de s’entendre appeler par Moïse un séditieux, et craignant que Moïse ne voulût secourir cette fois-là l’Égyptien ; si l’on applique les mots : *il dit : Voudrais-tu, * etc., à l’Égyptien, il faut supposer que celui-ci entendant l’apostrophe de Moïse adressée à l’Israélite, soupçonnait quelque chose de pareil à ce qui s’était passé.
 
-**748.** On peut encore traduire ces mots de cette manière
+**748.** On peut encore traduire ces mots de cette manière : « Notre père est un grand cheïkh, » c’est-à-dire, un chef puissant.
 
 **749.** En ôtant l’énorme pierre dont on couvre ordinairement une citerne.
 
@@ -17932,19 +17932,19 @@ ZENDJEBIL, LXXVI, 17.
 
 **751.** Voy. chap. XXVII, 13.
 
-**752.** Mot à mot
+**752.** Mot à mot ; allume-moi *du feu* sur de la boue *pour faire des briques*.
 
-**753.** Karoun, Coré de la Bible, dont les richesses ont passé en proverbe chez les musulmans, avait, disent les commentateurs, construit un palais tout couvert d’or
+**753.** Karoun, Coré de la Bible, dont les richesses ont passé en proverbe chez les musulmans, avait, disent les commentateurs, construit un palais tout couvert d’or ; les portes en étaient d’or massif. Ses richesses l’avaient rendu insensible aux misères de ses concitoyens, et son insolence alla jusqu’à lui faire ourdir une sédition contre Moïse. Celui-ci demanda à Dieu de l’en délivrer. Dieu accorda à Moïse la permission de donner à la terre tel ordre qu’il voudrait. Moïse ordonna à la terre d’engloutir Karoun avec ses palais et ses trésors. La tradition ajoute qu’à mesure que la terre entr’ouverte engloutissait Karoun, d’abord jusqu’aux genoux, puis jusqu’à la ceinture, et enfin jusqu’au cou, il cria quatre fois vers Moïse d’avoir pitié de lui et de lui pardonner ; mais celui-ci demeura inexorable. Dieu aurait fait à Moïse des reproches sur sa cruauté. « Karoun a quatre » fois imploré ton pardon, et tu ne l’as pas écouté ; s’il me l’avait seulement » demandé une seule fois, je lui aurais pardonné. »
 
 **754.** Cette science était l’alchimie.
 
-**755.** Karoun affectait un grand luxe
+**755.** Karoun affectait un grand luxe ; il montait une mule blanche, couverte d’une housse d’or. Il était lui-même vêtu de pourpre, et paraissait toujours accompagné de quatre mille hommes, tous montés et richement habillés.
 
-**756.** Mot à mot
+**756.** Mot à mot : à l’endroit où l’on revient à la demeure. Par ce mot les uns entendent en général une place glorieuse que Dieu aurait promise à Mahomet d’autres croient qu’il s’agit de son retour à la Mecque, lorsqu’il en ferait la conquête. Dans ce cas, le chapitre ne devrait pas porter dans l’inscription qu’il a été donné, c’est-à-dire révélé à la Mecque.
 
 **757.** Ce chapitre prend son titre du mot *araignée*, qui se trouve dans le verset 40.
 
-**758.** Voy
+**758.** Voy ; II, 1
 
 **759.** Les divinités sur le culte desquelles tu n’as reçu aucune révélation qui t’autorise à les adorer.
 
@@ -17954,25 +17954,25 @@ ZENDJEBIL, LXXVI, 17.
 
 **762.** Se souvenir de Dieu, penser à Dieu, rappeler le nom de Dieu, sont des expressions équivalentes à prier Dieu, faire la prière.
 
-**763.** Ceci peut se traduire également
+**763.** Ceci peut se traduire également : notre Dieu et le vôtre sont un.
 
-**764.** C’est-à-dire
+**764.** C’est-à-dire : les divinités des idolâtres.
 
-**765.** Le sens de ce mot est
+**765.** Le sens de ce mot est : si l’on vous défend de m’adorer dans un pays, quittez-le pour un autre.
 
-**766.** Mot à mot
+**766.** Mot à mot : de ceux qui agissent, c’est-à-dire qui font des œuvres (sous-entendu *bonnes*).
 
 **767.** Voyez II, 1, note
 
-**768.** Le mot *Er-roum* du texte, que nous traduisons par *Grecs*, s’appliquait et s’applique encore en arabe aux Grecs d’Alexandre le Grand, à l’empire romain d’Occident et à celui d’Orient, ou aux Grecs du Bas-Empire. C’est de ces derniers qu’il s’agit dans ce chapitre. Ils avaient été défaits par les Perses, adorateurs du feu, et conséquemment idolâtres. Ce succès d’un peuple que les Arabes idolâtres pouvaient regarder jusqu’à un certain point comme leurs coreligionnaires, pendant que les Grecs, comme chrétiens et peuples possédant les Écritures, étaient censés se rapprocher davantage du culte unitaire prêché par Mahomet, ce succès causa une grande sensation dans l’Arabie. La révélation contenue dans les versets 2 et 3 avait pour but de rabattre l’orgueil des idolâtres et de rassurer les mahométans. Depuis que la prédiction du succès des Grecs s’est réalisée, tout ce passage du Koran est cité par les musulmans comme une preuve évidente de l’inspiration prophétique de Mahomet. On n’est pas cependant d’accord sur les dates de ces deux événements
+**768.** Le mot *Er-roum* du texte, que nous traduisons par *Grecs*, s’appliquait et s’applique encore en arabe aux Grecs d’Alexandre le Grand, à l’empire romain d’Occident et à celui d’Orient, ou aux Grecs du Bas-Empire. C’est de ces derniers qu’il s’agit dans ce chapitre. Ils avaient été défaits par les Perses, adorateurs du feu, et conséquemment idolâtres. Ce succès d’un peuple que les Arabes idolâtres pouvaient regarder jusqu’à un certain point comme leurs coreligionnaires, pendant que les Grecs, comme chrétiens et peuples possédant les Écritures, étaient censés se rapprocher davantage du culte unitaire prêché par Mahomet, ce succès causa une grande sensation dans l’Arabie. La révélation contenue dans les versets 2 et 3 avait pour but de rabattre l’orgueil des idolâtres et de rassurer les mahométans. Depuis que la prédiction du succès des Grecs s’est réalisée, tout ce passage du Koran est cité par les musulmans comme une preuve évidente de l’inspiration prophétique de Mahomet. On n’est pas cependant d’accord sur les dates de ces deux événements ; les uns mettent la victoire des Perses dans l’année 5 avant l’hégire, et celle des Grecs à l’an 2 de l’hégire ; d’autres placent le premier de ces événements à la troisième ou quatrième année de l’hégire, et le second à la fin de la sixième ou au commencement de la septième. Sans chercher ici à établir l’exactitude de ces données, nous ferons observer que le passage qui nous occupe se rapporte à l’époque de cette longue guerre que le roi de Perse Khosrou Perwiz faisait avec tant de bonheur à l’empire d’Orient, jusqu’à ce que l’empereur Héraclius vengeât par une victoire décisive, en 625, les affronts essuyés par son prédécesseur, et poursuivit à son tour une longue carrière de succès. L’accomplissement de la prophétie tomberait donc à l’année 3 ou 4 de l’hégire. (Voy. note 3.)
 
 **769.** *Dans le pays très-rapproché*. Les commentateurs diffèrent dans l’application de ce passage. L’un des plus célèbres, Ebn-Abbas, cité par Sale, pense qu’il s’agit de la Palestine.
 
-**770.** Les mots
+**770.** Les mots : *espace de quelques années*, répondent au *bed’issinina* du texte. Voici ce que les commentateurs rapportent à propos de cette désignation. Quand le passage prédisant la victoire des Grecs fut révélé, Abou-Bekr (plus tard calife) fit un pari avec Obba ben Schalf, Arabe idolâtre, que la prophétie serait accomplie dans l’espace de trois ans, et il gagea dix chameaux. Mahomet, ayant appris le pari, dit à Abou-Bekr que le mot *bed’* (quelques) s’appliquait à un nombre quelconque depuis trois jusqu’à dix, et lui conseilla de modifier les termes du pari dans ce sens ; les deux parties fixèrent le temps à neuf ans, et la gageure à cent chameaux. On dit qu’Obba mourut en l’année 3 de l’hégire, et que, la prédiction s’étant réalisée peu de temps après, ses héritiers furent forcés de donner cent chameaux à Abou-Bekr. Une dernière observation nous reste à faire sur ce passage ; elle servira à apprécier le caractère du Koran. L’on sait que dans le système graphique des Arabes, ainsi que dans toutes les langues de souche sémitique, on n’écrit que les consonnes, et on supplée les voyelles en lisant. Le Koran n’a reçu sa vocalisation actuelle que bien après sa rédaction, et après avoir passé par l’écriture coufique, par conséquent à l’époque où on a pu déjà tomber d’accord sur le sens des paroles et le fixer définitivement. Or, les mots : les Grec ont été vaincus, qu’on lit maintenant, à l’aide de la vocalisation reçue *goulibatirroumou* (*les Grecs ont été vaincus*), peuvent être lus sans toucher aux consonnes, *galabatirroumou* (*les Grecs ont été vainqueurs*) ; et ensuite au verset 3, les mots *saïaglibouna* (*ils vaincront*), peuvent être lus, toujours en conservant les mêmes consonnes, *saïouglabouna* (*ils seront vaincus*). A voir le vague et la brièveté de ces paroles, on dirait que ce passage a été ménagé de manière à avoir toujours raison, en quelques circonstances que ce fût. Les interprétations des commentateurs ont, du reste fixé le sens tel qu’il est donné dans le texte actuel.
 
 **771.** L’heure, c’est le jugement dernier.
 
-**772.** Mot à mot
+**772.** Mot à mot : que vous ferez en recherchant la face de Dieu.
 
 **773.** L’expression *vos compagnons* a été expliquée plus haut.
 
@@ -17982,9 +17982,9 @@ ZENDJEBIL, LXXVI, 17.
 
 **776.** Cette expression est toujours employée dans le Koran en parlant du commerce.
 
-**777.** Mot à mot
+**777.** Mot à mot : *et qu’ils le voient jaune*.
 
-**778.** Pour dire
+**778.** Pour dire ; tout faible dans l’enfance.
 
 **779.** Voyez sur Lokman la note du verset 11.
 
@@ -17992,11 +17992,11 @@ ZENDJEBIL, LXXVI, 17.
 
 **781.** Ce verset ainsi que le suivant étaient dirigés contre un certain Nodhar ben el-Hareth, qui avait rapporté de son voyage en Perse les récits des exploits de Roustem et d’Isfendiar, deux des plus fameux héros de ce pays, et en lisait des passages aux Koreïchites, faisant observer que ces histoires étaient bien supérieures à celles du Koran.
 
-**782.** Mot à mot
+**782.** Mot à mot ; comme s’il y avait de la pesanteur dans ses oreilles,
 
 **783.** C’est-à-dire, le mâle et la femelle dans tous les êtres de la création,
 
-**784.** Lokman, dont il est parlé ici, est un personnage renommé par sa sagesse parmi les Arabes
+**784.** Lokman, dont il est parlé ici, est un personnage renommé par sa sagesse parmi les Arabes ; c’est pourquoi on joint toujours à son nom l’épithète de *al-hakim* (le sage). Parmi les faits relatifs à l’histoire des Arabes avant Mahomet, on trouve que les Adites, peuple d’Arabie, souffrant de la sécheresse, avaient envoyé un message au temple de la Mecque pour implorer la pluie. Parmi ces délégués était un certain Lokman ; mais les commentateurs ont soin de faire observer que ce Lokman ne doit pas être confondu avec le personnage nommé dans le Koran. Celui-ci, disent-ils (et cela, comme il arrive toujours, sans citer aucune autorité à l’appui), était fils de Baoûra, fils de Job ; il vécut mille ans et atteignit ainsi les temps de David, dont il apprit la sagesse. Avant ce temps-là, il donnait des consultations en matière de droit. Dieu, ajoutent d’autres, lui avait donné à choisir entre le don de la prophétie et celui de la sagesse, et c’est cette dernière qu’il aurait choisie. Une autre tradition, conservée chez les poëtes, nous apprend que Dieu lui avait accordé un âge égal à celui de la vie successive de sept faucons, ce qui le porterait à cinq cent soixante ans. Ceux qui le disent contemporain de David ajoutent que Lokman, voyant David travailler à une cotte de mailles (voy. chap. XXI, 80, et XXXIV, 10), voulut l’interroger sur ses procédés, mais que, fidèle à son esprit de sagesse, il se tut, et, à force d’attention, reconnut que Dieu rendait le fer ductile comme de la cire entre les mains de David. Tous ces détails, desquels il serait oiseux de vouloir rechercher l’origine et l’authenticité, font de Lokman un modèle de discrétion, de politesse, de réserve, et le passage du Koran qui nous occupe leur sert d’appui. On sait qu’il existe en arabe un recueil de fables qui porte le nom de Lokman le Sage. L’analogie que l’on remarque entre les sujets de ces fables et ceux des apologues attribués à Ésope ferait conclure à l’identité des deux personnages. A l’appui de cette hypothèse viendrait la caractéristique de Lokman, rapportée par les écrivains orientaux. Lokman était, disent-ils, un noir du pays des noirs d’Égypte, et esclave ; selon d’autres, il était charpentier, tailleur, cordonnier, pâtre. Un jour que quelqu’un avait l’air de le regarder avec dédain à cause de sa couleur et de ses lèvres épaisses, il aurait répondu que son visage était noir, mais que son cœur était blanc (pur), et que ses grosses lèvres distillaient des paroles subtiles. On raconte aussi qu’il avait apporté des langues quand on lui demandait ce qu’il y avait de meilleur au monde, et puis encore des langues quand on lui demandait ce qu’il y avait de pire. On veut enfin, dans le nom de son fils *Anaam*, voir *Ennus*, fils d’Ésope. Nous ne nous arrêterons pas à discuter la valeur de ces faibles indices de l’identité de ces personnages. Nous appellerons plutôt l’attention du lecteur sur la manière dont Mahomet cherche à s’emparer de tous les noms célèbres de son temps, parmi les Arabes, et met dans la bouche de ces personnages la profession de foi unitaire et musulmane.
 
 **785.** Dont le nom était *Anaam*, comme on vient de le dire dans la note ci-dessus.
 
@@ -18008,21 +18008,21 @@ ZENDJEBIL, LXXVI, 17.
 
 **789.** Il ne faut marcher ni trop vite ni trop lentement.
 
-**790.** C’est l’expression proverbiale arabe pour dire
+**790.** C’est l’expression proverbiale arabe pour dire : il a trouvé un excellent appui.
 
 **791.** C’est-à-dire, nul homme ne sait s’il méritera demain une récompense ou un châtiment.
 
-**792.** Le titre de la sourate loi est donné de ces mots du verset 15
+**792.** Le titre de la sourate loi est donné de ces mots du verset 15 : *se prosternent en signe d’adoration*.
 
-**793.** Voy
+**793.** Voy ; II, 1, note.
 
-**794.** Voy
+**794.** Voy ; chap. LXX, 4, note.
 
-**795.** C’est-à-dire, reparaîtrons-nous sous une forme nouvelle
+**795.** C’est-à-dire, reparaîtrons-nous sous une forme nouvelle ?
 
 **796.** C’est-à-dire, désirant obtenir les faveurs de Dieu.
 
-**797.** Mot à mot
+**797.** Mot à mot : de fraîcheurs d’yeux.
 
 **798.** C’est l’entrevue du mont Sinaï où Dieu s’est entretenu avec Moïse.
 
@@ -18030,11 +18030,11 @@ ZENDJEBIL, LXXVI, 17.
 
 **800.** L’inscription du chapitre lui vient de ce qu’il a été révélé (ou au moins une partie) à Médine, assiégée, à l’instigation des juifs de Nadhir, pendant environ vingt jours par quelques tribus confédérées. Le mot *alahzab*, que nous traduisons ici par *confédérés*, est rendu quelquefois par *partis*.
 
-**801.** Mot à mot
+**801.** Mot à mot : Dieu n’a pas placé deux cœurs dans l’intérieur de l’homme.
 
-**802.** Les Arabes avaient coutume de dire à la femme qu’ils répudiaient, sans cependant la renvoyer de la maison ni la reprendre, ces mots
+**802.** Les Arabes avaient coutume de dire à la femme qu’ils répudiaient, sans cependant la renvoyer de la maison ni la reprendre, ces mots : « Que ton dos soit dorénavant pour moi comme le dos de ma mère. » Mahomet condamne cette coutume. Il lève également les scrupules de ceux qui, regardant leurs fils adoptifs comme leurs propres enfants, s’interdisaient le mariage avec les femmes que ceux-ci avaient répudiées. On verra au verset 37 les motifs de cette dispense. Par les mots : Dieu n’a pas donné deux cœurs à l’homme, on entend que l’homme ne peut pas avoir une affection égale pour ses propres enfants et pour ceux qu’il a adoptés.
 
-**803.** Mot à mot
+**803.** Mot à mot : le prophète est plus proche des croyants que leurs âmes, mas ici le mot *âme* (*nafs*) est dans le sens de : *soi-même*, *personne*, *individu*.
 
 **804.** Les *Mohadjers* sont ceux qui avaient émigré de la Mecque. Ce verset abroge ceux du chapitre VIII, où les Mohadjers et les Ansars (auxiliaires de Médine) sont désignés comme héritiers les uns des autres, à l’exclusion des autres parents alors idolâtres encore.
 
@@ -18052,7 +18052,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **811.** Car, dans ce cas, ils se trouveraient absents et se soustrairaient ainsi à la guerre sainte.
 
-**812.** Ce passage se rapporte à l’expédition faite par Mahomet contre les juifs de Koreïdha, aussitôt qu’ils eurent levé le siège de Médine. Pour les punir de leur trahison (ils avaient les premiers rompu l’alliance conclue antérieurement avec Mahomet), on en fit un grand carnage
+**812.** Ce passage se rapporte à l’expédition faite par Mahomet contre les juifs de Koreïdha, aussitôt qu’ils eurent levé le siège de Médine. Pour les punir de leur trahison (ils avaient les premiers rompu l’alliance conclue antérieurement avec Mahomet), on en fit un grand carnage ; une partie furent réduits en esclavage, et leurs biens donnés aux Mohadjers (émigrés de la Mecque).
 
 **813.** ’Les femmes de Mahomet le fatiguaient en lui demandant des vêtements plus riches et un train de maison plus considérable. Mahomet, les ayant fait venir toutes, leur donna le choix ou de rester avec lui comme par le passé, ou de le quitter en divorçant. Toutes les femmes préférèrent rester avec Dieu et l’apôtre Mahomet les remercia, et s’interdit par le verset 52 d’épouser d’autres femmes.
 
@@ -18060,19 +18060,19 @@ ZENDJEBIL, LXXVI, 17.
 
 **815.** L’ignorance, *eldjahiliïè*, s’applique aux temps d’idolâtrie.
 
-**816.** Dans ce passage, le mot *vous* est en arabe un pronom masculin au pluriel, tandis que, dans les phrases qui précèdent, Mahomet se sert du pronom féminin
+**816.** Dans ce passage, le mot *vous* est en arabe un pronom masculin au pluriel, tandis que, dans les phrases qui précèdent, Mahomet se sert du pronom féminin : *vous, femmes*. Les chiites (partisans d’Ali) citent ce passage à l’appui de l’union intime d’Ali et de sa postérité avec le prophète.
 
-**817.** On a vu plus haut (verset 4) la distinction que Mahomet voulait établir entre les enfants propres et adoptifs, pour lever les scrupules des Arabes à cet égard. Voici ce qui donna lieu à la révélation du verset 37, qui sert de complément au verset 4. Zeïd, jeune homme de la tribu de Kalb, descendant des Himyarites, fut enlevé par un parti d’Arabes et mis en vente
+**817.** On a vu plus haut (verset 4) la distinction que Mahomet voulait établir entre les enfants propres et adoptifs, pour lever les scrupules des Arabes à cet égard. Voici ce qui donna lieu à la révélation du verset 37, qui sert de complément au verset 4. Zeïd, jeune homme de la tribu de Kalb, descendant des Himyarites, fut enlevé par un parti d’Arabes et mis en vente ; Mahomet l’acheta longtemps avant son apostolat, le prit en affection et le traita comme son fils. Lorsque le vénérable père de Zeïd, Haretha, après bien des recherches, eut enfin découvert son fils, il offrit à Mahomet de le racheter ; mais le prophète déclara que, si Zeïd préférait retourner chez son père, il le renverrait sans rançon ; dans le cas contraire, il le garderait. Zeïd déclara vouloir rester avec Mahomet, qui l’adopta solennellement pour son fils devant la pierre noire de la Caaba. Plus tard, Mahomet lui fit épouser une femme nommée Zeïneb (Zénobie). Quelques années après, Mahomet étant allé un jour chez Zeïd, ne le trouva pas et vit seulement sa femme, et sa beauté le frappa au point qu’il s’écria : « Gloire à Dieu, qui tourne les cœurs des hommes comme il veut ! » Quand Zeïd rentra chez lui, sa femme lui raconta la visite de Mahomet, sans oublier l’exclamation très-significative du prophète. Zeïd comprit qu’il fallait sacrifier sa femme à son bienfaiteur ; aussi s’empressa-t-il de la répudier. Mahomet, soit sincèrement, soit en apparence seulement et de peur de scandale, chercha à en détourner Zeïd. Là-dessus, dit-on gravement, intervint la révélation du verset 37 ; qui légitime la passion du prophète, et permet à lui comme aux fidèles d’épouser les femmes répudiées par leurs fils adoptifs. Les musulmans font observer que Zeïd est le seul des contemporains de Mahomet nommé dans le Koran. Il faut cependant ajouter Abou-Lahab, nommé dans le chapitre CXI.
 
-**818.** Cela veut dire qu’il n’y aura plus de prophètes après Mahomet. On cite ces paroles de Mahomet
+**818.** Cela veut dire qu’il n’y aura plus de prophètes après Mahomet. On cite ces paroles de Mahomet : *La nebiïa ba’di*. Plus de prophètes après moi.
 
 **819.** Ce mot peut se traduire aussi par salut, salutation, et par sécurité.
 
-**820.** Mot à mot
+**820.** Mot à mot : de rafraîchir leurs yeux.
 
 **821.** À cette époque Mahomet avait neuf femmes, sans compter les esclaves. De là on a conclu que le prophète était autorisé à avoir neuf femmes légitimes, sans compter les esclaves. L’exemple du prophète est regardé comme obligatoire pour les imams, censés être ses successeurs. Tous les autres croyants, on l’a vu par le chap. IV, ne peuvent avoir que quatre femmes légitimes. Le mot *ba’dou* (après), que nous traduisons par *dorénavant*, est entendu par les commentateurs dans ce sens que, lors même qu’une des femmes mourrait, Mahomet ne devait plus la remplacer.
 
-**822.** En conformité de ce précepte, les mahométans ne prononcent ni n’écrivent jamais le nom de Mahomet sans ajouter ces mots
+**822.** En conformité de ce précepte, les mahométans ne prononcent ni n’écrivent jamais le nom de Mahomet sans ajouter ces mots : *Salla allahou aleïhi oua sallama*, que Dieu lui soit propice et le conserve ! Le mot *salla*, qui signifie prier, quand il se dit de l’homme à l’égard de Dieu, ne peut se traduire en parlant de Dieu par rapport à Mahomet, que par le mot *honorer*, ou *bénir*, et c’est ce sens que lui donnent les commentateurs ; car la signification primitive de ce verbe implique plutôt un témoignage de vénération qu’une supplication.
 
 **823.** Car en Orient il n’y a que les femmes du bas peuple, les campagnardes ou les femmes de mœurs suspectes qui laissent voir leur visage entièrement ou en partie.
 
@@ -18080,11 +18080,11 @@ ZENDJEBIL, LXXVI, 17.
 
 **825.** Parmi les ouvrages exécutés par les génies, on cite le trône de Salomon, supporté par deux lions couchés et surmonté de deux aigles. Quand Salomon montait sur le trône, les lions étendaient leurs pattes, et, quand il s’asseyait, les aigles l’ombrageaient de leurs ailes.
 
-**826.** On a déjà vu dans les chap. II et XXVII quelques détails sur Salomon. Chez les musulmans, Salomon est le type d’un roi sage, puissant
+**826.** On a déjà vu dans les chap. II et XXVII quelques détails sur Salomon. Chez les musulmans, Salomon est le type d’un roi sage, puissant ; sa magnificence est devenue proverbiale. Les commentateurs racontent, d’après les sources rabbiniques sans doute, que Salomon, se voyant dans un âge très-avancé, pria Dieu de cacher sa mort jusqu’à ce que les ouvrages et les édifices entrepris par lui fussent terminés. Il craignait que les génies n’abandonnassent les travaux aussitôt après sa mort. Dieu agréa la demande de Salomon, et, quand le moment de sa mort vint, il était à genoux, faisant la prière appuyé sur son bâton. Les génies, le voyant toujours en vie, achevèrent les travaux.
 
 **827.** Il faut entendre ici par les jardins tout un pays couvert de jardins, dans le pays appelé Marib, à trois journées de distance de Sanaa.
 
-**828.** L’inondation des digues est une des principales époques de l’histoire de l’Arabie
+**828.** L’inondation des digues est une des principales époques de l’histoire de l’Arabie ; cette catastrophe occasionna une émigration des tribus, qui depuis cette époque se fixèrent tant dans les autres parties de l’Arabie qu’en Syrie. Quoiqu’il soit difficile de préciser l’époque de cet événement, les recherches de M. de Sacy permettent de la rapporter au deuxième siècle après Jésus-Christ. Voyez aussi l’histoire des Arabes, par M. Caussin de Perceval, 3 vol., 1849.
 
 **829.** Ils étaient ennuyés, disent les commentateurs, de tant de bénédictions, ils voulaient avoir l’occasion de pressurer les pauvres gens par des voyages à travers les déserts. Aussi Dieu rendit ce pays désert.
 
@@ -18096,33 +18096,33 @@ ZENDJEBIL, LXXVI, 17.
 
 **833.** La foi ou le salut, et la délivrance du feu.
 
-**834.** Les versets 50, 5l, 52, contiennent une sorte de jeu de mots qui peut à peine être sensible dans la traduction
+**834.** Les versets 50, 5l, 52, contiennent une sorte de jeu de mots qui peut à peine être sensible dans la traduction ; et qui consiste dans l’emploi des mots *proche*, *de près*, *de loin*, *lancer*, *atteindre* ; le mot *lancer* (en arabe *rama*) signifie aussi au figuré : se moquer de quelque chose. Les choses cachées sont les mystères du paradis, de l’enfer, de la vie future ; les incrédules, dit le Koran, se moquent des mystères, ils en sont si loin ! ils sont si incapables de les comprendre !
 
 **835.** Ce chapitre est encore intitulé le Créateur. Les deux mots qui lui servent de titre sont empruntés au premier verset.
 
 **836.** L’ange Gabriel, selon les commentateurs, apparut à Mahomet dans la nuit de son voyage nocturne (voy. chap. XVII) avec six cents ailes.
 
-**837.** Le mot mer, en arabe *bahr*, s’applique non-seulement à la mer d’eau salée, mais à des grands fleuves
+**837.** Le mot mer, en arabe *bahr*, s’applique non-seulement à la mer d’eau salée, mais à des grands fleuves ; comme le Nil, le Tigre, etc.
 
 **838.** Comme des perles, des coraux, etc.
 
 **839.** Le livre qui éclaire, c’est l’Évangile.
 
-**840.** Les mots
+**840.** Les mots : de différentes couleurs, peuvent se traduire toujours par : différentes espèces.
 
-**841.** Dieu, après avoir dit qu’il a donné le Koran à Mahomet, ajoute que le Koran devient un héritage pour tous les autres musulmans et divise les hommes en trois classes
+**841.** Dieu, après avoir dit qu’il a donné le Koran à Mahomet, ajoute que le Koran devient un héritage pour tous les autres musulmans et divise les hommes en trois classes : les méchants, puis ceux qui ne sont ni tout à fait méchant ni tout à fait bons, et enfin les justes,
 
 **842.** Le mot *sonnet*, que nous traduisons par coutume, veut dire chemin fréquenté et suivi constamment, ornière, voie. De là, le mot *sonnet*, *sonna*, s’applique au recueil des usages suivis et autorisés par la tradition constante en matière de religion ou de droit. Dieu suit toujours les mêmes voies, il avertit d’abord les méchants et puis les punit.
 
 **843.** Ce chapitre, intitulé *Ias*, ou plutôt Ya Sin (deux lettres dont le sens est inconnu et qui se trouvent en tête du premier verset) est récité comme prière des agonisants ou des morts. Mahomet l’avait appelé le cœur du Koran.
 
-**844.** C’est, disent les commentateurs, cette parole de Dieu
+**844.** C’est, disent les commentateurs, cette parole de Dieu : *Je remplirai la géhenne d’hommes et de génies* ; aussi Dieu les a rendus inaccessibles à la foi, incapables de comprendre ses enseignements.
 
 **845.** Le prototype évident ou le Livre évident, ou la Table bien gardée, c’est le livre où sont inscrites les actions de tout homme.
 
-**846.** Tout ce passage, depuis le verset 12 jusqu’an 29, pouvait se rapporter, dans la pensée de Mahomet, à un fait particulier et réel dont il aurait entendu parler vaguement. Les commentateurs le rapportent à la mission de deux disciples de Jésus-Christ, envoyés par lui à Antioche pout prêcher l’unité de Dieu. Les idolâtres de cette ville les reçurent fort mal, et les jetèrent même dans un cachot
+**846.** Tout ce passage, depuis le verset 12 jusqu’an 29, pouvait se rapporter, dans la pensée de Mahomet, à un fait particulier et réel dont il aurait entendu parler vaguement. Les commentateurs le rapportent à la mission de deux disciples de Jésus-Christ, envoyés par lui à Antioche pout prêcher l’unité de Dieu. Les idolâtres de cette ville les reçurent fort mal, et les jetèrent même dans un cachot ; ce que Jésus ayant appris, il s’empressa d’envoyer Simon-Pierre. Celui-ci, en arrivant à Antioche, feignit d’abord d’être un polythéiste zélé, et, habile en même temps à opérer des miracles, il parvint ainsi à gagner la faveur du peuple et des grands. Peu après, il témoigna, comme par hasard, l’intention de voir les deux apôtres dans le but de les confondre ; il eut toutefois soin de les prévenir qu’ils eussent l’air de ne pas le connaître. Quand on amena les deux apôtres devant Pierre, il les interrogea sur leur mission et sur la religion qu’ils prêchaient, puis il leur porta le défi d’opérer un miracle décisif, comme de ressusciter des morts ; car, pour rendre la vue aux aveugles, il en était capable lui-même. Là-dessus, on fait apporter un enfant mort depuis sept jours, et les deux apôtres lui rendent la vie. Pierre, venu pour les confondre, s’avoue vaincu, déclare tout haut vouloir embrasser le culte unitaire, se met à briser les idoles, et entraîne ainsi une grande partie des habitants d’Antioche. Ceux qui demeurèrent incrédules furent exterminés par un seul cri de l’ange Gabriel. L’homme accouru de l’extrémité de la ville (verset 19) est un certain Habib, charpentier d’Antioche, dont les deux apôtres avaient précédemment guéri l’enfant par la simple imposition des mains, Cet homme souffrit le martyre, et son tombeau est à Antioche l’objet de la vénération des mahométans. (Voy. Sale, The Koran.)
 
-**847.** Mot a mot
+**847.** Mot a mot : votre oiseau est avec vous.
 
 **848.** Ou dans *un vaisseau comble*.
 
@@ -18130,39 +18130,39 @@ ZENDJEBIL, LXXVI, 17.
 
 **850.** Sièges, trônes ou fauteuils.
 
-**851.** Les infidèles trouvaient que Mahomet n’était qu’un poëte. Mahomet s’en défend, il regarde la poésie comme au-dessous de lui
+**851.** Les infidèles trouvaient que Mahomet n’était qu’un poëte. Mahomet s’en défend, il regarde la poésie comme au-dessous de lui ; on a déjà vu (chap. XXVI, 225) qu’il la condamne comme dangereuse.
 
-**852.** Il s’agit ici de la manière de faire du feu, en usage chez les Arabes
+**852.** Il s’agit ici de la manière de faire du feu, en usage chez les Arabes : deux morceaux d’une certaine espèce de bois, frottés l’un contre l’autre, font jaillir du feu, le bois étant même vert et humide.
 
-**853.** Le titre de cette sourate est
+**853.** Le titre de cette sourate est : *Qui se rangent en ordre*, mot du premier verset.
 
 **854.** D’après les commentateurs, cela s`entend des anges rangés en ordre qui chantent les louanges de Dieu, récitent le Koran et exécutent les ordres que Dieu leur donne de repousser les démons ou de réprimer les criminels en leur récitant les paroles du Koran, etc.
 
 **855.** En admettant plusieurs mondes, Mahomet admet plusieurs orients et plusieurs occidents.
 
-**856.** Selon la cosmogonie de Mahomet, il y a sept cieux qui forment des cercles concentriques
+**856.** Selon la cosmogonie de Mahomet, il y a sept cieux qui forment des cercles concentriques ; au-dessus de ces cieux est le ciel pur, sans étoiles ; c’est là qu’est le trône de la majesté divine, *elarch*.
 
-**857.** Les génies cherchent à pénétrer dans le ciel et s’en approchent pour écouter ce qui s’y dit
+**857.** Les génies cherchent à pénétrer dans le ciel et s’en approchent pour écouter ce qui s’y dit ; des traits enflammés sont lancés contre eux par des anges ; c’est ainsi que les mahométans les étoiles filantes.
 
-**858.** Le côté droit étant le côté de bon augure, ces mots peuvent être entendus ainsi
+**858.** Le côté droit étant le côté de bon augure, ces mots peuvent être entendus ainsi : Vous veniez à nous avec l’apparence de la vérité.
 
-**859.** C’est la parole
+**859.** C’est la parole : *Je remplirai l’enfer d’hommes et de génies *.
 
-**860.** Mot à mot
+**860.** Mot à mot : *courtes de regard*, c’est-à-dire leurs regards en se porteront pas au delà, en dehors de leurs époux.
 
 **861.** Le teint de ces beautés est comparé aux œufs d’autruche, à cause de la blancheur mêlée d’une teinte paille, mélange qui constitue la plus belle carnation, et qui, comme les œufs d’autruche cachés avec soin dans le sable, n’est ternie ni par l’air ni par la poussière.
 
 **862.** Cela veut dire que souvent nos amis dans ce monde nous entraînent à la perte du salut éternel.
 
-**863.** Cet homme, un des bienheureux, doute presque de son bonheur, et voyant son ami dans l’enfer, se demande
+**863.** Cet homme, un des bienheureux, doute presque de son bonheur, et voyant son ami dans l’enfer, se demande : Suis-je donc réellement en possession d’un séjour éternel, ne faudra-t-il plus mourir ni subir de supplice ?
 
-**864.** Les musulmans ne manquent jamais d’ajouter, après le nom du prophète, ces mots
+**864.** Les musulmans ne manquent jamais d’ajouter, après le nom du prophète, ces mots : *Que la paix soit sur lui !*
 
-**865.** Par les mots
+**865.** Par les mots : *son peuple*, il faut entendre les gens de sa famille, les voisins, les gens de la même tribu ayant les mêmes divinités.
 
-**866.** Selon les musulmans, ce n’est point Isaac qui devait être offert en sacrifice
+**866.** Selon les musulmans, ce n’est point Isaac qui devait être offert en sacrifice ; c’est Ismaël. Ils appuient cette version sur les paroles de Mahomet, qui avait coutume de dire que, parmi ses ancêtres, il y en eut deux qui devaient être sacrifiés à Dieu ; l’un Ismaël, dont il prétendait descendre, l’autre son père Abdallah. Abdol-Mottalib, grand-père de Mahomet, demandait à Dieu de lui découvrir l’ancienne source de Zemzem (à la Mecque) et de lui donner dix fils, et, s’il l’obtenait, il fit vœu d’en offrir un en sacrifice à Dieu. Ses vœux furent exaucés, et l’un de ses dix fils, Abdallah, père de Mahomet, fut racheté par un sacrifie de cent chameaux. De là, selon la sonna, le prix du sang humain est porté à cent chameaux
 
-**867.** Ce mot embarrasse les commentateurs
+**867.** Ce mot embarrasse les commentateurs ; c’est sans doute le pluriel d’Élias, applicable à Élie et à ceux qui l’ont suivi, quoique, selon l’usage en pareil cas, la mot devrait être précédé de l’article.
 
 **868.** Le mot *iaktin*, qui suit le mot arbuste, est expliqué tantôt par *citrouille* tantôt par *figuier* ou *bananier*.
 
@@ -18172,7 +18172,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **871.** Cette épithète est donnée ici à Pharaon à cause des châtiments qu’il infligeait aux coupables, et qui consistaient à les faire attacher à quatre pieux et à leur faire subir divers tourments. V. LXXXIX, 9.
 
-**872.** Les mots arabes du texte peuvent signifier aussi *la séparation du discours*, ’ c’est-à-dire l’éloquence qui sait choisir ses expressions et produire de l’effet. Cependant, ce qui suit dans le verset 20 autorise à traduire comme nous l’avons fait. Les deux plaideurs étaient deux anges qui feignirent d’en appeler au jugement de David
+**872.** Les mots arabes du texte peuvent signifier aussi *la séparation du discours*, ’ c’est-à-dire l’éloquence qui sait choisir ses expressions et produire de l’effet. Cependant, ce qui suit dans le verset 20 autorise à traduire comme nous l’avons fait. Les deux plaideurs étaient deux anges qui feignirent d’en appeler au jugement de David ; en réalité, c’était pour lui faire sentir ses propres péchés. L’étonnement et la frayeur de David venaient de ce que, ayant partagé ses heures entre ses différentes occupations, il consacrait une partie de la journée à la prière ou à ses affaires, et ne recevait personne. Or, c’est à cette heure de la journée que les plaideurs se présentèrent.
 
 **873.** Ceci se rapporte à David convoitant la femme d’Urie.
 
@@ -18180,15 +18180,15 @@ ZENDJEBIL, LXXVI, 17.
 
 **875.** Revenir à Dieu, veut dire se repentir.
 
-**876.** Salomon avait pris dans les pays de Damas et de Nisibis très grande quantité de chevaux
+**876.** Salomon avait pris dans les pays de Damas et de Nisibis très grande quantité de chevaux ; d’autres disent que c’étaient des chevaux que David avait pris sur les Amalécites, et laissés en héritage à son fils ; d’autres, enfin, que les chevaux étaient nés des vagues de la mer et avaient des ailes. Quand on amena ces mille chevaux devant Salomon, il fut si longtemps à les examiner, qu’il oublia l’heure de la prière ; mais, s’étant aperçu de sa faute, il en fit immoler en sacrifice la plus grande partie, ne conservant qu’une centaine des plus beaux. Pour le consoler de la perte de ses chevaux, Dieu lui soumit les vents.
 
-**877.** Salomon, après avoir conquis Sidon et mis à mort le roi de cette ville, prit sa fille pour concubine. Celle-ci obtint la permission d’avoir la statue de son père dans ses appartements
+**877.** Salomon, après avoir conquis Sidon et mis à mort le roi de cette ville, prit sa fille pour concubine. Celle-ci obtint la permission d’avoir la statue de son père dans ses appartements ; elle s’en fit un objet d’adoration, et introduisit ainsi sous le toit du roi Salomon le culte idolâtre. Dieu voulut le punir de cette faiblesse. Salomon avait coutume de laisser chez une de ses femmes, toutes les fois qu’il se rendait au bain, son anneau, emblème du pouvoir et talisman à l’aide duquel il gouvernait les génies. Un de ces génies parvint à s’en rendre maître, et s’assit sur le trône ; Salomon, dépossédé de son anneau, perdit le royaume, et fut obligé d’errer sur la terre, méconnu et renié par ses sujets, jusqu’à ce que l’anneau, que le démon avait jeté dans la mer, retiré par un pêcheur et restitué à Salomon, lui fît recouvrer son autorité.
 
 **878.** On sous-entend *d’herbes* ou *de jonc*
 
 **879.** Les commentateurs disent que la femme de Job (Lia, fille de Jacob ou d’Éphraïm, fils de Joseph) étant allée quelque part et ayant resté trop longtemps absente, Job, qui avait sans doute besoin de son aide, jura de lui donner cent coups de fouet dès qu’il guérirait. Dieu lui ordonna de prendre un faisceau d’herbes ou de joncs, et de frapper, sans lui dire quoi, et cela afin qu’il restât fidèle à son serment et dégager sa parole. Ce passage du Koran autorise cette manière de dégager un serment fait inconsidérément et que l’on préférerait ne pas remplir dans toute sa rigueur. Dans le texte, le mot *frappes-en* n’est suivi d’aucun régime.
 
-**880.** Mot à mot
+**880.** Mot à mot : possesseurs de mains et de la vue.
 
 **881.** De trente à trente-trois ans, selon les commentateurs.
 
@@ -18196,13 +18196,13 @@ ZENDJEBIL, LXXVI, 17.
 
 **883.** Ce mot est ordinairement ajouté au nom de Satan, il veut dire maudit.
 
-**884.** Le titra de cette sourate est le mot
+**884.** Le titra de cette sourate est le mot : *par troupes*, qu’on lit dans le verset 71.
 
 **885.** C’est-à-dire, pour un but sérieux, et non pour s’en faire un jeu.
 
-**886.** Mot à mot
+**886.** Mot à mot : il a fait descendra pour vous, en fait de troupeaux, huit couples.
 
-**887.** Les entrailles, l’estomac, et la membrane qui enveloppe le fœtus. Les différentes formes ou phases de l’homme sont
+**887.** Les entrailles, l’estomac, et la membrane qui enveloppe le fœtus. Les différentes formes ou phases de l’homme sont : goutte de sperme, grumeau de sang, morceau de chair, etc.
 
 **888.** Les mots *ingrat* et *ingratitude*, veulent dire aussi *infidèle* et *infidélité*.
 
@@ -18210,21 +18210,21 @@ ZENDJEBIL, LXXVI, 17.
 
 **890.** La seconde partie de la phrase, dans ce passage comme dans beaucoup d’autres analogues, n’est pas exprimée dans le texte, elle est sous-entendue.
 
-**891.** D’après ce passage, les âmes des hommes qui dorment sont auprès de Dieu
+**891.** D’après ce passage, les âmes des hommes qui dorment sont auprès de Dieu ; Dieu les reçoit, et tantôt les garde, tantôt les renvoie, selon que le terme de la vie est expiré ou non. L’emploi du mot *toveffa*, dans ce passage, vient à l’appui de ce que nous avons dit, chap. III, vers. 48, note. Nous ferons observer à cette occasion que le mot *enfous*, pluriel de *nafs* âme, signifie *personne, individu*, et doit être distingué de *rouh*, âme, esprit, bien que les *rouh*, pluriel *erwah*, meurent aussi, et que les anges doivent mourir également pour être ensuite ressuscités.
 
 **892.** C’est-à-dire que personne ne pourra intercéder sans la permission de Dieu.
 
-**893.** On pense que les anges Gabriel, Michel et Izrafil, ainsi que lsraïl, l’ange de la mort, ne mourront pas à ce moment même, mais qu’ils mourront plus tard
+**893.** On pense que les anges Gabriel, Michel et Izrafil, ainsi que lsraïl, l’ange de la mort, ne mourront pas à ce moment même, mais qu’ils mourront plus tard » afin que la parole de Dieu qui annonce la mort de tout être soit réalisée. Tous, du reste, seront ressuscités ensuite.
 
 **894.** Ce chapitre est intitulé Croyant, car il est fait mention d’un croyant de la famille de Pharaon.
 
-**895.** Voy
+**895.** Voy ; II, 1
 
-**896.** Mot à mot
+**896.** Mot à mot : leur mouvement en tout sens dans ce pays. Mahomet entend par là leurs allées et venues à cause du commerce qu’ils faisaient en Arabie et en Syrie, et du bien-être qu’ils en recueillaient. Voy. III, 196.
 
 **897.** On entend par le les Chérubins, anges de l’ordre le plus élevé et créés les premiers.
 
-**898.** Les commentateurs entendent différemment ce passage. Selon les uns, la première mort est cet état d’insensibilité dans lequel l’homme est avant sa naissance
+**898.** Les commentateurs entendent différemment ce passage. Selon les uns, la première mort est cet état d’insensibilité dans lequel l’homme est avant sa naissance ; la seconde est la mort par suite de laquelle il quitte le monde ; on renaît deux fois, l’une pour le monde, une autre pour le jugement dernier. Selon d’autres, la première mort, c’est la mort naturelle ; la seconde, c’est quand le défunt, après avoir été interrogé dans le tombeau, meurt jusqu’au jour de la résurrection.
 
 **899.** Vous ne croyez pas à l’unité de Dieu, mais vous étiez disposés à croire à la pluralité de Dieu.
 
@@ -18232,7 +18232,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **901.** Le jour de l’entrevue (avec Dieu) est le jour du jugement dernier.
 
-**902.** Littéralement
+**902.** Littéralement : Dieu connaît des perfides d’yeux, c’est-à-dire ces hommes qui ont des yeux perfides, et qui jettent un regard de connivence coupable, ou un regard de convoitise sur ce qui est illicite.
 
 **903.** Sur Karoun, qui est le Coré de la Bible, voy. chap. XXVIII, 76, note.
 
@@ -18256,9 +18256,9 @@ ZENDJEBIL, LXXVI, 17.
 
 **913.** Le mot du texte *nouzoul*, signifie ce que l’on offre à hôte, ce qu’on, lai fait prendre, repas, rafraîchissement, etc.
 
-**914.** Mot à mot
+**914.** Mot à mot : possesseur du grand bonheur.
 
-**915.** Le texte porte
+**915.** Le texte porte : *quoi ! barbare et arabe ?* le sens est : Ils diraient alors : Comment adresser un livre en langue étrangère au peuple arabe ?
 
 **916.** L’inscription de ce chapitre lui vient de la recommandation faite aux croyants de se consulter sur leurs affaires. On lui donne aussi pour titre les lettres placées en tête du premier verset.
 
@@ -18274,25 +18274,25 @@ ZENDJEBIL, LXXVI, 17.
 
 **922.** Il peut apposer un sceau sur ton cœur, c’est-à-dire il peut t’ôter ta mission d’apôtre et le priver de la faculté de prêcher.
 
-**923.** Mot à mot
+**923.** Mot à mot : leurs affaires est délibération entre eux.
 
-**924.** Voici ce que les commentateurs disent au sujet de ce précepte
+**924.** Voici ce que les commentateurs disent au sujet de ce précepte : « Dieu leur ordonne de repousser l’injustice à cause de l’horreur qu’ils ont de s’avilir ; et après avoir parlé des autres vertus principales, il parle du courage (des hommes de Dieu). Cette manière d’agir n’est pas contraire à l’indulgence qu’il leur inculque ; la bonté envers le faible est digne d’éloge, elle est blâmable à l’égard du fort, car elle l’encourage à l’injustice. Le verset 57 peut être traduit littéralement ainsi ; « Qui, lorsque la violence les atteint, s’aident eux-mêmes.
 
 **925.** C’est-à-dire, il ne t’appartient que de porter la révélation reçue à la connaissance des hommes.
 
-**926.** Dieu n’a jamais adressé la parole à aucun homme. Mahomet dit pourtant à plusieurs endroits du Koran, que Dieu a réellement adressé la parole à Moïse. Moïse n’a cependant pu obtenir de voir Dieu, et c’était une croyance généralement reçue parmi les Hébreux et probablement parmi tous les peuples sémitiques, que Dieu ne se faisait pas voir à un homme sans que celui-ci mourût sur-le-champ. Les mystiques, secte philosophique éclose au sein de l’islam, prétendent que la pratique constance de la fie spirituelle peut élever l’homme à un degré de perfection tel, que, dans les extases, il parle à Dieu et le voit. Tous leurs efforts tendent par conséquent à lever, par la force de l’amour divin et l’anéantissement de l’individualité, le voile qui les sépare de l’essence de Dieu. De là le mot
+**926.** Dieu n’a jamais adressé la parole à aucun homme. Mahomet dit pourtant à plusieurs endroits du Koran, que Dieu a réellement adressé la parole à Moïse. Moïse n’a cependant pu obtenir de voir Dieu, et c’était une croyance généralement reçue parmi les Hébreux et probablement parmi tous les peuples sémitiques, que Dieu ne se faisait pas voir à un homme sans que celui-ci mourût sur-le-champ. Les mystiques, secte philosophique éclose au sein de l’islam, prétendent que la pratique constance de la fie spirituelle peut élever l’homme à un degré de perfection tel, que, dans les extases, il parle à Dieu et le voit. Tous leurs efforts tendent par conséquent à lever, par la force de l’amour divin et l’anéantissement de l’individualité, le voile qui les sépare de l’essence de Dieu. De là le mot : lever le voile, a acquis dans le langage des Orientaux la valeur du plus haut degré d’intimité. Nous avons parlé au chap. XVII du désaccord des mahométans (du moins dans tas premiers temps de l’islam) sur le voyage nocturne et l’ascension de Mahomet ; ceux qui l’admettent comme un fait réel sont encore partagés d’avis sur la manière dont Mahomet a contemplé Dieu : les uns soutiennent qu’il l’a vu des yeux de sa tête, c’est-à-dire matériellement ; d’autres, que c’était des yeux de son cœur, c’est-à-dire par une vue intérieur de l’esprit.
 
-**927.** Telle est la traduction littérale de ce passage, qui laisse dans le vague ce que le Koran veut proprement dire. Le commentateur Beïdhawi se contente de dire
+**927.** Telle est la traduction littérale de ce passage, qui laisse dans le vague ce que le Koran veut proprement dire. Le commentateur Beïdhawi se contente de dire : C’est Gabriel. Et le sens de ces mots est celui-ci : « Nous t’avons envoyé Gabriel avec la révélation. »
 
 **928.** Voy. le verset 34
 
-**929.** La mère du Livre est le prototype, l’original du Koran, ainsi que lié tous les livres révélés. Ce prototype est immuable
+**929.** La mère du Livre est le prototype, l’original du Koran, ainsi que lié tous les livres révélés. Ce prototype est immuable ; ses développements cependant peuvent varier selon les siècles et les hommes auxquels s’adresse un livre sacré ; c’est dans ce sens probablement qu’il faut entendre lit distinction dès versets du Koran, donnée chapitre III, 3.
 
-**930.** Les mots du texte emportent une expression de mépris
+**930.** Les mots du texte emportent une expression de mépris ; littéralement on devrait les traduire ainsi : « Cependant ils lui donnent des petits bouts, des parcelles en fait de serviteurs. » C’est-à-dire ils croient que ces êtres créés sont des parcelles de lui-même, ses enfants.
 
 **931.** La femme, à cause de sa raison défectueuse, est toujours disposée à chercher querelle sans motif.
 
-**932.** On veut entendre par cette expression la distancé du lever du soleil en été à celui d’hiver
+**932.** On veut entendre par cette expression la distancé du lever du soleil en été à celui d’hiver ; mais il est plus exact d’entendre par ce mot la distance entre le lever et le coucher du soleil, l’usage autorise l’emploi d’un duel dans un nom qui ne doit pas en avoir par lui-même, mais qui fait deux avec un autre mot même d’un sens opposé ou tout à fait différent. C’est ainsi qu’en parlant de deux fils d’Ali, Hassan et Housseïn, on dit en arabe *Hassaneïn*, les deux Hassan.
 
 **933.** Car Moïse avait l’élocution difficile.
 
@@ -18304,7 +18304,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **937.** Par ces mots, Mahomet entend ici les différentes sectes, soit juives, soit chrétiennes.
 
-**938.** Malek est l’ange qui préside aux tourments des réprouvés. Au lieu de *ïa Malekou* (ô Malek
+**938.** Malek est l’ange qui préside aux tourments des réprouvés. Au lieu de *ïa Malekou* (ô Malek !), quelques-uns lisent : *ïa Mali*, comme pour peindre les souffrances des réprouvés qui ne seront pas en état d’achever le mot.
 
 **939.** C’est la terrible journée du jugement dernier.
 
@@ -18316,7 +18316,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **943.** Voy. II, 1, note.
 
-**944.** Dans cette nuit, que les musulmans croient être celle du 23 et 24 du ramadan, tout ce qui doit arriver l’année suivante est décidé et fixé. L’expression *affaire sage* signifie
+**944.** Dans cette nuit, que les musulmans croient être celle du 23 et 24 du ramadan, tout ce qui doit arriver l’année suivante est décidé et fixé. L’expression *affaire sage* signifie : affaire qui vient de Dieu, qui est la sagesse absolue et qui ne peut pas être une affaire futile, sans but.
 
 **945.** Celle qui atteint tout homme dans ce monde
 
@@ -18324,9 +18324,9 @@ ZENDJEBIL, LXXVI, 17.
 
 **947.** Ces mots sont ironiques.
 
-**948.** On lit dans le verset 27 de ce chapitre ces mots
+**948.** On lit dans le verset 27 de ce chapitre ces mots : *Tu verras toute nation agenouillée* (tu verras tous les peuples à genoux). Le chapitre en a reçu son titre.
 
-**949.** Le mot *aïè*, pluriel *aïat*, comme nous l’avons déjà fait observer, veut dire en arabe *miracle*, *signe* et *verset* du Koran
+**949.** Le mot *aïè*, pluriel *aïat*, comme nous l’avons déjà fait observer, veut dire en arabe *miracle*, *signe* et *verset* du Koran ; c’est pourquoi il peut se joindre avec les verbes lire, réciter. Dans ce dernier cas, nous traduisons *aïat* par enseignement.
 
 **950.** Par les jours de Dieu, on entend les jours de victoires et de succès promis aux croyants sur leurs ennemis. Ce passage est en contradiction avec l’esprit de tant d’autres passages où l’on recommande de poursuivre les infidèles à outrance.
 
@@ -18346,17 +18346,17 @@ ZENDJEBIL, LXXVI, 17.
 
 **958.** Le texte dit frère d’Ad, ce qui signifie un homme du peuple d’Ad, concitoyen des Adites. Sur le mot Alahkaf, voyez la note du titre de ce chapitr
 
-**959.** C’est une allusion sans doute à ce que dit l’histoire de Mahomet sur la conversion d’un certain nombre de génies à Taïef. Mahomet, voyant combien sa mission rencontrait d’obstacle à la Mecque, se rendit à Taïef, ville du Hedjaz
+**959.** C’est une allusion sans doute à ce que dit l’histoire de Mahomet sur la conversion d’un certain nombre de génies à Taïef. Mahomet, voyant combien sa mission rencontrait d’obstacle à la Mecque, se rendit à Taïef, ville du Hedjaz ; il y fut très-mal accueilli par les habitants, mais, une troupe de génies de Nisibis, qui s’y trouvait, goûta la doctrine du Koran et l’embrassa.
 
-**960.** C’est-à-dire
+**960.** C’est-à-dire ; leur fera manquer leur but qui est la récompense ; et les rendra nulles.
 
 **961.** Bien qu’il soit question ici des infidèles contemporains de Mahomet et en particulier des Mecquois, ce passage est appliqué depuis Mahomet à tous les infidèles et fait partie du droit de guerre musulman.
 
-**962.** On procède à l’égard des infidèles par voie de massacre, de captivité, de rançon ou de mise en liberté. Les mots *serrez fort les entraves* veut dire
+**962.** On procède à l’égard des infidèles par voie de massacre, de captivité, de rançon ou de mise en liberté. Les mots *serrez fort les entraves* veut dire : enchaînez vos captifs pour les empêcher de fuir.
 
-**963.** Mot a mot
+**963.** Mot a mot : lorsque la guerre aura mis bas sa charge.
 
-**964.** Le texte se sert ici du mot fin (*khamr*)
+**964.** Le texte se sert ici du mot fin (*khamr*) ; dans d’autres passages on se sert du mot boisson (*cherab*).
 
 **965.** Sourate, chapitre du Koran.
 
@@ -18378,13 +18378,13 @@ ZENDJEBIL, LXXVI, 17.
 
 **974.** C’était le serment que beaucoup d’entre les musulmans avaient prêté à Mahomet, sous un arbre, lors de son expédition d’Alhodéïbiya, quand les Mecquois l’opposaient à l’accomplissement du pèlerinage de la Mecque, que Mahomet leur annonçait vouloir faire dans un but tout pacifique.
 
-**975.** Mahomet avait rêvé qu’il entrait en conquérant à la Mecque, rasé et ayant les cheveux coupés, avec ses compagnons (*ashab*)
+**975.** Mahomet avait rêvé qu’il entrait en conquérant à la Mecque, rasé et ayant les cheveux coupés, avec ses compagnons (*ashab*) ; il leur raconta ce songe, et tous croyaient qu’il se réaliserait dans le courant de l’année ; mais lorsque l’année se passa sans que le songe se réalisât, les compagnons de Mahomet commencèrent à douter des promesses de Dieu. Alors le verset 27 fut révélé à Mahomet.
 
 **976.** Quoique les musulmans se servent pour faire leurs prières de tapis ou de nattes, il est de rigueur que le front touche la dure, le sol nu. Ils portent souvent sur eux de petites briques rondes ou carrées, sur lesquelles ils portent leur front en se jetant par terre.
 
 **977.** C’est-à-dire, de discerner, si cette nouvelle a quelque garantie de vérité.
 
-**978.** Ceci doit se rapporter à Safia, une des femmes de Mahomet, à laquelle d’autres femmes auraient dit avec mépris
+**978.** Ceci doit se rapporter à Safia, une des femmes de Mahomet, à laquelle d’autres femmes auraient dit avec mépris : juive, fille d’un juif et d’une juive. Safia étant venue s’en plaindre à Mahomet, celui-ci aurait répandu : « Ne peux-tu pas leur dire : Aaron est mon père, Moïse est mon oncle, et Mahomet est mon époux. »
 
 **979.** C’est-à-dire, Dieu aime à pardonner.
 
@@ -18400,51 +18400,51 @@ ZENDJEBIL, LXXVI, 17.
 
 **985.** Voy. chap. LIV, 56
 
-**986.** Au lieu du mot *anges*, dont il s’agit bien ici, d’après les commentaires, le texte porte seulement ces mots
+**986.** Au lieu du mot *anges*, dont il s’agit bien ici, d’après les commentaires, le texte porte seulement ces mots : *lorsque deux recueillants recueillent*.
 
 **987.** L’ange de la mort.
 
-**988.** Prosternement C’est l’action de se jeter de tout son corps par terre. Cette attitude, si l’on peut s’exprimer ainsi, est une des parties essentielles de la prière
+**988.** Prosternement C’est l’action de se jeter de tout son corps par terre. Cette attitude, si l’on peut s’exprimer ainsi, est une des parties essentielles de la prière ; le mot *adoration*, dont on pourrait à la rigueur se servir, ne rend pas avec autant de précision le mot arabe *soudjoud*.
 
 **989.** C’est-à-dire, d’où toutes les créatures pourront l’entendre.
 
 **990.** Voy. le verset 1.
 
-**991.** Le texte ne porte que le participe féminin
+**991.** Le texte ne porte que le participe féminin : qui éparpillent, qui disséminent, en disséminant ; cela peut s’entendre aussi bien des femmes qui, en donnant des enfants aux hommes, multiplient leur postérité et la disséminent sur la terre, que des vents qui dispersent la poussière. Si l’on tient compte des versets suivants, on est plutôt porté à admettre cette dernière explication, car les mots : qui portent un fardeau, qui courent avec légèreté et distribuent, se rapportent mieux aux nuages qui portent dans leur sein la pluie, et, la versant sur la terre, font germer les plantes.
 
 **992.** On peut entendre par ces mots les bateaux qui voguent sur la mer.
 
-**993.** C’est-à-dire
+**993.** C’est-à-dire : les promesses et les menaces que l’apôtre vous fait.
 
 **994.** Les raies ou routes tracées dans le ciel pour la marche des étoiles.
 
 **995.** Le jour de la rétribution, c’est le jour du jugement dernier.
 
-**996.** Il faut suppléer par ces mots
+**996.** Il faut suppléer par ces mots : Comment pourrai-je enfanter ?
 
-**997.** Mot à mot
+**997.** Mot à mot : *il tourne le dos avec son pilastre*, c’est-à-dire en se confiant à ses richesses et à ses armées, qui étaient comme une colonne solide.
 
-**998.** Ces mots peuvent encore être traduits ainsi
+**998.** Ces mots peuvent encore être traduits ainsi : nous bâtîmes le ciel par notre puissance seule, et nous l’étendîmes dans l’espace.
 
 **999.** Ou qu’ils ne me pressent pas de hâter le jour de la rétribution.
 
-**1000.** *La maison peuplée* ou *le temple visité*
+**1000.** *La maison peuplée* ou *le temple visité* ; c’est le temple de le Caaba, visité et peuplé par des milliers de pèlerins. Nous passons sous silence les autres sens figurés et trop recherchés que donnent à ce mot les commentateurs.
 
-**1001.** Mot à mot
+**1001.** Mot à mot : *qui jouent dans le gouffre*, sous-entendu des *frivolités*.
 
-**1002.** Épier avec quelqu’un les vicissitudes du sort, est la traduction littérale d’une expression arabe qui veut dire
+**1002.** Épier avec quelqu’un les vicissitudes du sort, est la traduction littérale d’une expression arabe qui veut dire : « Attendons tranquillement le premier revers du sort pour nous venger de lui.
 
 **1003.** C’est-à-dire, sans qu’il y ait eu un créateur, et comme éclos par hasard.
 
 **1004.** On peut entendre par ces mots le *commencement et la fin*, ou bien *la vie future et la vie d’ici-bas*.
 
-**1005.** Le fort, le rigoureux, est l’ange Gabriel qui communique la révélation à Mahomet. L’expression
+**1005.** Le fort, le rigoureux, est l’ange Gabriel qui communique la révélation à Mahomet. L’expression : *la distance de deux ans*, sert ordinairement, chez les musulmans, à indiquer la distance à laquelle Mahomet approcha de Dieu.
 
 **1006.** C’est-à-dire, dans ce voyage nocturne dont il est question dans le chap. XVII.
 
 **1007.** C’est l’arbre qui sert de limite au paradis.
 
-**1008.** Mot a mot
+**1008.** Mot a mot : *lorsque le lotus était couvert par ce qui le couvrait*. On croit que Mahomet, sans préciser ce qui couvrait cet arbre, veut insinuer que c’étaient des troupes d’anges qui masquaient le lotus de la limite.
 
 **1009.** El-Lat, Al-Ozza et Menat, sont des noms de divinités adorées par les Arabes.
 
@@ -18454,11 +18454,11 @@ ZENDJEBIL, LXXVI, 17.
 
 **1012.** La constellation de la canicule, ou le Syrius, était adorée par les Arabes païens.
 
-**1013.** Les villes renversées sont les cinq villes de la Pentapole, savoir
+**1013.** Les villes renversées sont les cinq villes de la Pentapole, savoir : Sodome, Gomorrhe, etc.
 
-**1014.** Les mots du texte sont aussi interprétés par
+**1014.** Les mots du texte sont aussi interprétés par : *à vous enorgueillir*, *à lever la tète* ou *à chanter*.
 
-**1015.** Le mot *lune*, qui se trouve au premier verset, sert de titre à cette sourate. Dans ce premier verset, il s’agit de la venue de l’heure, c’est-à-dire du jour du jugement. Parmi les signes qui doivent précéder ce moment terrible, est celui de la lune qui se fendre. Les commentateurs veulent cependant voir dans ces mots
+**1015.** Le mot *lune*, qui se trouve au premier verset, sert de titre à cette sourate. Dans ce premier verset, il s’agit de la venue de l’heure, c’est-à-dire du jour du jugement. Parmi les signes qui doivent précéder ce moment terrible, est celui de la lune qui se fendre. Les commentateurs veulent cependant voir dans ces mots : *la lune se fendit*, une allusion au miracle fait par Mahomet. Un jour, disent-ils, il fendit avec son doigt la lune en deux.
 
 **1016.** Des récits sur les peuples exterminés en punition de leur impiété.
 
@@ -18474,25 +18474,25 @@ ZENDJEBIL, LXXVI, 17.
 
 **1022.** C’est-à-dire, le lever et le coucher d’été et d’hiver.
 
-**1023.** Les mots
+**1023.** Les mots : *des deux mers*, comme nous l’avons déjà vu (XXVII, 62), peuvent s’entendre de deux masses d’eau, l’une salée, l’autre douce.
 
-**1024.** La dernière phrase de ce verset peut être traduite plus littéralement ainsi
+**1024.** La dernière phrase de ce verset peut être traduite plus littéralement ainsi : *chaque jour il est dont une autre condition*. Ces mots qui, selon les commentateurs, veulent dire que Dieu s’occupe tour à tour de l’exécution de ses arrêts, de la mort et de la vie des êtres créés, de l’abaissement des uns ou de l’élévation des autres ; ces mots ont chez les mystiques musulmans un sens différent ; ils veulent dire que Dieu, un et indivisible, invariable dans son essence, est multiple dans ses attributs, et prend a chaque moment une face nouvelle, qu’il varie à l’infini, qu’il produit la création et l’absorbe, se manifeste et se voile.
 
-**1025.** Mot à mot
+**1025.** Mot à mot : quand il sera comme une rose, une fleur rouge. Le mot *dihan*, que l’on traduit par *cuir teint en rouge*, peut aussi se traduire par *graisse fondue*.
 
 **1026.** On n’interrogera ni les uns ni les autres au moment où ils seront ressuscites, l’examen n’aura lieu qu’au moment même du jugement.
 
-**1027.** Selon les uns, de ces deux jardins, l’un sera pour les génies, l’autre pour les hommes
+**1027.** Selon les uns, de ces deux jardins, l’un sera pour les génies, l’autre pour les hommes ; selon d’autres, deux jardins pour chaque individu, l’un comme récompense de ses œuvres, l’autre comme une gratification en sus de la récompense. Quant aux deux espèces de chaque fruit, on entend par là une espèce pareille pour le goût aux fruits de la terre, l’autre d’un goût céleste inconnu à la terre.
 
-**1028.** Lorsque les doublures ou l’envers, disent les commentateurs, sont en brocart, que sera-ce du dessus, du bon côté de ces tapis
+**1028.** Lorsque les doublures ou l’envers, disent les commentateurs, sont en brocart, que sera-ce du dessus, du bon côté de ces tapis ?
 
-**1029.** Ces deux jardins soit, comme on peut le voir par leur description, inférieurs aux deux autres mentionnés plus haut
+**1029.** Ces deux jardins soit, comme on peut le voir par leur description, inférieurs aux deux autres mentionnés plus haut ; ils sont destinés aux habitants du paradis d’un degré inférieur.
 
-**1030.** L’événement, mot qui sert d’inscription à ce chapitre, se trouve dans le premier verset
+**1030.** L’événement, mot qui sert d’inscription à ce chapitre, se trouve dans le premier verset ; il sert à désigner le jour du jugement dernier.
 
 **1031.** Il élèvera les vertueux et abaissera les méchants.
 
-**1032.** L’exclamation dans le verset 8 veut dira
+**1032.** L’exclamation dans le verset 8 veut dira : Oh ! qu’ils seront heureux ! Celle du 9 : Oh ! quel terrible état que le leur !
 
 **1033.** C’est-à-dire, ceux qui ont été sur la terre les premiers à faire le bien ou à embrasser la vraie foi, qui ont servi de modèles et de guides aux autres, prendront dans la vie future aussi le pas sur les autres.
 
@@ -18512,53 +18512,53 @@ ZENDJEBIL, LXXVI, 17.
 
 **1041.** Voyez, sur le bois dont les Arabes se servent en guise de briquet, le chapitre XXXVI, verset 80.
 
-**1042.** Cette expression
+**1042.** Cette expression : *je ne jurerai pas*, se retrouve fréquemment dans les derniers chapitres du Koran ; elle ajoute à la force du serment. C’est comme si l’on disait : Ce que je dis est tellement vrai, qu’il serait superflu de jurer. C’est ainsi du moins que les commentateurs l’entendent.
 
-**1043.** On se rappelle que le mot Koran veut dire *lecture*
+**1043.** On se rappelle que le mot Koran veut dire *lecture* ; et l’ou pourrait ici traduire : Que cette lecture-ci est une lecture conservée dans un volume serré.
 
 **1044.** C’est-à-dire, que le prototype, l’original immuable du Koran, est conservé dans un livre gardé avec soin chez Dieu.
 
 **1045.** Ces mots, qui s’appliquent ici au prototype conservé au ciel, se trouvent ordinairement inscrits sur les tranches des exemplaires du Koran, comme un avertissement qu’on ne doit pas le toucher si l’on est eu état de souillure.
 
-**1046.** Voici le sens du passage renfermé dans les versets 83-86
+**1046.** Voici le sens du passage renfermé dans les versets 83-86 : *Si vous ne devez pas être ressuscités, jugés et rétribués, et si vous êtes sincères, si vous en êtes convaincus, pourquoi, quand vous voyez l’âme prête à vous quitter, ne la ramenez-vous pas et ne la fixez-vous pas dans vos corps ?*
 
 **1047.** Les mots *le fer* se lisent dans le verset 25.
 
-**1048.** Mot à mot
+**1048.** Mot à mot : *extérieur et intérieur*.
 
-**1049.** On a déjà dit que cette expression
+**1049.** On a déjà dit que cette expression : *le sentier de Dieu*, veut dire la cause de Dieu.
 
 **1050.** Les élus courront avec précipitation pour recevoir la récompense, et la lumière les éclairera sur la route.
 
-**1051.** Le passage des élus sera très-rapide
+**1051.** Le passage des élus sera très-rapide ; ils courront avec la promptitude de l’éclair pour recevoir la récompense de leurs œuvres.
 
 **1052.** Voyez ci-dessus le verset 12.
 
 **1053.** La balance, dit-on, a été apportée du ciel par l’ange Gabriel, et donnée à Noé pour qu’il en propageât l’usage parmi ses descendants.
 
-**1054.** Le texte porte
+**1054.** Le texte porte : *en secret* ou *en *absence*, c’est-à-dire même quand personne ne le voit ni ne l’entend.*
 
-**1055.** Mahomet condamne, comme on le voit, la vie monacale
+**1055.** Mahomet condamne, comme on le voit, la vie monacale ; c’est un aphorisme répété souvent par les musulmans : *La rahbaniïeta fil-islami*, point de vie monacale dans l’Islam.
 
-**1056.** Le verset 1 explique l’inscription de ce chapitre. Le mot *elmoudjadilè*, que nous traduisons par plaideuse, signifie proprement
+**1056.** Le verset 1 explique l’inscription de ce chapitre. Le mot *elmoudjadilè*, que nous traduisons par plaideuse, signifie proprement : *celle qui soulève une dispute*.
 
-**1057.** Voici à quelle occasion les versets l et 2 ont été révélés. Khaûla fille de Telaba, femme d’un Arabe nommé Aûs Ebn es-Samat, fut répudiée par son mari avec cette formule
+**1057.** Voici à quelle occasion les versets l et 2 ont été révélés. Khaûla fille de Telaba, femme d’un Arabe nommé Aûs Ebn es-Samat, fut répudiée par son mari avec cette formule : « Que ton dos soit désormais pour moi comme le dos de ma mère ; » formule qui entraînait une séparation perpétuelle, et après laquelle on ne pouvait plus reprendre la femme répudiée. Elle vint trouver Mahomet, et lui demanda s’il ne lui était plus permis de rester avec son mari qui, malgré la répudiation, ne la forçait pas de quitter la maison. Sur les observations de Mahomet, que la formule en question impliquait une séparation complète et définitive, la femme désespérée, car elle avait des enfants en bas âge, se retira, et dans ses prières se plaignit à Dieu de son sort. Mahomet revint sur sa décision, et, s’autorisant de la relation contenue dans les versets 1-2, permit de reprendre les femmes répudiées même avec la solennité de ta formule citée plus, haut, en enjoignant toutefois de faire quelque offrande ou quelque œuvre de charité pour expier l’infraction du serment.
 
 **1058.** C’était une manière solennelle de répudiation. Voyez le verset précédent.
 
-**1059.** C’est-à-dire, en se servant de ces paroles
+**1059.** C’est-à-dire, en se servant de ces paroles : « Que ton dos soit désormais pour moi comme le dos de ma mère. » Voy. le vers. 1, note.
 
 **1060.** C’est-à-dire, soit en petit, soit en grand nombre.
 
-**1061.** Mot à mot
+**1061.** Mot à mot : *avec des paroles autres que celles par lesquelles Dieu te salue*. Les commentateurs disent que les hypocrites et les infidèles, au lieu de saluer Mahomet avec ces mots : *Es-selam aleïka*, paix sur toi, disaient, comme par dérision : *Es-sam aleïka*, malheur sur toi.
 
-**1062.** C’est-à-dire, dans les endroits publics, ou dans les maisons, partout où l’on se réunît et où l’on s’assied pour s’entretenir, faites place, écartez-vous, rangez-vous
+**1062.** C’est-à-dire, dans les endroits publics, ou dans les maisons, partout où l’on se réunît et où l’on s’assied pour s’entretenir, faites place, écartez-vous, rangez-vous !
 
 **1063.** Par le peuple contre lequel Dieu est courroucé, Mahomet entend les juifs. Voyez chap. I, vers. 6.
 
-**1064.** Le mot *hachar*, qui sert d’inscription à ce chapitre, signifie *réunion*, *rassemblement*
+**1064.** Le mot *hachar*, qui sert d’inscription à ce chapitre, signifie *réunion*, *rassemblement* ; il désigne souvent le rassemblement du genre humain au jour de la résurrection. Il veut dire aussi *émigration* ; et c’est dans ce sens qu’il est employé ici par rapport aux juifs de Nadhir (bourg situé à trois milles de Médine), qui, pour avoir rompu le traité conclu avec Mahomet, furent attaqués dans leurs forts et chassés de leurs demeures. A la suite de cette défaite, ils se dispersèrent en Syrie, en Arabie, et allèrent jusqu’à Hira.
 
-**1065.** Les juifs de Nadhir étant à peu de distance de Médine, l’expédition eut lieu sans cavalerie ni chameaux
+**1065.** Les juifs de Nadhir étant à peu de distance de Médine, l’expédition eut lieu sans cavalerie ni chameaux : c’est à cause de cela que le butin, au lieu d’être partagé entre les combattants, les droits du prophète réservés, est ici en entier dévolu au prophète.
 
 **1066.** Ce sont les Médinois.
 
@@ -18566,7 +18566,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **1068.** Le mot frères est ici dans le sens figuré et ironique.
 
-**1069.** Le sens de ce verset est
+**1069.** Le sens de ce verset est : les hypocrites devraient avant tout craindre Dieu, suivre sa loi, et ne rien faire secrètement qui lui déplaise ; mais ils ne le craignent pas. Mais ils craignent vos armes : c’est pourquoi, à la moindre démonstration de votre part, ils prendront la fuite.
 
 **1070.** Ces mots sont des participes présents des verbes *créer*, *faillir*, *façonner*, *donner une forme*.
 
@@ -18574,21 +18574,21 @@ ZENDJEBIL, LXXVI, 17.
 
 **1072.** Ce verset est dirigé surtout contre un musulman nommé Hateb ben Aha Baltaa qui, sachant qu’une expédition contre la Mecque se préparant, en instruisit les Koreïchites. Mahomet intercepta sa missive, et fit à Hateb d’amers reproches auxquels celui-ci répondit que son but n’était point de faire manquer l’entreprise, qui, du reste, étant décrétée par Dieu, était infaillible, mais d’obtenir de la part des idolâtres quelques ménagements pour sa famille laissée à la Mecque. Mahomet admit l’excuse de Hateb, mais il s’empressa de publier la révélation ci-dessus.
 
-**1073.** Dieu a blâmé Abraham d’avoir voulu parler en faveur de son père idolâtre (chapitre IX, 115). D’après une légende mahométane (Hammer, *Gemäldesaal*, I, 14), Abraham voudra intercéder encore une fois pour son père au jour du jugement
+**1073.** Dieu a blâmé Abraham d’avoir voulu parler en faveur de son père idolâtre (chapitre IX, 115). D’après une légende mahométane (Hammer, *Gemäldesaal*, I, 14), Abraham voudra intercéder encore une fois pour son père au jour du jugement ; mais, au moment où il voudra ouvrir la bouche, un lézard hideux s’approchera de lui, et Abraham, dans un mouvement d’horreur et de dégoût, frappera le lézard du pied et le fera tomber dans l’enfer. Ce lézard sera son père métamorphosé. Abraham accomplira ainsi les décrets de Dieu sans manquer à la piété filiale.
 
-**1074.** Ce verset contient ce que les Mahométans appellent le serment des femme
+**1074.** Ce verset contient ce que les Mahométans appellent le serment des femme : Les hommes prêtaient serment d’après la même formule avant l’hégire (fuite de la Mecque), avant que Mahomet y eût inséré l’obligation de l’assister dans la guerre contre les idolâtres. Le serment en question, comme d’ailleurs tout contrat, se faisait, chez les Arabes, en donnant la main à la personne envers laquelle on s’engageait. Après Mahomet, on reconnaissait l’autorité du calife en lui présentant la main.
 
 **1075.** Le titre de cette sourate est emprunté au verset 4.
 
-**1076.** Les musulmans disaient entre eux
+**1076.** Les musulmans disaient entre eux : Si nous savions quelle est l’œuvre la plus agréable à Dieu, nous l’accomplirions au prix de nos biens et de nos personnes. Dieu fit à Mahomet la révélation qu’il aime ceux qui combattent pour la foi ; les musulmans ayant montré peu d’empressement à prendre part à la bataille d’Ohod, ce verset fut révélé à Mahomet.
 
-**1077.** Mahomet porte plusieurs noms chez les musulmans
+**1077.** Mahomet porte plusieurs noms chez les musulmans ; indépendamment des épithètes répondant à quelque vertu ou à quelque qualité, et dont le nombre est porté jusqu’à environ cent, il est nommé *Ahmed*, le glorieux ; *el-Moustafa*, l’élu ; *Mahmoud*, le glorifié, etc. Nous avons fait Mahomet de *Mohammed*, le glorifié ; ce mot vient de la même racine et a le même sens qu’*Ahmed*, qui à son tour répond au mot grec *Periclytos*, le glorieux. Les mahométans prétendent que Jésus-Christ a prédit la venue de *Mohammed*, *Ahmed*, du *Periclytos* (Évang. Joann., XVI, 17), et que le Paraclet (*Paracletos*), que l’on sait s’appliquer à la descente du Saint-Esprit, n’est qu’une altération du *Periclytos*, imaginée par la mauvaise foi des chrétien !
 
-**1078.** Cette prière est devenue la principale de la semaine
+**1078.** Cette prière est devenue la principale de la semaine ; c’est celle du vendredi, qui s’appelle à cause de cela jour de l’Assemblée.
 
 **1079.** C’est-à-dire, vaquez à vos affaires dont vous retirez du gain.
 
-**1080.** Il arriva qu’un vendredi où Mahomet prêchait le peuple, le tambour se fit entendre, annonçant quelque vente
+**1080.** Il arriva qu’un vendredi où Mahomet prêchait le peuple, le tambour se fit entendre, annonçant quelque vente : à l’exception de douze individus, tout le monde quitta la mosquée.
 
 **1081.** Pour se garantir contre la mort, la vengeance, l’inimitié des fidèles. Au lieu de *oimanahom*, leur serment, on lit *imanahom *, leur foi, c’est-à-dire leur profession de foi.
 
@@ -18596,13 +18596,13 @@ ZENDJEBIL, LXXVI, 17.
 
 **1083.** Le mot que nous traduisons ici par cri, est *saikat*, dont le Koran se sert toujours en parlant du cri parti du ciel comme signal de l’extermination des méchants.
 
-**1084.** Le jour de la déception mutuelle, c’est le jour du jugement dernier, où les justes et les méchants sont censés se supplanter réciproquement
+**1084.** Le jour de la déception mutuelle, c’est le jour du jugement dernier, où les justes et les méchants sont censés se supplanter réciproquement ; car, si les justes avaient été méchants, ils auraient pris la place des réprouvés, et ceux-ci auraient été mis en possession du paradis, s’ils avaient été justes.
 
 **1085.** Cette expression, qui revient très-souvent dans le Koran, veut dire que c’est dans un certain but et sérieusement, non pas par divertissement, que Dieu a créé toutes choses.
 
-**1086.** Mot à mot
+**1086.** Mot à mot : ils ont goûté (éprouvé) la pesanteur de leur affaire.
 
-**1087.** Le sens de ce verset est
+**1087.** Le sens de ce verset est : *vos femmes et vos enfants vous détournent quelquefois de vos devoirs : pour leur donner vos soins, vous abandonnez souvent la cause de Dieu, la guerre sainte. Cependant, si par leur trop grande affection ils vous font souffrir, pardonnez-leur, etc. *
 
 **1088.** C’est-à-dire, quand elles auront eu trois fois leurs règles, afin de s’assurer si elles ne sont point grosses.
 
@@ -18610,15 +18610,15 @@ ZENDJEBIL, LXXVI, 17.
 
 **1090.** Hafsa a dû raconter l’aventure à Aïcha, autre femme de Mahomet, avec laquelle elle était très-liée.
 
-**1091.** Mahomet reproche à Hafsa de n’avoir pas gardé le silence sur ce qui s’était passé, et de l’avoir raconté à Aïcha
+**1091.** Mahomet reproche à Hafsa de n’avoir pas gardé le silence sur ce qui s’était passé, et de l’avoir raconté à Aïcha ; et lorsque Hafsa, étonnée de se voir trahie à son tour, demanda au prophète qui avait pu l’instruire de son indiscrétion, Mahomet lui répondit que c’était Dieu lui-même. En réalité, il l’avait deviné par la conduite d’Aïcha à son égard.
 
-**1092.** En arabe, *mouslimat*, *mouminât*
+**1092.** En arabe, *mouslimat*, *mouminât* ; voyez, sur la nuance entre ces deux mots, chap. II, p. 17, note 4.
 
 **1093.** Voy. chap. XXIV, v. 35, et LVII, v. 7, 7, 12, 18.
 
-**1094.** Le nom de la femme de Pharaon, dont il s’agit ici, est, selon les mahométans, Asia. Mahomet avait coutume de dire qu’il n’y avait que quatre femmes parfaites
+**1094.** Le nom de la femme de Pharaon, dont il s’agit ici, est, selon les mahométans, Asia. Mahomet avait coutume de dire qu’il n’y avait que quatre femmes parfaites : Asia, femme de Pharaon ; Marie, mère de Jésus ; Khadidja, première femme de Mahomet, et Fatima, sa fille, mariée à Ali.
 
-**1095.** Mot à mot
+**1095.** Mot à mot : et Maria filia Imrani quæ rimam suam tuita est, in quam (rimam) inflavimus spiritus nostri partam. traduction (du latin) : et Marie fille d’Imran dont la fente est préservée, (fente) dans laquelle nous avons insufflé notre esprit et qui a enfanté.
 
 **1096.** Frustrés pour avoir cherché en vain un défaut et fatigués par l’effort.
 
@@ -18626,11 +18626,11 @@ ZENDJEBIL, LXXVI, 17.
 
 **1098.** Voy. II, 1, note.
 
-**1099.** Mot à mot
+**1099.** Mot à mot : un salaire ou une récompense qu’on ne te reprochera pas.
 
 **1100.** Grand faiseur de serments qui jure sur ce qui est vrai et sur ce qui est faux.
 
-**1101.** Un homme pieux possédait un jardin planté de palmiers
+**1101.** Un homme pieux possédait un jardin planté de palmiers ; il avait coutume de prévenir les pauvres de son endroit du jour où il couperait les dattes ; les fruits qui tombaient en dehors du drap étendu sous l’arbre, ceux que le vent abattait ou ceux que le couteau manquait, revenait aux pauvres. Après sa mort, ses fils, moins charitables que leur père, décidèrent un jour de ne plus prévenir les pauvres de la récolte des dattes, et de les couper de grand matin. Mois la nuit une tempête détruisit leur jardin, et il n’en resta aucune trace.
 
 **1102.** C’est-à-dire, ils jurèrent qu’ils feraient le lendemain la récolte, sans ajouter *s’il plaît à Dieu, si Dieu le veut*.
 
@@ -18640,15 +18640,15 @@ ZENDJEBIL, LXXVI, 17.
 
 **1105.** Il n’en sera pas moins efficace après un long délai.
 
-**1106.** Il s’agit ici du prophète Jonas dévoré par la baleine. Nous traduisons le mot *hout* du texte par poisson
+**1106.** Il s’agit ici du prophète Jonas dévoré par la baleine. Nous traduisons le mot *hout* du texte par poisson ; c’est un nom générique pour tout gros poisson ; les Arabes ne connaissaient pas la classification des naturalistes, qui rangent les baleines parmi les mammifères cétacés, etc. ; il est du reste inutile de soulever ici la question de savoir si un cétacé quelconque pouvait se trouver dans les eaux du Tigre.
 
 **1107.** *Elkari’at* veut dire sort, et se dit aussi de tout événement majeur, et du jour du jugement dernier.
 
-**1108.** Mot à mot
+**1108.** Mot à mot : Dieu s’est soumis le cri terrible du ciel et l’ouragan pour l’employer contre Ad et Thémoud.
 
 **1109.** Les villes renversées, *almotefikat*, sont les cinq villes situées sur la mer Morte, Sodome, Gomorrhe, etc.
 
-**1110.** Mot à mot
+**1110.** Mot à mot : d’un châtiment surabondant.
 
 **1111.** C’est-à-dire, afin que la destruction des uns et la délivrance des autres soit un avertissement.
 
@@ -18656,23 +18656,23 @@ ZENDJEBIL, LXXVI, 17.
 
 **1113.** Selon la croyance des mahométans, le trône de Dieu est porté ordinairement pas quatre anges.
 
-**1114.** Voyez sur l’expression
+**1114.** Voyez sur l’expression : *je ne jurerai pas*, le chap. LVI, 74
 
 **1115.** Le titre de cette sourate est pris du verset 3.
 
-**1116.** Mot à mot
+**1116.** Mot à mot : un demandant demande ; c’est un idiotisme arabe employé toutes les fois qu’on ne nomme pas la personne.
 
-**1117.** Ce passage, traduit littéralement comme nous l’avons fait, veut dire simplement que les anges ont besoin d’un jour long de cinquante mille ans pour monter au trône de Dieu. On a vu, chap. XXXII, 4, que tout remontait vers Dieu dans l’espace d’un jour long de mille ans. Pour concilier ces deux passages, le savant traducteur anglais Sale pense que dans le chapitre XXXII il s’agit de l’ascension depuis la terre, tandis que, dans celui-ci, il peut être question de l’ascension à partir de la dernière échelle de la création. Cette explication est arbitraire
+**1117.** Ce passage, traduit littéralement comme nous l’avons fait, veut dire simplement que les anges ont besoin d’un jour long de cinquante mille ans pour monter au trône de Dieu. On a vu, chap. XXXII, 4, que tout remontait vers Dieu dans l’espace d’un jour long de mille ans. Pour concilier ces deux passages, le savant traducteur anglais Sale pense que dans le chapitre XXXII il s’agit de l’ascension depuis la terre, tandis que, dans celui-ci, il peut être question de l’ascension à partir de la dernière échelle de la création. Cette explication est arbitraire ; dans tout le Koran il n’y a rien qui l’autorise, et l’on doit s’étonner que le traducteur anglais veuille y trouver autre chose qu’une expression hyperbolique. Mahomet n’était pas plus embarrassé pour donner aux journées de Dieu la durée de cinquante mille ans que celle de mille ans, et ce n’est pas sur des contradictions de ce genre que devrait s’exercer la critique du Koran. Les commentateurs, d’un autre côté, pensent que, dans le verset qui nous occupe, le jour de cinquante-mille ans est le jour du jugement dernier : nouvelle contradiction avec ce qu’ils disent sur la promptitude que Dieu mettra à juger le genre humain, savoir que la moitié d’une journée suffira à Dieu pour prononcer sur le sort des hommes. Dans ce cas-là les cinquante mille ans, selon les uns, sont les jours d’attente ; selon d’autres, c’est le jugement des nations infidèles qui absorbera tout ce temps ; il y en a cinquante, et chaque nation sera jugée pendant mille ans : les fidèles seront toujours expédiés dans une demi-journée. On peut juger, par cet exemple, choisi entre cent autres, de quelle valeur sont les commentaires, et il est incontestable que, pour tout ce qui ne regarde pas les pratiques religieuses, les coutumes des Arabes anciens et quelques points de l’histoire de Mahomet, les commentateurs n’ont fait souvent qu’embrouiller le sens du Koran et le charger d’une foule d’absurdités. Selon nous, il ne s’agit point, dans notre passage, du jour du jugement, mais bien de toute journée de Dieu. On n’a qu’à comparer ce verset avec le verset 44 du chap. XXXII, et voici ce qu’on y lit : « Dieu dirige toutes les affaires du ciel (du haut des cieux) à la terre (c’est-à-dire sans descendre sur la terre), et *tout* monte à lui dans le jour dont la durée est de mille ans de votre comput. » On voit que ces deux passages se tiennent, tant les expressions des deux sont analogues, tant ils s’expliquent mutuellement. Au chapitre XXXII, le sujet n’est pas nommé, il l’est au chapitre LXX. Ce sont les anges et l’esprit qui montent vers Dieu, et ce n’est pas au jour du jugement, car au chapitre XXXII il est dit : « Dieu dirige les affaires (de l’univers) du haut des cieux ; il les dirige par ses ministres, les anges, et c’est ce que dit plus explicitement le verset 4 du chapitre LXX. » Toute la différence entre ces deux passages git donc dans les mots cinquante mille ans ; mais cette expression, comme nous l’avons dit tout à l’heure, est simplement hyperbolique et ne saurait conduire à aucune autre induction. On peut comparer le verset qui est l’objet de cette note avec le verset 4, chapitre XCVII, où il est dit que les anges et l’Esprit (Gabriel) descendent avec les ordres de Dieu dans la nuit Alkadr.
 
-**1118.** Celui qui n’hésite pas à demander est un mendiant
+**1118.** Celui qui n’hésite pas à demander est un mendiant ; mais autre chose est un *mahroun*, qui veut dire proprement frustré dans son espoir, et qui a ici, d’après les commentaires, le sens de pauvre honteux.
 
 **1119.** Ils ont été créés avec des défauts et des pêchés qui les excluent du paradis.
 
 **1120.** C’est-à-dire, comme les commentateurs l’expliquent, il vous a d’abord créés d’argile, puis, par génération, il vous forme d’une goutte de sperme qu’il change en grumeau de sang, puis en chair, etc.
 
-**1121.** Quelques-uns lisent Wodd. Selon les commentateurs, ce sont des noms de quelques hommes vertueux qui auraient vécu entre Adam et Noé
+**1121.** Quelques-uns lisent Wodd. Selon les commentateurs, ce sont des noms de quelques hommes vertueux qui auraient vécu entre Adam et Noé ; le respect qu’on avait témoigné pour leur mémoire aurait ensuite dégénéré en grossière idolâtrie.
 
-**1122.** Peu de temps avant sa fuite de la Mecque, Mahomet, désespérant de convertir les Mecquois, s’était rendu à Taïef pour y prêcher le nouveau culte
+**1122.** Peu de temps avant sa fuite de la Mecque, Mahomet, désespérant de convertir les Mecquois, s’était rendu à Taïef pour y prêcher le nouveau culte ; les habitants de Taïef le reçurent très-mal ; mais en revanche, disent les historiens musulmans, une troupe de génies qui s’y trouvait alors, ayant entendu les enseignements du Koran, y crut et propagea sa doctrine parmi d’autres génies. Nous avons déjà dit que, selon les croyances des Arabes, les génies étaient une race intermédiaire entre l’homme et les anges. Les commentaires sur ce passage, en s’appuyant sur la circonstance que Mahomet n’avait pas vu ces génies, mais que leur présence lui avait été révélée par Dieu, croient que les génies sont les âmes des hommes ; ce qui rendrait le mot génies synonyme d’esprits. Cette interprétation ne s’accorderait guère avec les autres passages du Koran et avec la croyance que les génies se reproduisent comme les autres êtres créés.
 
 **1123.** Ce sont les génies convertis par le Koran qui parlent ainsi à leur race.
 
@@ -18686,17 +18686,17 @@ ZENDJEBIL, LXXVI, 17.
 
 **1128.** On veut par ces mots entendre Mahomet, ce qui serait en contradiction avec beaucoup d’autres passages du Koran dans lesquels le prophète arabe avoue humblement qu’il ignore les choses cachées. Le sens le plus raisonnable de ces deux versets (27 et 28) est que Dieu ne dévoile ses secrets à personne, et, quand il charge de ses ordres celui de ses ministres (ange ou prophète) qu’il lui a plu de choisir, il le suit partout pour voir s’il s’en est acquitté.
 
-**1129.** Ce chapitre est, selon les commentateurs, un des premiers de la révélation
+**1129.** Ce chapitre est, selon les commentateurs, un des premiers de la révélation ; il suit immédiatement le chapitre du Sang coagulé (chap. XCVI).
 
 **1130.** Dans ces trois versets, Mahomet, enveloppé dans son manteau et presque endormi, reçoit la révélation qu’il lui faut vaquer à la prière soit toute la nuit soit plus ou moins de la moitié de la nuit.
 
-**1131.** Le texte ne porte pas le mot dévotion, de sorte qu’on l’applique aussi à l’âme de l’homme, qui se trouve à l’entrée de la nuit, et a alors plus de vigueur. Pour traduire mot à mot, il faudrait dire
+**1131.** Le texte ne porte pas le mot dévotion, de sorte qu’on l’applique aussi à l’âme de l’homme, qui se trouve à l’entrée de la nuit, et a alors plus de vigueur. Pour traduire mot à mot, il faudrait dire : *plus vigoureuse d’empreinte et plus ferme en parole*.
 
-**1132.** Mot à mot
+**1132.** Mot à mot : *une nourriture suffisante*, comme le fruit de l’arbre zakkoum et le pus.
 
-**1133.** C’est une expression assez fréquente en arabe que la frayeur fait blanchir les cheveux
+**1133.** C’est une expression assez fréquente en arabe que la frayeur fait blanchir les cheveux ; elle qui fait blanchir les cheveux sert aussi d’épithète à la guerre.
 
-**1134.** Le mot *elmoddeththir*, qui sert de titre à ce chapitre, signifie à peu prés la même chose que *elmozzammil* du chapitre précédent, qui s’enveloppe de son manteau. Ces deux chapitres sont regardés comme les premiers de la révélation. Selon la tradition, Mahomet racontait ceci
+**1134.** Le mot *elmoddeththir*, qui sert de titre à ce chapitre, signifie à peu prés la même chose que *elmozzammil* du chapitre précédent, qui s’enveloppe de son manteau. Ces deux chapitres sont regardés comme les premiers de la révélation. Selon la tradition, Mahomet racontait ceci : « Un jour je me trouvais à Hera et j’entendis une voix qui m’appelait ; je regardais à droite et à gauche, et je ne voyais personne ; je levai les yeux en haut et je l’aperçus sur le trône entre le ciel et la terre (c’était l’ange Gabriel) ; j’eus peur, je rentrai auprès de Khadidja (ma femme), et je lui dis : Enveloppez-moi de mon manteau. C’est alors que l’ange Gabriel descendit de nouveau et m’appela. « O toi qui es enveloppé de ton manteau. »
 
 **1135.** Par l’abomination, on doit entendre le culte des idoles.
 
@@ -18708,29 +18708,29 @@ ZENDJEBIL, LXXVI, 17.
 
 **1139.** Car les anges, étant d’une autre nature que les hommes, sont inaccessibles à tout sentiment de pitié.
 
-**1140.** Ce verset et les suivants signifient
+**1140.** Ce verset et les suivants signifient : Dieu a des serviteurs, des anges innombrables : mais ce nombre de dix-neuf n’a été énonce que pour provoquer les incrédules au persiflage.
 
 **1141.** C’est-à-dire, ceux qui croient et ceux qui ne croient pas.
 
-**1142.** Mot à mot
+**1142.** Mot à mot : Est un otage de ses œuvres.
 
-**1143.** *Je ne jurerai point*. Cette expression, qui se répète plusieurs foi dans les derniers chapitres du Koran, veut dire
+**1143.** *Je ne jurerai point*. Cette expression, qui se répète plusieurs foi dans les derniers chapitres du Koran, veut dire : Ce que je dis est tellement certain, que je pourrais m’abstenir de l’affirmer par un serment.
 
 **1144.** Le mot *lawwam*, veut dire *qui blâme beaucoup et souvent*. Cela peut s’entendre de toute âme en général qui trouvera au jour de la résurrection sujet de s’adresser à elle-même des reproches.
 
-**1145.** Mot à mot
+**1145.** Mot à mot : ce qu’il a mis en avant et ce qu’il a laissé en arrière.
 
 **1146.** À cause de la frayeur qui saisira l’homme à l’approche du jugement dernier.
 
-**1147.** Les commentateurs expliquent ce passage de cette manière
+**1147.** Les commentateurs expliquent ce passage de cette manière : Dieu avait formé l’homme d’argile, et l’a laissé dans cet état pendant quarante ans avant de lui souffler son esprit.
 
 **1148.** *Cafour* veut dire en arabe *camphre*. On en met dans les boissons pour les rafraichir. Ici *Cafour* est le nom d’une source au paradis. La construction de ce passage fait supposer qu’il y a dans le paradis des sources de camphre d’où l’on en puisera pour le mêler au vin. Ce sens est appuyé par le verset 17.
 
-**1149.** Selon les commentateurs, les deux versets 7 et 8 s’appliquent à Ali et à sa famille. Hassan et Housseïn, fils d’Ali, étant tombés malades, Ali et Fatima sa femme firent un vœu de jeûne
+**1149.** Selon les commentateurs, les deux versets 7 et 8 s’appliquent à Ali et à sa famille. Hassan et Housseïn, fils d’Ali, étant tombés malades, Ali et Fatima sa femme firent un vœu de jeûne : pendant trois jours si les enfants guérissaient. Dès le premier jour (le jeûne chez les musulmans consiste à ne manger qu’après le coucher du soleil), Ali, n’ayant pas de quoi faire du pain, emprunte de la farine à un juif, et Fatima en cuit cinq pains au four. Là-dessus se présente un pauvre qui demande à manger ; les cinq pains lui sont donnés, et la famille passe la nuit sans rien manger : le lendemain, le pain préparé est donné à un orphelin, et le troisième jour à un captif. Lange Gabriel vint par la révélation de ce passage féliciter Mahomet de cette bonne œuvre de sa famille. C’est à cause de cet incident que nous avons traduit quoique *soupirant eux-mêmes après le repas, malgré le désir qu’ils ont d’en manger ; ala houbbihi, malgré l’amour de lui*. Les mots du texte sont *ala houbbihi*, avec *l’amour de lui*, ce qui peut être ici entendu de deux manières, soit avec *l’amour du pain*, c’est-à-dire *malgré l’envie qu’ils en aient étant pressés par la faim*, soit avec *l’amour de lui*, c’est-à-dire *de Dieu, à cause de Dieu, pour lui plaire*. Cette latitude dans l’interprétation vient ici de l’emploi de la préposition *ala*, qui signifie *malgré* et *avec*.
 
-**1150.** Le mot *zendjébil* veut dire gingembre
+**1150.** Le mot *zendjébil* veut dire gingembre ; en Orient, on a l’habitude de le mâcher et de le mêler aux boissons et à la nourriture.
 
-**1151.** Le texte porté par les envoyés (on envoyées). Ce mot peut donc s’appliquer à plusieurs choses. Quelques-uns entendent par là les versets du Koran envoyés du ciel se succédant continuellement, et établissant la distinction entre la vérité et le mensonge
+**1151.** Le texte porté par les envoyés (on envoyées). Ce mot peut donc s’appliquer à plusieurs choses. Quelques-uns entendent par là les versets du Koran envoyés du ciel se succédant continuellement, et établissant la distinction entre la vérité et le mensonge ; ces mots peuvent aussi s’appliquer aux anges porteurs des ordres de Dieu et de la révélation.
 
 **1152.** Les châtiments du jour du jugement dernier.
 
@@ -18746,7 +18746,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **1158.** Cela doit s’entendre des anges qui ôtent la vie aux hommes, tantôt avec violence comme aux méchants, et tantôt avec douceur comme aux gens vertueux.
 
-**1159.** La phrase n’est pas achevée. Les infidèles qui ne croyaient pas à la résurrection avaient coutume de répondre aux prédications de Mahomet
+**1159.** La phrase n’est pas achevée. Les infidèles qui ne croyaient pas à la résurrection avaient coutume de répondre aux prédications de Mahomet : Est-il possible que nous reprenions nos corps et nos formes quand une fois nous serons devenus os et poussière ? Dans le verset 11, les infidèles sont représentés au jour du jugement, et dans leur trouble ils prononcent encore cette phrase sans la finir.
 
 **1160.** C’est-à-dire, nous deviendrions à rien, nous rentrerions dans le néant, cet instant ne nous mènerait à aucun état désirable.
 
@@ -18760,13 +18760,13 @@ ZENDJEBIL, LXXVI, 17.
 
 **1165.** Il sera tellement préoccupé de son propre sort, qu’il ne songera pas à ses père et mères etc.
 
-**1166.** Ce mot *kawwara* (il a ployé) s’emploie en parlant d’un turban
+**1166.** Ce mot *kawwara* (il a ployé) s’emploie en parlant d’un turban ; il faut se figurer le soleil comme un disque fait de quelque matière souple ; Le mot *kawwara* signifie aussi décrocher quelque objet et le jeter en bas ; ce serait peut-être plus naturel.
 
 **1167.** Accomplies et réunies aux corps, ou bien les âmes des individus justes réunies aux beautés du paradis, et celles des réprouvés aux démons. Ces diverses interprétations sont données par les commentateurs.
 
 **1168.** Les Arabes idolâtres regardaient la naissance des filles comme un malheur, et souvent s’en débarrassaient en les enterrant vivantes.
 
-**1169.** Mot à mot
+**1169.** Mot à mot : Quand le brasier de l’enfer sera remué avec un fourgon pour mieux brûler.
 
 **1170.** L’ange Gabriel.
 
@@ -18786,17 +18786,17 @@ ZENDJEBIL, LXXVI, 17.
 
 **1178.** C’est-à-dire, dans la main gauche, car les infidèles auront la droite attachée au cou, et la main gauche retournée derrière le dos.
 
-**1179.** Mot à mot
+**1179.** Mot à mot : une récompense qui ne sera pas accompagnée de reproche, car la valeur d’un bienfait est toujours amoindrie lorsqu’on le rappelle en reproche à celui à qui on le fait.
 
 **1180.** Le titre de ce chapitre est proprement les signes du Zodiaque, *elbouroudj*, pluriel de *bordj*, du grec *pyrgos*, tour, tourelle. Ce mot grec a donné naissance au mot *bourg*.
 
-**1181.** On diffère sur le sens de ces paroles
+**1181.** On diffère sur le sens de ces paroles ; les uns pensent que par le témoin on doit entendre Mahomet, et par le témoignage, ou plutôt, selon la signification grammaticale du mot, la chose sur laquelle on témoigne, la foi. D’autres appliquent ces mots a d’autres gardiens, témoins des actions des hommes, et aux actions des hommes qui sont vues.
 
 **1182.** L’histoire des Arabes, avant Mahomet, parle d’un roi de l’Yémen, nommé Dhou-Nowas, juif de religion, qui faisait précipiter les chrétiens dans un fossé rempli de feu, pour les contraindre à renoncer à leur foi.
 
 **1183.** Les os de la poitrine de la femme qui reçoit la fécondation.
 
-**1184.** Le titre de cette sourate est *Elghachiïè*
+**1184.** Le titre de cette sourate est *Elghachiïè* ; ce mot, en tant que participe, se dit de tout de qui couvre ou enveloppe ; il se dit de la couverture des chevaux ; ici il se dit du jour de la résurrection qui enveloppera tout le genre humain.
 
 **1185.** Dari est un arbrisseau épineux qui porte un fruit d’un goût très acre. Ce mot veut dire aussi, en général, les chardons et les épines.
 
@@ -18806,13 +18806,13 @@ ZENDJEBIL, LXXVI, 17.
 
 **1188.** C’est la vallée nommée Wadi’lkora, située à une journée de distance d’El-hedjr.
 
-**1189.** Le texte porte
+**1189.** Le texte porte : Et Pharaon maître des pieux ; ce qui, selon les commentateurs, peut signifier qui faisait infliger aux croyants de son temps le supplice des pieux, c’est-à-dire de l’empalement, ou bien maître d’une suite nombreuse, par conséquent ayant besoin de beaucoup de pieux pour dresser les tentes. Voy. XXXVIII, 11.
 
 **1190.** C’est-à dire, sans tous soucier de savoir si l’acquisition est licite ou illicite.
 
-**1191.** La traduction ne reproduit que très-imparfaitement la terrible image renfermée dans l’expression très-concise du texte
+**1191.** La traduction ne reproduit que très-imparfaitement la terrible image renfermée dans l’expression très-concise du texte ; pour la rendre plus sensible, nous nous permettrons de comparer la géhenne qui apparaît au milieu de l’épouvantable cataclysme de l’univers, à une immense locomotive que l’on fait avancer avec fracas sur des rails, et qui ouvre ses flancs vomissant le feu.
 
-**1192.** Les uns croient que dans ce passage il est fait allusion à Walid ben el-Moghaïra, un des plus terribles adversaires de Mahomet
+**1192.** Les uns croient que dans ce passage il est fait allusion à Walid ben el-Moghaïra, un des plus terribles adversaires de Mahomet ; d’autres, que ce passage concerne un certain Aboul-Achadd ebn el Kalda, doué d’une force herculéenne.
 
 **1193.** Le mot arabe est *akaba*, colline, côte que l’on monte ou que l’on descend.
 
@@ -18826,7 +18826,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **1198.** Quand ta auras fini d’appeler les autres à la prière, mets-toi toi-même à prier Dieu.
 
-**1199.** C’est-à-dire, d’une taille droite, au visage beau et réunissant les avantages de tous les êtres créés
+**1199.** C’est-à-dire, d’une taille droite, au visage beau et réunissant les avantages de tous les êtres créés ; c’est un microcosme.
 
 **1200.** On croit que ce chapitre a été révélé le premier à Mahomet, quand il était sur la montagne Harra, solitaire et plongé dans la méditation.
 
@@ -18858,29 +18858,29 @@ ZENDJEBIL, LXXVI, 17.
 
 **1214.** *Al-hotama* est un des noms de l’enfer, et spécialement de l’un des lieux où tout ce qui y sera jeté sera brisé en morceaux et réduit en fétus.
 
-**1215.** Dans l’année même de la naissance de Mahomet
+**1215.** Dans l’année même de la naissance de Mahomet ; Abraha, prince de race éthiopienne, régnant en Arabie, entreprit une expédition contre la Mecque, dans le but de démolir le fameux temple de la Caaba, et de faire refluer les peuples qui s’y portaient, vers Sanaa, capitale de son royaume. Selon les traditions du pays conservées religieusement par les Arabes et sanctionnées par ce chapitre, Abraha perdit toute son armée attaquée par des oiseaux *ababils* qui lançaient des traits mortels contre les envahisseurs L’éléphant blanc que montait Abraha s’agenouilla en signe d’adoration quand on arriva en vue de La Mecque. Abraha reçut le nom de maître de l’Éléphant ou l’homme à l’Éléphant, son armée celui d’hommes à l’Éléphant, et l’année de l’expédition, celui d’année de l’Éléphant. Sprengel (*Hist. de la médec.*) a conjecturé que les oiseaux ababils, si funestes à l’armée d’Abraha,. n’étaient autre chose que les pustules de la petite vérole, M. de Hammer (Gemaldesaal, I, 94) cite, à l’appui de cette conjecture, un des biographes de Mahomet, d’après lequel la petite vérole se serait montrée en Arabie pour la première fois, dans l’année même de l’Éléphant.
 
-**1216.** Quelques-uns traduisent le mot *ma’oum* du texte par ustensiles, choses nécessaires
+**1216.** Quelques-uns traduisent le mot *ma’oum* du texte par ustensiles, choses nécessaires ; les commentaires le rendent par *zekat*, dîme, aumône légale. Ce chapitre est aussi intitulé *El din*, la religion.
 
 **1217.** Kauther est le nom d’un fleuve ou d’un bassin du paradis.
 
-**1218.** Le mot du texte signifie
+**1218.** Le mot du texte signifie : un animal qui a la queue coupée ou un homme qui ne laisse après lui ni enfants, ni même le souvenir de son nom.
 
 **1219.** Ce chapitre est proprement intitulé *Tabbat* (périsse), du premier mot du premier verset.
 
 **1220.** Abou-Lahab était oncle de Mahomet et en même temps un de ses ennemis les plus acharnés. Les commentateurs font observer que par les mots *les deux mains*, on doit entendre *le biens, la fortune*.
 
-**1221.** La femme d’Abou-Lahab, nommée Omm Djemil, excitait son mari contre Mahomet
+**1221.** La femme d’Abou-Lahab, nommée Omm Djemil, excitait son mari contre Mahomet ; on dit même qu’elle jetait des épines sur le chemin où Mahomet devait passer : c’est pourquoi il l’appelle *porteuse de bois*. Elle descendra dans l’enfer chargée d’une ramée.
 
-**1222.** Ou plus exactement
+**1222.** Ou plus exactement : la reconnaissance du dogme de *l"unité de Dieu*
 
-**1223.** Ce chapitre et celui qui le suit sont appelés *el-mouawwidhetani*, c’est à-dire les deux chapitres préservatifs, parce qu’ils commencent par les mots
+**1223.** Ce chapitre et celui qui le suit sont appelés *el-mouawwidhetani*, c’est à-dire les deux chapitres préservatifs, parce qu’ils commencent par les mots : *Je cherche un préservatif*, *je me réfugie*, et parce qu’à cause de cela on les porté sur soi en guise d’amulettes. Le chap. CXIII est destiné À prémunir contre les malheurs qui peuvent atteindre le corps, et le chap. CXIV contre les dangers qui menacent l’Âme
 
 **1224.** Contre toute espèce d’êtres que Dieu a créés et qui peuvent faire du mal à l’homme.
 
 **1225.** Une nuit très-sombre est ordinairement grosse de malheurs, de crimes, d’incursions.
 
-**1226.** Quelques commentateurs croient que par *celles qui soufflent dans les nœuds*, en doit entendre les femmes en général qui par leurs ruses déconcertent les plans et les résolutions des hommes, tout comme on défait du fil embrouillé en y soufflant. D’autres prétendent qu’il s’agit ici de ces sorcières juives qui faisaient des nœuds et soufflaient sur eux pour ensorceler quelqu’un. Mahomet a été dit-on ensorcelé ainsi par un Juif qui avait fait onze nœuds sur un fil qu’il suspendit dans un puits
+**1226.** Quelques commentateurs croient que par *celles qui soufflent dans les nœuds*, en doit entendre les femmes en général qui par leurs ruses déconcertent les plans et les résolutions des hommes, tout comme on défait du fil embrouillé en y soufflant. D’autres prétendent qu’il s’agit ici de ces sorcières juives qui faisaient des nœuds et soufflaient sur eux pour ensorceler quelqu’un. Mahomet a été dit-on ensorcelé ainsi par un Juif qui avait fait onze nœuds sur un fil qu’il suspendit dans un puits ; l’ange Gabriel révéla alors à Mahomet et le secret de l’ensorcellement et les deux chapitres (CXIII, CXIV). À chaque lecture de ces chapitres un nœud s’évanouit, et Mahomet guérit.
 
 **1227.** Le mal d’une nuit obscure, le mal d’un envieux ce sont les suites funestes, les malheurs que fait naître une nuit obscure, que produit l’envie.
 

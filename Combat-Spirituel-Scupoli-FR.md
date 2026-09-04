@@ -1510,7 +1510,7 @@ J’Ai examiné par l’ordre de M. le Chancelier un Livre appellé, le *Combat 
 
 **1.** In indiculo librorum Asseticorum, pag 66.
 
-**2.** Erotemate X. de bonis ac malis libris, Tome ii
+**2.** Erotemate X. de bonis ac malis libris, Tome ii page 267.
 
 **3.** In Indiculo lib. Ascet.
 

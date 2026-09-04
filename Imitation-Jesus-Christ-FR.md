@@ -1778,24 +1778,24 @@ Tous ces discernements que la nature inspire, toute cette recherche où le sens 
 
 # 5. Notes
 
-**1.** Fabio Chigi, né à Sienne le 12 février 1599, succéda à Innocent X le 7 avril 1655, sous le nom d’Alexandre VII. Voyez ci-après, p.
+**1.** Fabio Chigi, né à Sienne le 12 février 1599, succéda à Innocent X le 7 avril 1655, sous le nom d’Alexandre VII. Voyez ci-après, p. 6, note 2. — Cette dédicace ne se trouve que dans les éditions de 1656-1662. Elle disparaît dans l’édition publiée en 1665. C’est en 1662 que le duc de Créquy, ambassadeur de France à Rome, fut insulté par les Corses de la garde du pape, ce qui donna lieu à Corneille d’écrire sa *Plainte de la France à Rome*, qu’on trouvera à sa date dans les *Poésies diverses*.
 
-**2.** Cette assertion n'est pas tout à fait exacte
+**2.** Cette assertion n'est pas tout à fait exacte : François de Harlay de Champvallon , né à Paris le 14 août 1625, fut sacré archevêque de Rouen le 28 décembre 1651. Cette année est bien, à la vérité, celle où parurent les vingt premiers chapitres du premier livre de l’*Imitation* ; mais, comme nous l'avons dit dans la *Notice*, l'Achevé d'imprimer est du 15 novembre, ce qui, si l'on tient un juste compte du temps que Corneille mit à faire ce premier essai de traduction, fait remonter le commencement de l'ouvrage un peu plus haut que le pontificat du nouvel archevêque.
 
 **3.** Évêque de Rouen, mort en 639.
 
-**4.** Le Gendre nous apprend que François de Harlay s'était chargé de faire parvenir au pape le premier exemplaire de l’*Imitation* de Corneille, et qu’il y avait joint une lettre
+**4.** Le Gendre nous apprend que François de Harlay s'était chargé de faire parvenir au pape le premier exemplaire de l’*Imitation* de Corneille, et qu’il y avait joint une lettre : *{{langue|la|Poeticæ illecchris poetarumque consuetudine olim delectatus fuerat ; utebatur famliariter, dum esset Rothomagi, Guillelmo de Brebeuf, qui Pharsalicum Lucani carmen* *in versus gallicos magnifice transtulit, et Petro Corneille, tragicorum nostrorum, ut omnes ferme consentiunt, facile principe. Cum iste, aucotre Harlæo, aureum de* Imitatione Christi *libellumornatissimo atque optimo carmine gallice reddidisset, operis illius primum exemplum summo pontifici Alexandro VII Harlæus muneri micit, munusque suum luculenta ornavit epistola. (De vita Fracisci de Harlay, rothomagensis primum, deinde parisiensis archiepiscopi, libri VI. Auctore Ludovico le Gendre, rothomagæo…* Parisiis, typographo Simone Langlois, 1720, in-4°, p.290.)
 
 **5.** Voyez ci-après, p. 6, note 2
 
-**6.** L’édition de 1656 C porte, probablement par erreur
+**6.** L’édition de 1656 C porte, probablement par erreur : « des vertus plus éminentes. »
 
-**7.** Ce recueil est intitulé Philomathi Musæ juveniles
+**7.** Ce recueil est intitulé *Philomathi Musæ juveniles*, et ce titre s’explique par le nom de *Filomati* que portaient les membres d’une académie de Sienne dont Fabio Chigi était membre. Nous connaissons trois éditions de ces poëmes : les deux premières sont de 1645 et de 1654 ; la troisième fut imprimée au Louvre en 1656, l’année même où Corneille écrivait cette dédicace. Le titre de départ de la première
 
-**8.** Corps ou sujet de l'emblème
+**8.** Corps ou sujet de l'emblème : « Jésus-Christ enseignant les troupes qui le suivoient (*). » Âme ou sentence : *Doctrina Christi omnem doctrinam præcellit. * (Chapitre l, 2 alinéa.) (*) Pour les légendes françaises et latines des emblèmes, nous suivons le texte de l'édition de 1656 B. Nous aurons à indiquer quelques variantes de l'édition de 1656 D.
 
-**9.** *Var*. de l'imitation de jésus-christ et du mépris des vanités
+**9.** *Var*. de l'imitation de jésus-christ et du mépris des vanités. (1651 et 53 A) — Titre latin : *De imitatione Christi, et contemptu omnium vanitatum mundi*.
 
-**10.** *Var*. Déplorables mortels, que de fausses lumières
+**10.** *Var*. Déplorables mortels, que de fausses lumières Plongent dans un funeste et long aveuglement, Suivez tous le Seigneur ; et le même moment, Pour vous rendre un vrai jour, ouvrira vos paupières. Les sentiers lumineux qu'il vous laisse battus,
 
-**11.** Corps ou sujet de l’emblème
+**11.** Corps ou sujet de l’emblème : « Saint Alexis meurt en habit de mendiant dans la maison de son père, sans se faire connaître. » *Ama nesciri*. (Chapitre II, 14.)

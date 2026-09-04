@@ -548,6 +548,42 @@
       "bytes": 1600414
     },
     {
+      "id": "pierre-egerton",
+      "category": "apocryphes",
+      "title": "L'Évangile de Pierre & le Papyrus Egerton",
+      "subtitle": "Deux évangiles grecs fragmentaires du IIᵉ siècle",
+      "author": "trad. Mattison",
+      "era": "IIᵉ s. — mss d'Akhmîm et Egerton 2",
+      "lang": "fr",
+      "glyph": "✠",
+      "tags": [
+        "évangile de pierre",
+        "egerton",
+        "akhmîm",
+        "passion",
+        "résurrection",
+        "papyrus",
+        "mattison"
+      ],
+      "summary": "Le seul récit ancien qui décrive la sortie du tombeau elle-même, avec la croix qui parle — un manuscrit d'Akhmîm qui commence et s'achève au milieu d'une phrase — suivi des quatre fragments de l'évangile inconnu du papyrus Egerton 2, l'un des plus vieux manuscrits chrétiens connus. Traduits de l'anglais de Mattison, versé au domaine public.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Pierre-et-Egerton-Mattison-FR.md",
+          "bytes": 14646
+        },
+        {
+          "label": "Édition PDF — 12 pages",
+          "type": "pdf",
+          "path": "Pierre-et-Egerton-Mattison-FR.pdf",
+          "bytes": 691910
+        }
+      ],
+      "order": 9,
+      "bytes": 706556
+    },
+    {
       "id": "sepher-yetzirah",
       "category": "kabbale",
       "order": 1,
@@ -1537,6 +1573,39 @@
       "bytes": 1872215
     },
     {
+      "id": "grand-albert",
+      "category": "grimoires",
+      "order": 13,
+      "title": "Les Admirables Secrets d'Albert le Grand",
+      "subtitle": "Traité sur la génération de l'homme (chapitres I à XIII)",
+      "author": "Attribué à Albert le Grand",
+      "era": "XIIIᵉ s. — éd. XIXᵉ s.",
+      "lang": "fr",
+      "glyph": "⛧",
+      "tags": [
+        "albert-le-grand",
+        "génération",
+        "astrologie",
+        "physiologie"
+      ],
+      "summary": "Édition partielle : les treize premiers chapitres du traité sur la génération de l'homme, l'influence des astres sur la conception, et les différences entre les sexes — d'après une édition lyonnaise du XIXᵉ siècle (héritiers de Béringos frères). Les chapitres suivants du volume complet (vertus des herbes, des pierres et des animaux, secrets merveilleux, physiognomonie) n'y figurent pas.",
+      "volumes": [
+        {
+          "label": "Texte intégral (ch. I-XIII)",
+          "type": "md",
+          "path": "Grand-Albert-Traite-Generation-FR.md",
+          "bytes": 69021
+        },
+        {
+          "label": "Édition PDF — 24 pages",
+          "type": "pdf",
+          "path": "Grand-Albert-Traite-Generation-FR.pdf",
+          "bytes": 1866912
+        }
+      ],
+      "bytes": 1935933
+    },
+    {
       "id": "livret-trois-prieres",
       "category": "pratique",
       "order": 1,
@@ -1973,7 +2042,7 @@
           "label": "Texte intégral",
           "type": "md",
           "path": "Koran-Kazimirski-FR.md",
-          "bytes": 1514708
+          "bytes": 1630525
         },
         {
           "label": "Version PDF — 648 pages",
@@ -1982,7 +2051,7 @@
           "bytes": 36246426
         }
       ],
-      "bytes": 37761134
+      "bytes": 37876951
     },
     {
       "id": "yahweh",
@@ -2015,6 +2084,79 @@
       "bytes": 16474688
     },
     {
+      "id": "tao-te-king",
+      "category": "ecritures",
+      "title": "Tao Te King",
+      "subtitle": "Le Livre de la Voie et de la Vertu — trad. Stanislas Julien, 1842",
+      "author": "Lao-tseu, trad. Stanislas Julien",
+      "era": "VIᵉ s. av. J.-C. — trad. 1842",
+      "lang": "fr",
+      "glyph": "☯",
+      "tags": [
+        "tao",
+        "lao-tseu",
+        "taoïsme",
+        "chine",
+        "julien",
+        "1842",
+        "non-agir"
+      ],
+      "summary": "Les quatre-vingt-un chapitres de Lao-tseu dans la première traduction complète parue en Europe, avec le texte chinois de chaque chapitre et les notes de Julien qui résument les commentateurs chinois. Introduction du traducteur en tête, ses notes en fin de volume.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Tao-Te-King-Julien-FR.md",
+          "bytes": 494876
+        },
+        {
+          "label": "Version PDF — 173 pages",
+          "type": "pdf",
+          "path": "Tao-Te-King-Julien-FR.pdf",
+          "bytes": 12926933
+        }
+      ],
+      "order": 5,
+      "bytes": 13421809
+    },
+    {
+      "id": "bhagavad-gita",
+      "category": "ecritures",
+      "title": "La Bhagavad-Gîtâ",
+      "subtitle": "Le Chant du Bienheureux — trad. Émile-Louis Burnouf, 1861",
+      "author": "trad. Émile-Louis Burnouf",
+      "era": "Ve–IIe s. av. J.-C. — trad. 1861",
+      "lang": "fr",
+      "glyph": "ॐ",
+      "tags": [
+        "bhagavad-gîtâ",
+        "krishna",
+        "arjuna",
+        "yoga",
+        "inde",
+        "mahâbhârata",
+        "burnouf",
+        "1861"
+      ],
+      "summary": "Les dix-huit chants du dialogue de Krishna et d'Arjuna sur le champ de bataille : l'action sans attachement, la connaissance, l'adoration, la vision de la Forme universelle. Première traduction française intégrale faite sur le sanscrit, avec les deux préfaces du traducteur et la numérotation des versets.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Bhagavad-Gita-Burnouf-FR.md",
+          "bytes": 132374
+        },
+        {
+          "label": "Version PDF — 66 pages",
+          "type": "pdf",
+          "path": "Bhagavad-Gita-Burnouf-FR.pdf",
+          "bytes": 3515669
+        }
+      ],
+      "order": 6,
+      "bytes": 3648043
+    },
+    {
       "id": "imitation",
       "category": "pratique",
       "order": 9,
@@ -2038,16 +2180,16 @@
           "label": "Texte intégral",
           "type": "md",
           "path": "Imitation-Jesus-Christ-FR.md",
-          "bytes": 628147
+          "bytes": 631008
         },
         {
-          "label": "Version PDF — 180 pages",
+          "label": "Version PDF — 181 pages",
           "type": "pdf",
           "path": "Imitation-Jesus-Christ-FR.pdf",
-          "bytes": 18764195
+          "bytes": 18832808
         }
       ],
-      "bytes": 19392342
+      "bytes": 19463816
     },
     {
       "id": "vie-devote",
@@ -2108,16 +2250,16 @@
           "label": "Texte intégral",
           "type": "md",
           "path": "Combat-Spirituel-Scupoli-FR.md",
-          "bytes": 348152
+          "bytes": 348162
         },
         {
           "label": "Version PDF — 151 pages",
           "type": "pdf",
           "path": "Combat-Spirituel-Scupoli-FR.pdf",
-          "bytes": 11016278
+          "bytes": 11016528
         }
       ],
-      "bytes": 11364430
+      "bytes": 11364690
     },
     {
       "id": "jean-de-la-croix",
@@ -2144,16 +2286,16 @@
           "label": "Texte intégral",
           "type": "md",
           "path": "Jean-de-la-Croix-Oeuvres-FR.md",
-          "bytes": 1597685
+          "bytes": 1550624
         },
         {
-          "label": "Version PDF — 472 pages",
+          "label": "Version PDF — 444 pages",
           "type": "pdf",
           "path": "Jean-de-la-Croix-Oeuvres-FR.pdf",
-          "bytes": 38514645
+          "bytes": 37330881
         }
       ],
-      "bytes": 40112330
+      "bytes": 38881505
     },
     {
       "id": "prieres-invocations",
@@ -2227,8 +2369,75 @@
         }
       ],
       "bytes": 1009514
+    },
+    {
+      "id": "litanies-sacre-coeur",
+      "category": "pratique",
+      "order": 15,
+      "title": "Litanies du Sacré Cœur",
+      "subtitle": "Suivies de l'oraison",
+      "author": "Compilation",
+      "era": "1849",
+      "lang": "fr",
+      "glyph": "☩",
+      "tags": [
+        "litanies",
+        "sacré-cœur",
+        "dévotion",
+        "1849"
+      ],
+      "summary": "Les litanies du Sacré Cœur de Jésus, dans leur rédaction classique du milieu du XIXᵉ siècle, suivies de l'oraison. Extraites de La dévotion au Sacré Cœur de Jésus, mise à la portée de tous, C. Couvat, 1849.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Litanies-Sacre-Coeur-FR.md",
+          "bytes": 3658
+        },
+        {
+          "label": "Livret PDF",
+          "type": "pdf",
+          "path": "Litanies-Sacre-Coeur-FR.pdf",
+          "bytes": 148068
+        }
+      ],
+      "bytes": 151726
+    },
+    {
+      "id": "regle-augustin",
+      "category": "pratique",
+      "order": 16,
+      "title": "Règle de saint Augustin",
+      "subtitle": "Les douze chapitres de la vie commune",
+      "author": "Attribuée à saint Augustin",
+      "era": "IVᵉ s. — trad. 1864",
+      "lang": "fr",
+      "glyph": "☩",
+      "tags": [
+        "règle",
+        "monastique",
+        "augustin",
+        "vie commune",
+        "1864"
+      ],
+      "summary": "La plus ancienne règle monastique d'Occident encore suivie aujourd'hui, adressée par saint Augustin aux religieux d'Hippone : douze chapitres sur la vie commune, l'humilité, la prière, le jeûne, la correction fraternelle et l'obéissance. Traduction de l'abbé Raulx, Œuvres complètes de saint Augustin, tome III, 1864.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Regle-Saint-Augustin-FR.md",
+          "bytes": 18619
+        },
+        {
+          "label": "Livret PDF",
+          "type": "pdf",
+          "path": "Regle-Saint-Augustin-FR.pdf",
+          "bytes": 703228
+        }
+      ],
+      "bytes": 721847
     }
   ],
-  "totalBytes": 3885903525,
-  "generatedAt": "2026-09-03"
+  "totalBytes": 3905446165,
+  "generatedAt": "2026-09-04"
 }

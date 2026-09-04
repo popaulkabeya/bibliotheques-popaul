@@ -24,14 +24,6 @@ Ces réflexions suffisent assurément pour justifier S. Jean de la Croix contre 
 
 Parmi les différentes traductions françaises des *Œuvres spirituelles* de S. Jean de la Croix, nous nous sommes attachés à celle du P. Maillard, jésuite, publiée pour la première fois en 1695 (Paris, 1 vol. in-4), et généralement préférée à toutes les autres. Nous avons également conservé les *Approbations* et les *Éloges des Œuvres* du Saint, réunis par le P. Maillard à la tête de sa version. Nous y avons ajouté quelques lettres du P. Berthier sur le même sujet, adressées a Madame la Marquise de Créqui, et publiées pour la première fois en 1790, dans le 4 tome de ses *Réflexions spirituelles*. Ces lettres renferment une excellente analyse des Œuvres du Saint. Le plan de ces Œuvres, la liaison et l’enchaînement de leurs différentes parties, sont exposées dans ces Lettres avec une précision et une clarté admirables ; et nous croyons qu’on peut les regarder comme la meilleure introduction à la lecture des Œuvres spirituelles de notre saint Auteur.
 
-↑ *Instruct. sur les états d’oraison*, liv. I. n.12. Voyez aussi les autres écrits de Bossuet sur la Controverse du Quiétisme, et particulièrement *Mystica in tuto.* Praefat. necnon partis, I. cap. 8.
-
-↑ Œuvres spirit. du P. Berthier, I. 5, p. 87, édit, de Paris, 1811.
-
-↑ *Dict. hist.* de Moreri et de Feller, art. *S. Jean de la Croix.*
-
-↑ Note sur la vie de S. Jean de la Croix, parmi les *Vies des Pères et des autres Saints*, traduites de l’anglais d’Alban Butler, par l’abbé Godescard, 24 Novembre.
-
 # 3. AVERTISSEMENT DU TRADUCTEUR.
 
 Les *Œuvres spirituelles du Bienheureux Jean de la Croix sont reçues avec un applaudissement si général et font des fruits si considérables qu’il est inutile d’en faire l’éloge, sur-tout après ce qu’en ont écrit les Cardinaux, les Évêques, les Docteurs et les Universités entières qui les ont approuvées. Il n’est donc nécessaire présentement que d’en donner le plan et l’idée, pour en faciliter l’intelligence.*
@@ -126,12 +118,6 @@ I. *La Montée du Mont-Carmel. II. La Nuit obscure. III. La vive Flamme de l’A
 
 Selon le sentiment des personnes savantes et pieuses, il y a dans ces Livres presqu’autant de mystères que de paroles ; mais il ne s’en faut pas étonner, puisque, comme Nicéphore le dit de saint Denis l’Aréopagite, il a traité de la plus haute contemplation des choses divines, et qu’il en a parlé avec des sentimens si sublimes, et d’un style si relevé, qu’ils surpassent la portée de l’esprit humain, et la capacité de ceux qui n’ont pas l’expérience de la théologie mystique. C’est pourquoi quelques-uns comparent ce nouveau Docteur, qui pénètre si profondément dans les secrets du Ciel, avec cet ancien Théologien. En effet, il a imité saint Denis, non-seulement en la matière de ses livres, mais encore en leur titre, puisqu’il a écrit de la Théologie mystique, secrète et cachée. L’un a composé des Hymnes, et l’autre des Cantiques. Nous pouvons donc les nommer tous deux, avec saint Jean Chrysostôme, des oiseaux de Paradis ; avec saint Athanase, le grand Docteur en cette Théologie ; et avec Sanctinus, l’homme extraordinairement éclairé de la Foi.
 
-↑ ii. *Cor*. 5, 16.
-
-↑ i. *Cor*. 2. v. 4 et 16.
-
-↑ i. *Cor*. 6, 17.
-
 # 6. LA MONTÉE DU MONT-CARMEL.
 
 La matière que je traite en la Montée du Mont-Carmel, est renfermée dans les Vers suivans, qui contiennent aussi la manière d’arriver au sommet de cette Montagne, c’est-à-dire, à l’état sublime de la perfection chrétienne, que nous appelons l’union de l’ame avec Dieu. Et parce que les choses que j’ai à dire sont fondées sur ces Vers, je les rapporte ici tous ensemble, afin que ce que j’écrirai soit plus facile à comprendre. De sorte néanmoins que quand j’expliquerai ces Cantiques, je donnerai l’intelligence de chaque Vers, selon que la matière l’exigera.
@@ -174,8 +160,6 @@ Les deux premiers traités sont précédés de cantiques au nombre de huit, mais
 
 Les deux premiers traités, la *Montée du Carmel*, et *la Nuit obscure de l’ame*, sont la partie la plus instructive de ces œuvres ; et les deux derniers, *la Vive Flamme de l’amour*, et les *Cantiques spirituels*, en sont la partie la plus affectueuse. J’insisterai fort sur le premier livre de la Montée du Carmel, parce qu’il contient, ce me semble, les principes de tout ce qu’enseigne et recommande saint Jean de la Croix. Je vous demande, Madame, la permission de vous écrire trois lettres sur ce seul livre. Je suis, etc.
 
-↑ Le P. Berthier parle ici de la traduction composée par le P. Maillard et publiée pour la première fois en 1695.
-
 ## SECONDE LETTRE.
 
 Tout dépend, Madame, dans les œuvres de saint Jean de la Croix, du premier livre de son traité, intitulé : *la Montée du Carmel*. Il s’agit, 1. de se former une idée du tout de Dieu, et du néant de la créature ; 2. d’avoir une notion exacte de l’union intime de l’ame avec Dieu ; 3. de bien comprendre ce que c’est que la *nuit* des sens et des facultés de l’ame. Je dis que ce sont là les principes de la doctrine du saint auteur, et je les trouve répandus dans son premier livre de *la Montée du Carmel*. Le premier surtout et le troisième de ces principes, sont d’une si grande importance, que j’ai cru devoir les traiter dans les deux lettres qui suivront celle-ci. En attendant, je vous présente le tableau du *tout* de Dieu, de l’union intime de l’ame avec Dieu, de la nuit où il faut entrer pour s’unir intimement à Dieu.
@@ -197,12 +181,6 @@ L’homme, sur la terre, est guidé par quatre puissances ou facultés dont chac
 Comme il est question d’introduire l’ame dans une région toute autre que celle de la nature, il est visible que les lumières qui guident nos facultés naturelles, peuvent être plus préjudiciables qu’avantageuses pour entrer dans cette route toute spirituelle, et que d’autres écrivains ont appelée avec raison *sur-humaine*. Si Dieu seul doit nous éclairer tandis que nous parcourons cette route, il est visible encore que nous devons abandonner toute autre lumière, et qu’une des dispositions que Dieu exige de nous, est qu’il nous trouve dans la nuit des sens de l’esprit, de la mémoire, de la volonté. Si nous voulions concilier la lumière naturelle de ces facultés avec la lumière divine, nous nous abuserions étrangement nous-mêmes, nous prendrions le change sur le terme auquel nous aspirons, qui est l’union intime avec Dieu ; bien loin d’avancer dans la voie qui y conduit, nous nous priverions de la lumière unique dont nous avons besoin, et nous serions dans un danger évident de nous égarer. Concevons donc que la *nuit obscure* dont nous parle saint Jean de la Croix n’est que l’exclusion de nos lumières naturelles par rapport au chemin de la perfection. Il n’y a pas un fort grand mystère dans ce principe, quoique dans les conséquences et dans l’exécution, il soit très-sublime et très-difficile.
 
 Il serait temps, Madame, d’entrer dans les instructions qui concernent la nuit des sens mais saint Jean de la Croix place à la fin de son premier livre de *la Montée du Carmel*, un morceau sur le *tout* de Dieu, dont l’importance vous a frappée, et que je n’ai point traité dans cette lettre. Vous agréerez donc que j’en fasse le sujet de la lettre suivante. Je suis, etc.
-
-↑ Livre I, chap. 6 de la traduction du P. Maillard.
-
-↑ Livre II, chap. 5.
-
-↑ ii. Cor. 3, 18.
 
 ## TROISIÈME LETTRE.
 
@@ -236,22 +214,6 @@ Je rassemble ainsi, Madame, les quatre derniers vers du saint maître qui nous i
 
 Je vous ai fait, Madame, une trop longue lettre ; vous en excuserez la prolixité en considération du tout de Dieu dont elle traite et dans lequel je suis, etc.
 
-↑ Voici ces vers : [Montée du Carmel, liv. I, ch. 13.] 1. Pour goûter tout, n’ayez du goût pour aucune chose. 2. Pour savoir tout, désirez de ne rien savoir. 3. Pour posséder tout, souhaitez de ne rien posséder. 4. Pour être tout, ayez la volonté de n’être rien en toutes choses. 5. Pour parvenir à ce que vous ne goûtez pas, vous devez passer par ce qui ne frappe point votre goût. 6. Pour arriver à ce que vous ne savez pas, il faut passer par ce que vous ignorez. 7. Pour avoir ce que vous ne possédez pas, il est nécessaire que vous passiez par ce que vous n’avez pas. 8. Pour devenir ce que vous n’êtes pas, vous devez passer par ce que vous n’êtes pas. 9. Lorsque vous vous arrêtez à quelque chose, vous cessez de vous jeter dans le tout. 10. Car pour venir du tout au tout, vous devez vous renoncer de tout au tout. 11. Et quand vous serez arrivé à la possession du tout, vous devez le retenir en ne voulant rien. 12. Car si vous voulez avoir quelque chose dans le tout, vous n’avez pas votre trésor tout pur en Dieu.
-
-↑ Psal. XXXIII 9.
-
-↑ I. Petr. 2, 3.
-
-↑ Coloss. 3, 1, 2, 3.
-
-↑ i Cor. 2, 2.
-
-↑ Philip. 3, 8.
-
-↑ Galat. 2, 20.
-
-↑ Luc. 14, 33.
-
 ## QUATRIÈME LETTRE.
 
 Des différentes *nuits* où il faut entrer pour s’unir intimement à Dieu, et 1. De la nuit des sens.
@@ -270,18 +232,6 @@ Ce qui suit n’est que l’imitation de Notre-Seigneur réduite en exercice ; m
 
 Je conçois que par là les sens et les passions seront dans la nuit la plus profonde, et que nulle étincelle de leur fausse lumière ne réfléchira sur l’ame ; je comprends aussi quels doivent être les biens immenses qui résulteront de cette nuit. Notre saint auteur les explique fort au long dans son premier livre de la *Nuit obscure de l’ame*, et j’anticipe sur ce livre, afin de compléter la doctrine qui concerne la nuit des sens. Ces biens sont la connaissance de nous-mêmes et de notre misère, la connaissance de la grandeur et de l’excellence de Dieu ; l’humilité d’esprit, l’estime et l’amour du prochain ; l’obéissance pleine et entière en tout ce qui regarde la conduite de l’intérieur ; le souvenir presque continuel de Dieu ; l’exemption d’une multitude d’imperfections auxquelles les aspirans à l’union divine sont sujets. Encore une fois, je n’ai point de peine à découvrir ces avantages dans la nuit des sens quand elle est parfaite ; mais elle ne le sera jamais sans de grands combats, sans éprouver des tentations violentes, sans être exposé aux suggestions très-importunes de l’ennemi du salut. Ah ! Madame, saint Jean de la Croix dit sur ce point des choses qui me sont très-connues par ma propre expérience , quoique je sois bien peu avancé dans la nuit des sens. Son instruction me console un peu ; mais ce qu’il dit de la voie étroite et de l’abnégation, me remplit de crainte et de confusion. « Oh, *s’écrie-t-il*, qui pourrait exprimer dignement, qui pourrait fidèlement pratiquer ce qui est compris dans cette éminente science de l’abnégation de nous-même ? Oh ! si les personnes spirituelles pouvaient parfaitement connaître combien le moyen qu’il faudrait prendre pour entrer dans ce renoncement, est différent de celui que plusieurs d’entre eux estiment très-bon s’imaginant que c’est assez pour eux de se reformer en quelque chose ! » Il faudrait transcrire tout ce chapitre pour en faire sentir tout le mérite. Je vous laisse, Madame, le soin de le méditer, et de me faire part ensuite de vos saintes réflexions. Je suis, etc.
 
-↑ *Montée du Carmel*, liv. I, ch. 3 et suiv.
-
-↑ Coloss. III, 5.
-
-↑ Montée du Carmel, liv. I, ch. 13.
-
-↑ *Nuit obscure*, liv. I, ch. 12.
-
-↑ *Nuit obscure*, liv. I, chap. 12.
-
-↑ *Montée du Carmel*, liv. II, ch. 7.
-
 ## CINQUIÈME LETTRE.
 
 De la nuit de l’esprit ou de l’entendement.
@@ -298,22 +248,6 @@ Il y a, Madame, dans ces avis une sagesse que je ne puis rendre en abrégeant la
 
 Je trouve, Madame, dans ce livre un article considérable, sur lequel vous ne me pardonneriez pas de passer légérement : c’est celui où notre saint auteur donne des leçons pour s’élever de l’oraison de discours, ou de la méditation, à l’oraison de pure foi, ou à la contemplation. Tous ceux qui commencent à marcher dans la voie spirituelle, doivent user du discours ou de la méditation ; employer même le secours de l’imagination, pour se représenter les divers objets ou mystères que la foi nous enseigne. Ceux même qui ont fait des progrès dans la route de l’union avec Dieu, sont souvent obligés de passer de la méditation à la contemplation, et de la contemplation à la méditation. Quelquefois ils sont plongés dans une amoureuse attention à Dieu, et quelquefois ils ont besoin de retourner au discours pour rentrer dans cette connaissance générale de Dieu. Je dis *connaissance générale* ; car c’est là, dans les principes de saint Jean de la Croix, le propre de la contemplation, ou de l’union par la foi avec l’être divin. Dans l’oraison de discours, on s’occupe de sujets particuliers ; on laisse agir l’imagination et l’entendement sur le détail des vérités évangéliques ; on les considère l’une après l’autre ; on en tire des conséquences ; on tâche, sous la direction de la grâce, d’en profiter pour croître dans l’humilité, dans la patience, et sur-tout dans l’amour de Dieu mais quand Dieu élève l’ame à la contemplation, l’entendement se détache de toute considération particulière, et la volonté n’est occupée qu’à s’unir par des affections pleines d’amour au souverain bien ; elle oublie tout le reste, pour se plonger dans ce tout immense. C’est ce que notre saint explique très au long dans tout son ouvrage, et sur-tout quand il en vient à décrire la nuit où doit entrer la volonté ; mais comme ce passage de l’oraison de discours à l’oraison de pure contemplation, est d’une grande conséquence, il assigne trois marques auxquelles on pourra reconnaître en quel temps on doit quitter les opérations de l’imagination et les raisonnemens de l’esprit. La première, est quand on ne trouve plus de goût ni d’aliment dans la méditation ; la seconde, quand on ne sent aucun désir de penser à des sujets particuliers ; la troisième, qui est la plus certaine et la plus nécessaire, quand l’ame se plaît à demeurer seule dans son fond, et à faire une attention amoureuse à Dieu, accompagnée d’une grande paix intérieure. Ô, Madame, qu’il y a de science spirituelle et de sagesse dans la manière dont notre saint contemplatif traite toute cette matière ! Je vous invite surtout à lire le quatorzième chapitre du second livre de la *Montée du Carmel*, où il apporte les raisons qui prouvent la nécessité d’avoir ces trois signes pour faire de plus grands progrès dans les voies de Dieu. Je suis, etc.
 
-↑ *Montée du Carmel*, liv. II.
-
-↑ Hebr. 11, 6.
-
-↑ On voit assez que le P. Berthier considère uniquement ces rapports et ces avantages en tant que surnaturels, c’est-à-dire, en tant qu’ils se rapportent à la vision intuitive de Dieu. Autrement les rapports et les avantages dont il parle ne nous sont pas connus par la foi seule, mais aussi par la raison.
-
-↑ Rom. 8, 14.
-
-↑ Cette proposition paraît trop générale, car il est certain que *la foi et la science humaine peuvent agir ensemble sur certains objets*, tels que l’existence de Dieu et de la loi naturelle, l’immortalité de l’ame, et plusieurs autres vérités que la raison et la foi nous découvrent également. Cependant la proposition du P. Berthier ne laisse pas d’être vraie, dans le sens où elle est restreinte par le contexte, c’est-à-dire, en ce sens que la raison seule ne peut ni découvrir ni pénétrer les vérités obscures que la foi nous enseigne.
-
-↑ Psal. XVII, 10 et seq.
-
-↑ Joan. 1, 18.
-
-↑ *Montée du Carmel*, liv. II, ch. 13, 14 et 15.
-
 ## SIXIÈME LETTRE.
 
 De la nuit de la mémoire.
@@ -327,16 +261,6 @@ Ici notre saint directeur donne une leçon toute évangélique, et qui le distin
 Pour parvenir à l’union intime avec Dieu, il faut donc, selon les principes de S. Jean de la Croix, retirer la mémoire des espèces et de la connaissance des choses créées, afin de la présenter à Dieu, libre, dégagée, et comme perdue dans un saint oubli de ce qui n’est pas Dieu ou Jésus-Christ ; sans cela, on s’expose à être troublé par une multitude de distractions, de faux jugemens, de suggestions du démon ; on court risque d’éprouver le soulèvement des passions, de perdre la paix de l’ame, et de ne pouvoir écouter le Seigneur dans l’oraison. Notre saint étend cette même doctrine aux connaissances surnaturelles, aux visions aux révélations, aux paroles intérieures, aux sentimens spirituels dont les images demeurent d’ordinaire profondément gravées dans la mémoire. Le souvenir réfléchi de ces choses fait que l’homme se trompe souvent, qu’il est dans l’occasion prochaine de concevoir de la présomption et de la vanité, qu’il donne lieu au démon de le séduire, de l’engager dans mille folies, de le priver au moins de la nudité et de la pauvreté d’esprit, qui est si nécessaire dans la voie de l’union divine. Enfin nulle de ces choses, quelque belles, quelque surnaturelles qu’elles paraissent, n’est Dieu, et cela doit suffire à l’homme spirituel pour en dégager sa mémoire.
 
 Non pas, ajoute notre saint, qu’il doive rejeter la pensée des choses qu’il est obligé d’exécuter pour remplir les fonctions de son état ; mais ce souvenir doit être tel, qu’il ne s’y attache point, qu’il n’y prenne point de plaisir, qu’il ne s’y affectionne point comme à un bien qui lui soit propre. Encore arrive-t-il que quand l’ame est parvenue à l’union divine, elle oublie absolument tout, hors Dieu et Jésus-Christ ; mais sa mémoire en est d’autant plus parfaite, et plus propre à remplir tous les devoirs de l’état, parce que c’est Dieu même qui lui inspire ce qu’elle doit faire. Le saint auteur explique ceci par des exemples, et je transcris le premier pour faire bien comprendre sa pensée. « Une personne supplie quelqu’un de ceux qui sont élevés à cet état, d’offrir à Dieu ses prières pour elle. Il ne reste plus dans la mémoire de celui qui est prié aucune espèce, ni aucune connaissance de cette demande, tellement qu’il ne se souvient pas d’offrir des vœux pour cette personne. Mais s’il est expédient de présenter ses prières à Dieu pour cette personne, Dieu touchera la volonté de son serviteur, et lui donnera le désir de prier ; au contraire, s’il ne les agrée pas, cet homme de bien, quelque effort qu’il fasse, n’aura ni le pouvoir, ni la volonté de recommander cette personne à son Créateur ; Dieu même lui tournera le cœur ailleurs, et lui inspirera de prier pour des gens qu’il ne connaît pas, et dont il n’a jamais ouï parler. La raison est que Dieu excite d’une façon particulière les puissances de ces ames (qui sont dans l’union) à faire leurs opérations conformément à la volonté divine. » Il y a, Madame, dans cette instruction et dans l’exemple qui l’explique, un esprit de foi que je ne puis assez admirer. Oh ! je conçois comment les saints ont fait tant de choses si à propos et si parfaitement ; comment ils en ont omis tant d’autres avec la même prudence et le même mérite : c’est que Dieu auquel ils étaient unis par les liens d’une oraison sublime, les éclairait dans toutes leurs démarches. Le monde les critiqua, les blama, parce que le monde n’a point l’esprit de Dieu ; mais nous voyons le succès de leurs entreprises, et nous reconnaissons qu’ils ont été les vrais sages, parce que *s’étant unis au Seigneur*, comme parle l’apôtre, *ils étaient devenus un même esprit avec lui*. Je suis, etc.
-
-↑ *Montée du Carmel*, liv. II, ch. 6.
-
-↑ *Id*., liv. III, ch. 1 et suiv.
-
-↑ *Montée du Carmel*, liv. III, ch. 1 vers la fin.
-
-↑ *Montée du Carmel*, liv. III, ch. 1 vers le milieu.
-
-↑ i. Cor. 6. 17.
 
 ## SEPTIÈME LETTRE.
 
@@ -364,22 +288,6 @@ Ce qu’il ajoute sur les prédications est également sage et instructif. S’i
 
 Je vois, Madame, dans tous ces détails du saint auteur, la voie pure et infaillible de la plus haute perfection. Tout s’y rapporte au dénuement de l’esprit, et au dépouillement de la volonté. Ce qui me charme, c’est que tout ceci n’est point fondé sur les spéculations d’un écrivain qui travaille dans son cabinet. On sent que c’est la route où est entré ce saint ami de Dieu qu’il parle d’après sa propre expérience ; qu’il n’a en vue que d’élever les ames à l’union intime avec Dieu, qu’il a partout une idée parfaite du culte *en esprit et en vérité*. Sa doctrine ôte à l’homme tous les appuis de la nature, elle ne lui laisse que Dieu ; mais Dieu est tout, et de ce tout infini découlent tous les biens. Ô qu’heureux est celui qui connaît les avantages de cet échange du rien de la créature au tout de Dieu ! Je termine ici l’analyse des trois livres de *la Montée du Carmel*. Comptez, Madame, que j’en ai rendu à peine les premiers traits. Il faut lire et méditer toute cette précieuse instruction, et bénir Notre-Seigneur d’avoir donné à son église un maître si intelligent dans les voies de Dieu. Je suis, etc.
 
-↑ *Montée du Carmel*, liv. III, ch. 15 et suiv.
-
-↑ Le P. Berthier, en écrivant ceci, ne paraît pas avoir fait assez d’attention que, selon l’enseignement unanime des théologiens, l’abnégation entière et universelle dont parle S. Jean de la Croix, n’est pas rigoureusement nécessaire pour l’accomplissement du précepte de la charité. En effet la charité, quoique véritable dans tous les fidèles en état de grâce, n’est pas incompatible avec bien des imperfections, et n’a pas en tous le même degré d’intensité. Voyez dans les Théologiens scholastiques l’explication du précepte de la charité. Voyez en particulier la *Somme de S. Thomas*, 2. 2. quæst. XXIV, art. 4 et 7. Billuart, *de Charit*. dissert. II, art. 1.
-
-↑ Joan 3, 6.
-
-↑ *Montée du Carmel*, liv. III, ch. 23 vers le milieu.
-
-↑ *Montée du Carmel*, liv. III. ch. 14.
-
-↑ *Montée du Carmel*, liv. III, ch. 34.
-
-↑ *Montée du Carmel*, liv. III, ch. 39.
-
-↑ *Montée du Carmel*, à la fin du chap. 44.
-
 ## HUITIÈME LETTRE.
 
 Analyse du traité de *la Nuit obscure de l’ame*.
@@ -396,14 +304,6 @@ Cependant l’ame se purifie dans cette nuit ténébreuse ; les restes du vieil 
 
 Méditons, Madame, dans le silence de la retraite, ces deux livres de la *nuit obscure de l’ame*. Il n’y a qu’un saint élevé à une oraison sublime, qui ait pu les composer, et il n’y a que des ames comme la vôtre, déjà bien exercées dans la science et dans la pratique de l’oraison, qui puissent les bien comprendre. Je suis, etc.
 
-↑ *Nuit obscure*, liv. I, ch. 6.
-
-↑ *Nuit obscure*, liv. I, ch. 4.
-
-↑ Confess. liv. IV, ch. 4.
-
-↑ *Nuit obscure*, liv. II, ch. 7 vers la fin.
-
 ## NEUVIÈME LETTRE.
 
 Sur la *vive Flamme d’amour* et sur *les Cantiques* *spirituels* de S. Jean de la Croix.
@@ -411,8 +311,6 @@ Sur la *vive Flamme d’amour* et sur *les Cantiques* *spirituels* de S. Jean de
 Je serai fort court, Madame, sur *la vive* flamme de l’amour*, et sur les *quarante cantiques* de saint Jean de la Croix. Ces deux ouvrages ne sont pas susceptibles d’une analyse* suivie ; l’un et l’autre exposent les sentimens de l’ame parvenue à l’union divine, surtout le désir ardent qu’elle a d’obtenir la vue de Dieu. Ce langage plein de figures, à l’exemple du Cantique des cantiques, n’est point fait pour les ames vulgaires ; j’entends celles même qui ont quelque usage de l’oraison. Il faut avoir bien étudié la doctrine de S. Jean de la Croix, pour le suivre dans ces deux derniers traités. Quoique le style qu’il emploie soit celui de l’amour le plus enflammé et le plus sublime, quoique ce soient des traits de feu qui s’élancent de ce cœur transformé en Dieu, je remarque cependant encore qu’il n’abandonne point la méthode d’instruction. Il y a, par exemple dans la *vive flamme de l’amour*, un excellent morceau sur la direction des ames. Le saint y fait voir combien les directeurs peu versés dans les voies de Dieu, retardent les ames appelées à la contemplation. Il parle en cet endroit avec toute la force et toute l’autorité que lui donnaient ses grandes lumieres. Vous avez gémi quelquefois, Madame, du peu de secours qu’on trouve dans ce siècle par rapport à la conduite spirituelle. Cela n’est cependant pas trop étonnant quand on a lu ce qu’exige notre saint auteur pour cet emploi. Je suis persuadé que de son temps même, les directeurs tels qu’il les désire étaient rares c’était néanmoins un siècle très-fécond en saints. Que faut-il donc penser du nôtre, où l’on a pris à tâche, en quelque sorte, de décrier la science spirituelle et les voies de Dieu ? Pour quelques abus qui se sont glissés de temps en temps dans la pratique de l’oraison, fallait-il couper jusqu’à la racine de la théologie mystique ? Je suis persuadé que si on lisait encore les œuvres de saint Jean de la Croix, on reviendrait de beaucoup de préjugés à cet égard.
 
 Quoi qu’il en soit, Madame, je me suis occupé de ses deux derniers traités ; j’y ai reconnu les effets qu’opère dans une ame bien morte à elle-même, le saint amour de Dieu ; j’y ai trouvé, ce que saint Augustin avait remarqué plus de mille ans avant nous, que cet amour divin blesse, embrase, énivre : c’est comme la substance de ce que saint Jean de la Croix tourne en cent manières différentes. Je suis, dans ce saint amour, votre, etc.
-
-↑ *Vive Flamme*, Cantique III, vers 3, §. 4.
 
 ## DIXIÈME LETTRE.
 
@@ -442,18 +340,6 @@ En quel sens donc l’union divine est-elle un état, selon la pensée de saint 
 
 J’ajoute sur l’amour désintéressé, que saint Jean de la Croix était trop savant dans la connaissance de l’ame, pour croire qu’elle pût renoncer expressément au penchant qui la porte à rechercher son bien. Ce penchant est nécessaire dans l’ame, et il est aussi impossible qu’elle aime un objet qui ne se présente pas à elle comme bon qu’il lui est impossible de ne pas désirer son bonheur. Dans l’amour pur, on peut bien faire abstraction du motif de l’intérêt propre ; mais ce motif indélibéré, qui n’est autre chose que le penchant nécessaire vers le bien, se trouvera toujours dans cet acte, quelque pur qu’il soit. S’il y a donc eu des mystiques qui aient voulu exclure ce penchant si essentiel à l’ame, ils étaient aussi mauvais philosophes que théologiens dangereux et spirituels séduits par leur imagination. Saint Jean de la Croix eut des qualités toutes contraires. J’ai voulu, Madame, entrer dans cette discussion, non pour vous instruire, ou pour prévenir vos doutes, mais pour me rassurer moi-même sur une doctrine qui ne m’est pas aussi familière qu’à vous. Je suis, etc.
 
-↑ *Montée du Carmel*, liv. II, ch. 12 dernier alinéa ; ch. 15 premier alinéa.
-
-↑ *Nuit obscure*, liv. II, ch. 11, second alinéa.
-
-↑ *Cantique spirituel*, Cantique IX, vers la fin.
-
-↑ *Nuit obscure*, liv. II, ch. 21 vers le milieu.
-
-↑ *Montée du Carmel*, liv. II, ch. 32 vers la fin.
-
-↑ On voit assez que le P. Berthier ne rejette ici que *l’état d’amour pur* au sens des quiétistes, qui excluaient de cet état tous les actes distingués de la charité. Les principes que le P. Berthier expose dans cet alinéa, aussi bien que dans la lettre suivante, montrent clairement qu’il était bien éloigné de nier la possibilité, et même la réalité d’un *état d’amour* pur dans lequel tous les actes distingués de la charité se font *ordinairement* par le motif propre de la charité. On ne doit pas perdre de vue cette observation en lisant la lettre suivante.
-
 ## ONZIÈME LETTRE.
 
 Suite du même sujet.
@@ -469,10 +355,6 @@ Pour en venir présentement à saint Jean de la Croix, quoiqu’il ne parle en a
 Saint Jean de la Croix explique parfaitement sa pensée dès son premier cantique de *la vive flamme de l’amour*. La transformation de l’ame par l’amour, est, selon lui, une habitude ; mais les actes, qui sont comme la flamme de cet amour, ne se font que quand *l’ame y est portée par les mouvemens particuliers du Saint-Esprit*.
 
 Ils ne sont donc pas permanens, ils ne forment pas un état. L’ame demeure disposée à l’amour, comme le bois pénétré de feu est disposé à la flamme : c’est la comparaison qu’emploie notre saint ; mais comme le bois le plus embrasé ne jette pas toujours de la flamme, ainsi l’ame la plus transformée par l’amour ne produit pas toujours les actes de l’amour pur. Je pourrais m’étendre beaucoup sur la discussion de ce point de doctrine spirituelle ; mais c’en est assez pour vous, Madame, qui entendez toutes ces choses comme à demi-mot, et qui pourriez en faire des leçons aux autres. Je suis, etc.
-
-↑ Ce mot ne se trouvait pas dans la première édition, c’était certainement une faute d’impression, aussi a-t-elle été corrigée dans l’édition de 1811, que nous suivons ici.
-
-↑ I. Cantique, 1 vers.
 
 # 8. REMARQUES SUR LE *TOUT* DE SAINT JEAN DE LA CROIX.
 
@@ -493,8 +375,6 @@ Trois caractères uniques dans les œuvres de saint Jean de la Croix.
 2. Un esprit éclairé des lumières divines ;
 
 3. Un don d’instruction qui ne se dément nulle part.
-
-↑ Voyez la troisième Lettre, ci-dessus page 30.
 
 # 9. SUR LES IMAGES SELON LA DOCTRINE DE SAINT JEAN DE LA CROIX.
 
@@ -576,8 +456,6 @@ Pour ces raisons, nous disons que la pauvreté de l’ame est une nuit obscure. 
 
 Voilà la première nuit dont l’ame est environnée selon la partie inférieure de l’homme. Il faut maintenant voir combien il lui est utile ; si elle se porte à l’union divine, de sortir de sa maison, pendant que l’obscure nuit des sens dure.
 
-↑ Pauper sum ego, et in laboribus à juventute meà. Psal. 87, 16.
-
 ## CHAPITRE QUATRIÈME.
 
 Il est nécessaire que l’ame qui tend à l’union divine passe par la nuit obscure, c’est-à-dire, par la mortification des passions et par le renoncement des plaisirs que les créatures peuvent nous faire goûter, parce que l’amour qu’on a pour elles paraît devant Dieu comme des ténèbres qui rendent l’ame incapable de recevoir la pure lumière de Dieu ; car la lumière ne s’accorde pas avec les ténèbres, puisque, comme dit S. Jean, *la lumière luit dans les ténèbres, et les ténèbres ne l’ont pas comprise*.
@@ -612,28 +490,6 @@ Pour cette cause la Sagesse divine, se plaignant de ceux que leur attachement à
 
 La Sagesse adresse ces paroles à tous ceux qui donnent leur cœur aux créatures ; elle les appelle petits ; car ils sont semblables aux objets qu’ils aiment, et qui sont très-petits d’eux-mêmes. Elle les avertit d’être prudens et de faire réflexion sur les biens, sur la gloire, sur la justice, sur les autres richesses, qui sont infiniment grandes. Elle veut leur parler de Dieu, pour les désabuser de l’estime qu’ils font des choses créées. Elle ajoute que le fruit qu’ils tireront de ses conseils et de son secours, surtout à l’égard de leur ame, est plus noble et plus précieux que l’or, que l’argent et que les pierreries. Ils doivent donc étouffer leur amour pour les créatures, et ne le conserver que pour s’unir au Créateur.
 
-↑ Lux in tenebris lucet, et tenebræ eam non comprehenderunt. *Joan.*, 1. 5.
-
-↑ Aut quæ societas luci ad tenebras ? ii. *Cor.* 6. 14.
-
-↑ Similes illis fiant qui faciunt ca, et omnes qui confidunt in eis. *Psal.* 113. 8.
-
-↑ Aspexi terram, et eccè vacua erat et nihili, et cœlos et non erat lux in eis. *Jerem.* 4. 23.
-
-↑ Falax gratia, et vana est pulchritudo, *Prov*. 31, 30.
-
-↑ Nemo bonus nisi solus Deus. *Luc*. 18. 19.
-
-↑ Sapientia enim hujus mundi stultitia est apud Deum. i. *Cor*. 3. 19.
-
-↑ Dicentes enim se esse sapientes, stulti facti sunt. *Rom*. 1. 22.
-
-↑ Nemo se seducat : Si quis videtur inter vos sapiens esse in hoc sæculo, stultus fiat ut sit sapiens. i. *Cor*. 3. 18.
-
-↑ Ejice ancillam hanc, et filium ejus : Non enim erit hæres filius ancillæ cum filio meo Isaac. *Gen*. 21. 10.
-
-↑ O viri ad vos clamito, et vox mea ad filios hominum. Intelligite, parvuli, astutiam, et insipientes animadvertite. Audite, quoniam de rebus magnis locutura sun… Mecum sunt divitiæ, et gloria, opes superbæ et justitia, Melior est enim fructus meus auro, et lapide pretioso, et genimina mea argento electo. In viis justitiæ ambulo, in medio semitarum judicii, ut ditem diligentes me, et thesauros corum repleam. *Prov*. 8. 4. 5. 18. 19. 20. 21.
-
 ## CHAPITRE CINQUIÈME.
 
 Saint augustin connaissait parfaitement la différence qui se trouve entre Dieu et les créatures, et combien les ames qui les aiment s’éloignent de lui, lorsqu’il parlait à Dieu de la sorte : *Misérable que je suis ! quand sera-ce que je rendrai conforme à votre droiture tout ce que j’ai de déréglé ? Vous êtes bon, et je suis méchant ; vous êtes pieux, et je suis impie ; vous êtes saint, et je suis pécheur ; vous êtes juste, et je suis injuste ; vous êtes la lumière, et je suis aveugle ; vous êtes la vie, et je suis mort ; vous êtes la médecine, et je suis malade ; vous êtes la vérité suprême, et je ne suis que vanité et que mensonge.* (*Soliloq. c. 2*.) Voilà ce que ce saint docteur dit de lui-même, en considérant le penchant qu’il avait pour les créatures. C’est aussi ce qu’on peut dire de tous les hommes, parce qu’ils ont les mêmes passions.
@@ -654,16 +510,6 @@ Le patriarche Jacob nous présente une troisième figure de cette mortification.
 
 De sorte qu’en cet état, qui est l’état d’union avec Dieu, toutes les opérations humaines deviennent divines, et l’ame est en ces momens un autel où Dieu seul est honoré par des sacrifices de louanges et d’amour. Pour cette cause, Dieu voulut que dans l’ancien Testament, l’autel sur lequel on devait lui faire des sacrifices fût creux et vide au dedans ; ce qui montre combien Dieu souhaite que l’ame soit dégagée de toutes choses, afin d’être un autel digne de recevoir la Majesté divine, et de lui servir de demeure. Dieu défendit aussi de mettre sur son autel un feu étranger, et d’en retirer le feu qui lui était consacré ; (*Levit*. 10. 1.) de sorte que Nadab et Abiu, qui étaient enfans du grand-prêtre Aaron, ayant violé sa défense, il les fit consumer au pied de l’autel par le feu qu’il fit tomber du ciel, afin que nous apprenions de là que l’ame qui veut être un autel dédié à son créateur ne doit jamais laisser mourir en son cœur le feu de l’amour divin, ni souffrir que le feu de l’amour humain la brûle ; parce que Dieu ne veut pas qu’aucun objet partage avec lui l’ame qu’il a choisie pour son temple. Aussi nous lisons, dans le premier livre des Rois, (1. *Reg*. 5.) que les Philistins ayant mis l’Arche d’alliance avec Dagon, ils trouvèrent tous les matins ce faux dieu renversé par terre, jusques à ce que cette idole fut enfin rompue en plusieurs morceaux. Or, comme Dieu ne permit pas que cette divinité imaginaire demeurât avec lui dans un même lieu, de même il ne souffre pas avec lui dans un même cœur les passions encore terrestres. Il ne veut que ceux qui observent la loi divine, et qui acceptent volontiers les croix intérieures et extérieures ; car, comme il n’y avait dans l’arche que le livre de la loi et la verge de Moise, laquelle était la figure de la croix, de même il veut que l’ame qui désire goûter la vraie manne, c’est-à-dire Dieu, garde ses commandemens et porte la croix du Sauveur avec toute la perfection possible.
 
-↑ Sic ergo omnis ex vobis qui non renuntiat omnibus quæ possidet, non potest meus esse discipulus. *Luc*. 14. 33.**
-
-↑ Et occidit pinguet corum. *Psal*, 77. 31.
-
-↑ Esto paratus manè, ut ascendas statim in montem Sinaï, stabisque mecum super verticem montis. Nullus ascendat tecum, nec videatur quispiam per totum montem ; boves quoque et oves non pascantur è contrà. *Exod*. 34. 2. 3.
-
-↑ Jacob verò convocatâ omni domo suà, ait : Abjicite deos alienos qui in medio vestri sunt, et mundamini, et mutate vestimenta vestra ; Surgite, et ascendamus in Bethel, ut faciamus ibi altare Deo. *Genes*. 35. 2. 3.
-
-↑ Non solidum, sed inane et cavum intrinsecùs facies. *Exod*. 27. 8.
-
 ## CHAPITRE SIXIÈME.
 
 Afin de connaître plus distinctement ce que nous ayons dit jusqu’ici, il est nécessaire de déclarer de quelle manière les passions causent à l’ame deux sortes de dommages, dont l’un est privatif et l’autre est positif. Le premier consiste en ce que les passions privent l’ame de l’esprit de Dieu, et le second, en ce qu’étant fortes, elles fatiguent l’ame, elles la tourmentent, elles la remplissent de ténèbres et de taches, elles l’affaiblissent ; c’est ce que Jérémie exprime en ces termes : *Mon peuple, dit-il, a fait deux maux : il m’a quitté, moi qui suis la fontaine d’eau vive, et il s’est fait des citernes qui sont percées de tous côtés, et qui ne sauraient garder l’eau.* Une seule opération de la passion produit ces deux mauvais effets dans l’ame ; car aussitôt que l’ame s’affectionne à quelques créatures, plus cette affection jette de profondes racines, moins l’ame est capable d’aller à Dieu, puisque l’amour de Dieu et l’amour des choses créées sont contraires, et ne peuvent subsister ensemble dans le cœur. En effet, quelle comparaison a-t-il entre les créatures et le créateur, entre les choses matérielles et les choses spirituelles, entre les choses visibles et les choses invisibles, entre les temporelles et les éternelles, entre la nourriture céleste et spirituelle et la viande terrestre et sensible, entre le dépouillement et la nudité pour l’amour de Jésus-Christ, et l’attachement aux biens du monde ?
@@ -678,37 +524,9 @@ De plus les passions fatiguent l’ame, parce qu’elles l’agitent comme les v
 
 Les passions fatiguent enfin l’ame, lorsqu’elle veut les contenter ; parce que comme celui qui, pressé de la faim, ouvre la bouche pour se remplir de vent, et au lieu de se rassasier, il irrite sa faim ; de même l’ame bien loin d’assouvir sa faim, elle l’excite davantage ; de sorte qu’on peut dire avec Jérémie : Que l’ame en suivant le désir de sa volonté n’a trouvé que du vent ; et peu après lui faisant connaître son aridité, il l’exhorte à s’éloigner de la nudité et de la soif, c’est-à-dire, à détacher ses pensées et ses affections du dessein de saouler ses passions, parce que ce prétendu rassasiement allume davantage leur ardeur. Alors l’ame éprouve le sort des ambitieux qui se voit frustré de ses attentes après avoir long-temps espéré, et qui ne reçoit de ses soins que du chagrin et de l’ennui. De même après qu’elle a travaillé pour remplir l’avidité de ses passions, elle ne recueille que de l’inquiétude. On peut dire encore que la passion a du rapport avec le feu. Comme le feu s’augmente à proportion qu’on y met du bois, de même la passion s’enflamme à mesure qu’on lui donne de quoi se nourrir. Mais il y a cette différence entre la passion et le feu, que celui-ci s’éteint quand il a consumé ses matières, et celle-là s’allume davantage lorsque les alimens lui manquent. Ainsi on voit la vérité de ces paroles d’Isaïe : *Il ira à la droite, et il aura faim ; il mangera* à la gauche, et il ne sera pas rassasié.* Car* ceux-là endurent justement la faim, qui ne mortifient pas leurs passions, lorsqu’ils sont entrés dans le chemin qui conduit à Dieu et qui est représenté par la droite, puisqu’ils ne méritent pas de goûter jusques au rassasiement les douceurs de l’esprit divin. C’est aussi avec sujet que ces gens-là n’apaisent pas leur faim, lorsqu’ils nourrissent des choses créées leurs passions, comme la gauche le signifie, parce qu’ils quittent ce qui peut seul les satisfaire, et qu’ils cherchent ce qui n’est propre qu’à augmenter leur avidité insatiable. Il est donc constant que les passions fatiguent l’ame qui s’abandonne à leurs mouvemens.
 
-↑ Duo enim mala fecit populus meus : me dereliquerunt fontem aquæ vivæ, et foderunt sibi cisternas, cisternas dissipatas, quæ continere non valent aquas. *Jerem.* 2. 13.
-
-↑ Non est bonum sumere panem filiorum, et mittere canibus. *Matth*. 15. 26. Nolite dare sanctum canibus. *Matth*. 7. 6.
-
-↑ Famem patientur ut canes. Ipsi dispergentur ad manducandum. Si verò non fuerint saturati, et murmurabunt. *Psal*. 58. 15. 16.
-
-↑ Et sicut somniat esuriens et comedit, cùm autem fuerit expergefactus vacua est anima ejus : et sicut somniatn sitiens et bibit, et postquam fuerit expergefactus, lassus adhúc sitit, et anima ejus vacua est, etc. *Isa*. 29. 8.
-
-↑ Cùm satiatus fuerit arctabitur, æstuabit, et omnis dolor irruet super eum. *Job*. 20. 22.
-
-↑ Impii autem quasi mare fervens, quod quiescere non potest. *Isa*. 57. 20.
-
-↑ Onager assuetus in solitudine, in desiderio animæ suæ attraxit ventum amoris sui. *Jerem*. 2. 24. Prohibe pedem tuum à nuditate, et guttur tuum à siti. *Ibid v*. 25.
-
-↑ Et declinabit ad dexteram et esuriet : et comedet ad sinistram, et non saturabitur. *Isa*. 9. 20.
-
 ## CHAPITRE SEPTIÈME.
 
 En second lieu, les passions affligent l’ame, et c’est le second mal qu’elles lui causent. En cet état, l’ame est semblable à un homme qui est chargé de chaînes, et qui ne saurait se délivrer de la douleur qu’il en reçoit, avant qu’il s’en soit tout-à-fait dégagé ; de même l’ame ne peut sortir de ses peines, avant qu’elle se soit affranchie des liens de ses passions. C’est de ce sujet que David parlait lorsqu’il disait : *Les cordes de mes péchés*, c’est-à-dire de mes passions, *m’ont lié.* De plus, comme celui-là souffrirait beaucoup qui serait couché tout nu sur des épines, de même l’ame qui s’abandonne à ses passions est extrêmement tourmentée ; car ses passions la piquent comme des épines. C’est ce que le prophète-roi dit en ces termes : *Ils m’ont environné comme des abeilles, et ils se sont enflammés contre moi comme du feu dans des épines.* Car le feu des chagrins et des tourmens s’allume dans les passions, et excite dans l’ame des douleurs insupportables. Ou bien, comme un laboureur qui désire ardemment une abondante moisson, pique ses bœufs et les presse de labourer la terre, de même la concupiscence pique l’ame pour l’obliger à donner aux passions ce qu’elles demandent. Ceci paraît clairement dans l’extrême ardeur qu’eut autrefois Dalila de savoir où les forces de Samson résidaient. Elle le fatigua jusqu’à mourir par ses poursuites continuelles, tellement qu’il perdit cœur et succomba misérablement. L’ame tombe dans le même malheur, à force d’être pressée par les passions.. Il est facile de conclure de là que plus la passion se porte violemment à son objet, plus elle tourmente l’ame, et que plus l’ame accorde à la passion, plus elle sent de peines ; de sorte que ses tourmens croissent à proportion que les déréglemens de la passion se multiplient. Ainsi on voit dans l’ame, dès cette vie, la vérité de ces paroles de l’Apocalypse : *Proportionnez son tourment et sa douleur à la grandeur de son orgueil et de ses délices*. Et, comme celui-là est ordinairement maltraité, qui tombe entre les mains de ses ennemis, de même l’ame qui se laisse vaincre par les passions est fort affligée. Nous en avons une figure bien naturelle dans le malheur de Samson. Il avait au commencement des forces extraordinaires, et il exerçait avec une pleine autorité l’office de Juge sur les Israélites ; mais aussitôt que ses ennemis l’eurent réduit en leur pouvoir, ils le privèrent de ses forces ; ils lui crevèrent les yeux ; ils l’attachèrent à une meule de moulin pour moudre du blé ; ils le tourmentèrent enfin de toutes les manières qu’ils voulurent. Le sort d’une ame que les passions ont vaincue n’est pas moins déplorable. Elles la dépouillent de ses forces ; elles l’aveuglent, elles l’attachent à la concupiscence comme à un moulin ; elles l’affligent enfin selon la diversité et la violence de leurs emportemens. Dieu a cependant de la compassion de ces misérables esclaves de leurs passions ; et pour les retirer de cette captivité, il les invite à venir à lui comme à la source des véritables biens et des solides plaisirs de l’ame, et il leur dit ces paroles d’Isaïe : *Vous qui avez soif, venez puiser de l’eau ; et vous qui n’avez point d’argent, hâtez-vous, achetez, et mangez ; venez, achetez du vin et du lait, quoique vous n’ayez ni argent, ni de quoi donner en échange. Pourquoi employez-vous votre argent et le fruit de votre travail à acheter des choses qui ne servent ni à vous donner du pain, ni à vous rassasier ? Ecoutez-moi donc, et prenez la bonne nourriture que je vous présente : c’est elle qui engraissera votre ame et qui la comblera de délices.* Repassons sur ces paroles pour les appliquer à notre sujet. *Vous qui avez soif*, c’est-à-dire, vous qui désirez ardemment de contenter vos passions. *Vous qui n’avez point d’argent*, ou qui n’avez pas la volonté assez ferme ni assez déterminée pour quitter les créatures et pour vous unir à Dieu seul. *Achetez du vin et du lait*, c’est-à-dire, achetez la paix et la douceur de l’esprit divin. *Sans argent et sans échange*, ou bien, sans avoir autant de peine que vous en avez à satisfaire vos passions. *Pourquoi donc employez-vous votre argent*, ou votre volonté, *et votre travail*, ou le soin que vous prenez de rassasier vos passions, *à acheter ce qui ne sert pas à vous faire du pain*, c’est-à-dire, à ne pas vous remplir de l’esprit de Dieu ? Si vous suiviez mes avis, votre ame s’engraisserait de la viande spirituelle que je lui donnerais, et elle serait alors comblée de plaisirs. Or, se procurer cette graisse n’est autre chose que se priver de tous les plaisirs dont les objets créés peuvent nous repaître. Ils ne sont propres qu’à nous affliger ; au contraire, c’est l’esprit de Dieu qui nous réjouit. C’est pourquoi Notre-Seigneur nous exhorte à aller à lui lorsque nous sommes accablés de nos peines et du soin d’entretenir nos passions en leurs voluptés ; et il nous promet de nous soulager et de remettre notre ame dans la paix, dont nos déréglemens, que nous sentons, selon l’expression du prophète-roi, comme un poids immense, nous ont privés..
-
-↑ Funes peccatorum circumplexi sunt me. *Psal*. 118. 61.
-
-↑ Circumdederunt me sicut apes, et exarserunt sicut ignis in spinis. *Psal*. 117. 12.
-
-↑ Cùmque molesta esset ei, et per multos dies jugiter adhæreret, spatium ad quietem non tribuens, defecit anima ejus et ad mortem usquè lassata est. *Judic*. 16. 16.
-
-↑ Quantum glorificavit se, et in deliciis fuit, tantum date illi ei tormentum et luctum. *Apoc*. 18.7.
-
-↑ Omnes sitientes venite ad aquas : et qui non habetis argentum, properate, emitte, et comedite : venite, emitte absque argento, et absque ullâ commutatione vinum et lac. Quarè appenditis argentum non in panibus, et laborem vestrum non in saturitate ? Audite audientes me, et comedite bonum, et delectabitur in crassitudine anima vestra. *Isa*. 55. 1. 2.
-
-↑ Venite ad me, omnes qui laboratis et onerati estis, et ego reficiam vos. *Matt*. 11. 28. Quoniam iniquitates meæ supergressæ sunt caput meum ; et sicut onus gravatæ sunt super me. *Psal*. 37. 5.
 
 ## CHAPITRE HUITIÈME.
 
@@ -726,24 +544,6 @@ En effet, qui eût jamais osé dire qu’un homme aussi sage et aussi favorisé 
 
 Que si le désordre des passions a fait de si méchans effets en ce grand monarque, que ne fera-t-il pas en nous, pendant que nous serons immortifiés, lâches à nous vaincre et aveugles en notre conduite ? Quels dommages ne recevrons-nous pas, lorsqu’on pourra dire de nous avec vérité ce que le Seigneur dit des Ninivites à Jonas : *Ils ne connaissent pas la différence qu’il y a entre la droite et la gauche.* N’est-ce pas là l’ignorance avec laquelle nous naissons ? Ne nous trompons-nous pas si grossièrement que nous prenons souvent le mal pour le bien, et le bien pour le mal ? Mais si la passion ajoute l’aveuglement à notre ignorance naturelle, que pouvons-nous espérer de nous-mêmes ? rien, assurément, que ce qu’Isaïe déplore, en faisant parler ceux qui sont tyrannisés par leurs passions : *Nous avons*, disent-ils, *donné dans les murailles comme des aveugles ; nous avons marché à tâtons comme des gens qui sont privés de la vue, et nous avons heurté en plein midi comme au milieu des ténèbres.* Ainsi, celui qui est assiégé des ténèbres de sa passion marche dans les lumières de la vérité, sans connaître ce qui lui est utile ou préjudiciable.
 
-↑ Quoniam circumdederunt me mala quorum non est numerus ; comprehenderunt me iniquitates meæ, et non potui ut viderem. *Psal*. 39. 13.
-
-↑ Et anima mea turbata est valdè. *Psal*. 6. 4.
-
-↑ Cœcus autem si cœco ducatum præstet, ambo in foveam cadunt. *Matt*. 15. 14.
-
-↑ Supercedidit ignis, et non viderunt solem. *Psalm*. 57. 9.
-
-↑ Priusquam intelligerent spinæ vestræ rhamnum : Sicut viventes, sic in irà absorbet eos. *Psal*. 57. 10.
-
-↑ Cùmque jam esset senex, depravatum est cor ejus per mulieres, ut sequeretur deos alienos. iii. *Reg*. 11. 4.
-
-↑ Et omnia quæ desideraverunt oculi mei, non negavi eis ; nec prohibui cor meum, quin omni voluptate frueretur, et oblectaret se in his quæ præparaveram. *Ecclæ*. 2. 10.
-
-↑ Nesciunt quid sit inter dexteram et sinistram suam. *Jonœ*. 4. 11.
-
-↑ Palpavimus sicut cœci parietem, et quasi absque oculis attrectavimus ; impegimus meridiè quasi in tenebris. *Isa*. 59. 10.
-
 ## CHAPITRE NEUVIÈME.
 
 Les taches de l’ame sont le quatrième dommage qui naît des passions déréglées. Car elles font le même effet que fait la poix en ceux qui la touchent, et qui se gâtent les mains, dit l’Écclésiastique. Pour entendre cette comparaison, il faut remarquer que les créatures sont semblables à la poix noire ; que comme un diamant est plus noble et plus brillant que la poix noire, de même l’ame est plus excellente et plus sublime que les créatures ; et que comme ce diamant serait fort sale si on le plongeait dans la poix fondue, de même l’ame est toute remplie d’ordures, lorsqu’en s’abandonnant à ses passions, elle s’attache aux choses créées, ou bien, comme la boue qu’on mêle avec de l’eau claire la trouble, et comme la suie qu’on jette sur un beau visage le défigure, de même le plaisir que l’ame prend dans les créatures, la corrompt et la rend difforme aux yeux de Dieu.
@@ -756,14 +556,6 @@ Les différens animaux qui étaient dépeints sur les murs du temple, signifient
 
 Ce que nous avons dit jusqu’à présent suffit pour déclarer les souillures que l’ame reçoit du déréglement de ses passions. J’ajoute seulement que le désir de commettre la moindre imperfection obscurcit l’ame et l’empêche d’acquérir la parfaite union de Dieu.
 
-↑ Qui tetigerit picem, inquinabitur ab eâ. *Eccl*. 13. 1.
-
-↑ Candidiores Nazaræi ejus nive, nitidiores lacte, rubicondiores ebore antiquo, sapphiro pulchriores. Denigrata est super carbones facies eorum, et non sunt cogniti in plateis. *Thrênoi*. 4. 7. 8.
-
-↑ Et ingressus vidi, et eccè omnis similitudo reptilium et animalium, abominatio et universa idola domus Israel depicta erant in pariete, in circuitu per totum. *Ezech*. 8. 10.
-
-↑ Et dixit ad me adhuc conversus videbis abominationes majores quas isti faciunt. Et introduxit me per ostium portæ domus Domini, quod respiciebat ad Aquilonem, et eccè ibi mulieres sedebant plangentes Adonidem. Et dixit ad me Certè vidisti fili hominis : adhuc conversus videbis abominationes majores his. Et introduxit me in atrium domus Domini interius. Et eccè in ostio Templi Domini inter vestibulum et altare quasi viginti quinque viri, dorsa habentes contrà templum Domini, et facies ad Orientem, et adorabant ad ortum solis. *Ezech*. 8. 13. 14. 15. 16. *Ibid. v*. 14.
-
 ## CHAPITRE DIXIÈME.
 
 En lieu, le désordre des passions débilite tellement l’ame, qu’elle ne peut ni s’adonner à la vertu, ni persévérer dans la pratique du bien. Car lorsque la passion recherche plusieurs objets ensemble, elle est plus faible que si elle n’embrassait qu’une chose ; et plus elle en désire en général, moins elle a de force pour les goûter en particulier, suivant le sentiment des philosophes, qui disent que la vertu est plus forte quand elle est unie, que quand elle est divisée ; ce qui prouve que la volonté perd la force qui lui est nécessaire pour acquérir la vertu, lorsqu’elle veut des choses de différente nature ou contraires à Dieu. De sorte que l’ame qui occupe ainsi sa volonté à de pures bagatelles, au lieu de s’élever à l’amour et à la perfection, elle est semblable à l’eau qui s’écoule par plusieurs fentes et se perd en terre au lieu de monter en haut, et qui devient enfin inutile. C’est dans cette pensée que le patriarche Jacob compara autrefois son fils Ruben *à de l’eau répandue* *sur la terre, lui disant qu’il ne croîtrait point*, parce qu’il avait commis un péché abominable. Comme s’il lui eût déclaré qu’ayant suivi la fureur de sa passion, il s’était répandu comme de l’eau, et ne ferait nul progrès en la vertu.
@@ -775,16 +567,6 @@ De plus, les passions rebelles épuisent les forces de l’ame, parce qu’elles
 Il faut donc suivre le conseil de Jésus-Christ, qui nous avertit *de ceindre nos reins*, c’est-à-dire, nos passions, de peur que, comme des sangsues, elles ne nous sucent tout le sang, je veux dire, toute la force de l’ame, sans pouvoir remplir leur insatiabilité, selon la pensée du Sage. Il paraît par-là que non-seulement les passions ne sont nullement utiles à l’ame, mais qu’elles la privent de beaucoup de biens considérables, et que si on ne les mortifie pas, elles ne cessent de la persécuter jusques à ce qu’elles la fassent mourir, comme quelques-uns disent, quoique faussement, que les petites vipères rongent les entrailles de leur mère et lui causent enfin la mort. Pour cette raison, l’Ecclésiastique prie Dieu de le délivrer de sa concupiscence et de ses passions.
 
 Mais parce que plusieurs n’exercent pas cette mortification, c’est une chose digne de compassion de voir combien les passions qui dominent dans leur ame la rendent misérable, odieuse à elle-même, désagréable au prochain, négligente dans le service de Dieu. Il n’y a point de fluxion, quelque maligne qu’elle soit, qui puisse mettre un homme dans une si grande impuissance de marcher et de manger, que les passions abattent l’ame et la jettent dans l’impuissance de marcher à la vertu et de la goûter. Plusieurs personnes sont exposées à ce malheur, faute de vaincre leurs passions.
-
-↑ Effusus ea sicut aqua, non crescas ; quia ascendisti cubile patris tui, et maculâsti stratum ejus. *Genes*. 49. 4.
-
-↑ Fortitudinem meam ad te custodiam, *Psal*. 58. 10.
-
-↑ Sint lumbi vestri præcincti. *Luc*. 12. 35.
-
-↑ Sanguisugæ duæ sunt filiæ, dicentes : affer, affer. Tria sunt insaturabilia, et quartum, quod numquàm dicit : Sufficit. *Prov*. 30. 15.
-
-↑ Aufer à me ventris concupiscentias. *Eccli*. 23. 6.
 
 ## CHAPITRE ONZIÈME.
 
@@ -814,18 +596,6 @@ Il arrive, par un juste jugement du Ciel, quelque chose de semblable à plusieur
 
 La ruine de Jéricho représente encore cette vérité. Dieu commanda à Josué de ruiner cette ville de telle sorte qu’il n’y restât ni hommes, ni femmes, ni enfans, ni bétail, ni meubles, ni autres biens, de quelque nature qu’ils fussent, et que personne d’entre les Israélites n’en prît aucunes dépouilles, et n’en conçut pas même le désir. Ainsi l’ame qui aspire à l’union de Dieu doit nécessairement faire mourir tout ce qu’elle a de sensuel et étouffer même le désir qu’elle en sent, jusques à ce qu’elle en ait de l’horreur comme d’un ennemi que le Seigneur lui a commandé d’exterminer. L’Apôtre nous apprend aussi à rompre les liens qui nous tiennent attachés aux créatures, quand il écrit aux Corinthiens : *Que le temps est court, et qu’à l’avenir ceux qui sont mariés doivent vivre comme ne l’étant pas ; ceux qui pleurent, comme ne pleurant pas ; ceux qui se réjouissent, comme ne se réjouissant pas ceux qui achètent, comme ne possédant pas ; ceux qui usent de ce monde, comme n’en usant pas ; car la figure de ce monde passe.* Ces paroles marquent distinctement combien nous devons avoir le cœur éloigné des moindres attaches pour les choses créées, afin de jouir d’une étroite union avec Notre-Seigneur.
 
-↑ Septies enim cadet justus et resurget. *Prov*. 24. 16.
-
-↑ Qui non congregat meeum, spargit. *Matt*. 12. 30.
-
-↑ Qui spernit modica, paulatim decidet. *Eccli*. 19. 1. *Ibid*. A scintilla unâ augetur ignis. *Eccli*. 11. 34.
-
-↑ Quam ob rem nolui delere ens à facie vestrá ; ut habeatis hostes, et dii eorum sint vobis in ruinam. *Judic*. 2. 3.
-
-↑ Interfecerunt omnia quæ erant in eâ, à viro usquè ad mulierem, ab infante usquè ad senem, boves quoque et oves et asinos in ore gladii percusserunt. *Josue*. 6. 21.
-
-↑ Hoc itaque dico, fratres : Tempus breve est : Reliquum est ; ut et qui habent uxores ; tanquam non habentes sint ; et qui flent, tanquam non flentes ; et qui gaudent, tanquam non gaudentes ; et qui emunt, tanquam non possidentes ; et qui utuntur hoc mundo, tanquam non utantur ; præterit enim figura hujus mundi. i. *Cor*. 7. 29. 30. 31.
-
 ## CHAPITRE DOUZIÈME.
 
 Quoique je puisse ajouter beaucoup de choses à ce que j’ai dit jusques ici, néanmoins je me contenterai de répondre à la question qu’on peut faire, savoir, si les passions, quelles qu’elles soient, suffisent pour apporter à l’ame les deux sortes de dommages, le positif et le privatif dont j’ai parlé ci-dessus ; et si la plus faible des passions, de quelque nature qu’elle soit, peut être seule la cause des cinq pertes ensemble que l’ame souffre ; ou si une passion est le principe d’un mal, une autre passion d’un autre mal, et ainsi des autres par rapport de chaque effet à chaque passion, comme à sa cause particulière.
@@ -837,8 +607,6 @@ Secondement, je réponds que toute passion volontaire à l’égard du péché m
 Il faut toutefois observer qu’encore que toutes ces passions causent toutes ces pertes positives, il y en a qui en causent quelques-unes directement. Ainsi les souillures du corps et de l’esprit viennent directement de la passion d’impureté ; les peines de l’ame naissent de la passion d’avarice ; son aveuglement, de la passion de vaine gloire ; sa tiédeur, de la passion de gourmandise. Cela n’empêche pas que toutes ces passions ne la jettent en même temps dans tous les autres dommages d’une manière moins directe, et comme causes moins principales de ces effets. La raison est parce que les opérations des passions volontaires sont opposées aux actes des vertus, qui font des effets contraires ; de sorte que comme un acte de vertu produit tout ensemble dans l’ame la pureté, la lumière, la paix, la douceur, la consolation, la force, la ferveur ; de même un acte de l’appétit déréglé fait tout à la fois ses taches, son tourment, ses ténèbres, sa faiblesse et sa froideur. Et comme toutes les vertus croissent, lorsqu’on s’adonne constamment à la pratique d’une vertu particulière, de même les vices s’augmentent, lorsqu’on tombe souvent dans un seul vice dont on multiplie sans cesse les effets ; et quoique le plaisir que goûte la nature corrompue empêche qu’on ne sente tous ces maux, lorsqu’on accorde à l’appétit la satisfaction qu’il demande, néanmoins on s’en aperçoit ensuite par l’amertume et le chagrin que leurs mauvais effets répandent dans l’ame. C’est ce que l’expérience de ceux qui s’abandonnent à la tyrannie de leurs passions leur fait connaître tous les jours. Il est vrai que quelques-uns sont si aveugles et si insensibles en ce temps-là, qu’ils ne voient et ne sentent pas leurs désordres. Mais cela vient de ce que, ne marchant pas dans les voies intérieures, ils ne font point de réflexion sur les choses qui les privent du secours de Dieu, de sa grâce et de son amour.
 
 Je ne parle pas maintenant des passions naturelles involontaires, ni des pensées et des premiers mouvemens, ni des autres tentations auxquelles on ne consent point. Toutes ces choses ne nuisent nullement à l’ame ; et quoique celui qui en est agité s’imagine contracter quelques taches de conscience, néanmoins il n’en reçoit aucun mal ; au contraire, il a l’occasion, s’il résiste, d’acquérir de la force dans l’exercice des vertus, de la pureté d’ame, de la connaissance dans les voies spirituelles, et plusieurs autres biens célestes, comme Notre-Seigneur le dit à saint Paul, quand il l’assure que *la force et la vertu se perfectionnent dans la faiblesse.* Mais les passions volontaires sont des sources fécondes de tous ces maux. De là vient que les directeurs ont un soin particulier de mortifier ceux qui se mettent sous leur conduite, et de les priver de toutes les choses qui peuvent flatter leurs passions, de peur qu’ils ne tombent dans tous ces inconvéniens.
-
-↑ Et dixit mihi : Sufficit tibi gratia mea : Nam virtus in infirmitate perficitur. ii. *Cor*. 12. 9.
 
 ## CHAPITRE TREIZIÈME.
 
@@ -948,16 +716,6 @@ Cependant les exemples que nous avons apportés, ne font pas assez concevoir com
 
 Ainsi la foi est très-bien figurée par la nuée qui couvrait les Israélites en entrant dans la mer rouge, et qui les dérobait à la vue des Égyptiens lorsqu’ils les poursuivaient de sorte néanmoins que la même nuée éclairait ce peuple fidèle, et qu’elle était tout à la fois ténébreuse et éclatante : ce qui est digne d’admiration, et ce qui nous montre que la foi est tout ensemble obscure et claire, et qu’elle obscurcit, comme une nuit, la lumière naturelle de l’entendement ; et éclaire l’ame d’une lumière surnaturelle, afin que le disciple devienne semblable à son maître. Car l’homme vivant comme il vit dans les ténèbres, ne pouvait être illuminé d’une manière convenable, que par les ténèbres, comme le prophète-Roi nous l’apprend par ces belles paroles : *Le jour découvre la parole au jour, et la nuit enseigne la science à la nuit* : c’est-à-dire, le jour qui est Dieu considéré dans sa félicité éternelle où il y a un jour perpétuel, découvre et communique sa divine parole, qui est son fils, aux Anges et aux Bienheureux qui sont appelés des jours, afin qu’ils le connaissent parfaitement et qu’ils en jouissent sans interruption. Et la nuit, qui est la foi que les Chrétiens suivent sur la terre, enseigne la science à l’église militante ; et conséquemment à chacune des ames qui sont aussi appelées des nuits, parce que la lumière de gloire ne les éclaire pas, et que la foi les dépouille de leurs lumières naturelles. Il faut donc conclure que la foi est une nuit très-obscure, et qu’elle éclaire néanmoins l’ame dans ses ténèbres, comme David l’exprime dans un autre psaume, quand il dit : *la nuit l’illumine et fait toutes ses délices*. Comme s’il disait, que la nuit de la foi est sa lumière, et qu’elle le conduit dans les douceurs de ses plus hautes contemplations, et de sa plus étroite union avec Dieu, pour nous faire entendre que l’ame doit être dans les ténèbres afin d’être remplie de lumières divines, et d’aller sûrement à Dieu par le chemin qu’elle a commencé de tenir.
 
-↑ Ergò fides ex auditu, auditus autem per Verbum Christi. *Rom*. 10. 17.
-
-↑ Si non credideritis, non permanebitis. *Isa*. 7.9.
-
-↑ Tollensque se Angelus Dei qui præcedebat castra Israël, abiit post eos : et cum eo pariter columna nubis, priora dimittens post tergum, stetit inter castra Ægyptiorum et castra Israël et erat nubes tenebrosa, et illuminans noctem, ità ut ad se invicem toto noctis tempore accedere non volerent. *Exod*. 14. 19. 20,
-
-↑ Dies diei eructat verbum, et nox nocti indicat scientiam. *Psal*. 18. 5.
-
-↑ Et nox illuminatio mea in deliciis meis. *Psal*. 138. 11.
-
 ## CHAPITRE QUATRIÈME.
 
 Afin que l’ame connaisse comment elle doit se laisser conduire à l’union divine, par la nuit de la foi qu’on vient d’expliquer, il est nécessaire de dire plus en détail ce que c’est que cette obcurité, dont elle doit être pleine, pour entrer dans le profond abîme de la foi. C’est pourquoi j’en parlerai en général dans ce chapitre, et je dirai plus en particulier dans les chapitres suivans, comment elle doit se comporter dans cette obscurité, et de quelle manière il faut qu’elle suive la conduite de la foi, afin que rien n’empêche la foi de produire ses effets dans l’ame.
@@ -971,14 +729,6 @@ Certainement, comme celui qui n’est pas tout-à-fait aveugle, ne se laisse pas
 Pour cette raison Isaïe dit : *que l’œil n’a pas vu les choses que Dieu a disposées pour ceux qui le désirent et l’attendent.* Et Saint-Paul : *l’œil*, dit-il, *n’a point vu, et l’oreille n’a point entendu, et le cœur de l’homme n’a point conçu les choses que Dieu a préparées pour ceux qui l’aiment.* De quelque manière donc que l’ame voudra s’unir par la grâce et par l’amour parfait, à celui à qui elle doit être unie par la gloire, il est constant qu’elle doit faire cette union, en se mettant elle-même dans l’obscurité, c’est-à-dire en se privant de tout ce qu’elle peut connaître par les sens, de tout ce que l’œil peut voir, de tout ce que l’oreille peut entendre, de tout ce que l’imagination peut représenter, et de tout ce que l’esprit peut comprendre : c’est pourquoi l’ame qui va à l’état sublime de l’union, et qui ne sait ou n’emploie pas le moyen de se dépouiller de toutes ces choses, souffre de grands obstacles, pour peu qu’elle adhère à ses connaissances, à ses sentimens, à son imagination, à son jugement, à sa volonté, à quoi que ce soit qui lui soit propre ; parce que le terme où elle tend, surpasse infiniment toutes ses opérations, et toute la connaissance qu’elle peut avoir présentement.
 
 Ainsi dans le chemin qui conduit à l’union, sortir de sa propre voie, c’est entrer dans la véritable voie, et parvenir à son but ; et quitter sa manière de connaître et d’agir, c’est se transformer en Dieu. En effet, l’ame qui est dans cet état, n’a plus ses manières de connaître, de goûter les choses créées, de les sentir, et ne peut plus s’y attacher ; quoiqu’on puisse dire qu’elle les contient toutes, parce qu’elles se trouvent toutes éminemment et par excellence dans les choses surnaturelles dont elle a la jouissance. C’est à ce terme que l’ame doit continuellement aller avec ardeur, en méprisant tout ce qu’elle peut connaître ou par l’esprit ou par les sens, et en estimant uniquement le souverain bien qu’elle désire ; c’est de cette sorte qu’elle s’en approchera davantage, et qu’étant aveugle dans ses propres lumières, elle verra par les lumières de la foi les choses surnaturelles : si bien qu’on lui peut appliquer ces paroles de Jésus-Christ : *Je suis venu en ce monde pour exercer un jugement, afin que ceux qui ne voient point voient, et que ceux qui voient deviennent aveugles.* Ce qui peut s’entendre de ce chemin spirituel, où l’ame est dénuée de ses lumières naturelles et ne voit pas, et où elle est révêtue des lumières surnaturelles et voit les choses divines.
-
-↑ Sine fide autem impossibile est placere Deo. Credere enim oportet accedentem ad Deum quia est. *Hebr*. 11. 6.
-
-↑ Oculus non vidit, Deus absque te, preparasti expectantibus te. *Isa*. 64. 4.
-
-↑ Quod oculus non vidit, nec auris audivit, nec in cor hominis ascendit, quæ præparavit Deus iis qui diligunt illum. i. *Cor*. 2. 9.
-
-↑ Et dixit Jesus : In judicium ego in hunc mundum veni, ut qui non vident, videant, et qui vident, cœei fiant. *Joan*. 9. 39.
 
 ## CHAPITRE CINQUIÈME.
 
@@ -1000,10 +750,6 @@ J’ajoute une seconde comparaison, pour donner plus de jour à cette pensée. I
 
 Je dis de même, que les ames sont unies à Dieu et transformées en lui ou plus ou moins parfaitement, selon les différens degrés de leur capacité ; et qu’ainsi elles sont plus ou moins remplies de la lumière divine, et qu’elles voient Dieu plus clairement ou moins clairement, de la même manière que les bienheureux le voient plus ou moins distinctement dans le ciel ; ce qui ne les empêche pas d’être contens, comme les ames sont aussi très-contentes dans cette diversité d’union et de transformation, et dans l’inégalité de cette faveur surnaturelle. Celles-là seulement ne sont pas satisfaites, qui ne sont point dépouillées de toutes choses, parce qu’elles n’arrivent jamais à la pure et simple union de Dieu, sans laquelle leur contentement ne peut être entier.
 
-↑ Quotquot autem receperunt eum, dedit eis potestatem filios Dei fieri, his qui credunt in nomine ejus ; qui non ex sanguinibus, neque ex voluntate carnis, neque ex voluntate viri, sed ex Deo nati sunt. *Joan*. 1. 12. 13.
-
-↑ Respondit Jesus : Amen, amen dico tibi, nisi quis renatus fuerit ex aquâ et spiritu sancto, non potest introire in regnum Dei. *Joan*. 3. 5.
-
 ## CHAPITRE SIXIÈME.
 
 Puisqueje suis obligé de dire la manière d’introduire dans la nuit spirituelle les trois puissances de l’ame, l’entendement, la mémoire et la volonté, il est nécessaire de montrer comment les trois vertus théologales, par lesquelles l’ame acquiert l’union divine, produisent la nudité et l’obscurité chacune dans chaque puissance ; savoir : la foi dans l’entendement, l’espérance dans la mémoire, et la charité dans la volonté. Nous dirons ensuite comment l’entendement se doit perfectionner dans les ténèbres de la foi, la mémoire dans le vide et le dépouillement de l’espérance, et la volonté dans la nudité de l’amour, afin que l’ame puisse aller à Dieu ; c’est ce qui se fait de la sorte.
@@ -1021,14 +767,6 @@ Nous en avons encore une figure dans le sixième chapitre d’Isaïe. Ce prophè
 Nous devons donc disposer les trois puissances de notre ame à acquérir ces trois vertus, en affermissant notre entendement dans la foi, en éloignant notre mémoire de la jouissance des créatures, et en allumant l’amour de Dieu dans notre volonté. En les séparant ainsi de tout ce qui ne convient pas à chaque vertu, nous les mettrons dans une obscurité parfaite.
 
 Voilà la nuit spirituelle que nous avons appelée active, parce que l’ame fait ce qu’elle peut de sa part pour s’y introduire. Au reste le moyen d’y entrer que nous venons d’expliquer, est très-bon et très-sûr, pour nous garantir des artifices du démon, et pour nous délivrer de l’amour propre et des vices. Cet amour trompe subtilement les personnes spirituelles, et arrête leurs progrès en la vertu, parce qu’elles n’ont pas le secret de s’écarter des choses créées, ni de se gouverner suivant ces trois vertus ; de sorte qu’elles ne goûtent jamais les biens spirituels dans toute leur pureté, et qu’elles ne marchent pas à la perfection, par un chemin aussi court et aussi droit qu’elles pourraient faire. Ce que nous disons ici regarde, non pas les commençans pour qui nous écrirons plus au long, mais ceux qui sont déjà parvenus à l’état de contemplation.
-
-↑ Est autem fides sperandarum substantia rerum, argumentum non apparentium. *Hebr*. 11. 1.
-
-↑ Spes autem quæ videtur, non est spes : nam quod videt quis, quid sperat ? *Rom*. 8. 24.
-
-↑ Sic ergò omnis ex vobis, qui non renuntiat omnibus quæ possidet, non potest meus esse discipulus. *Luc*. 14. 33.
-
-↑ Quis vestrum habebit amicum et ibit ad illum mediá nocte, et dicet illi : Amice, commoda mihi tres panes. *Luc*. 11. 5.
 
 ## CHAPITRE SEPTIÈME.
 
@@ -1062,18 +800,6 @@ En second lieu, il est pareillement mort à sa partie spirituelle et supérieure
 
 Son père, en retirant tout ce qui pouvait le consoler, parut aussi l’anéantir en quelque façon, afin qu’étant délaissé de la sorte, et abaissé jusqu’au néant, il payât à la rigueur les dettes du genre humain. Ce qui découvre aux personnes spirituelles le mystère de la porte et du chemin par où elles doivent passer, pour arriver à l’union divine : tellement que plus elles seront anéanties selon la partie animale et la partie raisonnable, plus elles seront unies étroitement à Dieu, et posséderont enfin le plus sublime état où l’on puisse parvenir en cette vie. On trouve donc cette éminente perfection dans la mort volontaire et spirituelle des sens et de l’esprit, de l’intérieur et de l’extérieur, et non dans les goûts et les douceurs, que la contemplation des choses divines peuvent verser dans l’ame.
 
-↑ Quàm angusta porta, et arcta via est, quæ ducit ad vitam, et pauci sunt qui inveniunt eam ! *Matt*. 7.14.
-
-↑ Si quis vult me sequi, deneget semetipsum, et tollat crucem suam et sequatur me. Qui enim voluerit animam suam salvam facere, perdet eam : qui autem perdiderit animam suam propter me et Evangelium, salvam faciet eam. *Marc*. 8. 34. 35.
-
-↑ Qui enim voluerit animam suam salvam facere, perdet eam. Qui autem perdiderit animam suam propter me, inveniet eam. *Matt*. 16. 26.
-
-↑ Qui amat animam suam, perdet eam ; et qui odit animam suam in hoc mundo, in vitam æternam custodit eam. *Joan*. 12. 25.
-
-↑ Jugum enim meum suave est, et onus meum leve. *Matt*. 11. 30.
-
-↑ Ego sum via, et veritas, et vita. *Joan*. 14. 6. Ego sum ostium : per me si quis iutoreirit, salvabitur. *Joan*. 10. 9.
-
 ## CHAPITRE HUITIÈME.
 
 Avant que je parle de la foi, qui est le moyen le plus propre pour s’unir à Dieu, il est nécessaire de montrer, que ni les créatures ni les connaissances naturelles de l’esprit ne peuvent élever l’homme à l’union divine, et qu’au contraire, s’il voulait s’en servir, ce serait un obstacle qui l’en éloignerait infiniment. C’est ce que nous ferons voir premièrement en général : secondement nous descendrons dans le détail des connaissances que l’entendement peut avoir ; enfin nous apporterons les inconvéniens que l’ame en peut souffrir, et qui l’empêcheront de profiter en cette voie lorsqu’elle s’appuyera sur la foi.
@@ -1096,39 +822,9 @@ Aristote enseigne que comme les yeux la chauve-souris ne sauraient souffrir l’
 
 Je ne finirais jamais, si je voulais apporter toutes les autorités et toutes les raisons, qui prouvent que l’entendement ne peut se servir d’aucunes choses créées, comme d’un moyen prochain pour entrer dans l’union divine ; au contraire, s’il voulait user ou de toutes les créatures ensemble, ou de quelques-unes en particulier non-seulement elles l’empêcheraient d’y parvenir, mais elles le jetteraient en plusieurs erreurs, pendant qu’il prétendrait monter sur cette montagne mystique.
 
-↑ Non est similis tui in diis, Domine ; et non est secundum opera tua. *Psal*. 85. 8.
-
-↑ Deus in sancto via tua ; quis Deus magnus sicut Deus noster ? *Psal*. 76. 14.
-
-↑ Quoniam excelsus Dominus, et humilia respicit ; et alta à longè cognoscit. *Psal*. 137. 6.
-
-↑ Non poteris videre faciem meam. Non enim videbit me homo et vivet. *Exod*. 33. 20.
-
-↑ Deum nemo vidit umquàm. *Joan*. 1. 18.
-
-↑ Oculus non vidit, nec auris audivit, nec in cor hominis ascendit, quæ præparavit Deus iis qui diligunt illum. i. *Cor*. 2. 9.
-
-↑ Oculus non vidit, Deus absque te, quæ præparasti expectantibus te. *Isa*. 64. 4. Tremefactus autem Moyses non audebat considerare. *Act*. 7. 32. Quod cùm audisset Elias, operuit vultum suum pallio. iii. *Reg*. 19. 13.
-
-↑ Cui ’ergo similem fecistis Deum ? Aut quam imaginem poneti ei ? Numquid sculptile conflavit faber ? Aut aurifex auro figuravit illud, et laminis argenteis argentarius ? *Isa*. 40. 18. 19.
-
-↑ Viam autem sapientiæ nescierunt, neque commemorati sunt semitas ejus. *Baruch*. 3. 23.
-
 ## CHAPITRE NEUVIÈME.
 
 On peut recueillir de ce que j’ai dit jusqu’ici, que l’entendement, pour avoir les dispositions propres à l’union divine, doit être épuré et vide non-seulement des objets qui frappent les sens, mais aussi de toutes les choses qu’il peut connaître avec évidence : de telle sorte qu’il soit tranquille en lui-même, et solidement établi en la foi ; car la foi seule est un moyen prochain et proportionné pour unir l’ame à Dieu ; puisqu’il n’y a point d’autre différence, sinon qu’on voit Dieu ou clairement par la vision béatifique, ou obscurément par les lumières de la foi. Car la foi nous le propose tel qu’il est, immense, infini, un en nature, trine en personnes ; et de cette manière la foi est le moyen par lequel Dieu se découvre à l’ame dans sa divine lumière, qui surpasse la portée de tout entendement humain. Ainsi plus la foi est grande, plus l’union de l’ame avec Dieu est étroite. Et c’est ce que Saint Paul a voulu signifier quand il a dit, *que quiconque s’approche de Dieu* *doit croire qu’il y en a un* ; c’est-à-dire qu’il doit aller à Dieu par la foi. Ce qui se fait, lorsque l’entendement étant aveuglé en lui-même, est élevé par la foi seule, et lorsque Dieu s’unit à l’esprit par la foi, et qu’il se tient caché dans ses ténèbres, selon la portée de David : *Il y a un nuage*, dit-il, *sous ses pieds, et il est monté sur les Chérubins, et il a volé sur les ailes des vents, et il s’est caché dans des nuées ténébreuses, qui le couvrent de tous côtés comme un pavillon.* Ces paroles : *Il y a un nuage sous ses pieds, et il s’est caché dans des nuées ténébreuses qui le couvrent de tous côtés comme un pavillon*, représentent l’obscurité de la foi où Dieu se cache. Et celles-ci : *Il est monté sur les Chérubins, et il a volé sur les ailes des vents*, nous apprennent que Dieu vole et s’élève au-dessus des forces de l’entendement. Car les Chérubins signifient des esprits intelligens. Et les ailes des vents ne sont autre chose que les sublimes connaissances de l’entendement ; et comme l’être de Dieu est infiniment au-dessus de toutes ces choses, il n’est point de créature qui le puisse concevoir. Nous en avons une figure dans les saints livres. Lorsque Salomon eut achevé le temple de Jérusalem, Dieu y descendit dans un nuage et remplit tellement le temple, que les Israélites ne purent le voir et Salomon dit alors ces paroles : *Le Seigneur a promis de demeurer dans une nuée*. Lors aussi que Moyse était sur la montagne de Sinaï, Dieu lui apparut environné d’un nuage. Toutes les fois enfin qu’il a eu quelque commerce sensible avec les hommes, il ne s’est montré que sous le voile des ténèbres, comme il est marqué dans le livre de Job. Ce saint homme assure que Dieu lui parla du milieu d’un nuage épais ; ce qui nous montre l’obscurité de la foi, sous laquelle la Divinité, lorsqu’elle se communique à l’ame, se tient cachée. Communication qui sera parfaite, lorsque selon la doctrine de Saint Paul, ce qui est imparfait cessera, c’est-à-dire les ténèbres de la foi, *et lorsque la perfection sera venue*, c’est-à-dire, la clarté de Dieu. La conduite de Gédéon dans la guerre qu’il fit aux Madianites, exprime encore cette vérité.Dedit tubas in manibus eorum, lagenasque vacuas ae lampades in medio lagenarum. *Judic*. 7. 16. Il donna à ses soldats des lampes allumées, et renfermées dans des pots de terre ; de sorte qu’ils ne voyaient pas la lumière ; mais quand ils eurent cassé les pots ils la virent ; de même la foi que ces pots représente, contient cette divine lumière, je veux dire, la vérité essentielle qui est Dieu même ; et lorsque ce sacré vase sera rompu par la mort qui fera la séparation de l’ame d’avec le corps, la lumière et la gloire de Dieu éclateront. Il est donc constant que l’ame qui veut se procurer l’union de Dieu, doit entrer dans les ténèbres de la foi, avant que de participer à la claire vue du Seigneur. Il me reste maintenant à expliquer toutes les connaissances qui peuvent tomber dans l’esprit, et tous les obstacles qui en peuvent naître dans le chemin de la foi. Il faut dire aussi comment l’ame se doit gouverner, pour en tirer du profit au lieu d’en recevoir du dommage.
-
-↑ Credere enim oportet accedentem ad Deum, quia est. *Heb*. 11. 6.
-
-↑ Inclinavit cœlos et descendit, et caligo sub pedibus ejus : et ascendit super Cherubim, et volavit ; volavit super pennas ventorum. Et posuit tenebras latibulum suum ; in circuitu ejus tabernaculum ejus ; tenebrosa aqua in nubibus aeris. *Psal*. 17. 10. 11. 12.
-
-↑ Tunc ait Salomon : Dominus dixit ut habitaret in nebula. iii. *Reg*. 8. 12.
-
-↑ Ait ei Dominus : Jam nunc veniam ad te in caligine nubis. *Exod*. 19. 9.
-
-↑ Respondens autem Dominus Job de turbine, dixit. *Job*. 38. 1. *Ibid*. 40. 1.
-
-↑ Cum autem venerit quod perfectum est, evacuabitur quod ex parte est. i. *Cor*. 13. 10.
 
 ## CHAPITRE DIXIÈME.
 
@@ -1176,18 +872,6 @@ Si bien que c’est une chose affligeante d’en voir plusieurs, qui sont entré
 
 Ce qui prouve que toutes ces visions et tous ces sentimens ne peuvent être un moyen pour acquérir l’union divine, n’ayant nulle proportion avec elle, et donnant lieu au démon de tenter l’ame qui s’y plaît, et de la précipiter en plusieurs, et de la perdre sans ressource. D’où il s’ensuit qu’on doit abhorrer ces visions et ces sentimens, et qu’il ne faut jamais les recevoir, sinon rarement et en de certains cas, selon qu’une personne docte, spirituelle et expérimentée en jugera.
 
-↑ Ipse enim satanas transfigurat se in Angelum lucis. ii. *Cor*. 11. 14.
-
-↑ Euge, serve bone et fidelis ; quia super pauca fuisti fidelis super multa te constituam. *Matt*. 23. 21.
-
-↑ Introduxit me in cellam vinariam, ordinavit in me charitatem. *Cant*. 2. 4.
-
-↑ Et vidi tanquàm mare vitreum mixtum igne, et eos qui vicerunt bestiam et imaginem ejus, et numerum nominis ejus, stantes super mare vitreum. *Apoc*. 15. 2. Et vidi mulierem sedentem super bestiam coccineam, plenam nominibus blasphemiæ, habentem capita septem et cornua decem *Apoc*. 16. 3.
-
-↑ Et est datum illi bellum facere cum Sanctis et vincere eos. *Apoc*. 13. 2.
-
-↑ Tunc vadit, et assumit septem alios spiritus secum, nequiores se, et ingressi habitant ibi. *Luc*. 11. 26.
-
 ## CHAPITRE DOUZIÈME.
 
 Avant que nous parlions des visions qui sont présentées surnaturellement à l’imagination et à la fantaisie, il est nécessaire de traiter des représentations que ces sens intérieurs forment naturellement, afin que nous passions des plus petites choses aux plus grandes, et des plus extérieures aux plus intérieures, jusqu’à ce que nous parvenions aux recueillement intime où l’ame s’unit à son Dieu.
@@ -1213,8 +897,6 @@ Si bien que c’est une chose déplorable, de voir des personnes qui troublent l
 Et voilà la source de leurs aridités et de leurs sécheresses. Ils cherchent avec empressement les goûts et la dévotion sensible, qu’ils ne trouveront plus en cette voie. Et nous pouvons leur appliquer ce proverbe : *Plus il gêle, plus il serre.* Car plus ils s’obstineront à discourir dans l’oraison mentale plus ils s’en trouveront mal, puisqu’ils éloigneront davantage leur ame de son calme spirituel. Se comporter de la sorte, ce n’est autre chose, que laisser le plus pour le moins, faire ce qu’on a déjà fait, et reculer en arrière.
 
 Au reste, il faut recommander à ces personnes-là, de se conserver dans le repos en s’appliquant à Dieu avec attention et avec amour et de négliger les opérations de l’imagination, puisque les puissances n’opèrent pas alors, et qu’elles sont tranquilles dans cette simple, et douce, et amoureuse vue de Dieu. Que si elles font quelque opération, elle ne la font pas avec violence ni avec un discours prémédité, mais avec un amour plein de douceur ; tellement qu’elles agissent plutôt par le mouvement de Dieu, que par la capacité de l’ame. Ce que nous avons dit suffit maintenant pour montrer qu’il est nécessaire que ceux qui veulent profiter, se débarrassent des opérations de l’imagination et de la fantaisie, lorsque leur avancement spirituel le demande en l’état où ils se trouvent. Mais afin qu’on voie clairement quand cela se doit faire, nous en donnerons des marques dans le Chapitre suivant.
-
-↑ Genus ergo cùm simus Dei, non debemus æstimare auro, aut argento, aut lapidi sculpturæ artis et cogitationis hominis, Divinum esae simile. *Act*. 17. 29
 
 ## CHAPITRE TREIZIÈME.
 
@@ -1266,14 +948,6 @@ Il suffit donc pour se retirer de la méditation et du discours, que l’entende
 
 Mais encore que cette matière soit obscure d’elle-même, je n’en dirai rien davantage, et je me contenterai de répondre dans le Chapitre qui suit, à une objection qu’on peut faire.
 
-↑ Aut poterit comedi insulsum, quod non est sale conditum ? *Job*. 6. 6.
-
-↑ Vigilavi, et factus sum sicut passer solitarius in tecto. *Psal*. 101. 8.
-
-↑ Nescivi. *Cant*. 6. 11.
-
-↑ Ego dormio, et cor meum vigilat. *Cant*. 5. 1.
-
 ## CHAPITRE QUINZIÈME.
 
 ON peut maintenant demander, si ceux que Dieu commence à introduire en la contemplation surnaturelle, ne doivent plus reprendre la méditation ordinaire, ni le discours, ni les autres opérations de leurs puissances. On répond que la doctrine que nous avons expliquée jusqu’à présent ne se doit pas entendre de telle sorte que ceux qui commencent à jouir de cette connaissance affectueuse, ne doivent jamais user de la méditation, ni tâcher d’y retourner. Ils n’ont pas dans ces commencemens une si parfaite habitude de cette connaissance amoureuse, qu’ils puissent quand ils voudront en faire les actes, ou s’y établir et y demeurer constamment. Ils ne sont pas aussi tellement éloignés de la méditation, qu’ils n’aient encore la puissance de méditer comme ils méditaient auparavant, et de raisonner quelquefois, pour découvrir de nouvelles vérités. Lors même que suivant les trois marques que nous avons apportées, ils auront reconnu que l’ame n’a pas acquis ce repos et cette connaissance amoureuse, il est nécessaire qu’ils s’appliquent au discours dans l’oraison, jusques à ce que leur habitude soit tout-à-fait formée. Or elle sera tout-à-fait formée, quand ils seront pénétrés de la douceur de cette connaissance, et qu’ils ne pourront incliner leur volonté à faire la méditation ; car ceux qui profitent en cette voie, avant que de parvenir à la parfaite habitude de cette connaissance affectueuse, ils passent tantôt de l’état de la méditation à celui de la contemplation surnaturelle, et tantôt de l’état de la contemplation surnaturelle à celui de la méditation : de sorte qu’ils sont quelquefois plongés dans cette amoureuse attention à Dieu, sans faire agir leurs puissances naturelles sur les objets matériels, et quelquefois ils ont besoin de recourir à la méditation et au discours pour rentrer dans cette connaissance ; et quand ils y sont rentrés, l’ame ne raisonne plus, et n’emploie plus ses puissances au regard des choses corporelles ; mais elle reçoit plutôt cette intelligence et cette douceur que Dieu y produit surnaturellement, qu’elle n’opère elle-même par ses forces naturelles ; et il lui suffit alors de s’attacher à Dieu avec attention et avec amour, ne désirant point de rien voir, et en s’abandonnant à la conduite de Dieu, qui se communique alors à elle, la lumière du soleil se communique à celui qui tient les yeux ouverts, sans faire autre chose que de recevoir cette lumière. Il est seulement nécessaire pour participer avec comme plus de simplicité et d’abondance à cette lumière divine, que l’ame ne s’efforce point d’avoir d’autres connaissances sensibles, comme sont celles qui viennent des sens et du discours, parce qu’elles n’ont aucune proportion avec cette lumière toute pure et toute simple. C’est pourquoi si l’ame voulait considérer dans ces momens-là, et comprendre des choses particulières quoique spirituelles, elle empêcherait par ces objets comme par autant de taches, le cours et l’infusion de cette lumière délicate, et elle souffrirait le même inconvénient que souffrirait celui à qui on mettrait un bandeau sur les yeux, et à qui on déroberait la vue des objets qu’il voyait auparavant.
@@ -1281,8 +955,6 @@ ON peut maintenant demander, si ceux que Dieu commence à introduire en la conte
 Il s’ensuit de là, qu’aussitôt que l’ame s’est dégagée de l’image sensible des choses matérielles, elle demeure en cette lumière pure et simple ; et étant éclairée de la même lumière elle arrive à la perfection. Car cette lumière est toujours prête à se répandre dans l’ame ; mais les images des créatures que l’imagination représente s’oppose à son infusion, laquelle ne manque jamais de se faire lorsque tous ces obstacles sont levés. Et alors l’ame étant dans une pure nudité ou pauvreté d’esprit, et devenant elle-même pure et simple, elle est transformée en la pure et simple sagesse divine, qui est le fils de Dieu ; parce que quand l’amour divin dont elle est blessée, l’a dépouillée de tout le naturel, Dieu la remplit de dons surnaturels.
 
 Que l’homme spirituel apprenne donc quand il ne peut plus méditer, à tenir son esprit en paix, et à jeter des regards amoureux vers le Seigneur, quoiqu’il s’imagine qu’il ne fait rien et qu’il passe inutilement le temps. Il goûtera bientôt les douceurs d’un calme divin, et sera pénétré des connaissances sublimes et de l’amour admirable de son Dieu. Qu’il ne s’embarrasse plus des imaginations, des méditations, ni des raisonnemens ordinaires, de peur de troubler sa paix et son repos, et de retirer son ame de ses délices célestes, et de la rappeler malgré elle aux exercices qui lui donnent du chagrin. Qu’il se souvienne enfin, que c’est beaucoup faire que d’arrêter l’activité, les désirs et les opérations naturelles de son ame pour se dénuer intérieurement de toutes les choses créées, et pour voir avec plaisir qu’il y a un Dieu qui comble son ame de biens spirituels, selon cette parole du Roi-Prophète : *Délivrez votre cœur des créatures, et considérez attentivement qu’il n’y a que moi qui suis Dieu, et que vous devez uniquement chercher.*
-
-↑ Vacate, et videte, quoniam ego sum Deus. *Psal*. 45. 11.
 
 ## CHAPITRE SEIZIÈME.
 
@@ -1310,22 +982,6 @@ Car quelques-uns croient que quand ces visions viennent de Dieu, l’ame doit ad
 
 C’est ce que nous enseigne saint Pierre, quand il dit qu’encore que la vision de la gloire de Jésus-Christ dans sa transfiguration fût certaine, toutefois *nous avons la parole des Prophètes plus établie, et à laquelle vous faites bien de vous attacher, étant comme une lampe qui éclaire dans un lieu obscur.* Cette comparaison explique très-bien notre doctrine. En effet, dire que nous devons nous attacher à la Foi qui éclaire dans un lieu obscur, c’est dire qu’il faut fermer les yeux de l’ame à toutes les autres lumières, et demeurer dans l’obscurité, afin que la Foi qui est elle-même obscure, soit la seule lumière en laquelle nous mettons notre appui. Passons maintenant à la résolution du doute qu’on a formé ci-dessus.
 
-↑ Operuit nubes tabernaculum testimonii, et gloria Domini implevit illud. *Exod*. 40. 32.
-
-↑ Seraphin stabant super illud : sex alæ uni, et sex alæ alteri duabus velabant faciem ejus, et duabus velabant pedes ejus. *Isa*. 6. 2.
-
-↑ Quid tu vides, Jeremia ? Et dixi : Virgam vigilantem ego video. *Jerem*. 1. 11
-
-↑ Fecit quoque sibi Sedecias filius Chanaana, cornua ferrea, et ait Hæc dicit Dominus : His ventilabis Syriam, donec deleas eam. iii. *Reg*. 22. 11.
-
-↑ Vocem verborum ejus audistis, et formam penitus non vidistis. *Deut*. 4. 12.
-
-↑ Erantque in eo tenebræ, et nubes, et caligo. *Deut*. 4. 11.
-
-↑ Si quis fuerit inter vos propheta Domini, in visione apparebo ei, vel per somnium loquar ad illum. At non talis servus meus Moyses, qui in omni domo meà fidelissimus est. Ore enim ad os loquor ei, et palàm, et non per ænigmata et figuras Dominum videt. *Numer*. 12. 6. 7. 8.
-
-↑ Et habemus firmiorem Propheticum sermonem ; cui benefacitis attendentes quasi lucernæ lucenti in caliginoso loco, donec dies elucescat, et lucifer oriatur in cordibus vestris. ii. *Petr*. 1. 19.
-
 ## CHAPITRE DIX-SEPTIÈME.
 
 On demande donc pourquoi Dieu présente ces visions imaginaires à l’ame, puisqu’elles l’empêchent de s’unir à lui, et qu’elles peuvent même la conduire dans l’erreur. Pour répondre à cette question, il faut supposer trois principes. Le premier est de saint Paul, qui dit que Dieu a établi avec ordre tout ce qui est dans le monde. Le second est du Saint-Esprit. Dieu dispose toutes choses avec douceur, c’est-à-dire, quoique la sagesse de Dieu passe d’une extrémité à une autre extrémité, néanmoins elle fait tout ce qu’elle fait, d’une manière douce et sans violence. Le troisième est de plusieurs Théologiens, qui soutiennent que Dieu meut et fait agir les créatures selon leur nature et leurs qualités. Il s’ensuit de ces trois principes, que Dieu doit mouvoir l’ame suivant sa nature et ses qualités, pour l’élever du terme de sa bassesse au terme de la sublimité de l’union divine. Or comme l’ordre de la connaissance de l’ame, et la manière d’acquérir cette connaissance consistent dans la dépendance des sens et dans les figures imaginaires des choses matérielles, il faut nécessairement que Dieu commence à l’éclairer par l’opération des sens qui est l’extrémité la plus basse, et qu’il la conduise à la connaissance purement spirituelle qui est l’extrémité la plus haute, afin qu’il la gouverne avec douceur et avec plaisir. C’est pour cette fin qu’il l’instruit d’abord par des espèces et des visions imaginaires soit naturelles ou surnaturelles, par le raisonnement et par les considérations. Il lui communique ensuite des lumières spirituelles, et dégagées de toutes ces représentations corporelles et sensibles.
@@ -1342,12 +998,6 @@ Ainsi celui qui est parvenu à la perfection, n’use plus du ministère des sen
 
 Il me semble qu’on voit maintenant assez clairement que l’ame doit renoncer aux images des objets que les sens extérieurs et intérieurs lui présentent, quoique ces images soient infuses surnaturellement. L’ame ne doit donc s’arrêter qu’au pur esprit qui la conduit à l’union divine, ayant soin de le conserver en sa pureté, tandis qu’elle s’adonnera aux bonnes œuvres pour la gloire du Seigneur. Il faut examiner après cela, les dommages qu’elle recevrait de la mauvaise conduite qu’on tiendrait sur elle, si on ignorait le secret de ces voies.
 
-↑ Quæ autem sunt, à Deo ordinatæ sunt. *Rom*. 13. 1.
-
-↑ Attingit ergo à fine usquè ad finem fortiter, et disponit omnia suaviter. *Sap*. 8. 2.
-
-↑ Cûm essem parvulus, loquebar ut parvulus, sapiebam ut parvulus, cogitabam ut parvulus. Quando autem factus sum vir, evacuavi quæ erant parvuli. i. Cor 13. 11.
-
 ## CHAPITRE DIX-HUITIÈME.
 
 J’ai remarqué, selon mon sens, assez peu de discernement en quelques-uns de ceux qui font profession d’instruire les ames de la vie spirituelle, pour ne pas distinguer ce qu’ils doivent faire, lorsque Dieu communique des visions imaginaires. Car les regardant comme des effets de l’opération divine, ils croient marcher par des routes sûres ; ils mènent par un même chemin les personnes qui se mettent sous leur direction ; ils les engagent dans les égaremens et dans la confusion ; parce que, comme Jésus-Christ le dit, lorsqu’un aveugle conduit un autre aveugle, ils tombent tous deux dans un précipice.. Il ne dit pas qu’ils tomberont, mais qu’ils tombent. Car il n’est pas nécessaire pour tomber, qu’ils voient leur erreur ; il ne faut que vouloir et qu’oser conduire quelqu’un par le chemin des visions surnaturelles, pour faire cette chute. En effet, il y en a qui s’embarrassent, en permettant aux ames l’usage de ces représentations corporelles, en estimant ces voies extraordinaires, en s’y fiant comme à des moyens que Dieu donne pour profiter dans la perfection : cependant ils n’établissent pas solidement ces ames dans la Foi, et ils les empêchent d’arriver à la pureté de l’esprit et à l’union de Dieu. Car suivant l’exemple de leurs directeurs, elles font état de ces choses ; elles s’y plaisent ; elles les goûtent comme plus commodes aux sens ; elles n’entrent point dans l’obscurité et dans l’abîme de la Foi, qui les conduirait à Dieu d’une manière purement spirituelle.
@@ -1359,8 +1009,6 @@ Mais laissons-là une matière si sublime, et supposons seulement que le Confess
 Toutefois l’affaire n’en demeure pas là. Il y a des Pères spirituels qui obligent les personnes que Dieu favorise de ces dons célestes, à demander à la Majesté divine des révélations touchant plusieurs choses particulières ; et ces gens simples leur obéissent, persuadés qu’il est permis de désirer ces sortes de connaissances extraordinaires ; parce qu’ils croient qu’ils peuvent légitimement faire des prières, pour obtenir ces révélations ; d’autant que Dieu veut quelquefois révéler plusieurs choses, pour des fins qu’il lui plaît d’envisager. Et s’il arrive que la bonté divine leur accorde les révélations qu’ils lui ont demandées, ils s’encouragent à en demander de nouvelles, s’imaginant que cette manière d’agir est agréable à Dieu, quoi qu’en effet elle lui déplaise, et qu’il ne trouve pas bon qu’on en use avec lui de cette sorte. Or comme leur cœur s’attache naturellement et consent à ce commerce avec Dieu, ils en prennent une habitude si forte, qu’ils assurent en plusieurs rencontres avec beaucoup de fermeté, qu’ils ont des révélations de Dieu. Mais ils se trompent souvent, et les effets ne répondent pas à leurs prétendues révélations : ils s’en étonnent, et ils doutent si elles viennent de Dieu ou non ; car ils s’étaient mis d’abord en tête ces deux points : le premier, que Dieu était l’auteur de ces révélations, puisqu’elles étaient si bien gravées en leur esprit ; quoiqu’elles ne fussent que les effets du grand penchant que la nature avait pour les révélations, et que cette vive impression ne fût que naturelle. Le second point est, qu’ils pensaient que ces révélations venant de Dieu, devaient s’accomplir de la manière qu’ils s’étaient représentés.
 
 En quoi il y a sans doute un extrême égarement. Les révélations et les paroles intérieures de Dieu ne réussissent pas toujours comme nous les comprenons, ni selon la force avec laquelle elles sont exprimées. Il ne faut donc pas y ajouter entièrement foi ni s’y fonder avec sûreté, quoiqu’il soit constant qu’elles sont divines. Considérées en elles-mêmes, elles peuvent être véritables et très-certaines ; mais la connaissance que nous en avons n’est pas toujours infaillible, et nous pouvons nous tromper, comme nous verrons incontinent.
-
-↑ Cæcus autem si cæco ducatum præstet, ambo in foveam cadunt. *Matt*. 15. 14.
 
 ## CHAPITRE DIX-NEUVIÈME.
 
@@ -1388,32 +1036,6 @@ Ajoutons un autre exemple. Un saint homme brûle du désir du martyre ; il deman
 
 Il faut donc avouer que plusieurs Saints ont demandé à Dieu des choses particulières, et les ont obtenues, non pas en cette vie comme ils espéraient, mais en l’autre vie ou d’une autre manière ; et qu’ainsi les promesses que Dieu leur avait faites se sont enfin trouvées très-véritables. Nous devons conclure aussi, qu’encore que les paroles et les révélations de Dieu soient certaines, nous pouvons errer en les détournant à un sens différent de la fin que Dieu regarde. Tellement que le conseil le plus sage et le plus sûr que les Maîtres de la vie spirituelle puissent suivre, c’est de détacher les ames de ces visions surnaturelles, et de les confirmer dans une Foi simple et obscure, qui est le véritable moyen d’arriver à l’union divine.
 
-↑ Dixitque ad eum : Ego Dominus qui eduxi te de Ur Chaldæorum, ut darum tibi terram istam, et possideres eam. At ille ait : Domine Deus, unde scire possum, quòd possessurus sim eam ? *Genes*. 15, 7. 8.
-
-↑ Ego descendam tecum illuc, et ego inde adducam te revertentem. *Genes*. 46. 4.
-
-↑ Littera enim occidit, Spiritus autem vivificat. ii. *Cor*. 3. 6.
-
-↑ Quem docebit scientiam ? Et quem iutelligere faciet auditum ? Ablactatos à lacte, avulsos ab uberibus. Quia manda remanda, manda remanda, expecta reexpecta expecta, reexpecta, modicum ibi, modicum ibi. In loquelà enim labii, et lingua altera loquetur ad populum istum. *Isa*. 28. 9. 10. 11.
-
-↑ Et dixi : Heu, heu, heu, Domine Deus, ergòne decepisti populum istum et Jerusalem, dicens ; Pax erit vobis ; et ecce pervenit gladius usquè ad animam. *Jerem*. 4. 10.
-
-↑ Et dominabitur à mari usquè ad mare, et à flumine usquè ad terminos orbis terrarum. *Psal* 71. 8. Quia liberabit pauperem à potente ; et pauperem, cui on erat adjutor. *Ibid. v*. 12.
-
-↑ Qui enim habitabant Jerusalem et principes ejus hunc ignorantes, et voces Prophetarum, quæ per omne sabbatum leguntur, judicantes impleverunt. *Act*. 13. 27.
-
-↑ Nos autem sperabamus, quia ipse esset redempturus Israël. *Luc*. 24. 21.
-
-↑ Igitur qui convenerant, interrogabant eum, dicentes : Domine, si in tempore hoc restitues regnum Israël ? *Act*. 1. 6.
-
-↑ Vos nescitis quidquam, nec cogitatis quia expedit vobis ut unus moriatur homo pro populo, et non tota gens pereat. *Joan*. 11. 49. 50.
-
-↑ Animalis autem homo non percipit ea quæ sunt Spiritus Dei ; stultitia enim est illi, et non potest intelligere ; quia spiritualiter examinatur. Spiritualis autem judicat omnia ; et ipse à nemine judicatur. I. *Cor.* 2. 14
-
-↑ Reges eos in virgà ferreà, et tanquam vas figuli confringes eos. *Psal*. 2. 9.
-
-↑ Desiderium pauperum exaudivit Dominus. *Psal*. 49. *vel*. 10. *secundùm Hebræos v.* 17. Desiderium suum justis dabitur. *Prov*. 10. 24.
-
 ## CHAPITRE VINGTIÈME.
 
 Il est à propos d’expliquer maintenant la seconde raison, pourquoi les visions que Dieu donne ne sont pas toujours certaines en leurs causes à notre égard, quoiqu’en elles-mêmes elles soient conformes à la vérité. Cela vient des motifs sur lesquels elles sont fondées, et de la fin qu’elles regardent. C’est pourquoi nous devons croire que Dieu les mettra en exécution, tandis que les causes qui ont excité Dieu à nous donner ces visions subsisteront, par exemple, si c’est le châtiment d’une nation criminelle, et si les causes de ce châtiment ne changent pas. Supposons donc que Dieu ait révélé à une sainte ame que dans un an il punira un royaume, la cause et le fondement de cette menace seront quelques péchés considérables, qu’on y commettra contre la Majesté divine. Mais si on vient à s’en abstenir, ou à en faire d’autres de différentes espèces la justice de Dieu pourra alors laisser ce châtiment, ou le changer en une autre peine. Cependant la menace de Dieu aurait été véritable, à cause des péchés actuels des sujets de ce royaume, dont le changement a suspendu l’effet de la prédiction comminatoire.
@@ -1423,22 +1045,6 @@ Le Prophète Jonas nous en fournit une preuve sensible. Dieu lui commanda de dé
 Saint Jean parlant aussi de l’entrée de Jésus-Christ à Jérusalem : *Ses disciples*, dit-il, *ne connurent pas ces choses d’abord ; mais lorsque Jésus fut glorifié, ils se souvinrent qu’elles étaient écrites de lui.* Ainsi Dieu peut faire plusieurs choses singulières ou les révéler à une ame, sans que son directeur ou elle-même les comprenne ; c’est ce que nous voyons dans le premier Livre des Rois. Dieu s’étant irrité contre le grand Prêtre Heli, de ce qu’il ne châtiait pas ses enfans de leurs sacriléges, il lui fit dire par Samuel ces paroles après plusieurs menaces : *J’ai déclaré autrefois, que votre famille et celle de votre père feraient éternellement les fonctions du Sacerdoce en ma présence : mais je ne le veux pas maintenant, et je vous assure que je comblerai de gloire tous ceux qui me procureront de l’honneur.* Car puisque l’office du Prêtre consistait surtout à glorifier Dieu, et que Dieu avait promis cette dignité au père d’Heli, pour la rendre perpétuelle en sa famille s’il remplissait son devoir, il ne lui garda pas sa promesse, parce qu’Heli en dissimulant le péché de ses deux fils, avait déshonoré Dieu. De sorte qu’encore que les révélations divines ne soient jamais fausses, nous ne devons pas penser que les événemens en soient infaillibles, selon la signification des paroles qui nous les expliquent ; car ces révélations sont liées avec les causes secondes, qui sont sujettes de leur nature à beaucoup de changemens. Or Dieu seul connaît quand cela se passe de la sorte ; parce qu’il prédit les choses quelquefois absolument, comme il fit au regard des Ninivites, et quelquefois avec condition, comme il le pratiqua envers Roboham : *Si vous marchez*, dit-il, *par les voies que je vous ai marquées, et si vous gardez mes commandemens comme mon serviteur David, je serai avec vous, et je vous établirai une maison fidèle, comme à David.* Mais de quelque manière que Dieu agisse, en cachant ou en découvrant les conditions dont ses révélations dépendent, nous ne saurions en avoir sûrement l’intelligence, ni concevoir le grand nombre des vérités qu’elles contiennent, et des sens qui peuvent leur convenir. Il est dans le Ciel selon l’expression du sage, et nous rampons sur la terre ; il parle dans les voies de l’éternité, et nous sommes aveugles dans les routes de la terre : comment pourrons-nous atteindre à la sublimité de ses secrets ?
 
 Vous me direz : S’il n’est pas en notre pouvoir d’entendre ces choses, pourquoi Dieu nous les communique-t-il ? J’ai déjà répondu que nous les comprendrons en son temps, et selon l’ordre que Dieu voudra que nous les connaissions. Alors nous serons convaincus qu’elles se devaient accomplir de cette sorte et non autrement, et que le Seigneur ne fait rien sans raison et sans vérité. Il faut donc croire que les paroles et les prophéties de Dieu sont si étendues et si profondes, qu’elles surpassent la vivacité de notre esprit et la solidité de notre jugement, et que nous ne pouvons les discerner selon leurs simples apparences, sans nous exposer à l’erreur et à la confusion. Les prophètes en étaient persuadés, puisqu’ils avaient de la peine à annoncer au peuple les prophéties que Dieu leur inspirait, n’en voyant pas les effets, et souffrant ensuite des mépris cruels et des railleries piquantes. *Hélas !* s’écrie Jérémie en se plaignant, *on me tourne en ridicule toute la journée, et tout le monde se moque de moi. Parce que j’ai déclamé contre l’iniquité, et que j’ai publié les calamités qu’elle attire sur le peuple, la parole du Seigneur est cause qu’on me charge d’opprobres* et qu’on se rit de moi sans cesse. J’ai donc * *résolu de ne plus me souvenir de lui, et de ne plus rien dire de sa part.* Ces paroles, que le* saint prophète a prononcées à la vérité avec résignation, mais comme un homme faible et incapable de soutenir la peine que l’ignorance des secrets de Dieu lui faisait ; ces paroles, dis-je, marquent la différence qui se trouve entre l’accomplissement des prédictions divines, et le sens qu’on leur donne selon la force naturelle des mots qui les expriment. Car le peuple prenait les prophètes pour des trompeurs et s’en moquait ; et les prophètes mêmes en étaient si désolé, que Jérémie dit dans un autre endroit, *que ses prophéties n’ont été pour eux qu’une source de crainte, de piéges qu’on leur tendait de tous côtés, et d’afflictions d’esprit.* Jonas ne pouvant dissiper les ténèbres qui couvraient la vérité des oracles divins, prit la fuite lorsque Dieu lui ordonna de menacer Ninive de sa ruine, de peur que si sa prédiction n’était pas suivie des châtimens qu’il prédisait, on ne le jouât comme un fourbe. Il attendit même hors de la ville pendant quanrante jours l’issue de cette affaire, et ne la voyant pas réussir selon ce qu’il avait avancé, il en fut affligé au point de dire à Dieu : *N’est-ce pas là, Seigneur, ce que je vous ai dit étant encore en mon pays ? Et c’est ce qui m’a porté à fuir à Tharse.* Le chagrin du saint prophète fut si grand, qu’il pria la Majesté divine de le retirer de ce monde. Il n’y a donc pas sujet de s’étonner de ce que Dieu dit et révèle quelquefois aux hommes des choses qui n’ont pas le succès que les apparences promettaient de : sorte qu’il est sûr et nécessaire de fonder notre conduite sur les lumières de la foi, et non sur les révélations, dont le véritable sens nous est ordinairement inconnu.
-
-↑ Et cœpit Jonas introire in Civitatem itinere diei unius ; et clamavit, et dixit : Adhuc quadraginta dies, et Ninive subvertetur. *Jonæ*. 3. 4.
-
-↑ Et loqueris ad eum, dicens : Hæc dicit Dominus : Occidisti, insuper et possedisti. Et post hæc addes : Hæc dicit Dominus : In loco hoc, in quo linxerunt canes sanguinem Naboth, lambent quoque sanguinem tuum. III. *Reg*. 21. 19. Nonne vidisti humiliatum Achab coràm me ? Quia igitur humiliatus est mei causà, non inducam malum in diebus ejus, sed in diebus filii sui inferam malum domui ejus. *Ibid. v*. 28. 29.
-
-↑ Hæc non cognoverunt Discipuli ejus primùm : Sed quandò glorificatus est Jesus, tunc recordati sunt quia hæc erant scripta de eo, et hæc fecerunt ei. *Joan*. 12. 16
-
-↑ Proptereà ait Dominus Deus Israël : Loquens locutus sum, ut domus tua, et domus Patris tui, ministraret in conspectu meo, usquè in sempiternum. Nunc autem dicit Dominus : Absit hoc à me ; sed quicumque glorificaverit me, glorificabo eum : qui autem contemnunt me, erunt ignobiles… Et videbis æmulum tuum in templo, in universis prosperis Israël ; et non erit senex in domo tuâ omnibus diebus. i. *Reg*. 2. 30. 32.
-
-↑ Si igitur audieris omnia quæ præcepero tibi, et ambulaveris in viis meis, et feceris quod rectum est coràm me, custodiens mandata mea et præcepta mea, sicut fecit David servus meus : ero tecum, et ædificabo tibi domum fidelem quomodo ædificavi David domum, et tradam tibi Israël. III. *Reg*. 11. 38.
-
-↑ Factus sum in derisum totà die, omnes subsannant me : quia jam olim loquor, vociferans iniquitatem, et vastitatem clamito ; et factus est mihi sermo Domini in opprobrium, et in derisum totà die et dixi : Non recordabor ejus, neque loquar ultrà in nomine illius. *Jerem*. 20. 7. 8. 9.
-
-↑ Formido et laqueus facta est nobis ratiocinatio. *Thrênoi*. 3. 47.
-
-↑ Et vidit Deus opera eorum, quia conversi sunt de vià suà mala ; et misertus est Deus super malitiam, quam locutus fuerat ut faceret eis, et non fecit. *Jonœ*. 3. 10.
 
 ## CHAPITRE VINGT-UNIÈME.
 
@@ -1459,20 +1065,6 @@ L’avertissement que Tobie donna à son fils et aux enfans de son fils confirme
 Voilà ce qui enflamme la colère de Dieu contre ceux qui sont assez téméraires pour courir risque d’être ainsi trompés. Aussi on ne peut disconvenir qu’il n’y ait dans leur attachement à ces sortes de représentations et de prophéties, de la présomption, de la curiosité, de l’orgueil, de la vaine gloire, du mépris des choses divines, et d’autres dérèglemens qui sont cause que Dieu les abandonnant à leur liberté, permet que, suivant le langage d’Isaïe, *l’esprit de vertige se mêle en leur conduite et les égare* ; (*Isa*. 19. 14) c’est-à-dire, qu’ils comprennent les choses d’une manière contraire à la vérité, Dieu les privant de ses lumières, en punition du désir et des soins qu’ils ont de connaître contre sa volonté plusieurs choses par des voies surnaturelles. Ainsi il ne les jette pas positivement dans l’erreur, mais il permet qu’ils y tombent par leur faute, ou il donne permission à l’esprit malin de tromper plusieurs personnes qui ont bonne opinion d’elles-mêmes, qui pensent que c’est un bon esprit qu’il les éclaire, qui ne peuvent s’imaginer qu’il y ait de l’illusion, et qui ne pourraient s’en détacher, quoiqu’elles fussent convaincues de leur égarement. N’est-ce pas ce que les Prophètes, que le Roi Achab consulta autrefois, ont éprouvé ? Et Dieu ne dit-il pas au démon qu’il les séduirait, et qu’il aurait l’avantage sur eux ? (3 *Reg*. 20. 22.) De sorte que ces aveugles ne voulurent point croire le Prophète Michée quand il prédit des choses fort opposées à leurs prophéties. Dieu ne frappe-t-il pas d’aveuglement les ames trop curieuses, à cause de feur attachement à leur propre sens et à ces visions ? (*Ezec. h*. 14. 9.) *Car lorsque quelqu’un viendra*, dit-il par Ezechiel, *pour me consulter par le ministère d’un Prophète, je* lui répondrai par moi-même, je m’opposerai à lui, et le Prophète qui s’égarera, je l’aurai* trompé. C’est-à-dire que Dieu répondra en* colère, qu’il retirera ses grâces, et que le Prophète ainsi privé des lumières divines sera séduit et trompera ceux qui auront recours à lui. Alors le démon fera des réponses à cette homme selon son goût, selon ses inclinations, et selon ses désirs ; et les communications de ce méchant esprit étant conformes à la volonté de cette ame trop crédule, elle s’engagera elle-même dans les filets et dans les tromperies de Satan.
 
 Cette permission de Dieu, prouvée par les exemples que nous avons apportés en ce Chapitre, ne nous laisse pas lieu de douter, que ceux qui tâchent d’obtenir des lumières extraordinaires, par des moyens qui surpassent les forces de la nature, n’excitent son indignation contre eux, et qu’ils ne doivent conséquemment rejeter toutes sortes de visions et d’impressions imaginaires, de quelque principe qu’elles puissentvenir.
-
-↑ Dixit autem Dominus ad Samueëlem : Audi vocem populi in omnibus quæ loquuntur tibi. Non enim te abjecerunt, sed me, ne regnem super eos. i. *Reg*. 8. 7.
-
-↑ Sed cùm ignoremus quid agere debeamus, hoc solum habemus residui, ut oculos nostros dirigamus ad te. II. *Par*. 20. 12.
-
-↑ Dixit autem Samuël ad Saül : Quare inquietasti me ut suscitarer ? i. *Reg*. 28. 15.
-
-↑ Adhuc escæ eorum erant in ore ipsorum : Et ira Dei ascendit super eos. *Ps*. 77. 30.
-
-↑ Cni angelus : Cur, inquit, tertiò verberas asinam tuam ? Ego veni ut adversarer tibi, quia perversa est via tua, mihique contraria. *Numer*. 22. 32.
-
-↑ Ergò quoniam hæc faciunt, certum est quòd in perditionem dabuntur. *Judith*. 12. 22.
-
-↑ Illos antem tanquam durus rex interrogans condemnasti. Absentes enim et præsentes similiter torquebantur. *Sap*. 11. 11. 12. Nune ergò, filii, audite me, et nolite manere hic : Sed quacumque die sepelieritis matrem vestram circà me in uno sepulchro, ex eo dirigite gressus vestros ut exeatis hine. Video enim quia iniquitas ejus finem dabit ei. *Tobia*. 14. 12. 13.
 
 ## CHAPITRE VINGT-DEUXIÈME.
 
@@ -1504,38 +1096,6 @@ La troisième raison est, parce qu’il est à propos, pour entretenir la soumis
 
 Au reste, quoi que nous ayions dit des inconvéniens de ces visions, de la nécessité de les rejeter, et de la réserve avec laquelle les Confesseurs doivent ou les estimer ou en parler avec leurs Pénitens, il faut remarquer qu’ils ne doivent pas néanmoins paraître ennemis de ces révélations, ni se moquer de ceux qui en reçoivent de Dieu, ni leur témoigner du mépris ou de la colère, ou de l’étonnement, ni s’en scandaliser comme de gens faibles et imaginatifs ; tant parce que Dieu se sert de ces représentations au commencement de la vie intérieure, que parce que ces manières dures et humiliantes empêcheraient ces personnes d’ouvrir leur cœur, et de manifester ces opérations ; ce qui les exposerait aux illusions du démon. Il est expédient au contraire, d’user avec elles d’une grande douceur, de les encourager, et de les exhorter à faire le détail de ces choses, et même de le leur commander, s’il est nécessaire. De plus, on doit les conduire par la Foi, en les détournant peu à peu de ces impressions surnaturelles, et en leur apprenant à s’en dénuer, afin qu’elles profitent davantage en la vie spirituelle. On leur persuadera que ce chemin est le meilleur ; qu’une seule action et qu’un seul acte de volonté en la charité, vaut mieux et est plus précieux devant Dieu, que tout le bien qu’on peut espérer de ces révélations ; on ajoutera que plusieurs qui n’ont jamais été enrichis de ces dons, sont devenus plus saints sans comparaison, que ceux qui les ont reçus du Ciel avec profusion.
 
-↑ Qui ambulatis ut descendatis in Ægyptum, et os meum non interrogastis. *Isa*. 30. 2.
-
-↑ Susceperunt igitur de cibariis eorum, et os Domini non interrogaverunt. *Josue*. 9. 14.
-
-↑ Multifariam multisque modis olim Deus loquens patribus in Prophetis, novissimè, diebus istis locutus est nobis in Filio. *Hebr*. 1. 1.
-
-↑ Et eccè vox de nube dicens : Hic est filius meus dilectus, in quo mihi benè complacui ; ipsum audite. *Matt*. 17. 5.
-
-↑ In agnitionem mysterii Dei Patris et Christi Jesu ; in quo sunt omnes thesauri sapientiæ et scientiæ absconditi. *Coloss*. 2. 2. 3.
-
-↑ Non enim judicavi me scire aliquid inter vos, nisi Jesum Christum, et hunc crucifixum. i. *Cor*. 2.
-
-↑ Quia in ipso inhabitat omnis plenitudo divinitatis corporaliter. *Coloss*. 2. 9
-
-↑ Cùm ergo accepisset Jesus acetum, dixit : Consummatum est. *Jos*. 19. 30.
-
-↑ Sed licet nos, aut Angelus de cœlo evangelizet vobis præterquàm quod evangelizavimus vobis anathema sit. *Galat*. 1. 8.
-
-↑ Quod cùm David rescisset, quia præpararet ei Saül clàm malum, dixit ad Abiathar Sacerdotem : Applica Ephod. i. *Reg*. 23. 9.
-
-↑ Eadem nocte dixit Dominus ad eum : Surge, et descende in castra : quia tradidi eos in manu tuà… et cùm audieris quid loquantur, tunc confortabuntur manus tuæ, et securior ad hostium castra descendes. *Judic*. 7. 9. 11.
-
-↑ Iratus Dominus in Moysem, ait : Aaron frater tuus Levites, scio quòd eloquens sit : eccè ipse egreditur in occursum tuum, vidensque te lætabitur corde. Loquere ad eum, et pone verba mea in ore ejus ; et ego ero in ore tuo, et in ore illius, et ostendam vobis quid agere debeatis. *Exod*. 4. 14. 15.
-
-↑ *Ubi enim sunt duo vel tres congregati in nomine meo, ibi sum in medio eorum.* *Matt*. 18. 20.
-
-↑ Væ soli ; quia cùm ceciderit, non habet sublevantem se. Et si dormierint duo, fovebuntur mutuò ; unus quomodò calefiet ? *Ecclœ*. 4. 10. 11.
-
-↑ Ascendi autem secundum revelationem, et contuli cum illis Evangelium, quod prædico Gentibus, seorsum autem iis qui videbantur aliquid esse : ne fortè in vacuum currerem aut cucurissem. *Galat*. 2. 2.
-
-↑ Provide autem de omni plebe viros potentes, et timentes Deum, in quibus sit veritas, et qui oderint avaritiam, et constitue ox eis tribunos, et centuriones et quinquagenarios, et decanos qui judicent populum omni tempore. *Exod*. 18. 21. 22.
-
 ## CHAPITRE VINGT-TROISIÈME.
 
 Si Si on regardait toutes les choses qu’on pourrait dire des connaissances de l’entendement en ce qui touche la voie des sens, il semblerait que j’aurais été trop court dans le discours que j’en ai fait. Mais parce que mon dessein est de dégager l’entendement de ces visions, et de l’introduire dans la nuit de la Foi, j’ai été, selon mon sens, plus long que je ne le devais. Voilà pourquoi je commencerai maintenant à traiter des quatre sortes de connaissances de l’esprit, qui sont les visions, les révélations, les paroles intérieures et les sentimens spirituels, et que j’ai appelées ci-dessus purement spirituelles ; parce qu’elles sont communiquées à l’esprit, non par la voie des sens comme les représentations corporelles et imaginaires, mais par une voie surnaturelle, sans aucune opération des sens extérieurs ou intérieurs ; car l’entendement demeure alors dans un état passif, et l’ame ne fait aucun acte, mais elle reçoit seulement l’impression divine, et y donne son consentement.
@@ -1561,10 +1121,6 @@ Le démon peut aussi faire dans l’ame de semblables visions, par le moyen de q
 Ces visions ont encore un autre défaut ; lorsqu’elles représentent les créatures qui n’ont point de proportion avec Dieu, elles ne peuvent être à l’esprit un moyen prochain pour s’unir à Notre-Seigneur. Tellement qu’il est utile à l’ame de les repousser, afin qu’elle puisse avancer en la perfection par la pratique de la Foi, qui est le moyen plus prochain pour arriver à l’union divine. Ainsi l’ame ne doit ni les conserver ni s’appuyer sur elles. Ce serait s’occuper de ces images et des créatures qu’elles représentent dans l’intérieur ; ce serait aussi ne pas aller à Dieu par l’abnégation de toutes les choses créées. Que si néanmoins ces idées continuent à se présenter à l’ame, elles ne lui nuiront point, pourvu que l’ame les néglige. Il est vrai que la mémoire qu’elle en conserve, peut l’exciter à l’amour de Dieu et à la contemplation des choses divines ; mais la Foi pure et l’entière séparation de ces images la portent davantage à ces exercices, quoiqu’elle ne sache pas comment cela s’accomplit, ni d’où ces opérations procèdent. Le pur amour de Dieu l’embrasera et lui causera des inquiétudes, dont elle ignorera et le fondement et la source. En voici néanmoins la cause : C’est que quand l’ame s’est délivrée de toutes ces choses, quand elle est arrivée au parfait dénuement d’esprit, la Foi jette en elle de plus profondes racines, et s’étant augmentée, l’amour de Dieu devient aussi plus grand et plus ardent. De là vient que plus l’ame se dépouillera des choses extérieures et intérieures, plus elle recevra de foi, d’espérance et de charité. Néanmoins elle ne connaît pas quelquefois cet amour et ne le comprend nullement, parce qu’il réside, non pas dans le sentiment et dans la tendresse, mais dans la partie supérieure de l’ame, dans la force et dans l’efficace ; ce qui paraît par le courage que cet amour lui inspire pour agir. Il arrive cependant quelquefois qu’il se répand dans le sens, et qu’il lui fait goûter de la douceur et de la tendresse.
 
 Voilà pourquoi il est nécessaire que l’ame qui veut jouir de cet amour et du plaisir spirituel de ces visions, soit soutenue d’une grande force, et appliquée à une sévère mortification, pour se priver de toutes choses, et pour mettre son amour et sa joie en Dieu, qu’elle ne voit et ne sent pas, qu’elle ne peut ni voir ni sentir en cette vie, et qui est incompréhensible à l’esprit, et élevé au-dessus des créatures. Si l’ame en use autrement encore qu’elle soit si éclairée, si humble et si forte, que le démon ne puisse la précipiter par ces visions dans l’erreur ni dans la présomption, toute fois elle ne passera pas plus outre dans les voies de la sainteté ; car elle opposera un grand obstacle à l’abnégation d’esprit, qui est requise pour s’unir à Notre-Seigneur.
-
-↑ Et scio hujusmodi hominem, (sive in corpore, sive extrà corpus nescio, Deus scite :) quoniam raptus est in Paradisum, et audivit arcana verba, quæ non licet homini loqui. ii. *Cor*. 12. 3. 4.
-
-↑ Iterum assumpsit eum diabolus in montem excelsum valdé et ostendit ei omnia regna mundi, et gloriam corum. *Matt*. 4. 8.
 
 ## CHAPITRE VINGT-CINQUIÈME.
 
@@ -1616,24 +1172,6 @@ Il y a beaucoup de choses à dire ici des artifices que le malin esprit emploie 
 
 Ces lumières extraordinaires, soit qu’elles viennent de Dieu ou du démon, sont peu avantageuses à l’ame pour s’approcher du Seigneur, principalement lorsqu’elle veut s’en servir et s’y attacher ; au contraire, si elle n’a pas soin de les refuser et de s’en délivrer, elles lui seront un empêchement d’aller à son Créateur, et la jeteront en plusieurs erreurs, puisqu’elle tombera dans tous les inconvéniens dont nous avons parlé jusqu’à présent. C’est pourquoi en ayant traité suffisamment ci-dessus, je n’en dirai rien davantage, mais je me contenterai d’avertir les personnes spirituelles de repousser soigneusement cette sorte de connaissance, de marcher vers Dieu par le chemin de l’ignorance et de la simplicité, de rendre un compte exact à leur Confesseur ou à leur Directeur, de tout ce qui leur arrive en cette matière, et d’exécuter ses ordres avec une fidélité inviolable. Pour ce qui est de celui qui les dirige, il doit les faire passer promptement par ce dangereux chemin, et ne pas souffrir qu’elles s’y arrêtent, puisque tout cela ne contribue rien à les unir à Dieu ; d’autant que, sans ce secours, les effets des connaissances que l’ame reçoit, demeurent dans elle quand Dieu le veut et l’ordonne ; si bien qu’il n’est pas nécessaire de m’étendre plus au long sur ces effets, de peur de fatiguer le lecteur. Il suffit de dire que, comme les bonnes connaissances produisent de bons effets et tendent à de bonnes fins, de même les mauvaises connaissances produisent de mauvais effets, et tendent à de mauvaises fins. Il faut donc y renoncer de la manière que nous l’avons auparavant enseigné.
 
-↑ Multa fecisti, tu Domine Deus meus, mirabilia tua : et cogitationibus tuis non est qui similis sit tibi. *Psal*. 39. 6.
-
-↑ Judicia Domini vera, justificata in semetipsa, desiderabilia super aurum et lapidem pretiosum multùm : et dulciora super mel et favum. *Ps*. 18. 10. 11.
-
-↑ Quo transeunte coràm eo, ait : Dominator Domine Deus, misericors et clemens, patiens et multæ miserationis, ac verax, qui custodis misericordiam in millia ; qui aufers iniquitatem, et scetera, atque peccata, *Exod*. 34. 6. 7.
-
-↑ Qui autem diliget me, diligetur à Patre meo ; et ego diligam eum, et manifestabo ei me ipsum. *Jo*. 14. 21.
-
-↑ Alii quidem per Spiritum datur sermo sapientiæ ; … alii discretio spirituum. i *Cor*. 12. 8. 10.
-
-↑ Quomodò in aquis resplendent vultus prospicientium, ut corda bominum manifesta sunt prudentibus. *Pr*. 27. 19.
-
-↑ Spiritualis autem judicat omnia. i. *Cor*. 2. 15. Nobis autem revelavit Deus per Spiritum suum ; Spiritus enim omnia scrutatur, etiam profunda Dei. i. Cor. 2. 19.
-
-↑ At ille ait : Nonnè cor meum in præsenti erat, quandò reversus est homo de curru suo in occursum tui ? iv. *Reg*. 5. 26.
-
-↑ Dixitque unus servorum ejus : Nequaquam Domine mi Rex, sed Elisæus Propheta, qui est in Israel, indicat regi Israël omnia verba quæcumque locutus fueris in conclavi tuo. iv. *Reg*. 6. 12.
-
 ## CHAPITRE VINGT-SEPTIÈME.
 
 Les secondes révélations contiennent la manifestation des secrets et des mystères cachés, laquelle se peut faire en deux manières. La première regarde Dieu comme il est en lui-même, et comprend la révélation de l’unité de Dieu et de la Trinité des personnes ; la seconde regarde encore Dieu en tant qu’il est dans ses ouvrages, et renferme tous les articles de la foi catholique, et toutes les propositions des vérités qu’on en peut tirer par des conséquences nécessaires et évidentes, telles que sont les Prophéties, les promesses de Dieu, les menaces, et les autres choses qui étaient autrefois futures, ou qui le sont encore présentement. Nous pouvons aussi rapporter à ces révélations plusieurs autres événemens particuliers que Dieu révèle à l’égard tant de tout le monde en général, qu’en particulier des royaumes, des provinces, des états, des familles et des personnes. L’Écriture, et surtout les Prophètes, nous en fournissent plusieurs exemples que je ne veux pas écrire ici, car personne presque ne les ignore. Je dis seulement, que Dieu n’use pas toujours de la seule parole pour exprimer ces révélations ; mais qu’il se sert quelquefois de signes, de figures, d’images, de similitudes ; quelquefois encore de paroles et de signes tout ensemble, comme on voit dans les Prophètes, et en particulier dans l’Apocalypse, où l’on trouve toutes les révélations et toutes les manières de révéler, que nous avons expliquées jusqu’ici.
@@ -1645,14 +1183,6 @@ Or le démon se glisse souvent en ces sortes de révélations ; car, comme elles
 Que si les raisons que je viens d’apporter nous doivent convaincre, qu’il n’est nullement à propos de donner entrée en notre esprit aux révélations nouvelles qui regardent la foi ; combien davantage est-il nécessaire de refuser notre créance à celles qui nous représentent des objets opposés à la foi, et que le démon s’efforce de nous graver dans le cœur ? Ainsi j’estime fort probable que la plupart de ces révélations sont des piéges, où ceux-là donnent, qui ne les repoussent pas avec soin et avec fidélité. En effet, Satan les couvre de si belles apparences, il leur donne un si grand air de vérité, il les imprime si vivement dans l’imagination, que l’ame ne doute presque pas que les choses n’arrivent comme elle les voit en cet état. De sorte que si elle n’est soutenue d’une solide humilité, à peine peut-on la retirer de son opinion, et lui persuader le contraire.
 
 Ainsi l’ame simple, pure, prudente, humble, doit résister à ces révélations, puisqu’il n’y a nulle nécessité d’y faire attention, et qu’au contraire il est besoin de les négliger pour acquérir l’union de l’amour divin. C’est ce que Salomon a voulu signifier quand il a dit : *Qu’est-il nécessaire à l’homme de chercher des choses qui le surpassent ? * comme s’il disait : Il n’est pas nécessaire, pour aller à la perfection, d’opérer des choses surnaturelles par des voies extraordinaires, et de rechercher les choses qui sont au-dessus de notre capacité.
-
-↑ Sed licet nos, aut Angelus de cœlo evangelizet et vobis, præterquam quod evangelizavimus vobis, anathema sit. *Galat*. 1. 8.
-
-↑ Ergò fides ex auditu, auditus autem per verbum Christi. *Rom*. 10. 17.
-
-↑ Et habemus firmiorem propheticum sermonem : cui benefacitis attendentes. ii. *Petr*. 1. 19.
-
-↑ Quid necesse est homini majora se quærere ? *Ecclœ*. 7.1.
 
 ## CHAPITRE VINGT-HUITIÈME.
 
@@ -1682,12 +1212,6 @@ Pour ce qui concerne les connaissances et les paroles intérieures qui procèden
 
 Il reste à nous servir de toute la circonspection nécessaire en ces deux sortes d’opérations, de peur d’être ou trompés, ou retardés en notre course. Cette circonspection consiste à ne faire nul état de ces communications, à conduire efficacement notre volonté à Dieu, à accomplir, avec toute la perfection possible, ses commandemens, ses conseils et ses desseins ; car c’est là toute la sagesse des Saints ; et il nous doit suffire de connaître les mystères divins et les vérités éternelles avec la simplicité et la sincérité avec laquelle l’Église nous les propose : c’est principalement ce qui nous enflamme de l’amour divin. Ne nous occupons donc point à entrer dans les profonds secrets de Dieu et dans les connaissances curieuses où l’on ne peut éviter, sans une espèce de miracle, le danger de se perdre ; et souvenons-nous selon cet avis salutaire de saint Paul, de ne vouloir pas être plus connaissans et plus sages qu’il ne faut. Voilà ce que nous avions à dire des paroles successives.
 
-↑ Vox quidem, vox Jacob est : sed manus, manus sunt Esaü. *Genes*. 27. 22.
-
-↑ Averte oculos tuos à me, quia ipsi me avolare fecerunt. *Cant*. 6. 4.
-
-↑ Dico enim per gratiam quæ data est mihi, omnibus qui sunt inter vos ; non plus sapere quàm oportet sapere,sed sapere ad sobrietatem. *Rom*. 12. 3.
-
 ## CHAPITRE TRENTIÈME.
 
 Les paroles intérieures de la seconde espèce sont celles, que nous appelons formelles. Elles se forment surnaturellement dans l’esprit sans l’opération des sens corporels, soit que l’esprit se recueille, soit qu’il ne se recueille pas. J’ai dit que ces paroles sont formelles, parce que l’esprit s’aperçoit formellement qu’elles sont proférées par un autre, sans qu’il y contribue de sa part ; c’est pour cette raison qu’elles sont différentes de celles dont nous venons de parler. Mais ce n’est pas la seule différence qui s’y trouve, il y en a encore une autre, qui est que l’esprit est frappé de ces paroles lorsqu’il n’a aucune récollection, et même lorsqu’il n’y pense pas ; au lieu que le contraire arrive dans les paroles successives ; car elles ont toujours pour objet les choses que l’on considère dans la méditation.
@@ -1706,21 +1230,9 @@ Que, si on ne trouve point d’homme d’une assez grande expérience en ces mat
 
 L’ame doit aussi se garder de rien entreprendre par les seuls mouvemens de sa volonté et de recevoir sans beaucoup de prudence et de délibération, les choses que ces paroles intérieures expriment. Les tromperies qui s’y glissent sont si subtiles, qu’il est presque impossible de les éviter toutes, à moins qu’on n’ait de l’aversion de ces sortes d’opérations. Comme j’ai parlé de ces surprises dans les Chapitres 17, 18, 19, et 20 de ce Livre, j’ajouterai seulement ici que, pour marcher sûrement par un chemin si difficile, il faut suivre les lumières de la raison et la doctrine de l’Église.
 
-↑ Iratus Dominus in Moysem, ait : Aaron frater tuus Levites ; scio quòd eloquens sit : eccè ipse egreditur in occursum tuum, *Exod*… 14. 15. 16.
-
 ## CHAPITRE TRENTE-UNIÉME.
 
 Le troisième genre est celui des paroles substantielles, qu’on peut aussi appeler formelles, parce qu’elles sont imprimées formellement dans l’ame ; mais elles différent des paroles formelles, en ce qu’elles font dans l’ame un effet vif et réel que les paroles ne peuvent produire. Ainsi quoique toute parole substantielle soit formelle, néanmoins toute parole formelle n’est pas substantielle : celle-là seulement étant substantielle qui imprime véritablement et réellement dans l’âme ce qu’elle signifie : comme il arriverait, par exemple, si Notre-Seigneur disait formellement à l’ame : *Sois bonne* ; et qu’aussitôt l’ame devînt bonne ; comme s’il disait encore : *Aimez-moi* ; et qu’au même moment elle eût en elle-même et sentit la substance de l’amour, c’est-à-dire, le véritable amour de Dieu : ou si, étant consternée de crainte, il lui disait : *Ne craignez point*, elle fût à l’instant remplie de courage, d’assurance et de paix. La raison est parce que, comme dit le Sage, *la parole de Dieu est toute-puissante.* C’est pourquoi elle fait réellement dans l’ame ce qu’elle exprime. Le Roi-Prophète marque le même sentiment, lorsqu’il dit : *Il a donné de la vertu, de la force, de la puissance à sa voix.* En effet, Dieu s’est comporté de cette sorte avec Abraham. Car lorsqu’il lui dit : *Marchez en ma présence et soyez parfait*, ce grand Patriarche fut à l’heure même élevé à la perfection ; et, depuis ce temps-là, il se conserva respectueusement en la présence de son créateur. Ce pouvoir éclate dans les paroles de Jésus-Christ ; puisque, selon le rapport des Évangélistes, il n’avait qu’à dire un mot pour guérir les malades et pour ressusciter les morts. Lorsque Dieu dit ces paroles substantielles à certaines personnes, elles font en leur ame des effets d’une si grande conséquence et d’une si grande valeur, qu’elles font toute la vie, toute la vertu, toute la force, et tout le bien de ces personnes ; car une seule parole de cette nature leur est plus utile que tout ce qu’elles ont fait dans le cours de leur vie naturelle. Pour ce qui regarde ces paroles, l’ame n’a rien à faire d’elle-même, et ne doit nullement s’efforcer d’agir ; mais il faut qu’elle s’humilie et qu’elle s’abandonne à la conduite de Dieu, en lui donnant librement son consentement. Elle ne doit aussi ni refuser les impressions divines, ni les craindre, ni travailler pour accomplir ce qu’on lui présente. Dieu fait lui-même tout cela en elle par ces paroles substantielles, en opérant avec elle. Le contraire se passe dans les paroles formelles et dans les paroles successives. J’ai dit que l’ame ne doit pas refuser ces impressions divines, parce que leur effet, plein de richesses surnaturelles et uni, en quelque façon, substantiellement à l’ame, demeure en elle ; et, parce qu’elle le reçoit passivement, tous ses efforts ne seraient pas assez grands pour y parvenir. Elle ne doit pas aussi craindre d’être trompée, car l’entendement n’y a point de part, et le démon ne saurait en approcher ni produire en l’ame aucun effet substantiel, ni en imprimer l’image ou l’habitude. Il est néanmoins véritable qu’étant le maître des ames qui se sont données à lui par des pactes volontaires, il y demeure, et il les engage, par ses suggestions, à faire des actions d’une extrême malignité. En effet, nous voyons ce qu’une longue expérience nous apprend, que cet esprit de ténèbres fait beaucoup de violence à plusieurs gens de bien par l’efficace de ses tentations, et que, s’ils n’étaient pas aussi solidement établis en la vertu qu’ils le sont, il les attaquerait avec plus de fureur et de rage. Il ne peut néanmoins leur imprimer dans ces communications des effets qui aient de la vraisemblance, n’y ayant point de comparaison entre ses paroles et les paroles de Dieu. Car ses paroles et leurs effets comparés avec les paroles de Dieu et leurs effets, sont comme s’ils n’étaient pas. C’est pourquoi Dieu dit par la bouche de Jérémie : *Quelle proportion y a-t-il entre la paille et le grain ? Mes paroles ne sont-elles pas comme un feu, et comme un marteau qui brise la pierre ?* Ces paroles substantielles avancent beaucoup l’ame, et l’aident à s’unir à Dieu ; et, plus elles sont intérieures, plus elles sont substantielles, et lui apportent d’utilité ! Ô qu’heureuse est l’ame à qui Dieu a parlé de la sorte ! *Parlez donc, Seigneur, car votre serviteur vous écoute.*
-
-↑ Et sermo illius potcstate plenus est. *Ecclœ*. 8. 4.
-
-↑ Eccè dabit voci suæ vocem virtutis. *Psal*. 67. 34.
-
-↑ Ego Deus omnipotens ; ambula coràm me, et esto perfectus. *Genes*. 17. 1.
-
-↑ Quid paleis ad triticum, dicit Dominus ? Numquid non verba mea sunt quasi ignis, dicit Dominus, et quasi malleus conterens petram ? *Jerem*. 23. 28. 29.
-
-↑ Lequere, Domine ; quia audit servus tuus. i.*Reg*. 3. 10.
 
 ## CHAPITRE TRENTE-DEUXIÈME.
 
@@ -1786,14 +1298,6 @@ Il est cependant nécessaire de faire réflexion que, quoiqu’on ne s’aperço
 
 À la vérité on trouve peu d’ames à qui Dieu communique ces sortes de mouvemens en tous temps et en toutes choses, et dont les puissances soient touchées et émues sans cesse d’une manière divine, dans une continuelle union de ces ames avec leur Créateur. On en voit néanmoins quelques-unes, qui reçoivent d’ordinaire ces touches divines en leurs opérations ; et ce n’est pas elles qui se meuvent alors, mais elles éprouvent ce que dit saint Paul, quand il assure que les enfans de Dieu, c’est-à-dire, ceux qui sont unis à Dieu et transformés en lui, *sont* poussés par son esprit*, c’est-à-dire sont excités en leurs puissances à faire des actions* toutes divines. Ce qui ne doit pas nous étonner, puisque l’union dans laquelle l’ame se trouve est aussi toute divine.
 
-↑ Nemo potest duobus Dominis servire. *Matt*. 6. 24.
-
-↑ Qui autem adhæret Domino, unus spiritus est. I. *Cor*. 6. 17.
-
-↑ Omnium enim artifex docuit me sapientia. *Sap*. 7. 21.
-
-↑ Quicumque enim Spiritu Dei aguntur, ii sunt filii Dei. *Rom*. 8. 14.
-
 ## CHAPITRE DEUXIÈME.
 
 Tandis que l’homme spirituel se servira des espèces naturelles de la mémoire pour aller à Dieu, il sera nécessairement exposé à trois sortes d’inconvéniens, deux desquels sont positifs, et le troisième est privatif. Le premier naît des choses de ce monde. Le second vient du démon. Le dernier est l’empêchement que ces connaissances apportent à ceux qui aspirent à l’union divine.
@@ -1813,14 +1317,6 @@ Vous me direz encore que, quoique ces choses soient véritables, l’ame est né
 Or la pureté est surtout nécessaire à l’ame pour recevoir les dons de Dieu, et elle consiste à n’aimer rien de créé et de passager, et même à n’y faire aucune attention. Mais je crois que l’imperfection des puissances de l’ame la fait tomber souvent dans ces attaches et dans ces réflexions sur les créatures. C’est pourquoi il sera plus utile et plus prudent d’apprendre le moyen de retenir les facultés de l’ame dans le silence et dans le repos, afin que Dieu lui parle et qu’elle l’écoute, puisque les opérations naturelles de ses puissances doivent cesser pour acquérir cet état : ce qui arrive lorsque Dieu conduit l’ame et ses puissances dans la solitude, et que, selon l’expression d’un Prophète, il lui parle : *Je la menerai*, dit-il, *dans la solitude, et je lui parlerai au cœur.*
 
 Si vous ajoutez néanmoins, que si la mémoire ne contribue point à contempler les choses divines et à réfléchir sur Dieu même, l’ame ne pourra ni faire ni recevoir aucun bien, et qu’au contraire, elle tombera dans les distractions, dans la dissipation et dans la tiédeur. Je vous dirai que la mémoire, se séparant de l’idée des choses présentes et des futures, et se tenant recueillie en elle-même, ne donnera nulle entrée aux égaremens, au relâchement ni aux autres imperfections humaines, lesquelles n’entrent jamais dans l’ame, que quand elle se répand parmi les créatures. Ainsi la porte étant fermée à tous ces empêchemens, l’esprit seul demeurera en silence, prêt à entendre la parole intérieure de Dieu à qui il dira avec le Prophète : *Parlez, Seigneur, car votre serviteur écoute.* L’époux sacré souhaite, comme il est écrit dans les Cantiques, que sa sainte épouse soit ornée des mêmes dons, lorsqu’il dit que *sa sœur, son épouse, est un jardin fermé et une fontaine scellée ; * c’est un jardin fermé à toutes les choses extérieures qui peuvent y entrer, afin que l’ame soit délivrée de tout soin et de toute peine, et que celui qui entra autrefois corporellement chez ses disciples, les portes étant fermées, et qui leur donna sa paix lorsqu’ils ne savaient et ne pensaient pas même que cela pût se faire ; afin, dis-je, qu’il entre dans l’ame, sans qu’elle connaisse de quelle manière il entre, et sans qu’elle y coopère de sa part ; pourvu néanmoins qu’elle tienne fermées aux images des créatures, les portes de la mémoire, de l’entendement et de la volonté : alors il la remplira d’une douce consolation, *en* *faisant couler dans elle*, comme parle Isaïe, *un fleuve de paix.* De sorte qu’il la garantira des soupçons, des défiances, des troubles, des obscurités et des autres peines qui lui donnaient sujet de craindre qu’elle ne s’écartât du droit chemin, et qu’elle ne courût à sa perte. Elle doit cependant s’appliquer avec soin à l’oraison, et attendre avec patience dans la nudité et le vide de toutes choses ; car Dieu ne tardera pas à la combler des biens spirituels.
-
-↑ Propter hoc eccè ego lactabo eam et ducam eam in solitudinem, loquar ad cor ejus. *Osée*. 2. 14.
-
-↑ Loquere, Domine, quia audit servus tuus. i. *Reg*. 3. 10.
-
-↑ Hortus conclusus soror mea sponsa, hortus conclusus, fons signatus. *Cant*. 4. 12.
-
-↑ Ecce ego declinabo super eam quasi fluvium pacis. *Isa*. 66. 12.
 
 ## CHAPITRE TROISIÈME.
 
@@ -1847,16 +1343,6 @@ Troisièmement, cet oubli prépare l’ame à recevoir les opérations et les lu
 Mais quand l’homme spirituel ne recueillerait point d’autre fruit d’avoir purgé sa mémoire de ses espèces, que de se délivrer de ses peines et de ses passions, il serait assurément bien récompensé ; puisque d’ailleurs ces mouvemens et ce trouble ne servent de rien à l’ame pour détourner les accidens qui lui arrivent, ni pour appaiser la douleur qu’elle en conçoit. C’est dans ce sens que David dit, *que l’homme passe comme une vaine image, et qu’il se trouble inutilement,* parce que le trouble ne lui peut être d’aucune utilité. De sorte que si tout le monde se renversait, se serait en vain qu’on s’en troublerait, et l’ame en recevrait plutôt du mal que du bien ; au lieu que si elle supportait paisiblement tout ce désordre, non-seulement elle en profiterait davantage, mais elle jugerait encore plus sainement des adversités, et y apporterait le remède convenable avec plus de facilité et d’efficacité.
 
 Salomon était sans doute bien informé de la perte que ce trouble cause, et du fruit que cette paix produit, lorsqu’il disait : *J’ai reconnu qu’il n’est rien de meilleur que de conserver la joie de son cœur, et de faire* *tout le bien qu’on peut en sa vie.* Pour nous apprendre qu’en tous les événemens les plus contraires, il vaut mieux nous réjouir que nous affliger, de peur de perdre le calme de l’esprit et la douceur intérieure qui nous aident à porter patiemment la bonne et la mauvaise fortune. Or il est constant que personne n’entrera dans cette agréable tranquillité sans sortir des idées et des opérations de sa mémoire, et sans se soustraire aux occasions de voir, d’entendre ce qui se passe, et de converser avec le monde. Nous sommes naturellement si fragiles et si enclins aux choses extérieures, qu’encore que nous nous soyons accoutumés et exercés à nous en priver, néanmoins si nous envisageons ce que la mémoire nous présente, à peine pourrons-nous éviter la rencontre de quelque objet qui aura la force d’interrompre la paix de notre cœur, de nous jeter dans quelque fàcheuse altération, comme le Prophète Jérémie craignait de l’éprouver. *Je me souviendrai des créatures, dit-il, et mon ame sèchera en moi-même.*
-
-↑ Cogitaverunt et locuti sunt nequitiam : iniquitatem in excelso locuti sunt. *Psal*. 72. 8.
-
-↑ Spiritus enim sanctus disciplinæ effugiet fictum, et auferet se à cogitationibus, quæ sunt sine intellectu. *Sap*. 1. 5.
-
-↑ Verumtamen in imagine pertransit homo ; sed et frustrà conturbatur. *Psal*. 38. 7.
-
-↑ Et cognovi quòd non esset melius nisi lætari, et facere benè in vità sua. *Ecclœ*. 3. 12.
-
-↑ Memorià memor ero, et tabescet in me anima mea. *Thrênoi*. 3. 20.
 
 ## CHAPITRE SIXIÈME.
 
@@ -1886,8 +1372,6 @@ Mais au cas qu’il ne s’égare pas quant à la vérité de ces choses, il pou
 
 Si l’homme spirituel veut donc prévenir toutes sortes de tromperies, il ne doit point examiner ce qu’il a dans l’esprit ni ce qu’il sent, ni quelle est cette vision, cette connaissance, ou ce sentiment ; il ne doit non plus ou les désirer, ou en faire état, ou s’en rafraîchir la mémoire, sinon pour les dire à son directeur, afin qu’il apprenne de lui comment il les faut anéantir dans sa mémoire, et de quelle façon il se doit comporter en tel cas et en telle occurrence : puisque toutes ses idées, quelles qu’elles puissent être, ne sauraient l’exciter à un si grand amour de Dieu que le moindre acte d’une foi vive et d’une ferme espérance qu’il produira lorsqu’il aura effacé tout cela de sa mémoire.
 
-↑ Væ qui dicitis malum bonum, et bonum malum ; ponentes tenebras lucem et lucem tenebras ; ponentes amarum in dulce, et dulce in amarum. *Isa*. 5. 20.
-
 ## CHAPITRE HUITIÈME.
 
 Les connaissances surnaturelles qui se conservent dans la mémoire donnent occasion aux personnes spirituelles qui les estiment de se laisser emporter à la présomption et à la vanité. Car comme celui qui n’a nulle part à ces dons célestes est éloigné de ce vice, ne remarquant rien en lui qui soit un sujet d’y penser ; de même celui qui en est participant s’imagine aussitôt qu’elles l’élèvent à un degré d’excellence qui le distingue du commun. À la vérité il peut bien les rapporter à Dieu comme à l’auteur, lui en rendre ses actions de grâces, et croire qu’il en est indigne ; mais après tout, il se glisse en son cœur je ne sais quelle satisfaction secrète, je ne sais quelle estime de ces grâces, qui ont accoutumé d’enfler d’orgueil les hommes spirituels. C’est de quoi ils pourront se convaincre, lorsqu’ils feront attention sur le chagrin qui les anime contre ceux, lesquels n’approuvent pas leur attrait ni leur esprit et leur conduite, ni ces impressions surnaturelles ; et lorsqu’ils réfléchiront sur la douleur qui les pénètre, quand ils apprennent ou quand ils pensent que d’autres qu’eux jouissent des bienfaits de Dieu peut-être plus éminens et plus précieux. Tous ces sentimens sont sans doute les effets d’un orgueil occulte, dont ces gens-là toutefois ne croient pas être enflés, se persuadant qu’il leur suffit, pour en être exempts, de reconnaître devant Dieu leur misère quoiqu’ils soient effectivement pleins de l’estime d’eux-mêmes, et de la complaisance qu’ils sentent plus pour leurs biens spirituels que pour les dons surnaturels des autres ; tellement qu’ils ressemblent au Pharisien qui remerciait Dieu avec beaucoup de présomption et de plaisir, pour les vertus particulières dont il se flattait. *Je vous rends grâces, mon Dieu,* disait-il, *de ce que je ne suis pas comme le reste des hommes qui sont voleurs, injustes, adultères, et tel aussi que ce Publicain. Je jeûne deux fois la semaine, et je paye la dîme de tout ce que je possède.* J’avoue bien qu’ils ne prononcent pas ces paroles comme le Pharisien, mais ils en ont la pensée ; et quelques-uns d’entre eux s’abandonnent quelquefois à un orgueil caché de telle sorte qu’ils sont plus méchans en ce point que le démon même. Lorsqu’ils goûtent ces douceurs intérieures comme des écoulemens de Dieu, selon leur sens, ils en conçoivent une très-grande complaisance, et ils ne doutent pas qu’ils ne soient proches de Dieu, et que ceux qui ne sont pas favorisés de ces consolations spirituelles n’en soient éloignés ; et ainsi, à l’exemple du Pharisien, ils en font un grand mépris.
@@ -1896,15 +1380,11 @@ Mais, pour guérir ce mal contagieux et désagréable aux yeux de Dieu, ils doiv
 
 Le second est de graver en leur cœur cette vérité, savoir : que toutes les visions, toutes les révélations, et tout ce qu’ils peuvent se représenter de plus grand en cette matière, n’est pas d’un si grand prix que le moindre acte d’humilité qui procède de la charité, laquelle porte un homme à n’estimer jamais ses avantages, à ne point chercher ses intérêts, à ne point penser mal de personne sinon de soi-même, à ne s’attribuer aucun bien, et à croire que tous les autres sont bons. Il est donc expédient qu’ils ne s’élèvent pas au-dessus des autres à cause de ces grâces surnaturelles, qu’ils ne s’en laissent pas éblouir, et qu’ils s’étudient plûtôt à les mettre en oubli, et à s’en retirer le plus promptement qu’il sera possible.
 
-↑ Pharisæus stans, hæc apud se orabat : Deus gratias ago tibi, quia non sum sicut cæteri hominum : raptores, injusti, adulteri : velut etiam hic publicauus. Jejuno bis in sabato : decimas do omnium, quæ possideo. *Luc*. 18. 11. 12.
-
 ## CHAPITRE NEUVIÈME.
 
 On peut recueillir de ce que nous avons dit, et on peut comprendre, en combien de pertes le démon engage l’ame par le moyen de ces représentations surnaturelles. En effet, il lui montre plusieurs images trompeuses, qui ont de si belles apparences, que l’ame les croit véritables, et qu’elle ne peut en douter ; parce que cet esprit de ténèbres se transforme en Ange de lumière, et l’ame le regarde alors comme une lumière sûre et certaine. Il peut aussi la tenter en diverses manières, lorsque Dieu révèle lui-même à l’ame quelques vérités. Car il est facile alors au démon d’émouvoir les passions et les appétits ou spirituels ou sensitifs ; parce que ces idées imaginaires donnent du goût et du plaisir à l’ame, et le démon lui peut augmenter le désir d’en jouir, et la jeter dans la gourmandise spirituelle et dans d’autres imperfections. Pour exécuter son dessein, il a coutume de faire couler dans les sens des douceurs extraordinaires qui naissent des choses divines, afin que l’ame étant rassasiée de leur abondance et aveuglée de leur éclat, se tourne plutôt du côté de la volupté spirituelle que de l’amour divin, ou du moins afin qu’elle aime moins Dieu qu’elle ne ferait, et qu’elle estime davantage ces fantômes que la privation de ces choses et que la nudité et la pauvreté d’esprit qu’on acquiert dans la pratique d’une foi simple, d’une espérance ferme, et d’un amour pur et parfait. Car lorsque l’ame est frappée de cet aveuglement, la fausseté et le mal ne lui paraissent pas mal et fausseté ; les ténèbres ont l’air de lumière, et la lumière a la couleur des ténèbres : elle s’engage en mille folies, et, au lieu de la douceur, de la fermeté et de la constance qu’elle avait dans les choses naturelles, et morales et spirituelles, elle n’y trouve que de l’amertume, de la légèreté et de l’inconstance. La cause de ce désordre est la négligence de l’ame à repousser au commencement la délectation de ces impressions surnaturelles, de laquelle elle ne s’est pas gardée, parce que cette délectation était d’abord petite et innocente, et qu’elle s’est augmentée peu à peu pendant que l’ame s’y attachait avec déréglement.
 
 Il est donc du bien de l’ame qui veut prévenir ce mal de ne se point plaire en ces choses, parce que ce plaisir l’aveuglera, et la rendra toute languissante en son devoir, comme le Prophète-Roi semble le signifier. *Les ténèbres*, dit-il, *m’environneront, et la nuit sera ma lumière dans mes délices ;* ou, pour parler plus clairement, les ténèbres m’aveugleront peut-être en mes plaisirs, et je prendrai la nuit pour le jour.
-
-↑ Et dixi : Forsitan tenebræ conculcabunt me ; et nox illuminatio mea in deliciiis meis. *Psal*. 138. 11.
 
 ## CHAPITRE DIXIÉME.
 
@@ -1915,8 +1395,6 @@ J’ai peu de choses à dire de ce quatrième dommage, en ayant beaucoup parlé 
 Ce n’est pas un inconvénient moins pernicieux à l’ame que les autres d’entretenir dans la mémoire la peinture imaginaire de ces connaissances surnaturelles, principalement lorsqu’elle veut les employer comme un moyen pour entrer dans l’union de Dieu. Il lui sera facile alors de se former des idées de l’essence de Dieu moins élevées que son incompréhensibilité ne l’exige. Car, quoique la raison et le bon sens l’empêchent de croire qu’il a de la ressemblance avec ces choses, néanmoins l’estime qu’elle fait de ces représentations surnaturelles sera cause que les pensées qu’elle aura de Dieu ne seront pas si sublimes que la foi demande, puisqu’elle nous propose un Dieu infini, incomparable et incompréhensible, En effet, jugeant de Dieu selon le tableau qu’elle se fait des créatures, elle l’abaisse en les relevant ; elle lui ôte quelque chose de son excellence en les estimant propres pour représenter ; elle les compare avec lui ; et, de cette sorte elle diminue la grandeur des connaissances et des sentimens qu’elle devrait en avoir ; parce que rien de créé, rien de naturel ni de surnaturel qui peut être l’objet des sens, quelque éminent qu’il soit, n’a de la proportion avec Dieu et ne lui peut être comparé. Il n’est renfermé dans aucun genre ni dans aucune espèce, et l’ame n’est pas capable en cette vie de connaître que les choses qui sont contenues en quelque espèce ou en quelque genre. *C’est pourquoi personne*, dit saint Jean, *n’a jamais vu Dieu*. Personne n’a jamais compris ce que c’est que Dieu. *Car l’œil n’a point vu sans vous, ô mon Dieu !* ajoute Isaïe, *ce que vous avez préparé pour ceux qui vous attendent.*Celui-là ne peut donc ni concevoir Dieu ni l’estimer comme il est convenable, qui remplit sa mémoire et ses puissances de toutes ces choses.
 
 Expliquons ceci par cette comparaison, quoique basse et indigne de Dieu. Il est hors de doute que, plus un homme estimera les serviteurs du Roi, plus il s’occupera de la considération qu’il a pour eux ; moins il aura dans ce moment et d’estime et d’égard pour sa Majesté. Quoique son entendement ne forme pas distinctement cette pensée, l’action de cet homme montre la préférence qu’il donne aux serviteurs et la prééminence qu’il ôte à leur Seigneur et conséquemment, tandis qu’il fera quelque état des domestiques, il ne prendra pas des idées assez hautes de son souverain. De même lorsque l’ame estime les créatures, et les regarde comme des portraits propres pour lui représenter Dieu, elle a dans ces momens moins d’estime pour lui qu’il ne faut ; et si elle n’a pas dans l’esprit cette pensée, elle donne néanmoins par son action l’avantage aux créatures, dépouillant, quelque façon, le Créateur de son excellence infinie. Il est donc nécessaire qu’elle retire les yeux de dessus les créatures pour les élever à Dieu seul, et pour les fixer en lui par la foi et par l’espérance. Ainsi tous ceux-là sont dans l’erreur qui aspirent à l’union divine par ces moyens ; leur entendement est moins éclairé de la foi, laquelle doit néanmoins l’unir à Dieu ; leur mémoire est aussi moins soutenue de l’espérance, laquelle doit toutefois la conduire à cette union.
-
-↑ Deum nemo vidit unquàm. *Joan*. 1. 18. Oculus non vidit, Deus absque te, quæ præparasti expectantibus te. *Isa*. 64. 4.
 
 ## CHAPITRE DOUZIÈME.
 
@@ -1937,12 +1415,6 @@ Ces espèces restent dans l’ame d’une manière vive et non pas morte, parce 
 Il est difficile de distinguer quand ces idées passent jusques aux choses purement spirituelles, quand elles atteignent et touchent directement ces choses comme leur terme ; ou si ces espèces sont tellement resserrées dans la fantaisie, qu’elles ne sortent point de ses bornes. Car cette faculté du corps en forme si souvent, que plusieurs personnes ont des visions qui ne sont que l’ouvrage de l’imagination, et qui sont représentées de même manière, soit que cela vienne de la vivacité de leur fantaisie, qui fait incontinent le portrait des choses qui leur tombent dans la pensée, soit que ce soit une opération du démon qui en imprime aussitôt l’image ; soit enfin que Dieu mette lui-même cette espèce dans cette puissance, sans la graver formellement dans l’ame. On peut néanmoins faire ce discernement par les effets. Car les images naturelles dont le malin esprit est l’auteur ne sont d’aucune utilité, et ne renouvellent point l’amour ni l’état spirituel de l’ame ; mais elles lui sont infructueuses, quoique l’ame en ait la mémoire présente. Au contraire les espèces qui sont bonnes, et qui viennent de Dieu, produisent à la vérité de bons effets dans l’ame quand elle s’en souvient, comme elles en ont produit la première fois qu’elle y a pensé : mais les images formelles, c’est-à-dire celles qui sont imprimées dans l’ame, font en elle des effets plus considérables lorsque l’ame fait un retour sur ces images, et qu’elle les regarde avec quelque attention. Celui qui aura quelque expérience de ces dernières espèces, découvrira facilement la différence qu’il y a entre elles et les premières images. Pour en marquer ici quelque chose, je dis seulement que celles qui sont imprimées formellement dans l’ame, et qui y persévèrent, sont très-rares. J’ajoute qu’il est du bien de l’ame, de quelque nature que soient ces images, de ne vouloir connaître et comprendre que Dieu par la foi, dans l’espérance de le posséder.
 
 Je réponds enfin à ce qu’on dit, qu’il y aurait de l’orgueil à rejeter les bonnes choses qui se présentent à l’esprit ; je réponds, dis-je, que c’est au contraire l’effet d’une insigne humilité de se servir de ces choses avec prudence et avec utilité, et de prendre le chemin le plus sûr et le plus droit pour aller à son terme, qui est Dieu.
-
-↑ Spiritum nolite extinguere. i. *Thessal*. 5. 18.
-
-↑ Pone me ut signaculum super brachium tuum. *Cant*. 8. 6.
-
-↑ Super custodiam meam stabo, et figam gradum super munitionem et contemplabor, ut videam quid dicatur mihi. *Habacuc*. 2. 1.
 
 ## CHAPITRE TREIZIÈME.
 
@@ -1972,14 +1444,6 @@ Les mêmes passions, quand elles sont déréglées, produisent tous les vices da
 
 Ce qui vous apprend, ô homme spirituel ! que, quelque parti qu’une de ces passions prenne, l’ame, sa volonté, et ses autres puissances, l’embrasseront, et seront les esclaves de cette passion. De plus il s’ensuit que les trois autres passions vivront en l’ame et par l’ame, pour la tourmenter et pour l’empêcher de jouir de sa liberté, et de la douceur de la contemplation et de l’union divine. C’est pourquoi, si vous désirez, dit Boëce, de connaître clairement la vérité, chassez loin de vous la joie, l’espérance, la crainte, la douleur. Pendant que ces passions dominent, elles privent l’ame de la tranquillité qui est nécessaire pour arriver à la sagesse, qu’on peut naturellement et surnaturellement acquérir.
 
-↑ Vis autem scire, à homo inanis, quoniam fides sine operibus mortua est. *Jacob*. 2. 20.
-
-↑ Diliges Dominum Deum tuum ex toto corde tuo, et ex totà anima tuâà, et ex totà fortitudine tuà. *Deut*. 6. 5.
-
-↑ Fortitudinem meam ad te custodiam, quia Deus susceptor meus es, *Psal*. 56. 10.
-
-↑ Poet. de Cousol. Philosoph.
-
 ## CHAPITRE SEIZIÈME.
 
 La joie, qui est la première des passions de l’ame et des affections de la volonté, n’est autre chose, dans le sens que nous lui donnons ici, qu’une satisfaction de la volonté, jointe à l’estime de quelque objet que l’esprit juge être convenable. Car jamais la volonté ne se délecte que dans les choses qui lui paraissent avoir du prix et de l’agrément. Ce qui doit s’entendre de la joie active que l’ame goûte lorsqu’elle comprend le sujet de son contentement, et qu’il est en son pouvoir de s’y plaire ou de ne s’y plaire pas. La joie passive est différente en ce que l’ame en est comblée quelquefois, sans savoir d’où elle vient, et sans pouvoir se la procurer ou ne se la procurer pas. Il s’agit ici de la joie active que la volonté reçoit des choses qui lui sont connues. Cette joie peut naître de six sortes de biens ; savoir des biens naturels, des biens sensuels, des biens moraux, des biens surnaturels et des biens spirituels. Nous parlerons de chacun en son rang, afin que la volonté se conforme à la raison, et que sans s’embarrasser de ces choses, elle ne mette point la solidité de sa joie en d’autres objets qu’en Dieu.
@@ -2003,32 +1467,6 @@ C’est aussi avec peu de raison, que les gens du monde se font un plaisir d’a
 C’est aussi une vanité de se plaire en la pensée de prendre une femme ou un mari, puisqu’il n’est pas constant qu’on s’acquittera mieux des devoirs de chrétien. Les difficultés qu’on trouve en cet état, devraient plutôt donner de la confusion à ceux qui s’occupent de ce dessein ; puisque, selon l’Apôtre, l’attachement que les gens mariés ont l’un pour l’autre, les empêche de consacrer à Dieu un cœur entier et parfait. C’est pourquoi *si vous êtes dégagé*, dit-il, *des liens d’une femme, ne cherchez point de femme.* Mais si quelqu’un est engagé avec une femme, il lui est nécessaire de garder la même liberté de cœur, que s’il en était déchargé.
 
 Le même saint Paul parlant encore des biens temporels dont nous avons déjà traité, dit ces belles paroles : *Je vous le dit, mes Frères, le temps est court : Que ceux donc qui ont des femmes soient comme s’ils n’en avaient point ; que ceux qui pleurent soient comme s’ils ne pleuraient pas ; que ceux qui se réjouissent soient comme s’ils ne se réjouissaient pas ; que ceux qui achètent soient comme s’ils ne possédaient rien ; que ceux enfin qui usent de ce monde soient comme s’ils n’en usaient pas.* Nous apprenons de là que c’est une chose frivole de puiser sa joie dans une autre source que dans ce qui appartient au culte de Dieu, puisque le contentement qui n’est pas conforme à ses lois et à sa volonté, ne peut être utile à l’ame.
-
-↑ Fili, ne in multis sint actus tui : et si dives fueris, non eris immunis à delicto. *Eccli*. 11. 10.
-
-↑ Amen dico vobis, quia dives difficilè intrabit in regnum cœlorum. *Matt*. 19. 23.
-
-↑ Nolite sperare in iniquitate, et rapinas nolite concupiscere : divitiæ si affluant, nolite cor apponere. *Psal*. 61. 11.
-
-↑ Vanitas vanitatum, dixit Ecclesiastes ; Vanitas vanitatum, et omnia vanitas. *Eccle*. 1. 2. etc.
-
-↑ Dixit autem illi Deus : stuite, hàc nocte animam tuam repetunt à te : quæ autem parasti, cujus erunt ? *Luc*. 12. 20.
-
-↑ Ne timueris cùm dives factus fuerit homo, et cùm multiplicata fuerit gloria domùs ejus. Quoniam cùm interierit, non sumet omnia ; neque descendet cum eo gloria ejus. *Psal*. 48. 17. 18.
-
-↑ Quid enim prodest homini, si mundum universum lucretur, animæ verò suæ detrimentum patiatur ? *Matt*. 16. 26.
-
-↑ Porrò sicut Absalon vir non erat pulcher in omni Israël, et decorus nimis : à vestigio pedis usquè ad verticem non erat in eo ulla macula. ii. *Reg*. 14. 25.
-
-↑ Risum reputavi errorem ; et gaudio dixi : quid frustrà deciperis ? *Eccle*. 2. 2.
-
-↑ Cor sapientium ubi tristitia est, et cor stultorum ubi lætitia. *Eccle*. 7. 5.
-
-↑ Melior est ira risu. *Ecclœ. v*. 4. Melius est ire ad domum luctus, quàm ad domum convivii : In illà enim finis cunctorum admonetur hominum, et vivens cogitat quid futurum sit. *Ecclœ*. 7. 3.
-
-↑ Alligatus es uxori ? Noli quærere solutionem. Solutus es ab uxore ! Noli quærere uxorem. i. *Cor*. 7. 27.
-
-↑ Hoc itaquè dico, fratres : Tempus breve est ; reliquum est, ut et qui habent uxores, tanquàm non habentes sint : et qui fient, tanquàm non fientes : et qui gaudent, tanquàm non gaudentes : et qui emunt, tanquàm non possidentes : et qui utuntur hoc mundo, tanquàm non utantur : præterit enim figura hujus mundi. i. *Cor*. 7. 29. 30. 31.
 
 ## CHAPITRE DIX-HUITIÈME.
 
@@ -2056,28 +1494,6 @@ Nous réduisons aussi dans la même classe tous ces misérables, que l’attache
 
 Ne timueris cùm dives factus fuerit homo, et cùm multiplicata fuerit gloria domus ejus. Quoniam cùm interierit, non sumet omnia ; neque descendet cum eo gloria ejus. *Psal*. 48. 17. 18.
 
-↑ Incrassatus est dilectus, et recalcitravit : incrassatus, impinguatus, dilatatus, dereliquit Deum factorem suum, et recessit à Deo salutari suo. *Deut*. 32, 15.
-
-↑ Fascinatio enim nugacitatis obscurat bona, et inconstantia concupiscentiæ transvertit sensum sine malitià. *Sap*. 4. 12.
-
-↑ Nec accipies munera, quæ etiam excæcant prudentes, et subvertunt verba justorum. *Exod*. 23. 8.
-
-↑ Loquimini de me coràm Domino, et coràm Christo ejus, utrum bovem cujusquam tulerim, aut asinum : si quempiam calumniatus sum, si oppressi aliquem, si de manu cujusquam manus accepi. i. *Reg*. 12. 3.
-
-↑ Omnes diligunt munera, sequuntur retributiones. Pupillo non judicant ; et causa viduæ non ingreditur ad illos. *Isa*. 1. 23.
-
-↑ Quia filii hujus sæculi prudentiores filiis lucis in generatione suà sunt. *Luc*. 16. 8.
-
-↑ Me dereliquerunt fontem aquæ vivæ, et foderunt sibi cisternas, cisternas dissipatas que continere non valent aquas. *Jerem*. 2. 13.
-
-↑ Prodiit quasi ex adipe iniquitas corum ; transierunt in affectum cordis. *Psal*. 72. 7.
-
-↑ Mortificate ergo… Fornicationem, immunditiam, libidinem, concupiscentiam malam, et avaritiam, quæ est simulacrorum servitus. *Coloss*. 3. 5.
-
-↑ Cùm vidisset autem Simon, quia per impositionem manus Apostolorum daretur Spiritus sanctus, obtulit eis pecuniam, dicens : date et mihi hanc potestatem, ut cuicumque imposuero manus, accipiat Spiritum sanctum. *Act*. 8. 18.
-
-↑ Est et alia infirmitas pessima quam vidi sub sole : divitiæ conservatæ in malum Domini sui. *Ecclœ*. 5. 12.
-
 ## CHAPITRE DIX-NEUVIÈME.
 
 De l’utilité qui revient à l’ame, lorsqu’elle refuse la joie des biens de ce monde.
@@ -2090,25 +1506,11 @@ Ainsi l’homme spirituel doit réprimer les premiers mouvemens de sa joie, quan
 
 On recueille un autre profit très-considérable du renoncement de cette joie passagère, c’est qu’on a le cœur toujours libre pour aller à Dieu : disposition nécessaire pour nous attirer les grâces que la bonté divine veut répandre en nos ames, et sans laquelle nous ne serions pas propres à les recevoir. Ces grâces sont de telle nature que quand nous nous privons d’une seule satisfaction pour l’amour de Dieu et pour acquérir la perfection évangélique, nous sommes comblés même en cette vie de mille douceurs, selon la promesse de Jésus-Christ. (*Matt*. 19. 29.) Mais quand ces fruits ne nous reviendraient pas, l’homme spirituel devrait rejeter cette joie, par cette seule raison qu’elle est frivole et qu’elle déplaît à Dieu, comme le montre ce riche de l’Évangile qui se réjouissait de ses biens, et qui sentit au même temps l’indignation de Dieu, dont cette voix l’avertit : *Insensé, on t’enlèvera l’ame cette nuit.* Ce qui doit nous faire trembler, toutes les fois que nous flattons notre cœur de joie vaine et préjudiciable. Dieu ne manquera pas de nous punir, et de répandre en notre ame beaucoup plus d’armertume que nous n’aurons puisé de douceur dans la source des créatures ; car quoique Dieu commande dans l’Apocalypse de faire souffrir à Babylone autant de tourmens et d’afflictions, qu’elle s’est élevée par orgueil, et qu’elle s’est plongée dans les délices, néanmoins il ne garde pas toujours la même mesure ; il la rompt souvent ; il châtie d’une douleur plus affligeante la vaine joie ; il condamne à des supplices éternels pour des plaisirs d’un moment. Mais il parle de la sorte en cet endroit, pour nous faire entendre que chaque faute mérite un châtiment particulier, puisque celui qui punira une parole oiseuse, ne laissera pas impunie la joie déréglée.
 
-↑ Qui fidelis est in minimo, et in majori fidelis est. *Luc*. 16. 10.
-
-↑ Divitiæ si affluant, nolite cor apponere. *Psal*. 61. 11.
-
-↑ Tanquàm nihil habentes, et omnia possidentes. ii. *Cor*. 6. 10.
-
-↑ Stulte, hàc nocte animam tuam repetunt à te. *Luc*. 12. 20.
-
-↑ Quantùm glorificavit se, et in deliciis fuit, tantùm date illi tormentum et luctum. *Apoc*. 18. 7.
-
 ## CHAPITRE VINGTIÈME.
 
 Par les biens naturels nous entendons la complexion, la beauté, la bonne grâce, l’agrément, les autres qualités du corps, avec l’esprit perçant, la discrétion, le bon sens, la raison droite, les autres perfections de l’ame. C’est une vanité et une illusion, de mettre sa joie en toutes ces choses, et de ne les pas référer à Dieu qui les a données aux hommes, afin qu’ils le connaissent, qu’ils l’aiment et qu’ils lui en rendent leurs actions de grâces. Aussi Salomon dit sur ce sujet ces belles paroles : *Le bon air d’une femme est trompeur, et sa beauté est vaine. Celle-là seule qui craint Dieu sera louée.* (1) Ce qui nous montre que les dons de la nature doivent plutôt nous donner de la crainte que de la joie, parce qu’ils sont capables d’éteindre en notre ame l’amour de Dieu, et de nous jeter dans l’erreur et dans la vanité. Voilà pourquoi le Sage assure que la bonne grâce du corps est trompeuse. Elle impose à l’homme, en lui inspirant du plaisir et de la complaisance pour soi-même, ou pour la personne qui a cet agrément, et en le portant à faire des choses qui ne lui sont ni convenables ni utiles. La beauté est vaine aussi selon son sentiment, parce qu’elle entraîne en plusieurs péchés celui à qui elle donne de l’estime pour elle-même et pour la satisfaction qu’on en reçoit, au lieu qu’un homme ne devrait en faire état ni s’y plaire, qu’autant qu’elle avance la gloire divine ou dans lui-même ou dans les autres. Il doit, au contraire, se comporter en ceci avec crainte et avec précaution, de peur qu’aimant trop ces qualités naturelles, il n’offense Dieu. De sorte que s’il est orné lui-même de ces dons, il n’en soit ni vain, ni fier, ni présomptueux, et qu’il n’en prenne jamais occasion de se séparer de Dieu. Ces avantages font si facilement tomber ceux qui les possèdent eux-mêmes, ou qui les admirent dans les autres, qu’à peine en trouve-t-on qui résistent à leurs attraits, et qui se dépètrent de leurs piéges. De là vient que plusieurs personnes spirituelles et vertueuses, que nous avons vues et connues ont obtenu de Dieu par leurs prières continuelles, d’être dépouillées de tous leurs dons naturels, de peur d’en concevoir de l’orgueil et de la complaisance, ou d’en faire concevoir aux autres.
 
 Ainsi l’homme de bien qui veut épurer sa volonté, en la privant de ce contentement inutile, doit regarder les qualités naturelles comme la poussière de la terre, et la beauté, la bonne grâce, l’agrément, comme la fumée de l’air. Il faut ensuite qu’il élève son cœur à Dieu, et qu’il se réjouisse de ce que cet Être infini contient éminemment toutes ces perfections ; et de ce que, comme dit David, *elles se passeront, elles s’évanouiront ; il ne changera jamais, il sera éternellement immuable.* S’il en use autrement, il se trompera soi-même, et il méritera qu’on lui dise avec Salomon : *Pourquoi vous imposez-vous à vous-mêmes, en cherchant du plaisir dans les créatures ?*
-
-↑ Ipsi peribunt, tu autem permanes ; et omnes sicut vestimentum veterascent. *Psal*. 101. 27.
-
-↑ Quid frustrà deciperis ? *Ecclœ*. 2. 2.
 
 ## CHAPITRE VINGT-UNIÈME.
 
@@ -2134,18 +1536,6 @@ Mais revenons au second dommage, qui en comprend une infinité d’autres. Je ne
 
 D’abord que votre cœur sentira les premières atteintes de la joie, dont les biens naturels sont la source, retracez en votre mémoire combien il est vain, dangereux et préjudiciable de se réjouir d’autre chose que de l’honneur qu’on rend à Dieu. Considérez combien il a été funeste aux Anges de se plaire en leur beauté, puisqu’ils sont tombés aussitôt dans une horrible laideur et dans les abymes de l’enfer. Examinez encore combien de maux cette vaine joie attire sur l’ame. C’est pourquoi il est nécessaire que ceux qui commencent à sentir les charmes de ces biens, usent de bonne heure du remède qu’un ancien Poète leur prescrit, et qui consiste à résister aux premières impressions de la passion. Lorsqu’elle s’est fortifiée par la longueur du temps et par la multiplication des actes, il est difficile de l’étouffer. C’est ce que le Sage nous explique sous la figure du vin qu’on boit. *Ne regardez pas*, dit-il, *le vin qui brille dans le verre. Il entre doucement et délicieusement, mais à la fin il mordra comme la couleuvre, et* il répandra son venin comme le basilic.* *
 
-↑ Popule meus, qui te beatum dicunt, ipsi te decipiunt. *Isa*. 3. 12.
-
-↑ Et cauda ejus trahebat tertiam partem stellarum cœli, et misit eas in terram. *Apoc*. 12. 4. Quomodò obscuratum est aurum ? mutatus est color optimus, dispersi sunt lapides Sanctuarii, in capite omnium platearum. Filii Sion inclyti, et amicti auro primo : quomodò reputati sunt in vasa testea, opus manuum figuli ? *Threnor*. 4.
-
-↑ Et vidi mulierem sedentem super bestiam coccineam, plenam nominibus blasphemiæ, habentem capita septem, et cornua decem. *Apoc*. 17. 3.
-
-↑ Cum quá fornicati sunt Reges terræ : et inebriati sunt qui inhabitant terram de vino prostitutionis ejus. *Ibid. v.* 2.
-
-↑ Et erit in templo abominatio desolationis, et usquè ad consummationem perseverabit desolatio. *Dan*. 9. 27.
-
-↑ Ne intuearis vinum quandò flavescit, cùm splenduerit in vitro color ejus : ingreditur blandè, sed in novissimo mordebit ut coluber, et sicut regulus venena diffundet. *Prov*. 23. 31. 32.
-
 ## CHAPITRE VINGT-DEUXIÈME.
 
 La soustraction que l’ame se fait de la joie des biens naturels, lui apporte beaucoup d’utilité ; car outre qu’elle se dispose à l’amour divin et aux autres vertus, elle se prépare à pratiquer l’humilité en ce qui la regarde, et la charité, en ce qui regarde le prochain. En effet, lorsqu’elle ne s’attache à personne en particulier à cause de ses bonnes qualités, elle se conserve la liberté d’aimer spirituellement tout le monde comme Dieu l’ordonne. Il faut remarquer ici que personne ne mérite d’être aimé qu’à cause de sa vertu ; qu’aimer quelqu’un de la sorte, c’est l’aimer selon la volonté de Dieu et avec une grande liberté ; que si on l’aime d’une manière plus spirituelle, on s’unit davantage à Dieu. Car plus l’amour du prochain s’enflamme, plus l’amour de Dieu reçoit d’accroissement ; plus aussi l’amour de Dieu croît, plus l’amour du prochain se fortifie, parce que l’un et l’autre n’ont qu’un même principe et qu’une même origine.
@@ -2159,12 +1549,6 @@ Ceux qui sont avancés en la mortification de ce plaisir sensuel, se procurent a
 On recueille encore de là un bien général et fort étendu. Car outre que l’homme spirituel se défend des inconvéniens que nous venons de marquer, il se précautionne contre la vanité et contre plusieurs autres maux, tant corporels que spirituels, surtout contre le mépris ou du moins contre le peu d’estime que font des autres tous ceux qui se plaisent en ces avantages naturels. Au lieu que ceux qui ont la vraie prudence du chrétien, ne font état et ne se réjouissent que des choses qui sont agréables à Dieu.
 
 Tous ces fruits en produisent un dernier, qui est sans doute le plus noble et le plus précieux ; c’est la liberté d’esprit si nécessaire pour vaincre les tentations, pour souffrir les afflictions patiemment, pour donner de l’augmentation aux vertus, et pour servir Dieu avec fidélité et avec constance.
-
-↑ Si quis vult post me venire, abneget semetipsum. *Matt*. 16. 24.
-
-↑ Furor illis secundùm similitudinem serpentis : sicut aspidis surdæ, et obturantis aures suas ; quæ non exaudiet vocem incantantium, et venefici incantantis sapienter. *Psal*. 57. 5. 6.
-
-↑ Spiritus enim sanctus disciplinæ effugiet fictum, et auferet se à cogitationibus quæ sunt sine intellectu. *Sap*. 1. 5.
 
 ## CHAPITRE VINGT-TROISIÈME.
 
@@ -2181,8 +1565,6 @@ C’est pourquoi il est à propos de donner ici le moyen de connaître quand ces
 Au contraire, les mêmes objets nuisent beaucoup à ceux qui y prennent quelque plaisir sensible, et qui ne laissent pas à leur cœur la liberté de se porter à Dieu avec amour et avec facilité ; c’est pourquoi ils doivent s’en priver. Car quoiqu’ils se servent de l’entendement et de la raison pour aller à Dieu, néanmoins il y a apparence qu’ils en souffrent plus de dommage qu’ils n’en reçoivent d’utilité ; d’autant que l’appétit sensuel goûte les effets sensibles de ces opérations. Et conséquemment si ces gens-là ont du penchant pour ces sortes de satisfactions, ils doivent réprimer cette inclination, puisque plus elle sera grande et puissante, plus ils deviendront faibles et imparfaits.
 
 Ce qui nous fait dire que l’homme spirituel ne doit user du contentement des sens, que par rapport au Seigneur ; et suivant cette règle il doit référer à Dieu toute la joie de son ame, afin de se la rendre utile, et de l’épurer de toute imperfection. Pour cet effet il doit considérer, que toute la délectation qui coule d’une autre source que du renoncement de toutes les joies sensuelles, est vaine et inutile, et empêche la volonté de s’unir à Dieu, quoique le sujet qui les cause soit d’ailleurs excellent et sublime.
-
-↑ A sæculo non audierunt, neque auribus perceperunt : Oculus non vidit, Dcus absque te, quæ præparasti expectantibus te. *Isa*. 64. 4.
 
 ## CHAPITRE VINGT-QUATRIÈME.
 
@@ -2208,18 +1590,6 @@ J’ajoute aux effets de cette volupté le relâchement dans les exercices spiri
 
 Les profits que l’ame retire de la privation de ce plaisir sont admirables. Il y en a de deux sortes, les spirituels et les temporels. Le premier est, que l’ame en s’éloignant de la joie qu’elle reçoit des objets sensibles, et en se resserrant en elle-même, s’affranchit des distractions que les opérations trop vives des sens lui causaient. Ensuite elle s’approche plus facilement de Dieu, et conserve mieux l’esprit intérieur et les vertus qu’elle a acquises, et à qui elle donne de nouveaux accroissemens. Le second est très-excellent. Car nous pouvons dire avec vérité, que celui qui étouffe en lui-même cette volupté, devient de sensuel tout spirituel d’animal tout raisonnable, d’humain tout angélique, tout céleste et tout divin. Comme un homme qui ne recherche que les douceurs de ces plaisirs ne mérite pas d’autres noms que ceux de sensuel, d’animal, de terrestre de même celui qui les abhorre est digne des qualités que nous venons de lui attribuer. Ce qui est certain, puisque l’usage des sens et la force de la sensualité sont directement contraires aux exercices et à la vigueur de l’esprit. *Car la chair*, dit l’Apôtre, *combat par ses désirs contre l’esprit, et l’esprit contre la chair.* De là vient que les forces de l’une des deux parties de l’homme diminuent ou croissent à proportion que les forces de l’autre croissent ou diminuent. Et de cette manière la partie supérieure qui ne tend d’elle-même qu’à Dieu, se perfectionne et s’unit à son Créateur ; elle acquiert les biens spirituels et célestes ; et c’est lui faire justice, que de l’orner de tous les titres illustres que nous avons rapportés. Cette doctrine est fondée sur l’autorité de saint Paul. Il nous enseigne que l’homme qui n’occupe son cœur qu’à goûter les délectations sensuelles est tout charnel, et ne comprend point les choses qui viennent de l’esprit de Dieu et celui qui attache sa volonté à Dieu est tout spirituel ; il pénètre dans les secrets du Seigneur ; il juge de toutes choses. Si bien que l’ame tire de là cet avantage, qu’elle est disposée, par cette abnégation, à recevoir tous les biens spirituels et tous les dons divins que la bonté de son Créateur voudra lui faire. La troisième utilité consiste en une grande augmentation des délices intérieures, lesquelles remplissent le cœur de celui qui rejette les contentemens charnels. Car, selon la parole infaillible du Sauveur, il reçoit cent pour un : de manière que si vous renoncez une seule fois à cette joie, vous serez récompensé dès cette vie de cent douceurs spirituelles et même corporelles ; et au contraire, si vous la goûtez une seule fois, vous serez puni de cent amertumes très-fàcheuses. Car lorsque vous aurez purifié vos yeux du plaisir qu’ils avaient à voir, vous sentirez une consolation spirituelle très-agréable, parce qu’elle se rapportera uniquement à Dieu, soit que vous regardiez les choses divines, soit que vous arrêtiez votre vue sur les choses humaines. Vous serez pénétré de semblables délices entendant parler des choses divines ou humaines, lorsque vous aurez soustrait à vos oreilles la vaine satisfaction qu’elles reçoivent des entretiens du monde. Vous devez juger la même chose des autres sens, lorsque vous aurez retranché le contentement que les objets corporels leur donnent. Car comme dans l’état d’innocence tout ce qu’Adam et Ève voyaient, tout ce qu’ils disaient, tout ce qu’ils mangeaient les excitait à une douce contemplation des choses divines, parce que la partie inférieure était bien disposée et fort soumise à la raison : de même celui qui éloigne de ses sens tout le plaisir que les objets matériels leur présentent, qui les tient assujettis à l’esprit, et qui les dompte jusqu’à étouffer leurs premiers mouvemens, celui-là est pénétré des douceurs d’un étroit attachement au Seigneur, par la continuelle application de son cœur à la Majesté divine. C’est pourquoi toutes choses, soit basses, soit élevées, sont utiles à ceux qui sont purs, et elles augmentent leur pureté : au contraire, elles sont dommageables à ceux qui sont impurs, et elles les infectent d’une impureté plus étendue. Cependant quiconque ne surmonte pas la volupté de l’appétit animal, il ne jouira jamais par le moyen des créatures ni par ses propres opérations, de la joie que Dieu verse ordinairement dans les ames fidèles. Mais quiconque ne vit plus selon la corruption des sens, il a la consolation de voir ses opérations et ses puissances, tendre à la contemplation de Dieu comme à leur centre. Car, comme nous apprenons des philosophes, chaque chose subsiste et vit selon la nature de son être ; et conséquemment celui qui a changé sa vie animale en vie spirituelle, se porte sans résistance à Dieu, n’ayant plus que des affections et des actions spirituelles. Il s’ensuit de là qu’un homme qui est parvenu à cette pureté de cœur, aura facilement une connaissance de Dieu pure, spirituelle, agréable et pleine d’amour. Je tire encore cette conséquence, que celui qui ne s’accoutume pas à vaincre sa sensualité, et qui n’use pas de tous les objets matériels pour aller à Dieu, il doit rejeter la satisfaction qui lui vient des choses sensibles, afin qu’il puisse délivrer son ame de la vie animale. Il doit craindre que n’étant pas assez intérieur, l’usage de ces choses ne nourrisse et ne fortifie plus ses sens que son esprit, parce que la partie sensitive étant la plus forte, domine dans ses opérations, et excite une sensualité plus grande et plus active. , dit le Sauveur ; et ce qui est né de l’esprit est esprit. Il faut bien peser ceci, puisque c’est une vérité constante. Que celui donc qui ne s’est pas encore mortifié parfaitement sur ce plaisir grossier, n’ait la présomption d’appliquer ses sens ni leurs opérations aux objets sensibles, s’imaginant que l’esprit en profitera davantage. En détruisant ce contentement et le désir qu’on a d’en jouir, on augmente plus les forces de l’ame, que si on s’occupait de ces choses matérielles. Pour ce qui concerne la gloire que le refus de cette volupté nous procure en l’autre vie, il n’est pas nécessaire de la représenter en cet endroit. Outre que ceux qui auront abhorré cette sensualité, auront le corps revêtu des qualités glorieuses, bien plus excellentes que ceux qui n’auront pas méprisé la volupté, ils seront élevés à une gloire essentielle proportionnée à l’amour divin, qui les aura portés à combattre cette délectation, parce que, selon l’expression de saint Paul, *les afflictions quoique courtes et légères que nous souffrons en cette vie, produisent en nous la durée éternelle d’une gloire incomparable.* Je ne crois pas aussi que je doive déduire ici les avantages que la privation de cette joie nous apporte, soit qu’ils regardent l’esprit, soit qu’ils concernent les mœurs, soit qu’ils soient commodes à la vie présente. Ils sont tous de même nature, que ceux dont nous avons parlé en traitant des autres espèces de plaisirs ; ils sont même beaucoup plus éminens, parce que ces contentemens étant plus conformes et plus unis à la nature humaine, celui qui s’en déclare ennemi, acquiert une pureté plus intérieure et plus achevée.
 
-↑ Caro enim concupiscit adversus Spiritum : Spiritus autem adversus carnem. *Galat*. 5. 17.
-
-↑ Animalis autem homo non percipit ea quæ sunt Spiritus Dei… Spiritualis autem judicat omnia. I. *Cor*. 2. 14. 15.
-
-↑ Et omnis qui reliquerit domum, vel fratres, aut sorores, etc. centuplum accipiet et vitam æternam possidebit. *Matt*. 19. 29.
-
-↑ Car ce qui est né de la chair est chair
-
-↑ Quod natum est ex carne, caro est : et quod natum est ex spiritu, spiritus est. *Joann*. 3. 6.
-
-↑ Id enim, quod in præsenti est momentaneum et leve tribulationis nostræ, suprà modum in sublimitate æternum gloriæ pondus operatur in nobis. II. *Cor*. 4. 17.
-
 ## CHAPITRE VINGT-SIXIÈME.
 
 Le quatrième genre des biens, à quoi la volonté peut s’attacher avec plaisir, sont ceux que nous appelons moraux. Nous entendons par ces biens, les vertus morales et les habitudes qu’on acquiert en les pratiquant, toutes les œuvres de miséricorde spirituelles et corporelles, l’observation des lois divines et humaines, tous les exercices enfin qu’une personne de bon naturel et portée au bien, peut faire suivant les règles de l’honnêteté. Ils méritent peut-être mieux, quand on s’y applique, de donner de la joie à la volonté, que les trois autres espèces de biens que nous avons expliqués jusqu’ici. Car un homme peut se réjouir de ces biens, pour l’ame de ces deux raisons ; savoir, à cause de leur nature, ou à cause de l’utilité qu’ils procurent à l’homme, en tant qu’ils sont des moyens et des instrumens dont il se sert pour parvenir à la vertu.
@@ -2233,10 +1603,6 @@ Les biens de cette nature sont si agréables à Dieu, qu’il combla Salomon de 
 Néanmoins quoiqu’un chrétien puisse aimer ces biens comme commodes à ses intérêts, il ne doit pas borner là son contentement de la même manière que les païens, qui ne portaient pas leur vue au delà de cette vie mortelle : mais étant éclairé des lumières de la foi, qui lui découvre la vie éternelle qu’il doit espérer, et sans laquelle toutes les choses de ce monde ne sont de nulle valeur, il doit se proposer un motif de joie plus noble, savoir l’exercice de l’amour divin et la possession du ciel, parce que le bien moral contribue à perfectionner l’un et à conquêter l’autre. Ainsi l’obéissance, le service et l’honneur qu’il rend à Dieu, en cultivant les vertus morales et en sanctifiant ses mœurs doivent être la cause unique de sa joie. Sans cette intention et sans ce but, les vertus n’ont aucun prix devant Dieu, comme il est visible par la parabole des dix Vierges de l’Évangile. Toutes avaient gardé la chasteté et fait de bonnes œuvres avec beaucoup de soin et de constance. Mais parce que cinq d’entr’elles s’étaient réjouies de ce bien, en vue, non pas de l’honneur et de l’amour de Dieu, mais de leur satisfaction particulière et de leur propre gloire, elles furent privées de l’amour de l’Époux et de la félicité du Ciel. Plusicurs anciens ont aussi été très-illustres pour leurs vertus et leurs bonnes actions, et plusieurs chrétiens le sont encore aujour-d’hui pour les mêmes causes : mais tout cela leur sera inutile pour la vie future, parce qu’ils n’ont pas envisagé et n’envisagent pas la gloire et l’amour de Dieu. Il faut donc se réjouir, non pas de ses bonnes mœurs et de ses œuvres saintes, mais du seul amour qu’on a pour son Créateur. Plus les bonnes œuvres méritent de récompense et de gloire lorsqu’on les fait pour le seul honneur de Dieu, plus elles doivent donner de confusion à ceux qui les font par des motifs humains et frivoles.
 
 Le Chrétien doit donc considérer pour s’exciter à rapporter à Dieu le plaisir qu’il a d’embrasser les vertus morales, que les œuvres de miséricorde, les jeûnes, les aumônes, les austérités, les oraisons, et les autres actions saintes, fondent leur valeur, non pas tant sur leur quantité et sur leur qualité, que sur l’amour de Dieu qu’on se propose en les faisant, et que plus cet amour sera pur, ardent et désinteressé pour cette vie et pour l’autre, plus elles seront parfaites et éminentes. Je conclus que l’homme spirituel doit d’un côté sevrer son cœur de toutes les consolations que le bien moral lui présente ; et de l’autre, le nourrir des seules douceurs que l’amour divin et la recherche de la gloire du Seigneur lui offrent. C’est ainsi qu’il unira sa volonté à Dieu avec toute sa force et toute sa vigueur.
-
-↑ Est enim in illâ (*Sapientiá*) spiritus intelligentiæ, sanctus, unicus, multiplex, subtilis, disertus, mobilis, incoinquinatus, certus, suavis, amans bonum, acutus, quem nihil vetat, benefaciens, humanus, benignus, etc. *Sap*. 7. 22. 23.
-
-↑ Et dixit Dominus Salomoni : Quia postulasti verbum hoc, et non petisti tibi dies multos, nec divitias, aut animas inimicorum tuorum, sed postulasti tibi sapientiam ad discernendum judicium : eccè feci tibi secundùm sermones tuos, et dedi tibi cor sapiens et intelligens, in tantum ut nullus antè te similis tui fuerit, nec post te surrecturus sit. Sed et hæc ; quæ non postulasti dedi tibi, divitias scilicet et gloriam, ut nemo fuerit similis tui in regibus, cunctis retrò diebus. iii *Reg*. 3. 11. 13.
 
 ## CHAPITRE VINGT-SEPTIÈME.
 
@@ -2262,20 +1628,6 @@ Le sixième dommage tombe sur ceux qui s’imposent très-souvent à eux-mêmes,
 
 Le septième consiste à rendre celui qui n’étouffe pas cette vaine dilectation, incapable de prendre conseil, et de suivre des instructions raisonnables et salutaires dans l’exercice des bonnes œuvres. L’habitude qu’il y a de s’y ménager du contentement, l’affaiblit et le tient lié si étroitement, qu’il juge que le sentiment des autres n’est pas le meilleur ; ou s’il l’estime le plus conforme à la raison et à la vertu, il n’a pas assez de courage pour le réduire en pratique. Ces sortes de gens sont encore bien froids en l’amour de Dieu, et bien lâches en la charité du prochain, parce que l’ardeur de l’amour propre qui les échauffe en leurs entreprises louables, éteint cette vertu dans leur cœur.
 
-↑ Pharisæus stans hæc apud se orabat, Deus, gratias ago tibi, quia non sum sicut ceteri hominum : raptores, injusti, adulteri : Velut etiam hic publicanus : jejuno bis in sabbato decimas do omnium quæ possideo. *Luc*. 18. 11. 12.
-
-↑ Omnia verò opera sua faciunt, ut videantur ab hominibus. *Matt*. 23. 5.
-
-↑ Cùm ergò facis eleemosynam, noli tubâ canere antète, sicut hypocritæ faciunt in synagogis et in vicis, ut honorificentur ab hominibus amen dico vobis, receperunt mercedem suam. *Matth*. 6. 2.
-
-↑ Te autem faciente eleemosynam, nesciat sinistra tua quid faciat dextera tua. *Matt*. 6. 3.
-
-↑ Si vidi solem cùm fulgeret, et lunam incedentem clarè ; et lætatum est in abscondito cor meum, et osculatus sum manum meam ore meo : quæ est iniquitas maxima, et negatio contrà Deum altissimum *Job*. 31. 26. 27. 28.
-
-↑ Muscæ morientes perdunt suavitatem unguenti. *Ecclœ*. 10. 1.
-
-↑ Malum manuum suarum dicunt bonum. *Michœœ*. 7. 3.
-
 ## CHAPITRE VINGT-HUITIÈME.
 
 Les fruits dont l’ame est participante, lorsqu’elle ne veut pas se nourrir de la vaine joie de cette sorte de biens, sont très-grands. Le premier est, que l’ame dissipe l’orage des tentations que le démon lui suscite, et elle se délivre des embûches qu’il lui dresse sous les apparences de ces bonnes œuvres, comme nous l’apprenons de cet endroit du livre de Job : *Il dort à l’écart sous l’ombre des roseaux et dans des lieux humides.* Le saint homme parle de Satan, qui se cache dans l’humidité et la mollesse du plaisir et dans le vide du roseau ; c’est-à-dire, dans une action vaine, pour surprendre l’ame, et pour l’embarrasser en ses filets. Ce qui ne doit pas nous étonner, puisque cette satisfaction est d’elle-même, sans la suggestion du démon, une pure tromperie ; surtout lorsque celui qui fait ces actions en sent dans le fond du cœur quelque complaisance. C’est ce que Jérémie exprime admirablement en ces termes : *Votre arrogance et l’orgueil de* *cœur vous ont déçu*. Car, je vous prie, quelle plus grande tromperie peut-on imaginer que la vaine gloire ? Il est donc nécessaire que l’ame qui s’en veut garantir, extermine cette joie inutile.
@@ -2288,14 +1640,6 @@ Le quatrième celui qui a banni ce contentement de sa volonté, devient doux, hu
 
 La cinquième : il gagne le cœur de Dieu et l’amitié des hommes, et il se défend des vices odieux d’avarice, de gourmandise de paresse, d’envie, d’une infinité d’autres défauts spirituels.
 
-↑ Sub umbrà dormit in secreto calami, et in locis humentibus. *Job*. 40. 16.
-
-↑ Arrogantia tua decepit te, et superbia cordis tui. *Jerem*. 49. 16.
-
-↑ Qui autem secus viam, hi sunt qui audiunt : Deindè venit diabolus, et tollit verbum de corde eorum, ne credentes salvi fiant. *Luc*. 8. 12.
-
-↑ Beati pauperes spiritu, quoniam, ipsorum est regnum cœlorum. *Matt*. 5. 3.
-
 ## CHAPITRE VINGT-NEUVIÈME.
 
 Il est convenable de traiter maintenant du cinquième genre des biens, où la volonté peut trouver du plaisir. Nous les appelons surnaturels, car ce sont tous les dons et toutes les grâces que Dieu nous accorde gratuitement, et qui surpassent toutes les forces et toute la vertu de la nature. Tels furent les dons de sagesse et de science, dont Dieu enrichit Salomon ; tels sont ceux que saint Paul marque en sa première Lettre aux Corinthiens ; savoir, le don de foi, la grâce de guérir les malades, le don de faire des miracles, le don de prophétie, le discernement des esprits, le don de parler diverses langues, le don de les interprêter. Tous lesquels biens quoiqu’ils soient sans contredit spirituels, comme le sont ceux dont nous parlerons bientôt, nous avons néanmoins jugé qu’il était nécessaire de les distinguer, à cause de l’extrême différence qui se trouve entre eux. Car l’usage qu’on fait de ceux-ci regarde immédiatement le bien des hommes ; et c’est pour cette raison que Dieu les leur communique, puisque le Saint-Esprit, dit l’Apôtre, ne se fait paraître en chacun que pour l’utilité commune. Mais les grâces purement spirituelles ne servent qu’à entretenir le commerce de Dieu avec l’ame, et la familiarité de l’ame avec Dieu, dans l’union de l’entendement et de la volonté. Et c’est cet objet et la manière de l’atteindre, qui en font la distinction d’avec les autres dons surnaturels, lesquels sont donnés de Dieu pour le profit des créatures. Ils n’ont pas toutefois cette seule différence de l’objet ; ils ont encore la différence de leur substance et de leur opération. Ce qui nous oblige à en donner une différente connaissance.
@@ -2305,18 +1649,6 @@ Or, prenant ces dons surnaturels dans le sens que je leur donne, je dis pour nou
 Le premier fruit ne doit pas inspirer à l’homme beaucoup de joie, parce que les miracles et les autres dons qu’il contient lui sont peu utiles pour acquérir l’union divine : c’est la charité qui le conduit à ce terme. Or ces merveilles extraordinaires peuvent lui arriver sans avoir la grâce sanctifiante, soit que Dieu les communique comme au faux prophète Balaam, soit que le démon les opère par sa force et ses prestiges, ou par quelque secrète vertu de la nature, comme il a paru dans Simon le Magicien. Si ces prodiges devaient apporter quelque avantage aux hommes, ce serait assurément ceux dont Dieu serait l’auteur et l’ouvrier.
 
 Cependant saint Paul nous apprend à juger de leur prix, si on les sépare des dons du second rang. *Quand je parlerais*, dit-il, *le langage des hommes et des Anges, si je n’avais pas la charité, je ressemblerais à de l’airain ou à une cymbale qui retentit. Et quand j’aurais le don de prophétie, que j’entendrais tous les mystères, que j’aurais toute la science et toute la foi, en sorte que je transportasse les montagnes d’un lieu à un autre, si je n’avais pas la charité, je ne serais rien.* C’est pourquoi lorsque plusieurs diront à Jésus-Christ Notre Sauveur : *Seigneur, n’avons-nous pas prophétisé en votre nom ? N’avons-nous pas chassé les démons en votre nom ? Navons-nous pas fait beaucoup de miracles en votre nom ?* Alors il leur répondra : *Je ne vous ai jamais connus : Retirez-vous de moi, vous qui avez commis l’injustice.* Ainsi un homme doit se réjouir, non pas de ce qu’il est favorisé de ces grâces extraordinaires, mais de ce qu’il en use pour servir Dieu avec un parfait amour en quoi consiste le fruit de la vie éternelle et bienheureuse. De là vient que Notre-Seigneur reprit ses disciples, qui lui témoignaient de la joie qu’ils sentaient d’avoir chassé les démons. *Ce n’est pas*, dit-il, *de ce que les esprits vous sont soumis que vous devez vous réjouir, mais c’est de ce que vos noms sont écrits dans le Ciel.* Comme s’il eût dit, selon les lumières de la Théologie : Réjouissez-vous de ce que vos noms sont dans le livre de Vie. Nous apprenons de là que personne ne doit concevoir de la joie, sinon de ce qu’il marche par le chemin qui mène à la vie éternelle en s’appliquant avec soin aux œuvres de charité. Que peut nous servir devant Dieu, et de quelle valeur peut être à ses yeux tout ce qui n’est pas amour de Dieu ? Or, cet amour n’est point parfait, s’il n’est pas assez fort, assez prudent et assez discret pour nous purger de toute la satisfaction qui peut naître de ces faveurs surnaturelles, et pour la référer au seul accomplissement de la volonté divine. De cette façon la volonté s’unit à son Créateur par l’entremise des biens, qui surpassent les forces et l’état de la nature.
-
-↑ Dedit quoque Deus sapientiam Salomoni, et prudentiam multam nimis. iii. *Reg*. 4. 29.
-
-↑ Alii quidem per Spiritum datur sermo sapientiæ : alii autem sermo scientiæ secundùm eumdem Spiritum ; alteri fides in eodem Spiritu ; alii gratia samitatem in uno Spiritu : alii operatio virtutum, alii prophetia, alii discretio spirituum, alii genera linguarum, alii interpretatio sermonum. i. *Cor*. 8. 9. 10.
-
-↑ Unicuique autem datur manifestatio spiritus ad utilitatem. i. *Cor*. 12. 7.
-
-↑ Si linguis hominum loquar, et Angelorum, charitatem autem non habeam, factus sum velut as sonans, aut cymbalum tinniens. Et si habuero prophetiam, et noverim mysteria omnia, et omnem scientiam : et si habuero omnem fidem, ità ut montes transferam, charitatem autem non habuero, nihil sum. i. *Cor*. 13. 1. 2.
-
-↑ Multi dicent mihi in illâ die : Domine, Domine, nonnè in nomine tuo prophetavimus, et in nomine tuo dæmonia ejecimus, et in nomine tuo virtutes multas fecimus ? Et tunc confitebor illis : Quia numquàm novivos ; Discedite à me, qui operamini iniquitatem. *Matt*. 7. 22. 23.
-
-↑ Verumtamen in hoc nolite gaudere, quia spiritus vobis subjiciuntur : gaudete autem, quòd nomina vestra scripta sunt in cœlis. *Luc*. 10. 20.
 
 ## CHAPITRE TRENTIÈME.
 
@@ -2336,30 +1668,6 @@ Secondement, ils peuvent recevoir une perte très-importante, qui est la privati
 
 Le troisième dommage, qui vient de la satisfaction que ces miracles apportent, c’est la vaine gloire et la complaisance. Elles gâtent l’esprit et le cœur de ceux qui succombent à leurs atteintes. Car ce plaisir, lorsqu’on ne le renferme pas tout en Dieu, n’est que vanité, comme le montre la réprimande que Jésus-Christ fit à ses Apôtres, qui se réjouissaient de ce que les démons se soumettaient à leurs ordres. Car si ce n’eût pas été une pure illusion, il ne les eût pas traités de la sorte.
 
-↑ Et iratus est Deus. Steltique Angélus Domini in viá contra Balaam, etc. *Numer*. 22. 22.
-
-↑ Cùm vidissent autem discipuli ejus Jacobus et Joannes dixerunt : Domine, vis dicimus ut ignis descendat de cœlo, et consumat illos ? Et conversus increpavit illos, dicens : Nescitis cujus spiritus estis. *Luc*. 9. 54. 55.
-
-↑ Non mittebam prophetas, et ipsi currebant : non loquebar ad eos, et ipsi prophetabant. *Jerem*. 23. 21.
-
-↑ Eccè ego ad prophetas somniantes mendacium, ait Dominus, qui narraverunt ea et seduxerunt populum meum in mendacio suo, et in miraculis suis ; cùm ego non misissem eos, nec mandassem eis. *Jerem*, 23. 32.
-
-↑ Date et mihi hanc potestatem, ut cuicumque imposuero manus, accipiat Spiritum Sanctum. *Act*. 8. 19.
-
-↑ Et Saül abstulit magos et hariolos de terrâ. i. *Reg*. 28. 3.
-
-↑ Et nunc, Domine, respice in minas eorum, et da servis tuis cùm omni fiducia loqui verbum tuum. In eo quòd manum tuam extendas ad sanitates, et signa, et prodigia fieri per nomen sancti Filii tui Jesu. *Act*. 4. 29. 30.
-
-↑ Dixitque ei mulier : Quem suscitabo tibi ? Qui ait : Samuelem mihi suscita. Cum autem vidisset mulier Samuelem, exclamavit voce magnà, etc. i. *Reg*. 28. 11. 12.
-
-↑ *Greg. homil.* 26. in *Evang*.
-
-↑ Cucurrit ergò, et venit ad Simonem Petrum et ad alium discipulum, quem amabat Jesus, et dicit illis : Tulerunt Dominum de monumento, et nescimus ubi posuerunt eum. *Joan*. 20, 2. Et cùm se inclinasset, vidit posita linteamina. *Ibid. v.* 5. Fidex ex auditu. *Rom*. 10. 17. Vespere autem sabbati, quæ lucescit in prima sabbati venit Maria Magdalene et altera Maria, videre sepulchrum. Et eccè terræ motus factus est magnus. Angelus enim Domini descendit de cœlo, etc. *Matt*. 28. 1. 2. etc. Et ipse dixit ad eos : O stulti et tardi corde ad credendum in omnibus quæ locuti sunt prophetæ ! *Luc*. 24. 25. Et dixerunt ad invicem : nonnè cor nostrum ardens erat in nobis, dùm loqueretur in vià, et aperiret nobis Scripturas ? *Luc*. 24. 32.
-
-↑ Quia vidisti me, Thoma, credidisti : Beati qui non viderunt et crediderunt. *Joan*. 20. 29.
-
-↑ Dixit ergò Jesus ad eum : Nisi signa et prodigia videritis, non creditis. *Joan*. 4. 48.
-
 ## CHAPITRE TRENTE-UNIÈME.
 
 Outre que l’ame qui se prive elle-même du contentement de ces merveilles, se garantit des inconvéniens que nous venons de dire, elle en retire deux utilités très-considérables. La première est, qu’elle glorifie Dieu, la seconde, elle se relève beaucoup elle-même. Elle rend de l’honneur à Dieu en deux manières. Premièrement quand elle détache sa volonté et son plaisir de tout ce qui n’est pas Dieu, pour les transférer en lui, comme le Prophète-Roi l’a voulu exprimer par ces paroles : *L’homme élèvera son cœur, et Dieu sera exalté.* Car lorsque l’ame élève son cœur au-dessus de toutes choses, elle se met aussi dans la même situation. Et parce que cette élévation établit la demeure et le repos du cœur en Dieu seul, Dieu découvre son excellence et sa grandeur à l’ame et par ce moyen il est plus estimé et plus exalté, parce qu’il se fait mieux connaître à elle lorsqu’elle rapporte sa joie à lui seul, comme à son premier principe et à sa dernière fin. Ce qui ne pourrait pas être, si ce contentement n’était épuré de toutes les choses créées. C’est ce que le Seigneur a dit lui-même par la bouche de David : *Abstenez-vous des occupations de la terre ; voyez et considérez que seul je suis Dieu.*Vacate, et videte, quoniam ego sum Deus : exaltabor in gentibus, et exaltabor in terra. *Psal*, 45. 11. Et ailleurs : *J’ai paru*, dit ce Roi, *devant vous, mon Dieu, dans une terre déserte, inaccessible et sans eau, comme dans le sanctuaire, pour contempler votre puissance et votre Majesté.*Or, si on exalte Dieu lorsqu’on ne prend nul plaisir dans les choses créées, on l’exaltera beaucoup davantage, lorsqu’on détachera sa joie des choses extraordinaires et miraculeuses, pour la mettre tout en Dieu seul, puisque ces choses étant surnaturelles, sont d’un rang supérieur à toutes les créatures, qui ne sont d’un ordre naturel. Car en les abandonnant pour ne se plaire qu’en Dieu seul, on reconnaît qu’il est plus grand, plus parfait et plus excellent qu’elles, parce que plus on méprise de choses considérables, pour l’amour d’un homme, plus on fait paraître l’estime qu’on a pour lui, et on lui rend plus d’honneur et de gloire.
@@ -2367,10 +1675,6 @@ Outre que l’ame qui se prive elle-même du contentement de ces merveilles, se 
 Secondement, l’ame exalte Dieu lorsqu’elle dégage sa volonté du désir de toutes sortes de miracles d’autant que plus elle croit Dieu et lui obéit sans le secours et le témoignage d’aucun prodige, plus elle relève la grandeur de Dieu ; car elle reçoit sa parole avec plus de soumission, que les signes les plus admirables ne pourraient lui persuader.
 
 La seconde utilité de cet éloignement de toutes les choses extraordinaires, c’est que l’ame acquiert une foi très-pure. Dieu la lui donne avec une espérance plus ferme et une charité plus ardente ; de sorte qu’il augmente de plus en plus ces trois vertus théologales. Et alors l’ame puise dans la foi de très-sublimes connaissances de Dieu ; elle jouit, par la charité, d’une admirable douceur qui attache la volonté à Dieu seul ; l’espérance la remplit de consolations toutes divines, et ces avantages incomparables la conduisent à la parfaite union de son Créateur.
-
-↑ Accedet homo ad cor altum, et exaltabitur, deus. *Psalm*. 63. 8.
-
-↑ In terrâ deserta, et invià et inaquosa : Sie in sancto apparui tibi, ut viderem virtutem tuam et gloriam tuam. *Psal*. 62. 3.
 
 ## CHAPITRE TRENTE-DEUXIÈME.
 
@@ -2402,10 +1706,6 @@ Mais supposé que quelqu’un puisse excuser son affection pour les images, parc
 
 Notre vaine cupidité est de telle nature, qu’elle prend à tout comme la glu, et qu’elle ronge et gâte tout comme la teigne. Car, je vous prie, pourquoi un rosaire d’une matière et d’une façon vous charme-t-il plutôt qu’un rosaire d’une autre façon et d’une autre matière, sinon parce que vous mettez toute votre complaisance en cet ouvrage ? Pourquoi faites-vous attention à l’excellence et à la valeur d’une image, plutôt qu’à la vertu qu’elle a de vous attirer à l’amour de Dieu, sinon parce que la beauté et son prix vous flattent la vue et l’imagination ? Assurément vous ne feriez nul état de tout cela, si Dieu seul touchait votre cœur ; et on ne peut voir sans douleur des gens spirituels de profession, s’amuser à ces bagatelles, et à force de chercher des rosaires et des images de nouvelle mode, éteindre en leur ame l’esprit de dévotion, et souffrir de grandes pertes en ce qui concerne les dons de Dieu.
 
-↑ Qui cùm respexissent : dixerunt ad Micham : Quid tibi vis ? Cur clamas ? Qui respondit : Deos meos quos mihi feci, tulistis. *Judic*. 18. 23. 24.
-
-↑ Cur furatus es Deos meos ? *Genes.* 31. 30. etc.
-
 ## CHAPITRE TRENTE-CINQUIÈME.
 
 L’ignorance de quelques-uns en cette matière est si déplorable, qu’ils ont plus d’amour pour quelques images à cause de leur figure, et qu’ils y mettent plus leur confiance qu’en quelques autres. C’est sans doute ne pas bien connaître ce qui regarde le culte et l’honneur de Dieu, lequel au reste considère sur toutes choses la foi et la pureté de cœur de celui qui lui fait ses prières.
@@ -2419,8 +1719,6 @@ Il me semble qu’il est à propos de rapporter encore ici quelques effets surna
 De plus, on en voit plusieurs qui sentent plus de dévotion pour certaines images, à cause de leur air, que pour d’autres qui sont de différens caractères quoique rares. Ils s’y plaisent davantage, quoiqu’elles ne soient pas des plus régulières, et ils en sont frappés, comme quelques-uns trouvent plus d’agrément en un visage qu’en un autre, qui sera néanmoins peut-être mieux tourné. Cependant ces sentimens pieux ne sont à proprement parler que des mouvemens naturels de cœur, et que des affections que la complexion de ces gens-là et leur penchant à une figure plutôt qu’à une autre, excitent en leur ame. Ainsi plusieurs personnes se peuvent tromper, en prenant pour un effet de piété, ce qui n’est qu’une production de nature.
 
 Quelques-uns aussi regardant fixement une image, la voient remuer, ou changer de visage, ou faire quelque signe, ou parler. Encore qu’il soit vrai que Dieu fait quelquefois ces effets surnaturels, soit pour augmenter la dévotion des fidèles, soit pour donner quelque appui sensible aux ames faibles en la vertu, soit pour attacher l’imagination à quelque objet, et pour empêcher les distractions qui interrompent les prières : néanmoins le démon est souvent l’auteur et l’ouvrier de ces changemens extraordinaires, afin de jeter dans l’erreur les gens simples qui donnent facilement dans ces pièges. C’est pourquoi nous apporterons dans le Chapitre suivant les remèdes nécessaires pour guérir un mal si dangereux.
-
-↑ Quanta audivimus facta in Capharnaum, fac et hic in patriâ tua. Ait autem : Amen dico vobis, quia nemo propheta acceptus est in patrià sua. *Luc*. 4. 23. 24.
 
 ## CHAPITRE TRENTE-SIXIÈME.
 
@@ -2440,33 +1738,15 @@ Aussi Dieu ne compte pas pour son culte, les fêtes qu’on célèbre pour se sa
 
 Je reviens maintenant aux oratoires et je dis que quelques-uns le remplissent d’ornemens très-beaux, pour suivre leur penchant et leur goût. Mais il y en a d’autres qui passent à l’extrémité contraire. Ils sont si peu touchés du repect qui est dû aux chapelles, qu’ils en font moins d’état que de leurs chambres, se faisant plus de plaisir d’ajuster des lieux profanes, que des lieux consacrés à Dieu. Les uns et les autres ne font pas ce qu’ils doivent ; et ceux-là sont encore dignes de réprimande, qui dérobent le temps à leur oraison mentale, à leur récollection intérieure, pour le donner à ces ajustemens extérieurs, ne faisant pas réflexion qu’en s’embarrassant de la sorte, ils sont moins propres et plus mal disposés à recevoir les impressions de Dieu, surtout lorsqu’on veut les dépouiller de ces ornemens alors ils tomhent dans le trouble et dans le chagrin.
 
-↑ Hypocritæ, benè prophetavit de vobis Isaïas, dicens : Populus hic labiis me honorat : cor autem eorum longè est à me. *Matt*. 15. 7.8.
-
-↑ Plurima autem turba straverunt vestimenta sua in viâ : alii autem cædebant ramos de arboribus et sternebant in vià. Turbæ autem, quæ præcedebant et quæ sequebantur, clamabant, dicentes : Hosanna filio David, etc. *Matt*. 21. 8. 9.
-
-↑ Præconis voce clamavit dicens : Gras solemnitas Domini est. Surgentesque manè, obtulerunt Holocausta, et hostias pacificas, etc. *Exod*. 32. 5. 6.
-
-↑ Areptisque Nadabl et Abiu filii Aaron thuribulis, posuerunt ignem, et incensum de super, offerentes coràm Domino ignem alienum ; quod eis præceptum non erat. Egressusque ignis à Domino, devoravit eos, et mortui sunt coràm Domino. *Levit*. 10. 1. 2. Et ait illi : Amice, quomodò húc intrasti non habens vestem nuptialem ? *Matt*. 22. 12.
-
-↑ Et dixit Dominus : Eò quòd appropinquat populus iste ore suo, et labiis suis glorificat me, cor autem ejus longè est à me, et timuernnt me mandato hominum et doctrinis. *Isa*. 29. 13.
-
 ## CHAPITRE TRENTE-HUITIÈME.
 
 Pour conduire l’esprit à Dieu par ce genre de bien, il est expédient de permettre à ceux qui commencent de s’adonner à la vertu, de prendre quelque plaisir sensible dans les images, dans les chapelles, dans les oratoires, et dans les autres choses visibles et consacrées à la piété, parce qu’ils ne se sont pas encore assez sevrés des douceurs du monde, pour renoncer à toutes sortes de satisfactions. Il en faut user avec eux comme avec un enfant, à qui on donne une chose pour lui en ôter une autre, de peur que si on ne lui laissait rien en la main, il ne se mit à pleurer. Mais l’homme spirituel qui veut faire de nonveaux progrès en la vie intérieure, se doit priver de toutes les délices que le cœur peut trouver en ces objets. Une ame bien pure ne s’en laisse jamais toucher, mais elle vaque uniquement au recueillement et au commerce spirituel avec son Dieu. Quoiqu’elle use des images et des oratoires, elle ne s’y arrête pas ; mais oubliant aussitôt les choses sensibles, elle repose en Dieu seul. Conséquemment quoiqu’il soit bon de faire l’oraison dans un lieu fort propre, il faut choisir pour ce saint exercice un endroit où les sens trouvent moins de quoi s’attacher, et où l’esprit soit plus libre pour s’élever à Dieu. Nous pouvons appliquer à ce sujet la réponse que notre Sauveur fit à la Samaritaine, lorsqu’elle lui demanda où il était plus convenable de prier Dieu, dans le temple ou sur la montagne qu’elle lui montra ; il lui répondit que la prière n’était pas resserrée dans les limites d’une montagne, mais que les vœux de ceux qui adoraient son père en esprit et en vérité, lui étaient agréables. *L’heure viendra*, dit-il, *et elle est même déjà venue, que les vrais adorateurs adoreront mon Père en esprit et en vérité ;* car ce sont les adorateurs que mon Père désire.* Dieu *est esprit, et ceux qui l’adorent doivent l’adorer en esprit et en vérité.* Encore donc* que les temples et les oratoires bien parés soient destinés à la prière, et que ce soit là le principal usage qu’on en doit faire, toutefois lorsqu’on veut converser intérieurement avec Dieu dans l’oraison, il est plus commode de se tenir dans un lieu qui ne dissipe ni les sens ni l’esprit, comme font d’ordinaire les endroits agréables à voir, et capables d’attirer notre curiosité, et de satisfaire notre amour propre. Pour cette raison les lieux écartés et incultes ont quelque avantage pour la méditation, et n’empêchent pas l’esprit de prendre son vol vers Dieu. Que si ces sortes d’objets visibles contribuent quelquefois à l’élévation de l’ame vers Dieu, cela ne se fait qu’en les effaçant aussitôt de la mémoire, et qu’en demeurant en Dieu sans retour sur les créatures. Le Sauveur des hommes nous a donné l’exemple de cette pratique. Il se retirait souvent pour prier dans les endroits les plus éloignés du commerce des hommes, et les moins propres à lui frapper les sens. Il aimait surtout les montagnes, dont la situation lui donnait lieu par sa hauteur de s’élever vers le Ciel, et dont l’âpreté naturelle ne lui présentait aucun sujet de se contenter. Un homme spirituel ne cherche que des lieux vides d’agrémens, pleins d’horreur, et propres à favoriser son attention sur lui-même, afin qu’il trouve dans l’oubli et dans la privation des créatures, un continuel recueillement et une parfaite jouissance de son Dieu. Ce qui est fort opposé à la coutume de quelques-uns qui s’étudient plus à orner leurs oratoires, qu’à rentrer souvent en eux-mêmes. Ils négligent la récollection intérieure, qui est néanmoins plus nécessaire que tous ces soins, et qui leur donnerait du dégoût de ces ajustemens, s’ils la pratiquaient avec assiduité.
-
-↑ Sed venit hora, et nunc est, quandò veri adoratores adorabunt Patrem in spiritu et veritate. Nam et Pater tales quærit qui adorent eum. Spiritus est Deus ; et eos, qui adorant eum, in spiritu et veritate oportet adorare. *Jo*. 4. 23. 24.
 
 ## CHAPITRE TRENTE-NEUVIÈME.
 
 La cause pourquoi quelques-uns d’entre les spirituels n’entrent jamais tout-à-fait dans les véritables douceurs de l’esprit, c’est parce qu’ils ne retirent jamais parfaitement leur cœur du plaisir que les choses extérieures leur donnent. Afin de corriger ce défaut, ils doivent remarquer qu’encore que les temples et les oratoires soient des lieux de prières, et que les images sacrées facilitent l’exercice de l’oraison par les bons mouvemens qu’elles nous impriment, néanmoins l’ame ne doit nullement s’occuper de ces objets extérieurs ; mais elle doit s’appliquer par un profond recueillement à son intérieur, qui est le temple vivant où elle doit faire sa prière. C’est de quoi saint Paul nous avertit : *Ne savez-vous pas*, dit-il, *que vous êtes le temple de Dieu, et que son esprit demeure en vous ?* Jésus-Christ même nous en assure en ces termes : *Sachez que le royaume de Dieu est au dedans de vous.* Ces autres paroles : *Ceux qui adorent Dieu, doivent l’adorer en esprit et en vérité,* se rapportent aussi à ce sujet. Car Dieu fait peu de cas des oratoires fort propres, si vous êtes trop sensibles à leur propreté, et si vous ne possédez pas cette nudité intérieure, qui est la pauvreté d’esprit qu’on acquiert par l’abnégation volontaire de toutes choses.
 
 Vous devez donc étouffer en votre cœur toute cette satisfaction, afin que votre conscience soit pure, et que votre volonté s’attache à Dieu seul, et ne se remplisse que de lui dans l’oraison pour le glorifier, en rejetant toutes les douceurs qui peuvent naître des créatures. Si vous vous accoutumiez à goûter ces consolations sensibles, vous ne pourriez jamais jouir des délices spirituelles qui coulent de la nudité de l’esprit et de la récollection intérieure.
-
-↑ Nescitis quia templum Dei estis, et Spiritus Dei, habitat in vobis ? i. *Cor*. 3. 16.
-
-↑ Eccè enim regnum Dei intrà vos est. *Luc*. 17. 21.
-
-↑ Et eos, qui adorant eum, in spiritu et veritate oportet adorare. *Jo*. 4. 24.
 
 ## CHAPITRE QUARANTIÈME.
 
@@ -2502,24 +1782,6 @@ Ces gens-là doivent donc savoir, que plus ils s’appuyent sur ces cérémonies
 
 Voilà de quelle manière il faut rapporter à Dieu le goût, que la volonté sent dans les prières et dans les demandes que nous faisons. On ne doit pas s’appuyer sur les cérémonies que l’Église catholique n’a pas approuvées, ni en prescrire au prêtre d’autres que celles qu’elle a réglées, ni en introduire de nouvelles, comme si on avait plus de lumières que le Saint-Esprit, et plus, de sagesse que l’Église. Que si ceux qui prient Dieu avec une grande simplicité, n’en sont pas écoutés, et s’ils se persuadent qu’en usant de beaucoup de cérémonies ils ne seront pas exaucés, ils ne doivent pas néanmoins mettre leur confiance en d’autres cérémonies qui peuvent concerner la dévotion, que celles que l’Église a établies. Il est constant que quand les Disciples de Jésus-Christ le conjurèrent de leur apprendre à prier, il leur eût enseigné toutes les choses qui pouvaient porter le Père Éternel à recevoir leurs prières ; et néanmoins il ne renferma dans l’oraison qu’il leur ordonna, que sept demandes, qui contiennent nos nécessités spirituelles et temporelles, sans y ajouter d’autres paroles ni d’autres cérémonies. Il leur dit même, selon le rapport de saint Matthieu, *qu’ils n’usassent pas dans leurs prières de grandes répétitions de paroles, parce que leur père connaissait leurs besoins avant qu’ils les lui demandassent.* Il se contenta de leur recommander très-particulièrement, *de prier toujours sans jamais se relâcher.* Il ne nous a pas commandé de faire une grande multitude de demandes, mais il veut seulement que nous réitérions souvent avec ferveur celles dont il nous a donné le modèle et la règle. C’est pourquoi il répéta lui-même trois fois cette prière : *Mon Père, s’il est possible, que ce calice soit détourné de moi toutefois que ma volonté ne se fasse pas, mais la vôtre.* Cependant la manière et la cérémonie que nous devons observer selon ses instructions, se réduisent à l’une ou à l’autre de ces deux méthodes, savoir, que nous nous retirions dans notre chambre, pour y prier en secret, sans bruit, sans témoins, avec attention, avec un cœur pur et dégagé des objets extérieurs. *Mais vous*, dit-il, *quand vous voudrez prier entrez dans votre cabinet, fermez la porte, priez votre Père qui est dans les endroits les plus cachés.* Ou bien il veut que nous allions dans des lieux déserts et solitaires, comme il avait coutume de faire ; et que là nous prenions le temps de la nuit le plus tranquille pour vaquer à l’oraison. C’est pourquoi il n’est pas nécessaire de prendre d’autres temps et d’autres jours pour faire nos prières, ni de nous servir d’autres paroles, d’autres changemens et d’autres cérémonies, que celles dont l’Église se sert et qu’elle prescrit à tous les fidèles. Je ne condamne pas néanmoins, et, au contraire, je loue ceux qui se fixent à un nombre de jours, comme sont les neuvaines, pour remplir leurs dévotions : mais je ne puis m’empêcher d’improuver l’attachement qu’on y a, et la confiance qu’on y met. On sait que la sainte veuve Judith reprit les habitans de Béthulie, de ce qu’ils avaient déterminé un temps dans lequel ils espéraient que Dieu leur ferait la miséricorde de les délivrer, et ils étaient résolus de se rendre à Holofernes, si ce nombre de jours se passait sans recevoir du secours. *Et qui êtes-vous, * leur dit-elle, *pour tenter le Seigneur ? Ce discours et ce dessein n’attireront pas sur vous ses bénédictions, mais ils allumeront plutôt sa colère et sa fureur contre vous.*
 
-↑ Quærite ergò primùm regnum Dei, et justitiam ejus : et hæc omnia adjicientur vobis. *Matt*. 6. 33.
-
-↑ Propè est Dominus omnibus invocantibus eum in veritatè. *Psal*. 144. 18.
-
-↑ Voluntatem timentium se faciet, et deprecationem eorum exaudiet : et salvos faciet eos. Custodit. Dominus omnes diligentes se, et omnes peccatores disperdet. *Psal*. 144. 19. 20.
-
-↑ Dixit autem Deus ad Salomonem : Quia hoc magis placuit cordi tuo, et non postulâsti divitias et substantiam et gloriam, neque animas eorum qui te oderant sed nec dies vitæ plurimos : Petisti autem sapientiam et scientiam ut judicare possis populum meum super quem constitui te regem ; sapientia et scientia sunt tibi : divitias autem et substantiam et gloriam dabo tibi, ità ut nullus in regibus nec antè te nec post te fuerit similis tui. II Paralipomènes 1. 11. 12.
-
-↑ Orantes autem, nolite multùm loqui, sicut Ethnici. Putant enim quòd in multiloquio suo exaudiantur. Nolite ergò assimilari eis. Scit enim pater vester quid opus sit vobis, antequam petatis eum. *Matt*. 6. 7. 8.
-
-↑ Dicebat autein et parabolam ad illos ; quoniàm oportet semper orare et non deficere. *Luc*. 18. 1.
-
-↑ Et progressus pusillum, procidit in faciem suam, orans et dicens : Pater mi ! si possibile est, transeat à me calix iste. Verumtamen non sicut ego volo, sed sicut tu. *Matt*. 26. 39.
-
-↑ Tu autem, cum oraveris, intra in cubiculum tuum, et clauso ostio ora patrem tuum iu abscondito : et pater tuus, qui videt in abscondito, reddet tibi. *Matt*. 6. 6.
-
-↑ Et qui estis vos, qui tentatis Dominum ? Non est iste sermo, qui misericordiam provocet, sed potiù qui iram excitet, et furorem accindar. *Judith*. 8. 11. 12.
-
 ## CHAPITRE QUARANTE-QUATRIÈME.
 
 Nous avons dit que les biens qui nous provoquent sont du second rang, qu’ils répandent quelque plaisir dans la volonté, et qu’ils nous excitent au service de Dieu, tels que sont les prédicateurs. Nous en parlerons ici premièrement en ce qui les regarde ; secondement en ce qui concerne leurs auditeurs. Il y a sujet de leur donner aux uns et aux autres quelques avis, pour leur apprendre à rapporter à Dieu la satisfaction que leur volonté goûte dans ce saint exercice mais je le ferai sans les distinguer les uns des autres. Je dis donc que le prédicateur qui veut être utile au public, et qui craint que la complaisance et la présomption ne lui inspirent de l’orgueil et de la vanité, doit considérer que ce ministère apostolique dépend plus essentiellement de l’esprit que de la voix. Quoique les paroles soient nécessaires pour l’exercer, néanmoins il tire toute sa force et toute son efficacité de l’esprit intérieur. De là vient qu’encore que le prédicateur ait une science profonde, des pensées sublimes une éloquence parfaite, un style poli, élégant et noble, il ne fera ordinairement du fruit qu’autant que l’esprit intérieur l’animera. À la vérité la parole de Dieu est d’elle-même très-efficace, *parce que*, dit David, *qu’il rend sa voix toute-puissante* : mais elle ressemble au feu, qui a la vertu de brûler, et qui néanmoins ne brûle pas, lorsque la disposition nécessaire ne se trouve pas dans le sujet sur lequel il agit. De même la parole divine a la puissance d’éclairer et de toucher les hommes, mais elle ne fait ni l’un ni l’autre, lorsqu’ils ne sont pas disposés. Or, afin qu’elle produise son effet, deux sortes de dispositions sont requises : les unes regardent le prédicateur, les autres regardent les auditeurs. Le fruit de la prédication est proportionné aux dispositions du prédicateur. Ainsi l’on dit communément, que le disciple est tel que le maître. C’est pourquoi lorsque les sept fils de Sceva, prince des prêtres juifs, voulurent exorciser les démons, avec la même formule dont saint Paul s’était servi, un de ces malins esprits se mit en fureur contre eux, et leur dit : *Je connais Jésus, et je sais qui est Paul ;* *mais vous qui êtes-vous ? Et le possédé s’étant jeté sur ces exorcistes, et s’étant rendu maître de deux d’entre eux, ils s’enfuirent hors de la maison nus et blessés.* Cet accident leur arriva, non point parce que Jésus-Christ ne voulait pas qu’on chassât les démons en son nom, mais parce qu’ils n’avaient pas les dispositions nécessaires. Aussi lorsque les Apôtres empêchèrent un homme qui n’était pas des Disciples de Jésus-Christ, de délivrer les possédés par la vertu de son nom adorable, Notre-Seigneur les reprit : *Ne l’en empêchez pas*, leur dit-il, *parce qu’il ne se peut faire qu’un homme qui aura fait un miracle en mon nom, incontinent après cela parle mal de moi.* Il haït néanmoins ceux qui enseignent la loi de Dieu aux autres et ne la gardent pas eux-mêmes, qui prêchent le bien et ne le pratiquent pas. C’est pourquoi le Saint-Esprit parlant par l’Apôtre, blâme ces gens-là : *Quoi donc,* dit-il, *vous enseignez les autres et vous ne vous enseignez pas vous-mêmes ? Vous prêchez qu’il ne faut pas dérober, et vous dérobez ?* Et le Prophète-Roi : *Dieu*, dit-il, *a fait par mon ministère ce reproche au Pécheur : Pourquoi déclarez-vous* *aux autres mes commandemens qui renferment toute justice et toute sainteté, pourquoi faites-vous profession de vous attacher à mon Testament, puisque vous avez de l’aversion des instructions* que ma loi vous donne, et que vous méprisez tous mes préceptes ?* Ce qui nous apprend* que Dieu ne donnera point son esprit à ces gens-là, pour les rendre capables de travailler utilement pour le prochain. Ainsi nous voyons communément, autant qu’il nous est permis d’en juger, que plus le prédicateur a de sainteté, plus il fait de fruit en ses prédications, quoique son style soit simple et qu’il ait peu de doctrine et d’éloquence. Véritablement on ne peut désavouer que les paroles choisies, le style relevé, les beaux gestes, l’action noble, la science sublime, l’éloquence accomplie et agréable ne touchent les auditeurs, et ne fassent de plus grands fruits lorsque l’esprit de Dieu s’y trouve ; mais s’il ne s’y trouve pas, la volonté des auditeurs n’en sera nullement enflammée dans le service de Dieu, quoique les sens et l’esprit en reçoivent du plaisir. Elle restera aussi languissante et aussi lâche qu’auparavant dans la pratique des vertus et des bonnes œuvres, quoiqu’on prêche admirablement, et qu’on dise des choses merveilleuses. Tout cela n’est bon qu’à flatter les oreilles, comme un concert très-harmonieux. Mais après tout, ces paroles n’étant point animées de l’esprit de Dieu, sont mortes et n’ont pas la puissance de ressusciter les pécheurs, et de les retirer du tombeau de leurs péchés. On oublie bientôt les choses les plus sublimes que les prédicateurs prêchent, lorsqu’elles n’allument pas le feu divin dans le cœur ; parce que non-seulement le plaisir que l’auditeur prend à entendre des discours savans, polis et éloquens n’est de nulle utilité, mais il l’empêche encore d’entrer dans son intérieur, et il le retient dans l’extérieur, en l’appliquant plutôt à faire réflexion sur la bonne grâce et le beau sermon du prédicateur, que sur les moyens d’édifier son ame, de corriger ses défauts, et de sanctifier ses mœurs.
@@ -2527,18 +1789,6 @@ Nous avons dit que les biens qui nous provoquent sont du second rang, qu’ils r
 C’est ce que nous avons à dire aux auditeurs, puisque saint Paul désire qu’ils ne s’attachent point à ces choses, et qu’ils ne fassent état que de la simplicité de l’Évangile : il en a usé de la sorte avec les Corinthiens : *Pour moi, mes Frères,* dit-il, *lorsque je suis venu vers vous, pour vous annoncer la vérité, dont Jésus-Christ nous a rendu témoignage, je ne me suis point servi des discours élevés de l’éloquence et de la sagesse des hommes ; mais ç’a été avec la démonstration de l’esprit et de la puis-* sance.* Cependant ni l’intention de l’Apôtre ni mon dessein n’est pas de rejeter le* style élégant, l’art de la rhétorique, et la manière de dire propre, honnête et pathétique : ces choses sont utiles au prédicateur, et contribuent au succès des prédications. Car quand on dit bien, on rétablit les choses les plus désespérées ; au contraire, on perd les meilleures lorsqu’on en parle grossièrement et sans grâce.
 
 Il faut donc que d’un côté le prédicateur étudie assidûment l’Écriture Sainte, les Saints Pères, les Théologiens scholastiques et les mystiques, autant qu’il sera nécessaire pour prouver solidement les vérités qu’il avance ; il faut qu’il compose avec exactitude et avec une éloquence mâle et forte, les discours qu’il doit prononcer. Il faut enfin qu’il s’adonne à l’oraison pour s’enflammer le cœur avant que de monter en chaire, et pour parler avec beaucoup d’ardeur et de zèle. Mais de l’autre côté, il faut que les auditeurs conçoivent un ardent désir de profiter de la prédication ; qu’ils entendent la parole de Dieu avec humilité ; qu’ils s’appliquent à eux-mêmes et non pas aux autres ce qu’ils entendent ; qu’ils fassent réflexion sur les vérités qu’on leur a prêchées ; qu’ils viennent à la pratique des instructions qu’ils auront reçues, et qu’ils rendent grâces à Dieu, d’avoir le bonheur d’entendre la parole divine, dont les païens sont privés.
-
-↑ Eccè dabit voci suæ vocem virtutis. *Psal*. 67. 35.
-
-↑ Respondens autem spiritus nequàm dixit eis : Jesum novi, et Paulum scio : Vos autem qui estis ? Et insiliens in eos homo, in quo erat dæmonium pessimum, et dominatus amborum, in aluit contrà eos, ità ut nudi et vulnerati effugerent de domo illà. *Act*. 19. 15. 16.
-
-↑ Jesus autem ait : Nolite prohibere eum : nemo est enim qui faciat virtutem in nomine meo, et possit citò malè loqui de me. *Marc*. 9. 38.
-
-↑ Qui ergò alium doces, teipsum non doces, qui prædicas non furandum, furaris. *Rom*. 2. 21.
-
-↑ Peccatori autem dixit Deus : Quarè tu enarras justitias meas, et assumis Testamentum meum per os tuum ? Tu verò odisti disciplinam ; et projecisti sermones meos retrorsum. *Psal*. 49. 16. 17.
-
-↑ Et ego, cùm venissem ad vos, fartres, veni non in sublimitate sermonis, aut sapientiæ annuntians vobis testimonium Christi… Et sermo meus et prædicatio mea, non in persuasibilibus humanæ sapientiæ verbis, sed in ostensione spiritûs et virtutis. i. *Cor*. 2. 1. et 4.
 
 # 14. LA NUIT OBSCURE. DE L’AME et L’EXPLICATION DES CANTIQUES
 
@@ -2612,10 +1862,6 @@ Au reste, leur zèle pour Dieu est si ardent et si généreux, qu’ils donnerai
 
 Mais il me semble qu’il y a très-peu d’ames qui marchent au commencement dans ce degré de perfection, et nous aurions sujet d’être satisfaits, si la plupart ne se jetaient pas dans des désordres tout contraires. C’est pourquoi Dieu plonge dans les ténébres d’une obscure nuit, toutes celles qu’il veut purifier de ces défauts et de ces vices.
 
-↑ Quid autem vides festucam in oculo fratris tui, et trabem in oculo tuo non vides ? *Matt*. 7. 3. Duces cæci, excolantes culicem, camelum autem glutientes. *Matt*. 23. 24.
-
-↑ Fatuæ autem sapientibus dixerunt : Date nobis de oleo vestro ; quia lampades nostræ extinguuntur. *Matt*. 25. 8.
-
 ## CHAPITRE TROISIÈME.
 
 Un grand nombre aussi de ceux qui commencent, sont infectés du poison de l’avarice spirituelle. À peine les verrez-vous jamais contens des dons de Dieu ; ils se désolent et se plaignent de ce qu’ils ne trouvent pas dans les choses spirituelles la consolation qu’ils désirent. Quelques-uns ne cessent de demander des avis, et ne se lassent jamais de recevoir des principes spirituels. Ils lisent tous les livres qui traitent de cette matière, et ils y mettent plus de temps qu’à faire le bien, n’ayant nul égard à la mortification et à la pauvreté d’esprit, à quoi néanmoins ils devraient s’étudier.
@@ -2629,8 +1875,6 @@ L’ame ne peut cependant sortir de ces imperfections ni des autres vices, avant
 ## CHAPITRE QUATRIÈME.
 
 Outre les imperfections que nous venons, de marquer, il y en a d’autres où les commençans s’engagent, et que j’omets pour éviter la prolixité du discours, me contentant de dire les principales, qui sont comme l’origine et la cause des autres. Quant au vice de luxure, comme je ne prétends parler que des imperfections dont on doit se purger dans la Nuit obscure, je laisse les péchés qu’on peut faire en cette matière, et je dis que les commençans sont pleins de ces imperfections qu’on peut appeler luxure spirituelle. Ce n’est pas qu’elle soit telle véritablement ; mais c’est parce que quelquefois on en sent et on en éprouve les effets dans la chair à cause de sa fragilité, pendant que l’ame reçoit des communications spirituelles. Car les mouvemens de la sensualité s’élèvent souvent dans leurs exercices spirituels de sorte qu’il n’est pas en leur pouvoir de les empêcher ; et cela quelquefois arrive, lorsque l’ame est appliquée à la plus sublime oraison, ou quand elle participe aux sacremens de Pénitence et d’Eucharistie. Or ces mouvemens naissent tantôt de l’une, tantôt de l’autre de ces troicauses. Pour comprendre la première, il faut remarquer qu’il y a des gens d’une complexion faible et délicate, et d’un naturel tendre et sensible. Lorsqu’ils s’occupent actuellement aux choses spirituelles, la nature y sent une très-grande douceur ; et c’est de cette douceur que viennent ces émotions. Quand l’esprit et le sens en jouissent, chaque partie de l’homme est ensuite excitée au plaisir selon ses propriétés particulières ; savoir : l’esprit au plaisir spirituel qui vient de Dieu, et le sens au plaisir sensible qui naît du corps. Tellement que l’ame est quelquefois, selon l’esprit, unie intimement à Dieu dans l’oraison ; et selon le sens, elle expérimente avec résistance et avec ennui, de grands mouvemens et de grandes révoltes. Car comme ces deux parties ne composent qu’un tout, l’une est ordinairement touchée de la peine ou du plaisir de l’autre. En effet, selon la maxime des philosophes, les sujets reçoivent ce qui leur arrive de la manière qui leur est propre et naturelle. Ainsi l’ame dans ces commencemens, et même dans les progrès qu’elle fait, goûte des plaisirs spirituels avec la même imperfection, que la sensualité goûte les délices sensibles. Mais lorsque cette partie animale a été réformée dans la Nuit obscure où elle est purifiée de ses faiblesses, elle n’est plus sujette ces défauts. Elle reçoit si abondamment les impressions divines par l’entremise de l’esprit, qu’il semble qu’elle soit toute transportée et toute cachée en Dieu : et de cette sorte elle est en quelque façon participante de l’union de Dieu, et jouit en quelque manière des avantages qui réjaillissent sur l’ame. La seconde cause de ces rébellions sensuelles, c’est le malin esprit qui tâche de les former pour jeter l’ame dans le trouble et dans l’inquiétude, quand elle s’abandonne aux charmes de la contemplation : et alors si elle a tant soit peu d’égard à ces émotions comme à quelque chose de dangereuse conséquence, elle en souffre de grandes pertes. Car en les combattant et en les repoussant, elle se relâche en l’oraison comme le démon le prétend. Il y en a même quelques-uns qui renoncent tout-à-fait à ce saint exercice persuadés qu’ils tombent dans de plus grandes faiblesses en ce temps-là qu’en un autre temps et cela est très-véritable ; car l’ennemi invisible fait ses efforts pour les remplir de sales représentations et de mouvemens impurs pendant la méditation, afin qu’ils l’abandonnent. Il y mêle les vives images des directeurs spirituels, et des objets les plus saints, pour désoler ces gens-là, et pour les réduire à n’oser plus ni penser aux choses divines, ni rien voir, ni rien considérer, parce que ses révoltes les persécutent avec tant de violence, qu’ils sont dignes de compassion. Que si ces déréglemens attaquent des personnes mélancoliques, elles n’en sont ordinairement délivrées que quand on les a purgées de leurs humeurs mélancoliques, si ce n’est peut-être qu’elles entrent dans la Nuit obscure, qui les retire de ces désordres. La troisième cause est la crainte que les commençans ont de ces révoltes. Cette crainte les excite au même moment qu’ils s’en souviennent, et qu’ils les craignent actuellement, en voyant, en touchant, en rappelant dans leur esprit diverses choses ; mais alors ils endurent ces mouvemens sans être coupables et sans offenser leur Créateur. Quelquefois, lorsqu’ils parlent des choses spirituelles, ou qu’ils font de bonnes œvres, ils sont animés d’une certaine vivacité, d’une certaine force, d’une certaine gaîté, qui naissent de l’attention qu’ils font aux personnes qu’ils ont devant les yeux. Il y a en cela une vaine délectation, qui est un effet de la luxure spirituelle ; considérée dans le sens que nous lui donnons ; la volonté y prend aussi de la complaisance. D’autres font amitié avec certaines gens, sous prétexte de spiritualité ; mais en effet, la sensualité fait plus ces liaisons de cœur que le pur esprit. Ce qui paraît en ce que cette amitié n’augmente pas l’amour de Dieu ni la mémoire de sa présence ; au contraire, elle donne de grands remords de conscience. Quand l’amitié est vraiment spirituelle, elle fortifie l’amour de Dieu à proportion qu’elle croît ; et plus on y pense, plus on se souvient de Dieu, plus on désire de le posséder : de sorte que les accroissemens se font également des deux côtés. C’est le propre de l’esprit divin d’ajouter bien sur bien, et d’augmenter l’un par l’autre, à cause de la conformité et de la ressemblance qui se trouvent entre eux. Mais lorsque l’amitié naît de la sensualité, elle fait des effets contraires. Plus elle augmente, plus l’amour et le souvenir de Dieu diminuent. La chaleur et la véhémence de l’une font la froideur et le relâchement des autres ; et on s’aperçoit bientôt qu’on a oublié Dieu et qu’on ne l’aime plus, quoique la conscience reproche avec amertume ce changement criminel. Au contraire, si l’amour de Dieu s’allume davantage dans l’ame, l’amitié sensuelle se rallentit davantage et s’éteint dans un oubli éternel. Ces deux amours se combattent directement l’un l’autre ; et bien loin de s’aider mutuellement, celui qui a le dessus étouffe l’autre, et s’établit plus solidement sur ses ruines. Notre Sauveur exprime ceci en ces termes : *Ce qui est né de la chair est chair, et ce qui est né de l’esprit est esprit.* C’est-à-dire, l’amour qui naît de la sensualité se borne à la sensualité ; et l’amour qui naît de l’esprit, se termine à l’esprit de Dieu et le fait croître en nos ames. Et c’est la différence qui se trouve entre ces deux amours, et qui nous en donne la connaissance distincte et certaine. Mais lorsque l’ame s’est introduite dans la Nuit obscure, elle les règle sur la droite raison. Elle donne des forces et de la pureté à celui qui est selon Dieu ; elle étouffe ou elle mortifie celui qui est selon la sensualité.
-
-↑ Quod natum est ex carne, caro est : et quod natum est ex spiritu, spiritus est. *Jo*. 3. 6.
 
 ## CHAPITRE CINQUIÈME.
 
@@ -2674,8 +1918,6 @@ Ils s’abandonnent aussi à la douleur lorsqu’on les oblige à faire des chos
 
 Mais c’est assez parler des imperfections de ceux qui commencent à s’appliquer à la vie spirituelle. Il est aisé de comprendre la nécessité qu’ils ont de passer avec la grâce divine à l’état de ceux qui profitent en cette voie. C’est ce qu’ils font, lorsque Dieu les introduit dans la nuit obscure, où il les garantit de ces défauts et de ces tendresses sensibles, en les jetant dans les ténèbres intérieures et dans les aridités, et en les conduisant à la vertu par les différens moyens qu’il leur inspire. Car quoique les commençans s’exercent de toutes leurs forces à mortifier leurs passions, ils ne pourront toutefois les étouffer, ou du moins les soumettre suffisamment à la conduite de la raison et de la grâce, avant que Dieu leur ait donné cette victoire par l’usage de la Nuit obscure. Mais pour parler utilement d’une matière si difficile, il est nécessaire que Dieu nous donne de grandes lumières ; et c’est ce que je lui demande avec toute l’ardeur possible.
 
-↑ Qui enim voluerit animam suam salvam facere, per- det eam qui autem perdiderit animam suam propter me, inveniet eam. *Matt*. 16. 25.
-
 ## CHAPITRE HUITIÈME.
 
 Cette Nuit, qui n’est autre chose, comme nous avons dit, que la contemplation obscure, produit deux sortes de ténèbres ou de purgation dans les personnes spirituelles, selon les deux parties de l’homme, l’animale et la raisonnable. Ainsi la nuit ou la purgation qui purifie les sens, s’accommode et se proportionne à l’esprit suivant les mêmes sens ; et la nuit ou la purgation qui purifie l’esprit, dispose l’ame à l’union de Dieu. La nuit qui purifie les sens est commune à plusieurs, et sur-tout aux commençans, dont nous parlerons d’abord. La nuit qui purifie l’esprit n’est propre que de peu de gens, savoir, de ceux qui sont avancés en la vie intérieure, et qui se sont exercés long-temps en cette voie. Nous en traiterons aussi en son lieu.
@@ -2685,8 +1927,6 @@ La première nuit est amère et terrible aux sens ; mais la seconde est, sans co
 Il faut donc rappeler en sa mémoiré ce que nous avons dit, que les commençans agissent et vivent dans les voies de Dieu d’une manière basse, grossière, commode à leur goût et à leur amour-propre. Ils s’exercent d’ordinaire dans le discours pendant l’oraison, et ils donnent aux sens toute la douceur qu’ils y peuvent trouver : ce qui est mêlé de beaucoup d’imperfections. Ensuite, après avoir fait quelque progrès en la vertu, en jouissant des délices de la méditation, ils étouffent peu à peu l’amour des choses du monde ; et en acquérant de plus grandes forces spirituelles, ils répriment les passions qui les portent à la recherche des créatures : de sorte qu’ils peuvent soutenir pour l’amour de Dieu, les peines que les aridités leur causent. Mais lorsque les exercices de la vie intérieure leur réussissent selon leurs désirs ; lorsqu’ils sont comblés de consolations, et que les grâces du Ciel coulent avec abondance dans leur ame, Dieu les retire de cet état qui a encore quelque chose d’imparfait, pour les rendre capables de ses communications les plus intimes. Il les prive de tous ces plaisirs sensuels, de toutes ces tendresses, de toutes les lumières consolantes qu’il répandait sur eux, parce qu’ils étaient encore faibles et tendres, selon le langage de saint Jean : *J’ai ouvert une porte devant vous, que personne ne saurait fermer, parce que vous avez un peu de force, et que vous avez gardé ma parole, et n’avez pas renoncé mon nom.* Ensuite il les environne de ténèbres si épaisses, qu’ils ne savent de quel côté se tourner, quelque effort d’imagination et d’esprit qu’ils fassent, pour appeler à leur secours le raisonnement et les considérations. Ils ne peuvent plus méditer, et leur sens intérieur est abymé dans cette nuit, et abandonné à la sécheresse de telle sorte qu’ils ne sentent pas la moindre douceur dans les exercices de piété ; au contraire, ils sont plongés dans des torrens d’amertume. Dieu les traite ainsi pour les accoutumer à marcher d’eux-mêmes ; je veux dire, à ne se plus appuyer sur les consolations sensibles. Mais alors cette voie leur paraît toute nouvelle, étant contraire à leurs premières démarches.
 
 Ce changement arrive plus souvent à ceux qui se sont éloignés du monde, et qui ont déjà passé par les commencemens de la vie intérieure, qu’à ceux qui ne nont pas encore entrés dans cette carrière : ce qui vient de ce qu’ils se sont délivrés des occasions de renoncer à leurs bons propos, et qu’ils domptent plus facilement en ce temps-là l’amour des choses terrestres. Ces dispositions sont nécessaires pour entrer dans l’heureuse nuit des sens. Ce qui arrive pour l’ordinaire peu de temps après qu’ils ont commencé de s’étudier à la spiritualité.
-
-↑ Eccè dedi coràm te ostium apertum, quod nemo potest claudere : quia modicam habes virtutem, et servasti verbum meum, et non negasti nomen meum. *Apoc*. 3. 8.
 
 ## CHAPITRE NEUVIÈME.
 
@@ -2705,12 +1945,6 @@ La troisième marque, qui consiste en ce que l’âme ne peut plus, quelque effo
 Il faut remarquer sur ce sujet, que cet empêchement des puissances de l’ame, et ce peu de satisfaction qu’elles ont en cet état, ne sont nullement l’effet d’aucune humeur déréglée. S’ils en étaient l’effet, après que cette humeur qui est naturellement changeante serait consumée, l’ame pourrait, avec un peu d’application, reprendre ses premières opérations, et ses puissances trouveraient facilement leurs premiers appuis. On voit le contraire dans la purgation de l’appétit sensitif : aussitôt que l’ame y est entrée, il est impossible à ses puissances d’user de discours dans la méditation. Car quoique cette purgation ne se fasse pas sans interruption dans quelques-uns, quoique quelques autres jouissent par intervalle des consolations sensibles de l’oraison, néanmoins ils avancent toujours de plus en plus en cette purgation, et mettent fin à leurs opérations sensibles, Dieu les disposant ainsi à passer plus outre. Car ceux qui ne marchent pas par le chemin de la contemplation, se trouvent souvent dans de différens états, parce que la nuit ou la mortification des aridités ne dure pas toujours chez eux. Quelquefois ils souffrent des sécheresses, ils en sont quelquefois exempts. Quelquefois ils ne peuvent pas raisonner dans l’oraison, quelquefois ils le peuvent.
 
 Pour ce qui est de la Nuit obscure, Dieu les y fait entrer, afin de les exercer, de les humilier, de purifier leurs passions et leurs désirs, de peur qu’ils ne s’accoutument à ces attraits intérieurs, qui contentent la gourmandise spirituelle. Il ne les y met pas pour les conduire à la voie de l’esprit qui est la contemplation obscure. Car il n’élève pas à la parfaite contemplation tous ceux qui font profession de la vie spirituelle ; lui seul sait les causes de cette conduite. C’est pour cette raison qu’il ne prive jamais entièrement ces gens-là des considérations et des discours de la méditation ; mais il en use quelquefois plus libéralement avec les uns ; il a quelquefois plus de réserve avec les autres.
-
-↑ Vulgus quippè promiscuum, quod ascenderat cum eis, flagravit desiderio, sedens et flens, junctis sibi pariter filiis Israël, et ait : Quis dabit nobis ad vescendum carnes ? Recordamur piscium quos comedebamus in Egypto gratis : in mentem nobis veniunt cucumeres, et pepones, porrique, et cepe, et allia. Anima nostra arida est, nihil aliud respiciunt oculi nostri nisi man. *Num*. 11. 4. 5. 6.
-
-↑ *Averte oculos tuos à me, quia ipsi me avolare fecerunt.* *Cant*. 6. 4.
-
-↑ Audiam quid loquatur in me Dominus Deus : quoniam loquetur pacem in plebem suam. *Psal*. 84. 8.
 
 ## CHAPITRE DIXIÈME.
 
@@ -2752,12 +1986,6 @@ Cette sortie signifie la délivrance de l’ame, de sa sujétion à la partie se
 
 À la vérité cette voie est si étroite, si obscure et si horrible, qu’il n’y a point de comparaison entre les ténèbres et les souffrances de la nuit du sens et de la nuit de l’esprit, et que pour cette cause beaucoup moins de gens y entrent ; mais aussi les biens qui en viennent sont beaucoup plus grands. Or, c’est des biens de cette nuit du sens que nous traiterons maintenant le plus brièvement qu’il sera possible, afin que nous puissions ensuite parler de la nuit de l’esprit.
 
-↑ Quià inflammatum est cor meum, et renes mei commutati sunt : et ego ad nihilum redactus sum, et nescivi. *Psal*. 72. 21.
-
-↑ Sitivit anima mea ad Deum fortem vivum. *Psal*. 41. 2
-
-↑ Quàm angusta porta et arcta via est, quæ ducit ad vitam, et pauci sunt qui inveniunt eam. *Matt*. 7. 14.
-
 ## CHAPITRE DOUZIÈME.
 
 Des biens que la nuit du sens apporte à l’ame.
@@ -2781,20 +2009,6 @@ Outre ces avantages, la nuit ou les sécheresses du sens procurent à l’ame l�
 Et c’est de là que son amour pour le prochain prend naissance. Elle en conçoit beaucoup d’estime, et ne juge plus comme elle faisait, qu’elle était fervente, et qu’il était lâche dans le service de Dieu. Elle n’a devant les yeux que sa pauvreté spirituelle et que sa faiblesse, et elle ne s’arrête plus à considérer d’autre personne qu’elle-même. Le Roi-Prophète fait un beau portrait de cette humilité en ces termes : *J’ai gardé un profond silence, et je me suis humilié ; je n’ai rien dit pour ma défense, et ma douleur s’est renouvellée.* Il parle de la sorte, parce que tous les biens que son ame possédait, lui paraissaient tellement anéantis que non-seulement il n’avait plus rien à dire, mais la douleur aussi que la connaissance de ses propres misères lui causait, l’empêchait de parler des richesses spirituelles des autres.
 
 Ceux encore que Dieu tient en cet état, deviennent parfaitement obéissans et soumis en tout ce qui regarde la conduite de l’intérieur. Convaincus de leur bassesse et de leur incapacité, ils écoutent tous ceux qui les enseignent, et ils désirent d’être instruits de ce qu’ils doivent faire, par quiconque veut avoir cette charité pour eux. Tout cet orgueil aussi, et toute cette présomption, qui leur enflait le cœur lorsqu’ils étaient inondés des torrens de la grâce sensible, s’évanouissent : ils se défont enfin en ce temps-là de tous les défauts, dont nous avons fait le détail en parlant de l’orgueil spirituel.
-
-↑ At ille : Ne appropies, inquit, húc : solve calceamentum de pedibus tuis. *Exod*. 3. 5.
-
-↑ Orietur in tenebris lux tua. *Isa*. 58. 10.
-
-↑ Tantummodò sola vexatio intellectum dabit auditui. *Isa*. 28. 19.
-
-↑ *Quem docebit scientiam ? et quem intelligere faciet auditum ? ablactatos à lacte, avulsos ab uberibus.*
-
-↑ Super custodiam meam stabo, et figam gradum super munitionem et contemplabor, ut videam quid dicatur mihi, et quid respondeam ad arguentem me. *Habac*. 2. 1.
-
-↑ In terra deserta, et invia, et inaquosa ; sic in Sancto apparui tibi, ut viderem virtutem tuam, et gloriam tuam. *Psal*. 62. 3.
-
-↑ Obmutui, et humiliatus sum, et silui à bonis : et dolor meus renovatus est. *Psal*. 38. 3.
 
 ## CHAPITRE TREIZIÈME.
 
@@ -2826,8 +2040,6 @@ C’est-à-dire, je me suis délivrée des chaînes de mes passions, et je suis 
 
 Ainsi le soin de se mortifier continuellement, calme les quatre passions principales de l’ame, la joie, la douleur, l’espérance, la crainte. Les aridités répriment les passions, et font cesser les opérations des sens et des puissances intérieures : toute la partie animale demeure en paix. Tellement que les ennemis de l’ame ne peuvent plus lui ravir sa liberté d’esprit, ni altérer son repos et la tranquillité de sa maison ou de son intérieur. C’est ce qu’elle déclare dans le vers suivant.
 
-↑ Renuit consolari anima mea : memor fui Dei, et delectatus sum, et exercitatus sum, et defecit spiritus meus. *Psal*. 76. 4.
-
 ## CHAPITRE QUATORZIÈME.
 
 On donne l’éclaircissement du dernier vers du premier Cantique.
@@ -2850,10 +2062,6 @@ Il purifie les courageux plus promptement et avec plus de violence, et les faibl
 
 Quelquefois il se cache à ceux qui sont encore trop faibles en la vertu, afin de leur donner sujet de s’exercer plus fortement en son amour. Car s’ils ne souffraient pas ces sortes de rebuts, ils n’apprendraient pas à s’approcher plus près de lui par la force de l’amour. Mais quoique Dieu conduise bientôt à l’union de l’amour les ames qui doivent passer à cet état si heureux et si relevé, il les laisse communément longtemps dans ces aridités, comme l’expérience le montre. Mais c’est assez parler de cette première nuit, il faut traiter maintenant de la seconde.
 
-↑ Qui non est tentatus, quid scit ?… qui non est expertus, pauca recognoscit. *Eccl*. 34. 9. 10.
-
-↑ Castigasti me, et eruditus sum. *Jerem*. 31, 18.
-
 # 17. LA NUIT OBSCURE DE L’AME, ET L’EXPLICATION DES CANTIQUES.
 
 ## LIVRE SECOND,
@@ -2868,10 +2076,6 @@ Cette douceur intérieure se répand dans ces ames et sur leurs sens, avec plus 
 
 C’est de là que prennent leur origine les extases et les violentes secousses du corps, jusqu’à disloquer en quelque manière les os, parce que ces communications ne sont pas purement spirituelles, c’est-à-dire, ne se font pas à l’esprit seul, telles qu’elles se trouvent dans les parfaits qui ont été purifiés dans la seconde nuit, et qui ne sont plus sujets à ces ravissemens ni à ces agitations de corps, parce qu’ils jouissent d’une pleine liberté d’esprit, sans souffrir ni l’obscurité ni l’abstraction des sens. Afin qu’on voie clairement combien il es nécessaire que ceux qui profitent entre dans cette nuit de l’esprit, nous apporterons ici quelques-uns des défauts et des dommages auxquels ils sont infailliblement exposés.
 
-↑ Mittit crystallum suam sicut bucellas. *Psal*. 147. 6.
-
-↑ Corpus enim, quod corrumpituragravat animam. *Sap*. 9. 15.
-
 ## CHAPITRE DEUXIÈME.
 
 De quelques imperfections de ceux qui avancent.
@@ -2882,8 +2086,6 @@ Ces hommes-là souffrent aussi la stupidité naturelle de l’esprit, de laquell
 
 J’aurais beaucoup d’autres choses à dire des défauts de ceux qui profitent en la vie intérieure, mais je serais trop long. J’ajoute seulement que c’est une nécessité inévitable de s’en purifier dans cette seconde nuit, avant que d’acquérir l’union divine ; et qu’ensuite l’ame marchera par une foi obscure et toute pure, comme par le chemin propre à la conduire à ce terme, selon l’expression du prophète Osée : *Je vous épouserai en la foi ;* c’est-à-dire, je vous unirai à moi.
 
-↑ Et sponsabo te mihi in fide. *Osée*. 2. 20.
-
 ## CHAPITRE TROISIÈME.
 
 Remarques nécessaires pour entendre les choses qui suivent.
@@ -2891,12 +2093,6 @@ Remarques nécessaires pour entendre les choses qui suivent.
 Pour développer nettement cette matière, il faut remarquer l’ordre que tiennent ceux qui sont dans leur avancement spirituel. D’abord ils reçoivent des communications fort agréables. Puis la partie sensible de l’homme, attirée par la douceur qui réjaillit sur elle, s’accommode à l’esprit, et conspire avec lui pour atteindre au même but. Cependant ces deux parties, la sensitive et la spirituelle, se nourrissent du même aliment, chacune selon sa nature. Elles se disposent ainsi d’un commun accord à supporter la rigoureuse purgation de l’esprit, qu’elles doivent bientôt sentir pour être parfaitement délivrées de leurs imperfections. Car l’une n’est jamais purifiée exactement sans l’autre ; et l’entière purgation des sens ne s’accomplit que quand celle de l’esprit commence. Si bien que la nuit des sens se doit nommer plutôt la réformation et la modération des passions, que la délivrance de leurs imperfections. La raison est, parce que les désordres de la partie animale ont leur force et leur racine dans l’esprit. Ainsi tandis que les révoltes et les déréglemens des mauvaises habitudes ne seront pas purifiées, les deux parties de l’homme ne peuvent être affranchies de leurs défauts. Mais elles se purifient toutes deux dans cette seconde nuit, parce que c’est le but et la fin où cette même nuit nous mène. Aussi était-il expédient à la partie animale de passer par la première nuit, et d’acquérir la tranquillité qu’elle nous apporte, afin qu’unissant ses forces avec celles de la partie supérieure, elles parviennent toutes deux à une purgation plus excellente, et qu’elles supportent avec plus de fermeté les peines de la nuit de l’esprit : fermeté absolument nécessaire pour souffrir un état si dur et si incommode. Car si la faiblesse de la partie inférieure n’avait été corrigée par la force que Dieu lui a donnée dans les douces communications qu’il lui a faites de lui-même, la nature n’aurait pu avoir ni le courage, ni les dispositions suffisantes pour soutenir la véhémence de cette purgation.
 
 C’est pourquoi la manière d’opérer avec Dieu, que ceux qui avancent tiennent, est très-basse et très-vile, parce qu’ils n’ont pas encore l’esprit épuré ni éclairé ; et que pour cette cause ils pensent et parlent de Dieu comme des enfans, semblables à l’Apôtre, qui dit de lui-même : *Lorsque j’étais enfant je parlais en enfant ; j’avais des sentimens d’enfant, des pensées d’enfant.* Ce qui vient de ce qu’ils ne sont pas encore arrivés à l’union de Dieu, par le moyen de laquelle étant devenus grands, ils font des œuvres spirituelles très-relevées, parce qu’elles viennent d’une puissance plutôt divine qu’humaine. Et d’autant que Dieu veut les dépouiller du vieil homme, et les revêtir du nouveau qui est créé selon Dieu, et faire en sorte que l’état nouveau de leur esprit produise en eux une transformation, comme parle saint Paul, il prive de toutes choses leurs puissances, leurs passions, leurs sens, tant spirituels que corporels, tant intérieurs qu’extérieurs ; et pour cet effet il laisse l’entendement dans les ténèbres, la volonté dans les sécheresses, la mémoire dans la privation de toute espèce et de tout souvenir. Il laisse aussi l’ame dans l’affliction, dans l’amertume, dans l’abattement de cœur, afin que ce dénuement soit un des principes qui sont nécessaires à l’esprit, pour l’introduire dans l’union de l’amour divin. Dieu opère toutes ces choses dans l’ame par une contemplation également pure et secrète, comme l’ame même le dit dans son premier Cantique. Mais quoique ce Cantique ait été expliqué au commencement de la nuit des sens, néanmoins l’ame l’entend aussi de la nuit de l’esprit, parce que cette nuit est la principale purgation de l’ame. C’est pourquoi nous en parlerons encore suivant cette seconde explication.
-
-↑ Cùm essem parvulus, loquebar ut parvulus, sapiebam ut parvulus, cogitabam ut parvulus. i. *Cor*. 13. 11.
-
-↑ Renovamini autem spiritu mentis vestræ, et induite novum hominem, qui secundùm Deum creatus est in justitià et sanctitate veritatis. *Ephes*. 4. 23. 24.
-
-↑ Et nolite conformari huic sæculo, sed reformamini in novitate sensus vestri. *Rom*. 12. 2.
 
 ## CHAPITRE QUATRIÈME.
 
@@ -2928,18 +2124,6 @@ En effet, quant au premier point, qui consiste en ce que cette contemplation, à
 
 Le second genre de tourmens, que l’ame souffre en cet état, vient de son infirmité naturelle et de sa faiblesse spirituelle. Cette contemplation divine lui est communiquée d’une manière si forte et si impétueuse, à dessein de la fortifier en la domptant, que sa faiblesse ne la peut supporter, et qu’elle vient même à défaillir en quelque façon, lors principalement que la véhémence de la lumière est trop grande. Car le sens et l’esprit souffrent comme s’ils étaient oppressés d’un fardeau immense et invisible, et ils tombent dans une agonie si cruelle, que la mort paraît alors un véritable soulagement. Le saint homme Job avait expérimenté ces rigueurs, lorsqu’il disait : *Je ne désire pas que Dieu combatte de toutes ses forces avec moi, de peur que le poids de sa grandeur ne m’accable.* Car l’ame, dans le plus fort de son oppression, se voit si éloignée des faveurs de Dieu, qu’elle croit que toutes les ressources de son appui et de son secours se sont évanouies avec tous ses biens, et qu’il ne se trouve personne qui lui porte compassion. Si bien qu’elle peut dire avec le plus affligé des hommes : *Ayez pitié de moi, au moins vous mes amis, parce que la main du Seigneur m’a frappé.* C’est en vérité une chose digne d’admiration et de douleur, de voir que l’ame a tant de faiblesse et d’imperfection en cet état, qu’elle trouve la main de Dieu si dure et si pesante, quoiqu’elle soit d’elle-même si douce et si légère, et qu’elle ne touche l’ame que très délicatement. Car Dieu ne la traite de la sorte, que pour l’enrichir de ses dons, et non pour la châtier.
 
-↑ Nubes et caligo in circuitu ejus. *Psal*. 96. 2.
-
-↑ Præ fulgore in conspectu ejus nubes transierunt. *Psal*. 17. 13.
-
-↑ Peccavi, quid faciam tibi, ô custos hominum ! Quarè posuisti me contrarium tibi, et factus sum mihimetipsi gravis ? *Job*. 7. 20.
-
-↑ A fortitudine manus tuæ ego defeci in increpationibus : Propter iniquitatem corripuisti hominem, et tabescere fecisti sicut araneam animam ejus. *Psal*. 38. 12.
-
-↑ Nolo multà fortitudine contendat mecum, nec magnitudinis suæ mole me premat. *Job*. 23. 6.
-
-↑ Miseremini mei, miseremini mei, saltem vos amici mei ; quia manus Domini tetigit me. *Job*. 19. 21.
-
 ## CHAPITRE SIXIÈME.
 
 Des autres peines que l’ame souffre en cette nuit.
@@ -2951,22 +2135,6 @@ Mais le plus grand supplice de l’ame est de croire que Dieu la hait, la délai
 La quatrième espèce de souffrances vient de l’éminence de cette contemplation obscure : cette éminence n’est autre chose que son objet, savoir la grandeur et la majesté de Dieu. Car elles font sentir à l’ame sa pauvreté et sa misère ; et cette pensée, fondée sur une si grande opposition, est une de ses principales peines. Elle expérimente en elle-même un profond vide, c’est-à-dire, un entier dépouillement des biens temporels, des biens naturels et des biens spirituels qui ont du rapport à son plaisir ; et elle se voit pleine de maux contraires, savoir, des défauts et des aridités qui la désole. Elle se trouve enfin privée des espèces et des connaissances de ses puissances, et son esprit lui paraît dénué de tout, et entièrement abandonné. Car puisque Dieu la purifie selon la partie sensitive et la partie spirituelle, selon les puissances intérieures et extérieures, il est utile à l’ame d’être mise dans cette pauvreté et dans la privation de toutes ces choses, afin qu’elle demeure dans la sécheresse et dans les ténèbres. Parce que la partie animale est purifiée par les aridités, les puissances le sont par la privation de leurs opérations ; l’esprit l’est aussi par l’obscurité. Dieu opère toutes ces choses par cette obscure contemplation, dans laquelle l’ame sent ce vide avec la suspension, ou la soustraction de tous les appuis qu’elle trouvait dans la nature : ce qui la fait autant souffrir qu’un homme qu’on tiendrait suspendu en l’air et qu’on empêcherait de respirer. Alors Dieu la purifie en la vidant, et en consumant toutes ses affections, et toutes les habitudes imparfaites de sa vie, comme le feu consume la rouille de quelque métal. Ces choses étant fort enracinées, il faut nécessairement que l’ame endure une extrême douleur lorsqu’elle les perd, et que ces paroles d’Ezechiel se vérifient : *Entassez les os, afin que j’y mette le feu ; les chairs seront consumées ; tout cet amas cuira, et tous les os sécheront.* Le Prophète semble signifier la pauvreté que l’ame éprouve selon la partie inférieure et la partie supérieure. Il dit encore au même endroit : *Mettez-la sur les charbons ; mais il faut qu’elle soit vide et toute nue, afin que son airain s’échauffe et se fonde, et que toutes ses ordures s’amassent dans le milieu, et que sa rouille soit consumée.* On voit dans ces expressions l’affliction extrême que l’ame reçoit du feu de la contemplation qui la purifie, puisqu’il est nécessaire qu’elle réduise en quelque manière au néant sa nature, ses affections et ses défauts, pour se purifier de la rouille qui est entrée jusques dans son intérieur. Si bien que devant être purifiée dans ce feu, comme l’or dans la fournaise selon le sentiment du Sage, elle sent jusques dans les moëlles cet anéantissement et cette défaillance, avec une extrême pauvreté. David était dans ce pitoyable état lorsqu’il s’écriait : *Sauvez-moi, mon Dieu, parce que les eaux pénètrent mes entrailles. Je suis tombé dans un abyme plein de boue et sans* fond. Je suis descendu dans les gouffres de la* *mer, parce que la tempête m’y a fait couler. J’ai crié de toutes mes forces, et je me suis enroué : mes yeux se sont épuisés en s’attachant sur vous, mon Dieu, pendant que j’ai mis toute mon espérance en votre bonté.**
 
 Dieu abaisse beaucoup l’ame, afin qu’il l’élève ensuite beaucoup ; et s’il ne modérait promptement les sentimens que l’ame a si vivement imprimés en l’esprit, elle abandonnerait son corps en peu de jours. Mais le feu de ces peines ne se fait sentir que de temps en temps, et non pas continuellement : il est néanmoins quelquefois si violent, que l’ame croit voir l’enfer ouvert sous elle et tout prêt à l’engloutir. Ces sortes de gens sont du nombre de ceux qui descendent tout vivans dans les enfers, et qui y sont purifiés comme dans le purgatoire : puisque c’est-là cette purgation que chacun doit faire de ses fautes, quoiqu’elles ne soient que vénielles. Ainsi on peut dire avec probabilité, qu’un ame qui a passé par ce purgatoire spirituel, ou n’entrera pas dans le purgatoire de l’autre monde, ou n’y demeurera pas long-temps ; car une heure qu’elle passe dans le premier purgatoire lui profite davantage, à cause des mérites qu’elle acquiert, et de la satisfaction qu’elle fait à la justice divine, que plusieurs heures ne lui serviraient dans le dernier purgatoire, parce qu’elle n’y mériterait plus, et que Dieu ne lui remettrait rien de ses souffrances.
-
-↑ Circumdederunt me dolores mortis ; el torrentes iniquitatis conturbaverunt me. Dolores inferni circumdederunt me ; præoccupaverunt me laquei mortis. In tribulatione mea invocav Dominum et ad Deum meum clamavi. *Psal*. 17. 5. 6. 7.
-
-↑ Estimatus sum cum descendentibus in lacum : factus sum sicut homo sine adjutorio, inter mortuos liber : Sicut vulnerati dormientes in sepulchris, quorum non es memor ampliùs, et ipsi de manu tua repulsi sunt. Pesuerunt me in lacu inferiori in tenebrosis, et in umbrâ mortis, super me confirmatus est furor tuus : et omnes fluctus tuos induxisti super me. *Psal*. 87. 5. 6. 7. 8.
-
-↑ Longè fecisti notos meos à me : posuerunt me abominationem sibi. *Psal*. 87. 9.
-
-↑ Et projecisti me in profundum in corde maris, et flumen circumdedit me ; omnes gurgites tui, et fluctus tui super me transierunt. Et ego dixi : abjectus sum à conspectu oculorum tuorum ; verumtamen rursùs videbo templum sanctum tuum. Circumdederunt me aquæ usquè ad animam ; abyssus vallavit me ; pelagus operuit caput meum. Ad extrema montium descendi ; terræ vectes concluserunt me in æternum ; et sublevabis de corruptione vitam meam, Domine Deus meus. *Jonœ*. 2. 5. 6. 7.
-
-↑ Cengere ossa quæ igne succendam, consumentur earnes, et coquetur universa compositio, et ossa tabescent. *Ezech*. 24. 10.
-
-↑ Pone quoque eam super prunas vacuam, ut incalescat, et liquefiat æs ejus, et confletur in medio ejus inquinamentum ejus, et consumatur rubigo ejus. *Ezech*. 24. 11.
-
-↑ Tanquàm aurum in fornace probavit illos. *Sap*. 3. 6.
-
-↑ Salvum me fac, Deus ; quoniam intraverunt aquæ usquè ad animam meam : Infixus sum in limo profundi, et non est substantia. Veni in altitudinem maris ; et tempestas demersit me. Laboravi clamans, raucæ factæ sunt fauces meaæ ; defecerunt oculi mei, dùm spero in Deum meum. *Psal*. 68. 1. 2. 3. 4.
 
 ## CHAPITRE SEPTIÈME.
 
@@ -2982,16 +2150,6 @@ Mais parce que l’esprit n’est pas encore parfaitement épuré des imperfecti
 
 Toutefois les personnes qui sont dans des épreuves si affligeantes, aiment Dieu au point de donner mille vie pour lui. Mais ce grand amour ne les empêche pas de croire que Dieu ne les aime point, n’ayant rien qui soit digne de son amour, et s’estimant même assez misérables pour mériter sa haine et l’horreur de toutes les créatures : ces sentimens les accablent de chagrins et de désolations.
 
-↑ Ego ille quondam opulentus, repentè contritus sum : tenuit cervicem meam, confregit me, et posuit me sibi quasi insignum. Circumdedit me lanceis suis convulneravit lumbos meos, non pepercit, et effudit in terrà viscera mea. Concidit me vulnere super vulnus, irruit in me quasi gigas. Saccum consui super cutem meam, et operui cinere carnem meam. Facies mea intumuit à fletu, et palpebræ meæ caligaverunt. *Job*. 16. 13. 14. 15. 16. 17.
-
-↑ Ego vir videns paupertatem meam in virga indignationis ejus. Me minavit, et adduxit in tenebras, et non in lucem. Tantum in me vertit, et convertit manum suam totá die. Vetustam fecit pellem meam et carnem meam, contrivit ossa mea. Ædificavit in gyro meo, et circumdedit me felle et labore. In tenebrosis collocavit me, quasi mortuos sempiternos. Circum edificavit adversùm me, ut non egrediar aggravavit compedem meum. Sed et cùm clamavero et rogavero, exclusit orationem meam. Conclusit vias meas lapidibus quadris, semitas meas subvertit. Ursus insidians factus est mihi ; leo in absconditis. Semitas meas subvertit, et confregit me : posuit me desolatam. Tetendit arcum suum, et posuit me quasi signum ad sagittam. Misit in renibus meis filias pharetræ suæ. Factus sum in derisum omni populo meo, canticum eorum totá die. Replevit me amaritudinibus ; inebriavit me absinthio. Et fregit ad numerum dentes meos, cibavit me cinere. Et repulsa est a pace inima mea, oblitus sum bonorum. Et dixi : Periit finis meus, et spes mea à Domino. Recordare paupertatis et trangressionis meæ, absinthii et fellis. Memorià, memor ero, et tabescet in me anima mea. *Jerem*. *Thrênoi*. 3. 1. 2. 3. etc.
-
-↑ Qui revelat profunda de tenebris, et producit in lucem umbra mortis. *Job*. 12. 22.
-
-↑ Sicut tenebræ ejus, ita et lumen ejus. *Psal*. 138. 12. Collocavit me in obscuris sicut mortuos sæculi. *Psal*. 142. 4.
-
-↑ Ego autem dixi in abundantiâ meâ : Non movebor in æternum. *Psal*. 29. 7.
-
 ## CHAPITRE HUITIÈME.
 
 De quelques nouvelles souffrances de l’Ame, tandis que cet état dure.
@@ -2999,12 +2157,6 @@ De quelques nouvelles souffrances de l’Ame, tandis que cet état dure.
 Il se trouve en cet état une nouvelle peine, qui est, que cette obscure nuit lie les puissances de l’ame, et étouffe ses affections de telle sorte, qu’elle ne peut élever son esprit à Dieu, ni lui demander aucune chose. Il lui semble que, comme le dit Jérémie, *Dieu s’est couvert d’un nuage pour empêcher son oraison de passer jusqu’à lui,* et qu’il lui a fermé le chemin de grosses pierres carrées, de peur qu’elle ne puisse aller jusqu’à son trône. Que si elle lui fait quelques prières, c’est avec tant de sécheresse et si peu de dévotion, qu’il lui paraît que Dieu ne l’écoute pas, et qu’il la néglige, pouvant dire avec le Prophète : *Lorsque je l’ai prié, il a rejeté ma prière.* Si bien qu’il est utile en ce temps-là de se prosterner jusqu’à *terre, et de mettre*, comme parle Jérémie, *la bouche dans la poussière,* en supportant patiemment cette épreuve purifiante. C’est Dieu qui fait cette opération dans l’ame, et l’ame ne peut agir, ni prier, ni s’appliquer avec attention aux choses divines. Elle ne saurait même s’occuper des affaires temporelles, et souvent elle est hors d’elle-même, et perd la mémoire de toutes choses, de telle sorte qu’elle passe plusieurs heures sans savoir ce qu’elle a fait : elle ignore aussi quelquefois ce qu’elle fait ou ce qu’elle doit faire, et n’est presque pas attentive à ses actions, quelque effort qu’elle fasse pour l’être.
 
 Mais parce que l’entendement est plus purifié de ses connaissances imparfaites, et la volonté dégagée de ses affections déréglées, et la mémoire dépouillée de ses espèces, il faut que l’ame soit comme anéantie en tout cela, pour accomplir ce que disait David en cet état : *J’ai été réduit au néant, et je ne m’en suis pas aperçu.* Cette ignorance renferme l’oubli de la mémoire, et alors les abstractions et les transports de l’ame naissent du recueillement intérieur où cette contemplation la plonge. Il était avantageux que l’ame fût absorbée avec toutes ses puissances, dans cette divine et obscure lumière de la contemplation infuse, et qu’elle fût ainsi séparée des créatures, afin qu’elle fût disposée et proportionnée en quelque manière à l’union de Dieu. En sorte que plus cette lumière est pure, plus elle obscurcit l’ame, et la vide de ses affections particulières pour les choses, soit célestes, soit terrestres au contraire, moins elle est pure, moins elle prive l’ame de ses opérations, et moins elle lui paraît obscure.
-
-↑ Opposuisti nubem tibi, ne transeat oratio. *Jerem*. *Thrênoi*. 3. 44. Conclusit vias meas lapidibus quadris, semitas meas sub vertit. *Ibid. v*. 9.
-
-↑ Sed et cùm clamavero et rogavero, exclusit orationem meam. *Ibid. v*. 8.
-
-↑ Ponet in puivere os suum, si fortè sit spes. *Ibid. v.* 29.
 
 ## CHAPITRE NEUVIÈME.
 
@@ -3021,14 +2173,6 @@ Quelquefois l’ame est tellement tourmentée de la seule représentation de ses
 Cette guerre est cruelle, parce que la paix qui en doit naître est grande : l’affliction de l’ame est intérieure, toute pure et sans consolation, parce que l’amour qu’elle concevra ensuite pour Dieu, doit être intime et épuré de tous défauts. Il en va de ceci comme d’un ouvrage ou d’un édifice ; car plus un ouvrage doit être excellent, plus on y apporte d’art et de diligence pour le faire ; plus un édifice doit être fort et élevé, plus on creuse et on fortifie les fondemens : de même, plus la paix de l’ame doit être solide, plus les combats qu’elle soutient sont violens ; plus l’amour doit être ardent, plus les souffrances doivent être excessives.
 
 Si vous demandez pourquoi la lumière de cette contemplation produit en l’ame des effets si douloureux, on vous répondra ce qu’on a déjà dit, que cela vient, non pas de cette infusion divine, mais de la faiblesse et des imperfections de l’ame, qui n’est pas capable en ces dispositions, de recevoir sans douleur les impressions de son Dieu.
-
-↑ Concepimus, et quasi parturivimus, et peperimus spiritum. *Isa*. 26. 18.
-
-↑ Afflictus sum et humiliatus sum aimis : rugiebam à gemitu cordis mei. *Psal*. 37. 9.
-
-↑ Antequàm comedam suspiro ; et tanquàm inundantes aquæ, sic rugitus meus. *Job*. 3. 24.
-
-↑ Nocte os meum perforatur doloribus, et qui me comedunt, non dormiunt. *Job*. 30. 17.
 
 ## CHAPITRE DIXIÈME.
 
@@ -3052,8 +2196,6 @@ En sixième lieu, nous inférons de ce principe, que quoique l’ame ait des int
 
 Nous passerons maintenant à l’explication du second vers de ce premier Cantique, pour montrer les fruits que l’ame recueille de ses souffrances.
 
-↑ Colluctata est anima mea in illâ, et in faciendo eam confirmatus sum. *Eccli*. 51. 25. Venter meus conturbatus est quærendo illam : proptereà bonam possidebo possessionem. *Ibid. v.* 29.
-
 ## CHAPITRE ONZIÈME.
 
 L’ame fait connaître ici le feu spirituel de l’amour qui s’allume en elle dans l’obscurité de cette contemplation qui lui cause tant de douleurs, comme le feu matériel s’allume dans le bois qu’on fait brûler. L’ardeur de cet amour est aussi différente de celle qui se fait sentir quelquefois dans la partie sensitive de l’homme, que l’ame est différente du corps, ou que la partie spirituelle est différente de la partie animale. Car le feu de cet amour divin s’allume en l’esprit, lorsque l’ame, accablée de peines, est embrasée de l’amour de Dieu d’une manière vive, forte et pénétrante, et qu’elle a quelque pressentiment de la présence de Dieu, quoique l’obscurité de son esprit l’empêche alors de rien connaître en particulier.
@@ -3066,16 +2208,6 @@ Enflammée d’un amour inquiet.
 
 Parce qu’elle aime et désire Dieu en plusieurs manières, dans toutes les affaires et dans toutes les occasions qui se présentent ; elle sent cet amour et ce désir en tout temps et en tout lieu ; elle ne prend aucun repos ; l’ardeur qui la brûle et qui la blesse, la presse sans relâche, et lui fait expérimenter ce que le saint homme Job décrit admirablement : *Comme le serviteur qui travaille aux ardeurs du soleil, souhaite l’ombre ; et comme le mercenaire attend impatiemment la fin de son travail, de même les mois, les jours et les nuits m’ont été ennuyeux et difficiles à passer. Lorsque, je vais me coucher, je dis en moi-même, quand* *sera-ce que je me leverai ? Quand je suis levé, je dis encore, quand sera-ce que le soir viendra ? Ainsi je suis accablé de souffrances depuis le matin jusqu’au soir.* Toutes choses sont fâcheuses à l’ame en cet état ; et pour lui appliquer dans un sens spirituel ce que Job dit des douleurs qu’il endurait jusqu’à la nuit, elle souffre sans espérer ni lumière, ni consolation, ni bien spirituel. Son affliction, au reste, s’accroît dans l’ardeur de l’amour, pour deux raisons. La première est, parce que les ténèbres spirituelles dont elle est environnée, la fatiguent de doutes et d’inquiétudes. La seconde est, parce que l’amour divin l’embrase, la blesse au cœur, et la consume d’un feu dévorant et insatiable. Le prophète Isaïe a bien exprimé ces deux espèces de peines : *Mon ame*, dit-il, *vous a désiré la nuit,* c’est-à-dire, dans mes misères ; et c’est la première affliction qui vient de la nuit obscure. Il continue : *Je m’éveillerai le matin, pour vous chercher en esprit dans mon intérieur.* C’est la seconde peine, qui naît de l’amour et des désirs et des affections de l’esprit.
 
-↑ Fortitudinem meam ad te custodiam, quià Deus susceptor meus es. *Psal*. 58. 10.
-
-↑ Diliges Dominum Deum tuum ex toto corde tuo, et ex totà anima tuà, et ex totà mente tuà, et ex totà virtute tuà. *Marc*. 12. 30.
-
-↑ Sitivit in te anima mea, quàm multipliciter tibi caro mea. *Psal*. 62. 3.
-
-↑ Sicut servus desiderat umbram, et sicut mercenarius præstolatur finem operis sui : Sic et ego habui menses vacuos, et noctes laboriosas enumeravi mihi : Si dormiero, dicam : Quandò consurgam ? Et rursum expectabo vesperam, et replebor doloribus usquè ad tenebras. *Job*. 7. 2. 3. 4.
-
-↑ Anima mea desideravit te in nocte ; sed et spiritu meo in præcordiis meis de manè vigilabo ad te. *Isa*. 16. 6.
-
 ## CHAPITRE DOUZIÈME.
 
 Il paraît par ce que nous venons de dire que comme l’ame se purifie dans l’obscurité par le feu de cet amour, de même elle s’enflamme dans les ténèbres. De plus on peut juger par-là, que comme le feu matériel et ténébreux purge les prédestinés dans le purgatoire, de même le feu spirituel et obscur de l’amour les purifie en cette vie. Car le feu les délivre en l’autre monde de leurs souillures, et l’amour les affranchit en celui-ci de leurs taches. C’est cet amour purifiant que David demandait quand il disait : *Mon Dieu, rendez mon cœur pur et net.* En effet, la pureté de cœur, n’est autre chose que l’amour et la grâce de Dieu. De là vient que notre Sauveur appelait heureux tous ceux qui ont le cœur net ; c’est-à-dire, qui sont enflammé d’amour, puisque la béatitude ne se donne qu’au prix de l’amour divin.
@@ -3085,12 +2217,6 @@ Jérémie prouve très-bien que l’ame est purifiée lorsque l’amour l’enfl
 Nous pouvons conclure de là, que la même sagesse qui vient de Dieu, et qui passant depuis la première hiérarchie des Anges jusqu’à la dernière, les illumine tous ; elle éclaire aussi tous les hommes, et en particulier les ames que cette nuit obscure purifie. C’est pourquoi l’Écriture Sainte nous apprend, que ce que les Anges font, Dieu le fait aussi, et que les saintes inspirations qu’ils nous suggèrent, viennent de lui comme de la première source de tout bien : ainsi Dieu donne ses lumières aux Anges, et les Anges se les communiquent l’un à l’autre, en descendant des plus hauts aux plus bas. La comparaison suivante donnera plus de facilité à comprendre cette communication. Si on faisait plusieurs fenêtres sur une même ligne dans un enfoncement de perspective ; et si depuis la première qui serait la plus grande, les autres allaient toujours diminuant avec proportion jusqu’à la dernière, elles recevraient toutes ensemble les mêmes rayons du soleil, en sorte néanmoins que les premières les transmettraient aux dernières, selon leur grandeur ou leur petitesse. De même, les Anges les plus proches de Dieu en sont éclairés, et ces divines lumières se répandent de telle manière sur les esprits inférieurs et plus éloignés de Dieu, qu’elles sont plus petites selon leur capacité. Et parce que l’homme est inférieur à l’Ange, il reçoit des lumières plus bornées, Dieu ne lui donnant sa sagesse que selon la portée de son esprit. Mais cette communication est toujours accompagnée de douleur. Car comme les rayons ardens du soleil blessent les yeux débiles, de même les grandes lumières de Dieu blessent, fatiguent, et affligent les ames, à cause de leur faiblesse et de leurs imperfections ; qui les rendent incapables de supporter cet éclat. Il faut que le feu de l’amour les purifie auparavant, les épure davantage, les rende plus spirituelles, afin qu’étant devenues semblables aux purs esprits qui n’ont rien de matériel, elles soient plus propres à l’union de l’amour divin.
 
 L’ame ne sent pas toujours cette grande ardeur ni toutes ces inquiétudes. Au commencement de cette purgation spirituelle, ce feu divin s’occupe plutôt à sécher l’ame comme du bois, et à la préparer, qu’à l’enflammer. Mais quand il l’enflamme, elle expérimente une extrême chaleur d’amour. Cependant l’esprit est purifié par cette obscurité ; et il arrive alors que cet amour lumineux éclaire l’entendement et embrase la volonté. De sorte que l’ame est remplie d’un feu d’amour très-vif, et d’une intelligence très-claire, et qu’elle peut dire avec David : *Mon cœur s’est échauffé en moi-même, et le feu s’ullumera dans ma méditation.* (*Psal*. 38. 4.) Et il sera si violent, que j’en serai toute embrasée. Cette ardeur qui se fait sentir dans l’union de l’entendement et de la volonté avec Dieu, comble l’ame de biens et de plaisirs spirituels. Mais l’ame ne peut atteindre à un amour et à un attrait si sublime et si délicat, qu’après avoir essuyé des peines très-rudes. Il y a dans cette union des degrés plus has, qui ne demandent ordinairement que des souffrances et des mortifications communes, pour purifier l’ame, et pour la conduire à cette union. De sorte que l’état de ces ames est différent selon la différence de leurs afflictions.
-
-↑ Cor mundum crea in me Deus. *Ps*. 50. 12.
-
-↑ De excelso misit ignem in ossibus meis, et eruvit me. *Jer*. *Thrênoi*. 1. 13.
-
-↑ Eloquia Domini, eloquia casta : argentum igne examinatum, probatum terræ, purgatum septuplum. *Psal*. 11. 7.
 
 ## CHAPITRE TREIZIÈME.
 
@@ -3112,18 +2238,6 @@ Il est bon de marquer ici le doute qu’on forme, pourquoi cette lumière divine
 
 L’ame étant ainsi garantie de toutes ses imperfections, et dépouillée du vieil homme, elle est revêtue du nouveau qui est créé selon Dieu, comme parle l’Apôtre ; c’est-à-dire, son entendement est éclairé d’une lumière surnaturelle, et devient tout divin étant uni à l’esprit de Dieu : sa volonté, toute embrasée de l’amour divin, est aussi toute divine, étant unie à la volonté de Dieu, et aimant par le même amour : sa mémoire et ses affections deviennent enfin toutes divines dans cette admirable union qui les élève à un état si heureux. De sorte que cette ame sera plus céleste que terrestre, plus divine qu’humaine, tant Dieu la change en l’attachant à lui seul. C’est pourquoi elle a raison de chanter le Cantique que nous allons expliquer.
 
-↑ Et eccè mulier, quæ erat in civitate peccatrix, ut cognovit quod accubuisset in domo Pharisæi, attulit alabastrum unguenti, etc. *Luc*. 7. 37.
-
-↑ Una autem sabbati, Maria Magdalene venit manè, cùm adhuc tenebræ essent, ad monumentum, et vidit lapidem sublatum à monumento. *Jo*. 20. 1.
-
-↑ Dicit ei Jesus : Mulier, quid ploras ? Quem quæris ? Illa existimans quia hortulanus esset, dicit ei : Domine, si tu sustulisti eum, dicito mihi ubi posuisti eum ; et ego eum tollam. *Jo*. 20. 15.
-
-↑ Adjuro vos, filiæ Jerusalem, si inveneritis dilectumn meum, ut nuntietis ei quia amore langueo. *Cant*. 5. 8.
-
-↑ Cernens autem Rachel quèd infoecunda esset, invidit sorori suæ, et ait marito suo ; da mihi liberos, alioquin moriar. *Genes*. 30. 1.
-
-↑ Renovamini autem spiritu mentis vestræ, et induite novum hominem, qui secundum Deum creatus est in justitiâ et sanctitate veritatis. *Ephes*. 4. 23. 24.
-
 ## CHAPITRE QUATORZIÈME.
 
 On explique les trois derniers vers du premier Cantique.
@@ -3131,10 +2245,6 @@ On explique les trois derniers vers du premier Cantique.
 Ô l’heureuse fortune ! Je suis sortie sans être aperçue, Lorsque ma maison était tranquille.
 
 L’ame exprime en ces vers l’heureuse fortune qui lui est arrivée, lorsqu’elle est sortie de ses imperfections pour aller à Dieu, comme un homme sort la nuit de sa maison, tandis que ses domestiques dorment, et sans être aperçu de personne, afin de faire avec plus de circonspection et de succès ce qu’il entreprend. Comme l’ame doit faire l’action la plus rare et la plus héroïque qu’elle puisse faire, qui est de s’unir à son bien-aimé, il faut qu’elle sorte dehors, parce que son divin époux ne se trouve que dehors et que dans la solitude. Pour cette cause l’épouse sacrée désirait de le rencontrer seul : *Qui me fera cette grâce, mon frère, disait-elle, que je vous trouve dehors, et que je vous donne un* *saint baiser,* pour vous marquer l’amour divin qui me consume ? De plus, il était à propos que l’ame, éprise d’amour et désireuse de parvenir à la fin qu’elle s’était proposée, sortit de nuit pendant que ses domestiques étaient ensevelis dans le sommeil, c’est-à-dire, après que ses opérations grossières et ses passions furent éteintes. Car ce sont-là les domestiques qui veillent sans cesse pour empêcher l’ame de les quitter, et pour la priver des biens qu’elle espère de la libéralité de Dieu. Ce sont eux dont le Sauveur parle, quand il dit, *que les domestiques d’un homme sont ses ennemis.* Il fallait donc les étouffer, afin que l’ame acquit l’amour et l’union de Dieu. Leur capacité n’étant que naturelle, ne peut contribuer à l’acquisition des biens surnaturels que Dieu seul peut donner à l’ame par une infusion secrète et d’une manière passive. Ô que c’est un grand bonheur pour l’ame, de pouvoir sortir libre de la maison de sa sensualité ! Personne ne le saurait comprendre, que celui qui en a l’expérience. Il verra clairement combien son esclavage était fâcheux, et à combien de misères il était exposé, lorsqu’il avait de l’attachement pour le plaisir de ses passions. Il connaîtra de quelle manière la vie de l’esprit est la véritable liberté ; il comprendra l’abondance extraordinaire des biens inconcevables, dont nous en marquerons quelques-uns dans les Cantiques suivans, pour montrer que c’est avec sujet que l’ame attribue son heureux sort au passage de cette nuit si formidable à l’esprit.
-
-↑ Quis mihi der te fratrem meum fugentem ubera matris meæ, ut inveniam te foris, et deosculer te, et jam ne nemo despiciat ? *Cant*. 8. 1.
-
-↑ Et inimici hominis, domestici ejus. *Matt*. 10. 36.
 
 ## CHAPITRE QUINZIÈME.
 
@@ -3168,14 +2278,6 @@ C’est de ces personnes que le même Prophète parle : *Vous les mettrez à cou
 
 Une autre raison pourquoi l’ame marche avec assurance en cette obscurité, est prise de la force qu’elle reçoit de ces nuées ténébreuses qui lui cachent son Créateur. Car quoiqu’il y ait des ténèbres, elle voit bien néanmoins au travers, qu’elle ne veut rien faire qui offense le Seigneur, et qu’elle ne veut rien omettre de tout ce qui procure de la gloire à Dieu. Son amour pour lui la sollicite secrètement à lui plaire, et la détourne de toutes les occasions de mériter son indignation. Ayant enfin étouffé ses passions, et détaché ses puissances de tous les objets créés, elle sort d’elle-même, elle ne s’applique qu’à Dieu, et parvient à l’union de l’amour divin.
 
-↑ Perditio tua ex te, Israel, tantummodò in me auxilium tuum. *Osée*, 13. 9.
-
-↑ Et posuit tenebras latibulum suum, in circuitu ejus tabernaculum ejus : tenebrosa aqua in nubibus aeris. Præ fulgore in conspectu ejus nubes transierunt. *Psal*. 17. 12. 13.
-
-↑ Aspiciemus in terram, et eccè tenebræ tribulationis, et lux obtenebrata est in caligine ejus. *Isa*. 5. 30.
-
-↑ Perfecisti eis, qui sperant in te, inconspectu filiorum hominum. Abscondes eos in abscondito faciei tuæ à conturbatione hominum. Proteges eos in tabernaculo tuo à contradictione linguarum. *Psal*. 30. 20. 21.
-
 ## CHAPITRE DIX-SEPTIEME.
 
 Il est nécessaire, pour l’intelligence des trois mots qui sont compris en ce vers, d’expliquer trois propriétés qui les regardent. Les deux premiers, qui sont *degré ou échelle*, appartiennent à la nuit obscure de la contemplation dont nous parlons ; le dernier, qui est *déguisée*, se rapporte à la manière dont l’ame se conduit en cette nuit.
@@ -3188,16 +2290,6 @@ Ce nom lui est aussi donné, parce que c’est le propre de la sagesse mystique 
 
 Au reste la contemplation a cette propriété, non-seulement parce qu’elle est surnaturelle, mais encore parce qu’elle conduit l’ame à la parfaite union de Dieu, laquelle étant inconnue aux hommes, on n’y va qu’en ignorant où l’on va et comment on y va. Car parlant dans le sens des mystiques, on n’a point la connaissance de ces choses telles qu’elles sont, pendant qu’on les cherche ; mais on les entend lorsqu’on les a trouvées et qu’on en a l’usage. C’est pourquoi *personne*, dit le prophète Baruch, *ne peut connaître ses voies ; personne aussi ne cherche ses routes.* Et David parlant à Dieu de ce chemin : *Vos éclairs*, dit-il, *ont paru sur la terre, qui en a été toute ébranlée. Vous avez marché* *dans la mer et par les eaux les plus profondes, et on ne verra pas vos traces ni les vestiges de vos pieds.* Toutes ces choses conviennent dans un sens spirituel au sujet que nous traitons. La lueur des éclairs de Dieu, lesquels brillent sur la terre, représente la lumière que cette contemplation divine répand sur les puissances de l’ame. Le mouvement de la terre signifie la purgation qu’elle fait de l’ame, qui ne la peut souffrir qu’avec douleur. Le passage de Dieu par les eaux, et ses vestiges qu’on ne saurait voir, expriment le chemin inconnu aux sens, par lequel l’ame va vers Dieu. Le saint homme Job avait aussi déclaré cette vérité en ces termes : *Avez-vous remarqué le chemin des nuées ? Avez-vous acquis la connaissance des sciences parfaites que j’enseigne ?* Ces expressions nous font comprendre les voies par lesquelles Dieu conduit l’ame à une élévation extraordinaire et à une sagesse accomplie, qui sont figurées par les nuées. Il est donc constant que cette contemplation qui mène l’ame à Dieu, est très-obscure est très-secrète.
 
-↑ Et dixi A, a, a, Domine Deus, eccè nescio loqui, quia puer ego sum. *Jerem*. 1. 6.
-
-↑ Ait Moyses : Obsecro Domine, non sum eloquens ab heri et nudius tertius, et ex quo locutus es ad servum tuum, impeditioris et tardioris linguæ sum. *Exod*. 4. 10.
-
-↑ Non est qui possit scire vias ejus ; neque qui exquirat semitas ejus. *Baruch*. 3. 31.
-
-↑ Illuxerunt coruscationes tuæ orbi terræ ; commota est et contremuit terra. In mari via tua, et semitæ tuæ in aquis multis : et vestigia tua non cognoscentur. *Psal*. 76. 19. 20.
-
-↑ Numquid nosti semitas nubium magnas, et perfectas scientias ? *Job*. 37. 16.
-
 ## CHAPITRE DIX-HUITIÈME.
 
 Nous pouvons dire que cette sagesse secrète est aussi le degré de l’ame, pour plusieurs raisons. La première est, parce que comme on peut monter par un degré dans une chambre haute, pour y entrer et pour y prendre les trésors qu’on y garde, de même l’ame monte au Ciel par cette contemplation, pour s’enrichir des biens surnaturels et des trésors spirituels de son Créateur. Le Prophète-Roi explique clairement ces communications et ces progrès : *Heureux est l’homme qui attend de vous son secours : il a disposé en son cœur ces degrés par lesquels il veut monter jusqu’à vous dans cette vallée de larmes, dans le lieu qu’il s’est établi à lui-même. Le Seigneur qui lui a prescrit des lois, lui donnera sa grâce et sa bénédiction pour les observer. Il ira de vertu en vertu, jusques à ce qu’il soit arrivé à la sainte Sion, où il verra le Dieu des Anges et de toutes les créatures.* C’est là où il trouvera des trésors infinis, je veux dire, la félicité éternelle.
@@ -3207,10 +2299,6 @@ La seconde raison est, parce que comme le même degré sert à monter et à desc
 La troisième est, parce que comme on fait des démarches différentes en montant et en descendant par un degré, de même l’ame fait en ce chemin des démarches différentes et inégales. Tantôt elle marche par la douceur, par la paix et par la prospérité ; tantôt elle va par l’amertume, par les orages et par les traverses. Mais il faut remarquer qu’elle ne jouit de la tranquillité, que pour se disposer à supporter courageusement la tempête, et qu’elle n’est battue de l’orage que pour entrer dans un calme délicieux. Ces changemens sont ordinaires aux contemplatifs ; ils montent souvent à ce qu’il y a de plus sublime en la vie spirituelle, et souvent ils descendent à ce qui s’y trouve de plus bas ; et de cette manière ils ne demeurent presque jamais en même état, jusques à ce qu’ils soient confirmés dans un repos parfait et inaltérable. La cause de ces vicissitudes vient de deux sources, du parfait amour de Dieu, et du mépris sincère que l’ame fait d’elle-même. Elle aime Dieu, et c’est ce qui l’élève en haut ; elle connaît sa bassesse, elle se méprise, et c’est ce qui l’abaisse. Mais lorsqu’elle a acquis dans la dernière perfection l’habitude de l’amour divin, les divers degrés d’élévation et d’élévation et d’abaissement cessent, parce qu’elle est arrivée au terme qu’elle désirait, et à l’union de Dieu, qui est au haut de cette échelle mystique. L’échelle que Jacob vit en dormant, est une figure de celle-ci. Comme les Anges y montaient jusques à Dieu, et descendaient jusqu’aux hommes, de même l’ame s’élève vers Dieu par l’échelle de la contemplation, et retombe quelquefois jusques sur la terre. Mais tout cela se fait la nuit, pour nous apprendre que l’ame s’avance vers Dieu par ce chemin pendant la nuit de la contemplation. Ceci paraît évidemment par les sentimens de l’ame, qui sont des preuves claires de ses ténèbres. Car lorsque quelque chose lui est utile, telle qu’est son anéantissement devant Dieu, elle croit que c’est sa perte ; et lorsqu’elle lui est fructueuse, elle s’imagine qu’elle n’en tire aucun profit. Ainsi elle se persuade que la dévotion sensible et les consolations lui sont avantageuses, quoiqu’en effet elles soient contraires à son avancement spirituel.
 
 La quatrième raison pourquoi la contemplation est la montée de l’ame, est parce qu’elle renferme la science de l’amour divin. Cette science est, à proprement parler, la connaissance de Dieu infuse et affectueuse, qui éclaire l’ame et qui l’enflamme jusques à ce qu’elle parvienne par degrés à son Créateur, puisque c’est l’amour seul qui l’unit à Dieu. Afin qu’on puisse voir ces choses plus distinctement, nous marquerons les échelons de cette échelle sacrée, en rapportant en détail les effets et le caractère de chaque échelon, afin que l’ame puisse conjecturer de là en quel degré elle se trouve. Mais comme il est naturellement impossible de les connaître, et que Dieu seul nous les peut mettre devant les yeux, je me contenterai, avec saint Bernard et saint Thomas, de dire quels effets ils produisent dans l’ame, et comment ils l’élèvent vers Dieu.
-
-↑ Beatus vir cujus est auxilium abste ; ascensiones in corde suo disposuit, in valle lacrymarum, in loco quem posuit. Etenim benedictionem dabit legislator, ibunt de virtute in virtutem : videbitur Deus Deorum in Sion. *Psal*. 83. 6. 7. 8.
-
-↑ Qui autem se exaltaverit, humiliabitur, et qui se humiliaverit, exaltabitur. *Matt*. 23. 12.
 
 ## CHAPITRE DIX-NEUVIÈME.
 
@@ -3225,28 +2313,6 @@ Le quatrième degré est une source de souffrance que l’ame supporte pour son 
 Ce degré d’amour est fort sublime ; car l’ame est portée sans cesse vers Dieu par un véritable amour, et par un sincère désir d’être chargée de croix pour lui. Néanmoins la bonté divine récompense souvent ses souffrances d’une joie délicieuse, l’amour extrême de Jésus-Christ pour ses épouses, ne pouvant les voir dans les afflictions sans les secourir. *Je me suis souvenu de vous*, dit-il dans les Prophéties de Jérémie, *et j’ai eu compassion de votre jeunesse, lorsque vous * *m’avez suivi dans le desert.* Ce désert, pris dans un sens spirituel, ne signifie autre chose que la séparation de l’ame d’avec les créatures.
 
 Le cinquième échelon imprime à l’ame une sainte impatience et les désirs véhémens de posséder Dieu ; tellement que le moindre retardement lui paraît long et difficile à supporter : elle s’imagine toujours qu’elle va trouver son bien-aimé à chaque pas qu’elle fait. Mais lorsqu’elle voit que ses espérances sont vaines, elle tombe en défaillance et en langueur, selon le langage du Roi-Prophète. Dans ce degré d’amour, il faut que l’ame possède son bien-aimé, ou qu’elle souffre les agonies de la mort, comme Rachel, que le désir d’avoir des enfans réduisait à cette extrémité. L’ame n’a faim et soif que d’amour, ne se nourrit et ne se rassasie que d’amour et c’est ce qui la conduit au sixième échelon de l’amour de Dieu.
-
-↑ Adjuro vos, filiæ Jerusalem, si inveneritis dilectum meum, ut nuntietis ei quia amore langueo. *Cant*. 5. 8,
-
-↑ Velociter exaudi me, Domine : defecit spiritus meus. *Psal*. 142. 7. Defecit in salutare tuum anima mea, et in verbum tuum supersperavi. *Psal*. 118. 81.
-
-↑ Pluviam volontariam segregabis, Deus, hereditati tuæ ; et infirmata est, tu verò perfecisti eam. *Psal*. 67. 10.
-
-↑ Surgam et circuibo civitatem : per vicos et plateas quæram quem diligit anima mea. *Cant*. 3. 2.
-
-↑ Quærite Dominum, et confirmamini ; quærite faciem ejus semper. *Psal*. 104. 4.
-
-↑ Beatus vir qui timet Dominum : in mandatis ejus volet nimis. *Psal*. 111. 1.
-
-↑ Servivit ergò Jacob pro Rachel septem annis ; et videbantur illi pauci dies præ amoris magnitudine. *Genes*. 29. 20.
-
-↑ Quia fortis est ut mors dilectio, dura sicut infernus æmulatio. *Cant*. 8. 6.
-
-↑ Recordatus sum tuf, miserans adolescentiam tuam et charitatem desponsationis tuæ, quandò secuta es me in deserto. *Jerem*. 2. 2.
-
-↑ Quàm dilecta tabernacula tua Domine virtutum ! concupiscit et deficit anima mea in atria Domini. *Psal*. 83. 1.
-
-↑ Da mihi liberos alioquin moriar. *Genes*. 30. 2.
 
 ## CHAPITRE VINGTIÈME.
 
@@ -3264,28 +2330,6 @@ Le dixième et le dernier degré n’est pas de la vie présente, mais de la vie
 
 Voilà donc cette montée secrète dont l’ame parle en son Cantique. Il est vrai pourtant. qu’elle ne lui est pas tout-à-fait cachée ; l’amour la lui découvre dans les degrés que nous venons de déduire, par les admirables effets qu’il y produit. Et c’est de cette manière qu’elle sort d’elle-même et des choses passagères, et qu’elle monte à Dieu par cet amour secret qui l’élève toujours vers le Ciel, comme le feu tend toujours en haut vers sa sphère et son centre naturel.
 
-↑ Qui autem sperant in Domino, mutabunt fortitudinem, assument pennas sicut aquila, current et non laborabunt, ambulabunt et non deficient. *Isa*. 40. 31.
-
-↑ Quemadmodùm desiderat cervus ad fontes aquarum, ità desiderat anima mea ad te Deus. *Psal*, 41. 2.
-
-↑ Neque iniquitas mea, neque peccatum, meum Domine : sine iniquitate cucurri ct direxi. *Psal*. 58. 5.
-
-↑ Viam mandatorum cucurri, cùm dilatasti cor meum. *Psal*. 118. 32.
-
-↑ Aut dimette eis hanc noxam, aut si non facis, dele me de libro tuo quem scripsisti. *Exod*. 32. 31. 32.
-
-↑ Delectare in Domino, et dabit tibi petitiones cordis tui. *Psal*. 36. 4.
-
-↑ Osculetur me osculo oris sui. *Cant*. 1. 2
-
-↑ Paululum cùm pertransissem eos, inveni quem diligit anima mea ; tenui eum nec dimittam. *Cant*. 3. 4.
-
-↑ Daniel, vir desideriorum, intellige verba quæ ego loquor ad te, et sta in gradu tuo. *Dan*. 10. 13.
-
-↑ Beati mundo corde, quoniam ipsi Deum videbunt. *Matt*. 5. 8.
-
-↑ Scimus quoniam cùm apparuerit, similes ei erimus, quoniam videbimus cum sicuti est. i.*Joan*. 3. 2.
-
 ## CHAPITRE VINGT-UNIÈME.
 
 Après avoir apporté les raisons pourquoi la contemplation s’appelle secrète et montée, il reste à dire pourquoi l’ame est *déguisée*. On comprendrà facilement ce mystère, si on fait réflexion que se déguiser, c’est se couvrir d’habits et d’ornemens étrangers, de sorte qu’on ne soit connu de personne. La fin qu’on se peut proposer est, ou de plaire à ceux qu’on aime, ou de se dérober à la connaissance de ses ennemis ; et on espère exécuter par ce moyen son entreprise avec plus de liberté et de succès. Suivant ces desseins, chacun prend les vêtemens et les couleurs qui peuvent ou marquer les affections de son cœur, ou le cacher à ses adversaires. Lorsque l’ame est touchée de l’amour de Jésus-Christ, et qu’elle veut s’attirer sa bienveillance, elle se déguise ainsi pour sortir de sa maison, pour se soustraire à la vue de ses ennemis, qui sont le monde, la chair et le démon, pour déclarer son amour à son bien-aimé, et pour mériter l’amour réciproque de son époux. Selon ce projet, l’habit dont elle use a trois couleurs différentes, le blanc, le verd et le rouge, qui sont les symboles des trois vertus théologales, la Foi, l’Espérance et la Charité. Ces vertus lui procurent les bonnes grâces de Notre Seigneur, et la mettent à couvert des attaques de ses adversaires.
@@ -3301,22 +2345,6 @@ Comme l’espérance ne regarde que Dieu et ne met son plaisir qu’en lui, elle
 L’ame joint la couleur rouge aux deux premières couleurs, pour signifier la charité, qui la conduit à une perfection si éminente, et qui lui communique une beauté si rare, qu’elle peut dire : *Filles de Jérusalem, je suis noire, mais je suis belle. C’est pourquoi le roi m’a aimée et m’a reçue en sa chambre.* Cette charité, non-seulement protége l’ame et la cache à la chair qui est son troisième ennemi, mais elle donne aussi de la force aux autres vertus pour la défendre, et de la beauté pour être agréable à l’Époux divin : car sans elle aucune vertu ne plaît au Seigneur. Aussi est-ce là où il repose, comme il est remarqué dans les Cantiques sacrés. C’est par ce chemin que l’ame se retire des créatures, et qu’elle va jusques à l’union de Dieu, toute transportée de l’ardent amour qu’elle a conçu pour son Créateur.
 
 Ces trois vertus disposent l’ame à la parfaite union de Dieu, selon la mémoire, l’entendement et la volonté. La foi prépare l’entendement à s’unir à la sagesse divine, en le dépouillant de ses lumières naturelles. L’espérance prive la mémoire de tout ce qu’elle possède, en lui faisant espérer ce qu’elle n’a pas, et en l’attachant à Dieu qui peut seul remplir ses attentes. La charité purifie la volonté de toutes ses affections pour les créatures, et l’unit avec Dieu par les liens de l’amour. C’est donc un grand bonheur pour l’ame de s’être revêtue de ces vertus et d’avoir persévéré dans son voyage, jusques à ce qu’elle soit arrivée à l’union, comme elle l’assure dans le vers suivant.
-
-↑ Quià adversarius vester diabolus tanquàm leo rugiens circuit quærens quem devoret : cui resistite fortes in fide. i. *Petr*. 5. 8, 9.
-
-↑ Sine fide autem impossibile est placere Deo. *Hebr*. 11. 6.
-
-↑ Et sponsabo te mihi in fide. *Osée*, 2. 20.
-
-↑ Ut non loquatur os meum opera hominum : propter verba labiorum tuorum ego custodivi vias duras. *Psal*. 16. 4.
-
-↑ Nos autem qui diei sumus, sobrii simus, induti loricam fidei et charitatis, et galeam spem salutis. i. *Thessal*. 5. 8.
-
-↑ Oculi mei semper ad Dominum. *Psal*. 24. 15.
-
-↑ Eccè sicut oculi servorum in manibus dominorum suorum. Sicut oculi ancillæ in manibus Dominæ suæ : ità oculi nostri ad Dominum Deum nostrum, donec misereatur nostri. *Psal*. 122. 2.
-
-↑ Nigra sum sed formosa filiæ Jerusalem. *Cant*. 1. 4. Introduxit me rex in cellaria sua. Exultabimus et lætabimur in te. *Cant*. 1. 3. Indica mihi quem diligit anima mea, ubi pascas, ubi cubes in meridie. *Cant*. 1. 6.
 
 ## CHAPITRE VINGT-DEUXIÈME.
 
@@ -3346,18 +2374,6 @@ Ce que nous avons dit jusques ici, se doit entendre des dons que Dieu fait à l�
 
 Que s’il arrive que ces grâces spirituelles soient infuses dans l’ame secrétement, c’est-à-dire, dans l’esprit seulement, et non dans les puissances, elle se voit, selon la partie supérieure, si éloignée de la partie inférieure, qu’il lui semble qu’elles n’ont rien de commun et qu’elles sont divisées l’une de l’autre, comme si elles étaient en deux personnes différentes. En effet, cela est en quelque façon véritable ; car l’ame n’a nulle communication avec la partie animale, selon l’opération qu’elle produit alors et qui est spirituelle. Tellement qu’elle devient ainsi toute spirituelle, et que dans cette contemplation unitive, ses passions et ses appétits les plus spirituels sont étouffés dans un degré très-éminent. C’est pourquoi parlant de sa partie supérieure, elle joint ce dernier vers aux premiers.
 
-↑ Nesciat sinistra tua quid faciat dextera tua. *Matt*. 6. 3.
-
-↑ En lectum Salomonis sexaginta fortes ambiunt ex fortissimis Israël ; omnes tenentes gladios, et ad bella doctissimi ; unius cujusque ensis super femur suum propter timores nocturnos. *Cant*. 3. 7. 8.
-
-↑ Descendi in hortum nucum, ut viderem poma convallium, et inspicerem, si floruisset vinea, et germinassent mala punica. Nescivi ; anima mea conturbavit me propter quadrigas Aminadab. *Cant*. 6. 10. 11.
-
-↑ Vocavit autem Pharao sapientes et maleficos ; et fecerunt etiam ipsi per in cantationes Ægyptiacas et arcana quædam similiter : projeceruntque siuguli virgas suas, versæ sunt in dracones. *Exod*. 7. 11. 12.
-
-↑ Osculetur me osculo oris sui. *Cant*. 1. 1.
-
-↑ Quis mihi der te fratrem meum fugentem ubera matris meæ, ut inveniam te foris, et deosculer te, et jam me nemo despiciat ? *Cant*. 8. 1.
-
 ## CHAPITRE VINGT-QUATRIÈME.
 
 Éclaircissement du dernier vers du second Cantique.
@@ -3365,8 +2381,6 @@ Que s’il arrive que ces grâces spirituelles soient infuses dans l’ame secr�
 Ce vers signifie que l’ame, ayant pacifié les passions de sa partie inférieure et les puissances de sa partie supérieure, elle est sortie pour arriver à l’union de l’amour divin avec son Créateur. Car comme elle a soutenu divers combats dans ces deux parties, il faut qu’elle y établisse le calme et la tranquillité, et qu’elle les réforme, qu’elle les conserve dans un continuel repos, en quelque manière comme Adam se comportait dans l’état d’innocence. Néanmoins la partie animale n’est pas tout-à-fait exempte de tentations. Voilà pourquoi le vers qu’on a expliqué dans le premier Cantique, de la paix de la partie inférieure, on l’entend dans le second Cantique, du calme de la partie supérieure ; et pour cette raison on le repète deux fois.
 
 L’ame acquiert cette tranquillité parfaite et permanente, par ces touches de l’union divine qu’elle a reçues de la divinité, sans être découverte ni par le démon ni par les sens et les passions, et sans en souffrir aucun obstacle. Et c’est dans cette étroite union et par ses effets, qu’elle est devenue pure, tranquille, forte, constante, pour être l’Épouse sacrée de Notre-Seigneur. Car dès-là que les sens, les puissances, les passions demeurent dans un profond silence à l’égard de toutes les choses supérieures et inférieures, la sagesse divine se joint immédiatement à l’ame par le nouvel amour qu’elle allume dans le cœur. On voit alors l’accomplissement de ce que cette sagesse dit elle-même : *Lorsque toutes les créatures étaient dans un paisible silence, et que la nuit était dans le milieu de sa course, votre parole toute-puissante est descendue du Ciel et de son trône royal.* L’Épouse exprime encore ceci dans les Cantiques. Car après avoir dit qu’elle tomba durant la nuit entre les mains des gardes de la ville, qui la dépouillèrent de ses habits, et qui la couvrirent de plaies, elle ajoute, qu’elle trouva enfin son bienaimé. Pour concevoir sa pensée, il faut se souvenir qu’on ne peut obtenir l’union de Dieu sans avoir une excellente pureté : on ne peut avoir cette pureté sans un entier dépouillement des créatures, et sans une forte mortification. Ces deux choses sont représentées par le dépouillement des habits de l’Épouse et par les blessures qu’on lui fit dans l’obscurité de la nuit. Elle ne pouvait être ornée de la nouvelle robe que son époux lui donnait, sans quitter auparavant ses vieux habits. C’est pourquoi celui qui ne voudra ni entrer en cette nuit, ni renoncer à sa propre volonté, ni se mortifier sévèrement, mais qui demeurera dans son lit et sera toujours esclave de ses commodités, il ne trouvera jamais l’Époux divin, quoiqu’il semble se mettre en peine de le chercher.
-
-↑ Cùm enim quietum silentium contineret omnia, et nox in suo cursu medium iter haberet, omnipotens sermo tuus de cœlo à regalibus sedibus, durus debellator in mediam exterminii terram prosilivit. *Sap*. 18. 14. 15. Invenerunt me custodes qui circumeunt civitatem. Percuserunt me, et vulneraverunt me : tulerunt pallium meum mihi custodes murorum. *Cant*. 5. 7. Paululùm cùm pertransissem eos, inveni quem diligit anima mea. *Cant*. 3. 4.
 
 ## CHAPITRE VINGT-CINQUIÈME.
 
@@ -3399,8 +2413,6 @@ Cela supposé, j’écrirai librement lorsque je serai fondé sur la Sainte Écr
 À la vérité, nous avons parlé dans les Cantiques précédens du plus éminent degré de perfection qu’on puisse acquérir en cette vie, et qui est la transformation de l’âme en Dieu. Mais il s’agit dans les présens Cantiques, d’un amour plus consommé et plus parfait dans le même état de transformation. Car quoiqu’il soit hors de doute qu’on propose en tous ces Cantiques le même genre de transformation, et qu’on ne puisse point passer plus outre ; toutefois on peut avec le temps et par un exercice continuel, se perfectionner, et pour parler ainsi, se concentrer davantage en l’amour de Dieu. Il en va de cela comme du feu qui brûle du bois : il y entre d’abord ; il se l’unit et le change en lui-même ; mais enfin il s’allume davantage avec le temps ; il pénètre plus profondément le bois ; il l’enflamme avec plus d’ardeur, jusques à ce qu’il le consume et le réduise en étincelles et en cendres. Il est aisé d’appliquer cette comparaison à notre sujet, et de concevoir de quelle manière le feu de l’amour divin entre dans l’âme, la pénètre, la transforme en lui, et la consume entièrement.
 
 Ce que l’âme déjà transformée, et consumée intérieurement par le feu de l’amour dit dans ces Cantiques, se doit entendre de l’ardeur inexplicable qui est propre de ce degré. Car non-seulement elle est unie à ce feu divin, mais ce feu divin excite aussi en elle une flamme vive, laquelle la pénètre intimément : de sorte qu’en étant toute embrasée, et goûtant les douceurs de l’amour divin les plus délicates, elle parle des admirables effets qu’il produit en elle. Ce sont ces effets que j’expliquerai avec le même ordre que j’ai observé dans les autres Cantiques. Je les proposerai d’abord ; ensuite je développerai le sens de chaque Cantique en particulier, et je donnerai enfin en détail l’éclaircissement de chaque vers.
-
-↑ Si quis diligit me, sermonem meum servabit, et Pater meus diliget eum, et ad eum veniemus, et mansionem apud eum faciemus. *Joan*. 14. 23.
 
 ## *Cantiques de l’âme dans son intime union avec Dieu.*
 
@@ -3467,40 +2479,6 @@ L’ame ainsi disposée, peut produire en très-peu de temps un plus grand nombr
 Enfin la quatrième raison est, parce que l’ame désire ardemment que la mort rompe le cours de sa vie mortelle, comme on rompt une toile brusquement et sans déliberation. Elle voudrait ne point attendre la fin naturelle de sa vie ; elle se sent portée à souhaiter, quoique avec résignation aux desseins de Dieu, que quelque coup impétueux de l’amour le plus fort l’enlevât de ce monde, sachant bien que Dieu retire quelquefois ces ames avant le temps que la nature prescrit, pour les récompenser promptement de leurs travaux, et pour les plonger dans les flammes de son amour et dans les torrens de ses plaisirs éternels. Le Sage ne permet pas d’en douter : *Il s’est rendu agréable à Dieu*, dit-il, *et il s’est attiré son amour. Il vivait parmi les pécheurs ; mais Dieu la transporté de la terre, et l’a promptement enlevé, de peur que la malice des hommes ne lui changeât l’esprit, et que leurs déguisemens ne lui séduisissent le cœur. Quoiqu’il soit arrivé bientôt à sa fin, il a néanmoins rempli la longueur et la mesure de plusieurs années ; car son ame était agréable à Dieu. C’est pourquoi il s’est hâté de le dégager des iniquités et des péchés qui l’environnaient de tous côtés.* De cette manière c’est une chose de grande conséquence, de s’appliquer sans cesse à l’exercice de l’amour, afin que l’ame étant d’une perfection consommée, ne trouve rien qui l’empêche d’aller au Ciel, et de voir Dieu face à face tel qu’il est en soi-même.
 
 Mais il faut examiner maintenant pourquoi l’ame appelle rencontre l’attaque que le Saint-Esprit lui fait dans le fond de son intérieur. La raison est, parce que l’ame désire extrêmement d’achever la vie présente. Toutefois parce que le temps que Dieu lui a destiné pour mourir n’est pas encore venu, elle n’est pas contente. C’est pourquoi Dieu lui fait des attaques d’une manière divine et pleine de gloire, afin qu’il la sépare davantage de la terre, et qu’il la conduise à une plus haute perfection. On peut nommer ces attaques des rencontres ou des coups d’amour, dont Dieu blesse l’ame pour la transformer en lui, et pour la rendre en quelque façon toute divine. Ainsi l’essence divine absorbe l’ame, parce qu’elle l’a pénétrée des impressions du Saint-Esprit, dont les communications sont d’ordinaire véhémentes et précipitées. L’ame goûtant Dieu très-vivement, elle appelle douce cette attaque. À la vérité les autres impressions sont pleines de douceur ; mais celle-ci surpasse les autres en plaisirs spirituels. Car Dieu s’en sert afin de détacher l’ame de son corps d’une manière plus parfaite, et de la couronner de gloire. C’est pourquoi elle relève son courage, et dit avec confiance ce qui est dans le second Cantique.
-
-↑ Qui credit in me, sicut dicit Scriptura, flumina de ventre ejus fluent aquæ vivae. *Jo.* 7. 38.
-
-↑ Tulit itaque Manuë hœdum de capris ; et libamenta, et posuit super petram, offerens Domino qui facit mirabilia ; ipse autem et uxor ejus intuebantur. Cùmque ascenderet flamma altaris in coelum, Angelus Domini pariter inflamma ascendit. *Judic*. 13. 19. 20.<re
-
-↑ Ignitum eloquium tuum vehementer. *Psal*. 118. 140.
-
-↑ Numquid non verba mea sunt quasi ignis, dicit Dominus. *Jerem*. 23. 29.
-
-↑ Verba quæ ego locutus sum vobis, spiritus et vita sunt. *Jo*. 6. 64.
-
-↑ Ex hoc multi discipulorum ejus abierunt retrò ; et jàm non cum illo ampliùs ambulabant. *Jo*. 6. 67.
-
-↑ Respondit ergò ei Simon Petrus : Domine, ad quem ibimus ? verba vitæ æternæ habes. *Jo*. 6. 69.
-
-↑ Cor meum et caro mea exultaverunt in Deum vivum. *Psal*. 83. 2.
-
-↑ Anima mea liquefacta est, ut locutus est. *Cant*. 5. 6.
-
-↑ Quæ placuit ei, et invenit gratiam in conspectu illius. Et præcepit eunucho, ut acceleraret mundum muliebrem, et traderet ei partes suas, et septem puellas speciosissimas de domo regis, et tàm ipsam, quàm pedissequas ejus ornaret at que excoleret. *Esther*. 2. 9.
-
-↑ Cùm eo eram cuncta componens ; et delectabar per singulos dies, ludens coràm eo omni tempore ; ludens in orbe terrarum ; et deliciæ meæ esse cum filiis hominum. *Prov*. 8. 30. 31.
-
-↑ Quæ est ista que ascendit de deserto, deliciis affluens, innixa super dilectum suum ? *Cant*. 8. 5.
-
-↑ Surge, propera, amica mea, columba mea, formosa mea et veni : Jam enim hiems transiit, imber abiit et recessit. Flores apparuerunt in terrà nostrà, tempus putationis advenit : vox turturis audita est in terrà nostrà : ficus protulit grossos suos : vineæ florentes dederunt odorem suum. Surge amica mea, speciosa mea, et veni : columba mea in foraminibus petræ, in cavernà maceriæ, ostende mhi faciem tuam, sonet vox tua in auribus meis : Vox enim tua dulcis, et facies tua decora. *Cant*. 2. 10. 11. 12. 13. 14.
-
-↑ Scimus enim quoniam si terrestris domus nostra hujus habitationis dissolvatur, quòd ædificationem ex Deo habemus, domum non manufactam, æternam in cœlis. ii. *Cor*. 5. 1.
-
-↑ Anni nostri sicut aranea meditabuntur. *Psal*. 89. 10.
-
-↑ Quoniam mille anni antè oculos tuos, tanquàm dies hesterna quæ præterit. *Psal*. 89. 4. Omnes gentes quasi non sint, sic sunt coràm eo, et quassi nihilum et inane reputatæ sunt ei. *Isa*. 40. 17.
-
-↑ Placens Deo factus est dilectus, et vivens inter peccatores translatus est. Raptus est nè malatia mutaret intellectum ejus, aut nè fictio deciperet animam illius. Consummatus in brevi explevit tempora multa. Placita enim erat Deo anima illius. Propter hoc properavit educere illum de medio iniquitatum. *Sap*. 4. 10. 11. 13. 14.
 
 ## SECOND CANTIQUE.
 
@@ -3575,72 +2553,6 @@ Donc, ô feu qui brûlez infiniment plus que tous les feux de la terre, et qui m
 L’ame qui possède cette vie parfaite vit dans de continuels transports d’amour, de joie, d’étonnement, et quelquefois elle s’écrie comme Job : *Ma gloire sera toujours éclatante et nouvelle, et elle multipliera ses jours comme la palme.* C’est-à-dire, Dieu ne permettra pas que ma gloire se ternisse d’ici en avant ; il multipliera mes jours, ou bien, il multipliera mes mérites, comme la palme multiplie ses rejetons et ses branches. Enfin, l’ame chante en elle-même à Dieu, tout ce que le Prophète-royal a écrit dans le Pseaume vingt-neuvième, mais particulièrement ces deux derniers vers. *Vous avez changé mes gémissemens en chants de réjouissance ; vous avez rompu mes vêtemens de deuil, et vous m’avez revêtue d’un habit de fête et de joie, afin qu’environnée d’une gloire si éclatante, je ne cesse point de chanter vos louanges pendant toute l’éternité.*
 
 C’est dans cet état où l’ame connaît, par son expérience, que Dieu s’applique à la contenter, à l’élever de degrés en degrés à une plus haute gloire ; à lui accorder tantôt une grâce, tantôt une autre : il lui semble qu’elle est la seule dans le monde à qui il fait ses caresses spirituelles ; qu’il ne s’occupe que d’elle seule, et qu’il est tout à elle seule, comme elle est toute à lui seul, selon ce mot des Cantiques : *Mon bien-aimé est à moi, et je suis à lui.*
-
-↑ Spiritualis autem judicat omnia, et ipse à nemine judicatur. i. Cor. 2. 15. Spiritus enim omnia scrutatur, etiam profunda Dei. *Ibid. v.* 10.
-
-↑ Simile est regnum cœlorum grano sinapis, quod accipiens homo seminavit in agro suo : quod minimum quidem est omnibus seminibus : cùm autem creverit, majus est omnibus oleribus, et fit arbor, ità ut volucres cœli veniant, et habitent in ramis ejus. *Matt*. 13. 31. 32.
-
-↑ Reversusque mirabiliter me crucias. *Job*. 10. 16.
-
-↑ Quam magna multitudo dulcedinis tuæ Domine, quàm abscondisti timentibus te ! *Psal*. 30. 20.
-
-↑ Corpus enim quod corrumpitur, aggravat animam, et terrena inhabitatio deprimir sensum multa cogitantem. *Sap*, 9. 15.
-
-↑ De cætero nemo mihi molestus sit : ego enim stigmata Domini Jesu in corpore meo porto. *Galat*. 6. 17.
-
-↑ Qui respicit terram, et facit eam tremere, qui tangit montes et fumigant. *Psal*. 103. 32. Stetit et mensus est terram ; aspexit et dissolvit gentes, et contriti sunt mentes sæculi. Incurvati sunt colles mundi, ab itineribus æternitatis ejus. *Habach*. 3. 6 *Job*. 19. toto capite.
-
-↑ Qui cùm sit splendor gloriæ et figura substantiæ ejus. *Hebr*. 1. 3.
-
-↑ Non est audita in terra Chanaan, neque visa est in Theman. *Baruch*. 3. 22.
-
-↑ Et ecce Dominus transit, et spiritus grandis et fortis subvertens montes, et conterens petras antè Dominum, non in spiritu Dominus, et post spiritum commotio, non in commotione Dominus : et post commotionem ignis, non in igne Dominus, et post ignem sibilas aura tennis. iii. *Reg*. 19. 11. 12.
-
-↑ Abscondes cos in abscondito faciei tuæ à conturbatione hominum : proteges eos in tabernaculo tuo à contradictione linguarum. *Psal*. 30. 21.
-
-↑ Vincenti dabo manna absconditum, et dabo illi calculum candidum ; et in calculo nomen novum scriptum, quod nemo scit, nisi qui accipit. *Apoc*. 2. 17.
-
-↑ Omnia ossa mea dicent : Domine, quis similis tibi ? *Psal*. 34. 10.
-
-↑ Sufficit tibi gratia mea, nam virtus in infirmitate perficitur. ii. *Cor*. 12. 9.
-
-↑ De excelso misit ignem in ossibus meis, et erudivit me. *Jerem*. *Thrênoi*. 1. 13.
-
-↑ Castigasti me, et eruditus sum. *Jerem*. 31. 18.
-
-↑ Qui non est tentatus, quid scit ? *Eccli*. 34. 9.
-
-↑ Si cum peditibus currens laborasti, quomodò contendere poteris cum equis ? Cùm autem in terra pacis securus fueris, quid facies in superbia Jordanis ? *Jerem*. 12. 5.
-
-↑ Et quia acceptus eras Deo, necesse fuit ut tentatio probaret te. *Tob*. 12. 13. Et dixit Dominus ad Satan : Numquid considerasti servum meum Job, quod non sit ei similis in terrâ, vir simplex et rectus, ac timens Deum, et recedens à malo, et adhuc retinens innocentiam ? *Job*. 2. 3.
-
-↑ Si Spiritus potestatem habentis ascenderit super te, locum tuum ne dimiseris : Quia curatio faciet cessare peccata maxima. *Ecclœ*. 10. 4.
-
-↑ Quia tenebræ non obscurabuntur à te, et nox sicut dies illuminabitur : sicut tenebræ ejus, ita et lumen ejus. *Psal*. 138. 12.
-
-↑ Quantas ostendisti mihi tribulationes multas, et malas ; et conversus vivificasti me, et de abyssis terræ iterùm reduxisti me. Multiplicasti magnificentiam tuam et conversus consolatus es me. *Psal*. 70. 20. 21.
-
-↑ Scimus enim quoniam si terrestris domus nostra hujus habitationis dissolvatur, quod ædificationem ex Deo habemus, domum non manufactam, æternam in cœlis. ii. *Cor*. 5. 1.
-
-↑ Si enim secundùm carnem vixeritis, moriemini ; si autem spiritu facta carnis mortificaveritis, vivetis. *Rom*. 8. 13.
-
-↑ Renovamini autem spiritu mentis vestræ, et induite novum hominem, qui secundùm Deum creatus est in justitià et sanctitate veritatis. *Ephes*. 4. 23. 24. Nolite mentiri invicem, expoliantes vos veterem hominem cum actibus, et induentes novum, eum qui renovatur in agnitionem, secundum imaginem ejus qui creavit illum. *Coloss*. 3. 9. 10.
-
-↑ Quicumque enim spiritu Dei aguntur ii sunt filii Dei. *Rom*. 8. 14.
-
-↑ Vivo autem, jam non ego, vivit verò in me Christus. *Galath*. 2. 20.
-
-↑ Absorpta est mors in victoria. i. *Cor*. 15. 54.
-
-↑ Ero mors tua, ô mors ! morsus tuus ero, inferne. *Osée*. 13. 14.
-
-↑ Nigra sum, sed formosa, filiæ Jerusalem. *Cant*. 1. 4.
-
-↑ Dicebamque : in nidulo meo moriar, et sicut palma multiplicabo dies. Gloria mea semper novabitur. *Job*. 29. 18. 20.
-
-↑ Convertisti plantum meum in gaudium mihi ; conscidisti saccum meum, et circumdedisti me lititià : ut cantet tibi gloria mea, et non compungar ; Domine Deus meus, in æternum confitebor tibi. *Psal*. 29. 12. 13.
-
-↑ Dilectus meus mihi et ego illi. *Cant*. 2. 16.
 
 ## TROISIÈME CANTIQUE.
 
@@ -3788,56 +2700,6 @@ Mais il est à propos de réfléchir sur les merveilleuses perfections avec quoi
 
 À l’égard de cette espèce ou image de jouissance de Dieu, elle a trois autres perfections dignes d’admiration. Premièrement, elle jouit de Dieu étant unie avec lui très-intimement. Car comme elle unit son entendement avec la sagesse, avec la bonté, avec les autres attributs divins, elle les connaît distinctement ; et cette connaissance lui imprime une joie incomparable. Secondement, elle se réjouit d’ordinaire en Dieu seul sans mélange d’aucune créature. En troisième lieu, son plaisir vient principalement de ce qu’elle jouit de Dieu à cause de ce qu’il est en soi-même, sans avoir égard à sa propre satisfaction, et sans y souffrir aucun motif tiré des choses créées. Les louanges qu’elle donne à Dieu renferment aussi trois rares excellences. L’une est, que l’ame loue Dieu par devoir, puisqu’il l’a créée pour sa gloire, comme il le dit de lui-même dans les Prophéties d’Isaïe : *J’ai créé ce peuple pour moi ; il publiera mes louanges.* (1) L’autre, elle chante les louanges de Dieu à cause des bienfaits dont il la comble, et du contentement qu’elle prend à le louer. La dernière, elle fait éclater ses louanges à cause de ses grandeurs infinies. Quant à la gratitude, elle y trouve encore trois perfections particulières ; car elle rend à Dieu ses actions de grâces pour tous les biens naturels et surnaturels dont il l’a favorisée. Elle reçoit une singulière consolation des louanges dont elle le comble. Elle chante enfin ses louanges par cette seule raison qu’il est Dieu ; et c’est là le plus pressant et le plus agréable des motifs qui la portent à ce divin exercice.
 
-↑ Quo transeunte coràm eo, ait : Dominator Domine Deus, misericors et clemens, patiens et multæ misera- tionis, ac verax, qui custodis misericordiam in millia : qui aufers iniquitatem et scelera atque peccata, nullusque apud te per se innocens est. *Exod*. 34. 6. 7.
-
-↑ Lampades ejus, lampades ignis atque flammarum. *Cant*. 8. 6.
-
-↑ *Cùm ergo occubuisset sol, facta est caligo tenebrosa, et apparuit clibanus fumans, et lampas ignis transiens inter divisiones illas.* *Gen*. 15. 17.
-
-↑ Et virtus altissimi obumbrabit tibi. *Luc*. 1. 35.
-
-↑ Sedentes in tenebris et umbrà mortis. *Psal*. 106. 10.
-
-↑ Hæc visio similitudinis gloriæ Domini. *Ezech*. 2. 1.
-
-↑ Quemadmodùm desiderat cervus ad fontes aquarum, ità desiderat anima mea ad te, Deus. *Psal*. 41. 1.
-
-↑ Quàm dilecta tabernacula tua, Domine virtutum concupiscit et deficit anima mea in atria Domini. *Psal*. 83. 3.
-
-↑ Memoria memor ero, et tabescet in me anima mea. Hæc recolens in corde meo, ideò sperabo. *Jerem*. *Thrênoi*. 3. 20. 21.
-
-↑ Quæ est ista que ascendit per desertum, sicut virgula fumi ex aromatibus myrrhæ et thuris et universi pulveris pigmentarii ?*Cant*. 3. 6.
-
-↑ Propter hoc, eccè ego lactabo eam, et dncam eam in solitudinem ; et loquar ad cor ejus. *Osée* 2. 14.
-
-↑ Audiam quid loquatur in me Dominus Deus, quoniam loquetur pacem in plebem snam. *Psal*. 84. 9.
-
-↑ Animalis autem homo non percipit ea quæ sunt Spiritus Dei. i. *Cor*. 2. 14.
-
-↑ Adjuro vos, filiæ Jerusalem, per capreas cervosque camporum ; ne suscitetis, neque evigilare faciatis dilectam, donec ipsa velit. *Cant*. 3. 5.
-
-↑ Factus sum infirmis infirmus, ut infirmos lucrifacerem. Omnibus omnia factus sum ut omnes facerem salvos. i. *Cor*. 9. 22.
-
-↑ Væ pastoribus Israël qui pascebant semetipsos : nonne greges à pastoribus pascuntur ? Lac comedebatis, et lanisoperiebamini. *Ezech*. 34. 2. 3. Eccè ego ipse super pastores requiram gregem meum de manu eorum. *Ibid. v.* 10.
-
-↑ Væ vobis legisperitis, quia tulistis clavem scientiæ ipsi non introistis, et eos, qui introibant, prohibuistis. *Luc*. 11. 52.
-
-↑ Et ait Dominus servo : exi in vias, et sepes ; et compelle intrare, ut impleatur domus mea. *Luc*. 14. 23.
-
-↑ Eccè absorbebit fluvium, et non mirabitur : et habet fiduciam, quòd influat Jordanis in os ejus. In oculis ejus quasi hamo capiet eum, et in sudibus perforabit nares ejus. *Jo*. 40. 18. 19. Sub ipso erunt radii solis, et secernet sibiaurum quasi lutum. *Jo*. 41. 21.
-
-↑ Dixit que Deus : fiat lux. Et facta est lux. *Genes*. 1. 3.
-
-↑ Dies Dici eructat verbum, et nox nocti indicat scientiam. *Psal*. 18. 3.
-
-↑ Facinatio enim nugacitatis obscurat bona, et inconstantia concupiscentiæ transvertit sensum sine malitia. *Sap*. 4. 12.
-
-↑ Et mea omnia tua sunt, et tua mea sunt. *Joan*. 17. 10.
-
-↑ Et notum feci eis nomen tuum, et notum faciam : ut dilectio, qua dilexisti me in ipsis sit, et ego in ipsis. *Joan*. 17. 26.
-
-↑ Populnm istum formavi mihi, laudem meam narrabit. *Isa*. 43. 21.
-
 ## QUATRIÈME CANTIQUE.
 
 Avec combien de douceur et d’amour Vous éveillez-vous dans mon sein, Où vous demeurez seul en secret ! Dans votre douce aspiration, Pleine de biens et de gloire, Que vous m’enflammez agréablement de votre amour !
@@ -3896,24 +2758,6 @@ Dieu ayant ainsi préparé l’ame, il lui communique par cette aspiration le Sa
 
 Mais parce que le Saint-Esprit la consume ainsi des flammes de son amour, il la transforme en lui-même de telle sorte, qu’il répand en elle tous les biens divins dont elle est capable. Il la comble aussi d’une gloire. qui est une espèce de participation de la gloire des Anges et des Bienheureux. Ainsi l’ame goûte par avance les douceurs du Paradis, et elle semble être déjà transportée dans le Ciel. Mais comme ces choses surpassent la capacité de notre esprit, et ne peuvent tomber dans notre sens, je n’en parlerai pas davantage, et je mettrai fin à ce Traité.
 
-↑ Spiritus est qui vivificat : caro non prodest quidquam. Verba quæ ego locutus sum vobis, spiritus et vita sunt. *Joan*. 6. 64.
-
-↑ In ipso enim vivimus et movemur. *Act*. 17. 28.
-
-↑ Parvulus enim natus est nobis, et filius datus est nobis, et factus est principatus super humerum ejus. *Isa*. 9. 6.
-
-↑ Portansque omnia verbo virtutis suæ. *Hebr*. 1. 3.
-
-↑ Per me reges regnant et legum conditores justa decernunt : per me principes imperant, et potentes decernunt justitiam. *Prov*. 8. 15. 16.
-
-↑ Omnibus enim mobilibus mobilior est sapientia. *Sap*. 7. 24.
-
-↑ Exurge, quarè obdormis Domine ? Exurge, et ne repellas in finem. *Psal*. 43. 23.
-
-↑ Quæ respondit : Vidi te, Domine, quasi angelum Dei, et conturbatum est cor meum, præ timore gloriæ tuæ. Valdè enim mirabilis es, Domine, et facies tua plena est gratiarum. *Esther*. 15. 16. 17.
-
-↑ Astitit regina à dextris tuis in vestitu deaurato circumdata varietate. *Psal*. 44. 10.
-
 ## CANTIQUES SPIRITUELS DE L’ÂME
 
 ## CANTIQUES SPIRITUELS DE L’ÂME
@@ -3937,8 +2781,6 @@ On voit cette manière de s’exprimer dans les Cantiques de Salomon, et dans qu
 Ainsi quoiqu’on en déclare le sens en quelque manière, on ne doit pas s’attacher nécessairement à cette interprétation. Car il n’est pas besoin de concevoir parfaitement cette sagesse mystique, pour produire en l’ame les affections et les effets de l’amour de Dieu. Cette science sacrée est semblable à la foi, qui nous fait aimer Dieu, quoique nous ne le connaissions qu’avec beaucoup d’obscurité. Ce qui m’oblige à traiter les choses brièvement, à moins que la matière ne m’engage à être un peu long en quelques endroits. Je remarquerai toutefois, quand l’occasion s’en présentera, ce qui surpasse l’état des commençans, soit parce qu’on a écrit plusieurs livres des choses spirituelles les plus communes, soit parce que je travaille pour ceux que Dieu, par une grâce singulière, a introduits dans le sein de l’amour divin. J’espère, par ces raisons, que les points de théologie scholastique qui regardent le commerce intérieur de l’ame avec Dieu, et que j’ai expliqués en divers Cantiques, ne seront pas inutiles pour conserver la pureté de l’esprit. Ceux qui n’ont pas l’usage de cette divine science, se serviront avec fruit de la théologie mystique, dont l’amour donne l’intelligence et le goût.
 
 Au reste, je soumets au jugement de la sainte Église tout ce que je dirai ; et, afin que mes sentimens méritent mieux la créance des lecteurs, je ne prétends pas assurer rien de moi-même, ni me fier à ma seule expérience, ou à la connaissance que j’ai de ce qui est arrivé à plusieurs personnes spirituelles, ou aux lumières qu’elles m’ont données elles-mêmes ; mais je m’appuyerai sur l’autorité de l’Écriture, principalement dans les choses les plus difficiles à entendre.
-
-↑ Similiter autem et spiritus adjuvat infirmitatem nostram. *Rom*. 8. 26.
 
 # 22. EXPLICATION des CANTIQUES SPIRITUELS de l’ame et de son divin époux
 
@@ -3976,24 +2818,6 @@ Nul remède ne guérit les plaies de l’amour, si celui qui les a faites ne l�
 
 Cette douleur est si excessive en ceux qui sont proches de la plus haute perfection, que si Dieu ne leur donnait du secours ils en mourraient. Ayant l’ame bien disposée à jouir de Dieu, ayant aussi goûté l’incomparable douceur de l’amour divin, ils souffrent au-delà de ce qu’on peut imaginer, parce que Dieu leur fait voir comme par de petites fentes le souverain bien, et il ne leur en accorde pas la jouissance.
 
-↑ Deum nemo vidit unquàm. Unigenitus Filius, qui est in sinu Patris, ipse enarravit. *Joan*. 1. 18.
-
-↑ Verè tu es Deus absconditus, Deus Israel salvator *Isa*. 45. 15.
-
-↑ Si venerit ad me, non videbo eum : si abierit, non intelligam. *Jo*. 9. 11.
-
-↑ Indica mihi, quem diligit anima mea, ubi pascas, ubi cubes in meridie. *Cant*. 1. 6.
-
-↑ *S. Aug. C. Soliloq.* 31.
-
-↑ Et ipsi intrà nos gemimus, adoptionem filiorum Dei expectantes. *Rom*. 8. 23.
-
-↑ Similis est dilectus meus capræ, hinnuloque cerverum. *Cant*. 2. 9.
-
-↑ Quia inflammatum est cor meum, et renes mei commutati sunt, et ego ad nihilum redactus sum et nescivi. *Psal*. 72. 21.
-
-↑ Surgam, et circuibo civitatem : per vicos et plateas quæram quem diligit anima mea : quæsivi illum, et non inveni. *Cant*. 3. 2.
-
 ## DEUXIÈME CANTIQUE.
 
 Pastores, los que fuerdes Alla por las majadas al otero, Si por ventura vierdes Aquel que yo mas quiero, Dezidle que adolezco, peno, y muero. *Pasteurs, autant que vous êtes qui irez Par les cabanes à la colline, Si par hasard vous voyez Celui que je chéris plus que tout le monde, Dites-lui que je languis, que je suis tourmentée, que je me meurs*
@@ -4016,26 +2840,6 @@ L’ame représente ses incommodités à son bien-aimé, sans lui faire aucune d
 
 Trois raisons obligent l’ame à se comporter de la sorte envers Dieu : la première, il sait mieux que nous ce qui nous est expédient ; la seconde, la misère et la résignation de celui qui l’aime l’excitent plus fortement à avoir pitié de lui ; la troisième, l’ame se garantit plus sûrement de l’amour propre, en proposant simplement ses besoins à Dieu, qu’en le priant précisément de lui donner ce qu’elle désire. L’ame agit de la même manière en cette rencontre. En ne faisant que déclarer ses infirmités, elle dit autant que si elle s’exprimait en ces termes : Je suis malade, il est ma santé ; dites-lui qu’il me guérisse. Je suis tourmentée, il est ma consolation ; dites-lui qu’il me console. Je me meurs, il est seul ma vie ; dites-lui qu’il me fasse vivre.
 
-↑ Quando orabas cum lacrymis, et sepeliebas mortuos, et derelinquebas prandium tuum, et mortuos abscondebas, per diem, in domo tua, et nocte sepeliebas eos ego, obtuli orationem tuam Domino. *Tob*. 12. 12.
-
-↑ Cui ait Dominus : vidi afflictionem populi mei in Ægypto, et clamorem ejus audivi propter duritiam eorum qui præsunt operibus : et sciens dolorem ejus, descendi ut liberem eum de manibus Ægyptiorum. *Exod*. 3. 7. 8.
-
-↑ Ne timeas Zacharia, quoniam exaudita est deprecatio tua. *Luc*. 1. 13.
-
-↑ Et factus est Dominus refugium pauperi : adjutor in oportunitatibus, in tribulatione. *Psal*. 9. 10.
-
-↑ Recordare paupertatis et transgressionis meæ, absynthii et fellis. *Jerem*. *Thrênoi*. 3.19.
-
-↑ In quo sunt omnes thesauri sapientiæ et scientiæ absconditi. *Coloss*. 2. 3.
-
-↑ Accipe librum, et devora illum, et faciet amaricari ventrem tuum. *Apoc*. 10. 9.
-
-↑ Fel draconum vinum eorum, et venenum aspidum insanabile. *Deut*. 32. 33.
-
-↑ Deficiente vino, dicit mater Jesu ad eum : vinum non habent. *Jo*. 2. 3.
-
-↑ Miserunt ergo sorores ejus ad eum, dicentes : Domine ecce quem amas infirmatur. *Jo*. 11. 3.
-
 ## TROISIÈME CANTIQUE.
 
 Buscando mis amores Irè por essos montes y riberas Ni cogerè las flores, Ni temerè las fieras, Y passarè los fuertes, y fronteras. *En cherchant mes amours, J’irai par ces montagnes et par ces rivages ; Je ne cueillerai point de fleurs, Je ne craindrai pas les bétes sauvages, Et je passerai par les forts et par les frontières.*
@@ -4056,18 +2860,6 @@ L’ame assure encore qu’elle passera par les frontières, c’est-à-dire, pa
 
 Nous ne prétendons pas néanmoins exclure la vie de la grâce ; au contraire, nous la supposons : car personne ne peut sans elle s’élever à la perfection de la vie mystique, comme saint Paul l’insinue en ces termes : *Si vous mortifiez par l’esprit les actions de la chair, vous vivrez.* L’ame dit donc en ce Cantique qu’elle ramassera toutes ses forces pour remporter la victoire sur ses ennemis, et pour chercher son divin Époux, jusques à ce qu’elle le trouve.
 
-↑ Nolite sperare in iniquitate, et rapinas nolite concupiscere : divitiæ si affluant nolite cor apponere. *Psal*. 61. 12.
-
-↑ Quoniam alieni insurrexerunt adversum me, et fortes quæsierunt animam meam, et non proposuerunt Deum ante conspectum suum. *Psal*. 53. 5.
-
-↑ Non est super terram potestas, que comparetur ei qui factus est ut nullum timeret. *Job*. 41. 24.
-
-↑ Induite vos armaturam Dei ut possitis stare adversùs insidias diaboli : quoniam non est nobis colluctatio adversùs carnem et sanguinem ; sed adversùs principes et potestates, adversùs mundi rectores tenebrarum harum, contrà spiritualia nequitiæ in cœlestibus. *Ephes*, 6. 11. 12.
-
-↑ Caro enim concupiscit adversùs spiritum : spiritus autem adversùs carnem. *Galath*. 5. 17.
-
-↑ Si enim secundùm carnem vixeritis moriemini : si autem spiritu facta carnis mortificaveritis, vivetis. *Rom*. 8. 13.
-
 ## QUATRIÈME CANTIQUE.
 
 O bosques y espessuras, Plantadas por la mano de mi amado, O prado de verduras, De flores esmaltado, Dezid, si por vos otras ha passado. *Ô forêts ! ô épaisseurs ! Plantées par la main de mon bien-aimé ; Ô pré toujours verd ! Émaillé de fleurs, Dites si mon amant a passé par vos campagnes.*
@@ -4083,8 +2875,6 @@ Elle contemple le Ciel comme un pré toujours verd ; car les astres qu’il cont
 Elle exprime par ces fleurs les Anges et les Bienheureux dont ce saint lieu est orné, comme un vase précieux est embelli d’or et de pierreries.
 
 Cette demande ne renferme que ce sens : Dites-moi quelles perfections le Créateur vous a données.
-
-↑ Invisibilia enim ipsius à creatura mundi, per ea quæ facta sunt intellecta, conspiciuntur : sempiterna quoque ejus virtus et divinitas : ita ut sint inexcusabiles. *Rom*. 1. 20.
 
 ## CINQUIÈME CANTIQUE.
 
@@ -4103,14 +2893,6 @@ Le Fils de Dieu est, selon le langage de saint Paul, *la splendeur de sa gloire 
 Il leur a communiqué aussi par son Fils l’être surnaturel, lorsqu’il a gravé le caractère de son image dans l’homme, lequel il a élevé jusqu’à sa ressemblance. Car toutes les créatures étant renfermées dans l’homme, partagent avec lui cet honneur. C’est pourquoi Jésus-Christ dit que *lorsqu’il sera élevé de terre, il attirera toutes choses à lui.* De sorte que Dieu le Père a revêtu de gloire toutes les créatures dans le mystère de l’Incarnation et de la Résurrection de son Fils.
 
 L’ame connaît aussi dans le feu et dans les lumières de sa contemplation, l’abondance des richesses et des embellissemens dont Dieu a favorisé les créatures ; et elle voit clairement que tous ces biens coulent des trésors infinis et des beantés surnaturelles du Fils de Dieu. Elle sait encore que c’est en sa considération que *Dieu ouvre sa main, * comme parle le Prophète, *et qu’il verse ses bénédictions sur tous les animaux.* L’ame ainsi blessée d’amour par les traits que la beauté infinie de son Époux a imprimés sur les créatures, et consumée du désir d’en obtenir la vue et la jouissance, elle chante le Cantique suivant.
-
-↑ Qui cum sit splendor gloriæ et figura substantiæ ejus. *Hebr*. 1. 3.
-
-↑ Viditque Deus cuncta quæ fecerat : et erant valdè bona. *Genes*. 1. 31.
-
-↑ Et ego si exaltatus fuero à terra, omnia traham ad meipsum. *Joan*. 12 32.
-
-↑ Aperis tu manum tuam ; et imples omne animal benedictione. *Psal*. 144. 16.
 
 ## SIXIÈME CANTIQUE.
 
@@ -4148,14 +2930,6 @@ Ce qu’elle nomme *je ne sais quoi*, est cette grandeur infinie de Dieu, dont e
 
 Je crois bien que ceux qui n’auront pas l’expérience de ces choses, ne les concevront pas facilement ; cela est réservé aux ames qui les ont expérimentées en elles-mêmes. Cependant comme les créatures ne peuvent expliquer nettement à l’ame ce qu’elle désire en ce sujet, elle se plaint de leur bégayement, et s’adresse dans le Cantique qui suit, à sa propre vie, et lui parle de la sorte.
 
-↑ Adjuro vos, filiæ Jerusalem, si inveneritis dilectum meum, ut nuntietis ei quia amore langueo. *Cant*. 5. 8.
-
-↑ Vulnerasti cor meum, soror mea sponsa, vulnerasti cor meum in uno oculorum tuorum, et in uno crine colli tui. *Cant*. 4. 9.
-
-↑ Da mihi li beros alioquin moriar. *Gen*. 30. 1.
-
-↑ Quis det ut veniat petitio mea, et quod expectò tribuat mihi Deus ? Et qui cœpit ipse me conterat ; solvat manum suam, et succidat me ? *Job*. 6. 8. 9.
-
 ## HUITIÈME CANTIQUE.
 
 Mas como perseveras, O vida, no viviendo donde vives, Y haziendo porque mueras, Las flechas que recibes, De lo que del amado en ti concibes ? *Mais comment subsistez-vous, Ô vie, ne vivant pas où vous vivez,*
@@ -4169,8 +2943,6 @@ Or comme l’ame voit que la vie du corps la prive de sa vie naturelle en Dieu, 
 Puisque vous persistez, dit-elle à son ame, dans le corps où vous n’avez pas votre véritable vie, comment vous y attachez-vous encore, vu que les traits et les coups de l’amour qui vous blesse le cœur mortellement, suffisent pour vous donner la mort. Elle ajoute :
 
 La connaissance que vous avez de sa beauté, de sa grandeur, de sa sagesse, de toutes ses perfections, est capable de vous faire mourir en vous enflammant d’amour.
-
-↑ In ipso enim vivimus, movemur et sumus. *Act*. 17. 28.
 
 ## NEUVIÈME CANTIQUE.
 
@@ -4189,8 +2961,6 @@ suspendu en l’air et sans appui ?
 Afin que vous le remplissiez, que vous le rassassiez, que vous le teniez auprès de vous, que vous le guérissiez, qu’il demeure en vous, et qu’il y trouve son repos. Celui qui aime ne peut s’empêcher de souhaiter la récompense de son amour, qui l’engage à servir son bien-aimé. Mais cette récompense n’est autre chose que l’accroissement de son amour jusques à sa dernière perfection. Il ne veut point aussi d’autre salaire qu’un amour réciproque, puisque l’amour seul est le solide prix de l’amour. Le saint homme Job nous donne une juste idée de cette récompense : *Comme l’esclave brûlé des ardeurs du soleil désire l’ombre, et comme le mercenaire attend la fin de son ouvrage, de même les mois m’ont paru vides, les nuits m’ont été très-laborieuses, et je les ai comptées les unes après les autres. Lorque je vais dormir, je dis hélas ! quand me leverai-je ? Et lorsque le jour est venu, j’attends le soir avec impatience, et je suis accablé jusqu’à la nuit de chagrins et de douleurs.* C’est ainsi que l’ame souhaite la fin de son travail pour mériter la possession de son bien-aimé, et la consommation de son amour. Pour trouver dans le sein de Dieu du rafraîchissement et du repos.
 
 Mais il est nécessaire de remarquer que Job a dit que le mercenaire n’attend pas la fin de son travail, mais la fin de son ouvrage. De même l’ouvrage de l’ame qui aime, est de s’appliquer continuellement à l’exercice de l’amour. Elle en attend la fin qui n’est autre chose que la perfection de son amour. Mais elle travaille et elle est en peine comme Job, jusqu’à ce que Dieu ait donné à son amour son achèvement. Les mois lui paraissent vides, les nuits lui sont fâcheuses, jusques à ce que Dieu ait contenté son amour par la possession parfaite de lui-même. C’est la seule chose que l’ame désire, et qu’elle attend de son Epoux.
-
-↑ Sicut servus desiderat umbram, et sicut mercenarius præstolatur finem operis sui : Sic et ego habui menses vacuos, et noctes laboriosas enumeravi mihi : Si dormiero, dicam : Quandò consurgam ? Et rursum expectabo vesperam, et replebor doloribus usquè ad tenebras. *Job*. 7. 2. 3. 4.
 
 ## DIXIÈME CANTIQUE.
 
@@ -4246,22 +3016,6 @@ L’amour imparfait se peut très-bien appeler maladie. Car comme le malade est 
 
 L’ame désire en cet état d’aller à Dieu avec autant de véhémence, que la pierre qui est en l’air retombe vers son centre. Elle sent bien qu’elle est semblable à une cire molle qui n’a reçu que légérement la figure du cachet qu’on lui applique, et qui demande une impression plus parfaite. Elle sait qu’elle n’est que l’ébauchement d’un portrait, qui attend ses derniers traits de la main du peintre. Elle est si éclairée des lumières de la foi, qu’elle distingue les différentes vues de la grandeur de Dieu. Que fera-t-elle donc, que d’avoir recours à la même foi qui couvre les beautés de son bien-aimé, et qui lui donne des gages de son amour.
 
-↑ Quâm dilecta tabernacula tua, Domine virtutum ! Concupiscit et deficit anima mea in atria Domini. *Psal*. 83. 1.
-
-↑ Si ergò inveni gratiam in conspectu tuo, ostende mihi faciem tuam, ut sciam te, et inveniam gratiam antè oculos tuos. Rursumque ait : non poteris videre faciem meam : non enim videbit me homo, et vivet. *Exod*. 33. 13. et 20.
-
-↑ Nam et qui sumus in hoc tabernaculo, ingemiscimus gravati : eò quòd nolumus expoliari, sed supervestiri, ut absorbeatur quòd mortale est à vità. ii. *Cor*. 5. 4.
-
-↑ Desiderium habens dissolvi, et esse cum Christo. *Philipp*. 1. 23.
-
-↑ Timor non est in charitate : sed perfecta charitas foràs mittit timorem. i. *Jo*. 4. 18.
-
-↑ O mors, bonum est judicium tuum homini indigenti. *Ecli*. 41. 3.
-
-↑ Pretiosa in conspectu Domini mors sanctorum ejus. *Psal*. 113. 16.
-
-↑ Qui cum splendor gloriæ et figura substantiæ, ejus. *Hebr*. 1. 3.
-
 ## DOUZIÈME CANTIQUE.
 
 O cristalina fuente, Si en essos tus semblantes plateados, Formasses de repente los ojos deseados, Que tengo en mis en trannas dibuxados. *Ô fontaine cristalline, Si dans vos surfaces argentées Vous formiez promptement les yeux que je désire, Et que j’ai ébauchés dans les entrailles.*
@@ -4281,18 +3035,6 @@ Outre cela, il ya dans l’ame un autre ébauchement d’amour ; car l’image d
 À la vérité il vivait lui-même, mais il vivait de la vie de Jésus-Christ, c’est-à-dire, d’une vie plus divine qu’humaine ; de sorte que sa vie et la vie du Sauveur n’étaient qu’une même vie par l’union de l’amour. Cette vie n’aura néanmoins sa perfection que dans le Ciel, où les bienheureux, transformés en Dieu, vivront de la vie de Dieu et non de leur seule propre vie.
 
 Après tout, lorsque l’ame peut obtenir en ce monde cette transformation d’amour, elle est extrêmement heureuse, et donne beaucoup de joie à son Époux. Car l’Époux désirant d’être dans l’ame de son Épouse comme l’ébauche d’une figure, il lui dit : *Mettez-moi comme un cachet sur votre cœur, comme un sceau sur votre bras.* Le cœur signifie l’ame où son Époux demeure comme le cachet de la foi ; le bras représente la volonté forte et généreuse où il réside comme le sceau de l’amour.
-
-↑ Et sponsabo te mihi in fide. *Osée*. 2. 20.
-
-↑ Sed aqua quam ego dabo ei, fiet in eo fons aquæ salientis in vitam æternam. *Jo*. 4. 14.
-
-↑ Si dormiatis inter medios cleros pennæ, columbæ deargentate, et posteriora dorsi ejus in pallore auri. *Psal*. 67. 14.
-
-↑ Cùm autem venerit quod perfectum est, evacuabitur quòd ex parte est. i. Cor. 13. 10.
-
-↑ Vivo autem jam non ego, vivit verò in me Christus. *Galat*. 2, 20.
-
-↑ Pone me ut signaculum super cor tuum, ut signaculum super brachium tuum. *Cant*. 8. 6.
 
 ## TREIZIÈME CANTIQUE.
 
@@ -4325,12 +3067,6 @@ Le vol de l’ame signifie son extase ; le vent doux exprime l’amour que ce vo
 Il faut remarquer que l’Époux dit, qu’il est allé, non pas au vol de l’Épouse, mais à l’air du vol ; parce que Dieu se communique à l’ame, non par la connaissance qui est représentée par le vol, mais par l’amour qui vient de la connaissance. Car comme l’amour est l’union du Père et du Fils, de même il est l’union de Dieu et de l’ame. En effet, la connaissance des plus hauts mystères de Dieu est inutile à l’ame sans la charité, selon la doctrine de l’Apôtre : *Parce que, dit-il, la charité est le lien de perfection.* C’est donc cette charité de l’ame qui attire l’Époux, et qui le fait courir avec vitesse pour boire à la fontaine que cet amour lui ouvre, comme les eaux attirent le cerf pour s’y rafraîchir. C’est pourquoi il ajoute :
 
 Car comme un vent agréable réjouit et rafraîchit celui que la chaleur incommode, de même le doux vent du saint amour de l’Épouse donne de la satisfaction et du soulagement à son Époux, qui est brûlé de ses flammes sacrées : il augmente même son amour pour elle à proportion qu’elle a de l’amour pour lui. C’est pourquoi le véritable amant doit faire croître sans cesse son amour, et pratiquer pour cet effet ce que saint Paul écrit de la charité. *Elle est patiente,* dit-il, *elle est douce, elle n’est point envieuse, ni dissimulée, ni superbe ; elle n’est point ambitieuse, elle ne cherche point son intérêt, elle ne se met point en colère, elle ne soupçonne point le mal, elle ne se réjouit point de l’injustice ; mais elle se plaît dans la vérité, elle tolère tout, elle croit tout, elle espère tout, elle supporte tout.*
-
-↑ Scio hominem in Christo ante annos quatuordecim, (sive in corpore nescio, sive extra corpus nescio Deus seit,) raptum hujusmodi usque ad tertium cœlum. ii. *Cor*. 12. 2.
-
-↑ Si linguis hominum loquar, et angelorum, charitatem autem non habeam, factus sum velut æs sonans, aut cymbalum tinniens, etc. i. *Cor*. 13. 1. etc. Super omnia autem hæc, charitatem habete, quod est vinculum perfectionis. *Coloss*. 3. 14.
-
-↑ Charitas patiens est, benigna est ; charitas non æmulatur, non agit perperam, non inflatur, non est ambitiosa, non querit quæ sua sunt, non irritatur, non cogitat malum, non gaudet super iniquitatem, congaudet autem véritati. Omnia suffert, omnia credit, omnia sperat, omnia sustinet. i. Cor. 13. 4. 5. 6. 7.
 
 ## QUATORZIÈME ET QUINZIÈME CANTIQUES.
 
@@ -4370,24 +3106,6 @@ Ce qui signifie presque la même chose. Car quoique cette musique ne se fasse pa
 
 Les grands repas récréent les amans, ils les rassasient, et ils augmentent leur amour. L’Époux sacré fait en l’ame ces trois effets ; le symbole de la vision béatifique de Dieu, parce que c’est la fin de tous les travaux des hommes, et le repos éternel des ames bienheureuses. L’Épouse trouve à proportion dans la connaissance et dans la possession de son bien-aimé pendant cette vie, la fin de ses peines et le repos qu’elle cherchait ; elle est rassasiée de ses délices, et consumée des flammes de son amour.
 
-↑ Quia hæc dicit Dominus : eccè ego declinabo super eam quasi fluvium pacis, et quasi torrentem inundantem gloriam gentium. *Isa*. 66. 12.
-
-↑ Esurientes implevit bonis. *Luc*. 1. 53.
-
-↑ Venit ergò vox de cœlo : et clarificavi, et iterùm clarificabo. Turba ergo quæ stabat et audierat dicebat tonitruum esse factum : alii dicebant : Angelus ei locutus est. *Jo*. 12. 28. 29.
-
-↑ Sonet vox tua in auribus meis : Vox enim tua dulcis. *Cant*, 2. 14.
-
-↑ Et post ignem sibilus auræ tenuis. Quòd cùm audisset Elias, operuit vultum suum pallio, et egressus stetit in ostio speluneæ, et eccè vox ad eum dicens. III. Reg. 19. 12. 13.
-
-↑ Ergo fides ex auditu. Rom*.* 10. 17.
-
-↑ Auditu auris audivi te ; nunc autem oculus meus videt te. *Job*. 42. 5.
-
-↑ Vigilavi, et factus sum sicut passer solitarius in tecto. *Psal*. 101. 8.
-
-↑ Et audivi vocem de cœlo, tanquam vocem aquarum multarum, et tanquam vocem tonitrui magni : et vocem, quam audivi, sicut citharædorum citharizantium in citharis suis. *Apoc*. 14. 2.
-
 ## SEIZIÈME CANTIQUE.
 
 Nuestro lecho florido, De cuevas de leones enlaçado ; En purpura tenido, De paz edificado, Con mil escudos de oro coronado. *Notre lit est couvert de fleurs, Entrelacé de cavernes de lions, Teint de pourpre, Fait sur la paix, Couronné de mille boucliers d’or.*
@@ -4407,14 +3125,6 @@ En effet, la pourpre est, selon les oracles divins, la marque de la charité. Ce
 Cette expression signifie que l’ame en cet état est paisible, douce et forte, parce que les vertus qu’elle possède, lui communiquent la paix, la douceur et la force. De plus, ce lit est couronné de mille boucliers d’or :
 
 Ces mêmes vertus et ces mêmes faveurs de Dieu, sont autant de boucliers qui couvrent l’ame contre les attaques de ses ennemis, et dont l’or, qui en est la matière, exprime la valeur et l’éminence sur toutes les richesses de la terre. L’Épouse représente cette protection sous cette figure. *Soixante des plus forts d’Israël environnent le lit de Salomon, armés de leurs épées, pour repousser ceux dont on a lieu de craindre les insultes pendant la nuit.*
-
-↑ Lectulus noster floridus. *Cant*. 1. 15.
-
-↑ Et déliciæ meæ, esse cum filiis hominum. *Prov*. 8. 31.
-
-↑ Quis mihi det te fratrem meum sugentem ubera matris meæ, ut inveniam te foris et deosculer te et jam me nemo despiciat ? *Cant*. 8. 1.
-
-↑ En lectulum Salomonis sexaginta fortes ambiunt ex fortissimis Israel : omnes tenentes gladios, et ad bella doctissimi. *Cant*. 5. 7.
 
 ## DIX-SEPTIÈME CANTIQUE.
 
@@ -4436,14 +3146,6 @@ Ce don divin se conserve plus long-temps dans l’ame que les autres dons : il y
 
 Mais puisque nous avons fait mention du vin mixtionné, nous prendrons occasion de donner quelques avis aux personnes spirituelles touchant l’amour de Dieu. On peut comparer au vin nouveau, ceux qui commencent à aimer Dieu ; et au vin vieux, ceux qui l’aiment depuis long-temps. Comme le vin nouveau qui n’est pas encore fait, doit bouillir dans le tonneau afin qu’il jette son écume et ses ordures, de même ceux qui commencent à aimer Dieu, doivent, dans leur première ferveur, se purifier de leurs vices et de leurs imperfections naturelles. Et comme ce vin n’est encore ni sûr, ni de bon goût, ni commode à la santé, de même ces gens-là ne sont ni affermis dans le service de Dieu, ni d’un goût pur et exquis dans les choses spirituelles, ni propres à la sainteté de l’ame, parce qu’ils sont pleins de sentimens naturels, de goûts sensuels, d’indiscrétion, d’inconstance, de soins empressés, d’inquiétudes, de recherches inutiles, et d’autres défauts dont ils se doivent défaire, comme le vin nouveau doit être déchargé de sa lie pour avoir de la consistance, et pour être de garde et de bon usage. Au contraire, ceux qui se sont exercés depuis long-temps en l’amour de Dieu, sont semblables au vin vieux qui est pur, sain, ferme, de bon goût, sans mélange de lie sans bouillir, sans fuir du vaisseau, sans le rompre. Ainsi ces anciens amis de Dieu sont épurés des ferveurs sensibles, des emportemens de dévotion mal réglée, des légèretés et des changemens en la vertu, des ardeurs trop bouillantes, des excès en leurs austérités, des autres imperfections spirituelles. Mais ils sont constans, fidèles à Dieu, maîtres de leurs sens, de leurs passions, de leurs désirs, de leurs actions. C’est pourquoi l’Ecclésiastique nous recommande *de ne pas quitter nos vieux amis, parce que les nouveaux n’ont pas ordinairement les mêmes inclinations, ni la même amitié.* Je conclus de toutes ces choses, que le sens de ces trois petits vers est celui-ci : Mon Dieu, dit l’Épouse, vous réveillez mon ame lorsque vous la touchez d’une seule étincelle de votre amour ; vous l’enivrez d’un vin très-délicieux, lorsque vous la comblez des plaisirs de votre amour ; en cet état elle vous rend les actes d’amour que vous faites avec elle, et elle vous envoie ses désirs, ses soupirs, et toutes ses opérations les plus tendres et les plus efficaces.
 
-↑ Ideò adolescentulæ dilexerunt te. Trahe me : post te curremus in odorem unguentorum tuorum. *Cant*. 1. 2. 3.
-
-↑ Viam mandatorum tuorum cucurri, cum dilatasti cor meum. *Psal*. 118. 32.
-
-↑ Concaluit cor meum intrà me et in meditatione mea exardescet ignis. *Psal*. 38. 4.
-
-↑ Ne derelinquas amicum antiquum ; novus enim non erit similis illi. Vinum novum, amicus novus. *Eccli*. 9. 14. 15.
-
 ## DIX-HUITIÈME CANTIQUE.
 
 ﻿En la interior bodega de mi amado bebi, Y quando salia, Por toda aquesta vega, Y a cosa no sabia, Y el ganado perdi, que antes seguia. *J’ai bu dans la cave intérieure de mon bien-aimé ; Et quand je suis sortie Par toute cette plaine, Je ne connaissais plus rien, Et j’ai perdu le troupeau que je suivais auparavant.*
@@ -4464,20 +3166,6 @@ Cette ignorance de l’ame vient de la sagesse et de l’amour que Dieu lui a do
 
 Le troupeau que l’ame suivait, et qu’elle avait soin de paître avant qu’elle fût parvenue à cette éminente perfection, n’est autre que ses défauts naturels et spirituels. Son esprit était curieux, et volait après les nouvelles connaissances ; sa volonté cherchait les goûts spirituels et s’attachait à de petites bagatelles, à l’estime propre au point d’honneur, à cent autres choses qui flattent la nature, qui ont l’air du monde, et qui contentent les sens et les passions. Le cœur voulait aussi goûter, dans les exercices spirituels, des consolations intérieures qui ne sont bonnes qu’à empêcher les imparfaits de s’élever à la perfection et à l’union divine. La mémoire même s’embarrassait de mille choses inutiles, qui la remplissaient d’inquiétudes et de difficultés, lorsqu’elle s’efforçait de les retenir toutes et de les proposer à l’ame pour s’en servir. Mais après tout, elles ne faisaient que l’empêcher de s’unir à son Créateur. C’est pourquoi elle s’en défait par la force de son amour, et elle dit avec joie : *J’ai perdu le troupeau que je suivais auparavant.*
 
-↑ Et replebit eum spiritus timoris Domini. *Isa*. 11. 3.
-
-↑ Et eccè homo erat in Jerusalem, cui nomen Simeon ; at homo iste justus et timoratus. *Luc*. 2. 25.
-
-↑ Aninia mea liquefacta est, ut locutus est. *Cant*. 5. 6.
-
-↑ Ibi me docebis, et dabo tibi poculum ex vino condito. *Cant*. 8. 2.
-
-↑ Introduxit me in cellam vinariam ; Ordinavit in me charitatem. *Cant*. 2. 4.
-
-↑ Descendi in hortum nucum, ut viderem poma convallium, et inspicerem si floruisset vinea, et germinassent mala punica : Nescivi. *Cant*. 6. 10.
-
-↑ Quis inflammatum est cor meum, et renes mei commutati sunt, et ego ad nihilum redactus sum et nescivi. *Psal*. 72. 21. 22.
-
 ## DIX-NEUVIÈME CANTIQUE.
 
 Alli me dio su pecho, Alli me enseno ciencia muy sabrosa : Yo le di de hecho, Ami, sin dexar cosa, Alli le prometi de ser su esposa. *Là il m’a donné ses mamelles, Là il m’a enseigné une science très-savoureuse ; Et je me suis donnée effectivement tout à lui, sans﻿réserver aucune chose ; Là je lui ai promis d’étre son Épouse.*
@@ -4491,8 +3179,6 @@ Cette science savoureuse est la secrète connaissance de Dieu, que les spirituel
 Afin que cette donation soit entière, l’ame ne se réserve rien ; et Dieu en la transformant en lui-même, la vide de tout ce qui lui restait, et qui la rendait moins pure. C’est pourquoi elle se donne actuellement à Dieu, comme Dieu s’est donné à elle effectivement. Ainsi leurs volontés sont contentes dans leur union, et l’une n’est jamais contraire à l’autre. Et comme l’ame veut être constamment à son Époux, elle lui donne sa parole et sa foi d’être toujours son Épouse :
 
 Parce que l’ame n’a pour lors ni affections en la volonté, ni connaissances en l’entendement, ni mouvemens dans les passions, ni désirs, ni actions, qu’elle ne rapporte à Dieu sans partage. Elle est en quelque façon tellement changée en Dieu, que les premiers mouvemens de toutes ses puissances tendent régulièrement à Dieu, à cause de son inviolable attachement au bien, de son union étroite avec Dieu, et des grâces abondantes qu’elle en reçoit. Le prophète David nous fait le tableau de son ame en cet état : *Mon ame,* dit-il, *ne se soumettra-t-elle pas à Dieu, de qui mon salut dépend ? Car il est mon Dieu, et mon salut, et mon protecteur ; c’est pourquoi je ne serai pas beaucoup agité, et je ne changerai pas.* Quand il l’appelle son protecteur, il montre que son ame étant unie à lui et étant sous sa protection, ne sera plus inquiétée des premiers mouvemens qui sont opposés à Dieu, et qui la rendraient désagréable à la Majesté divine.
-
-↑ Nonnè Deo subjecta erit anima mea ? ab ipso enim salutare meum. Nam et ipse Deus meus et salutaris meus, susceptor meus non movebor ampliùs. *Psal*. 61. 1. 2.
 
 ## VINGTIÈME CANTIQUE.
 
@@ -4522,12 +3208,6 @@ Mais on voit peu de personnes spirituelles qui aient ce courage et cette résolu
 
 Elle s’est volontairement perdue, mais c’est dans cette perte qu’elle s’est gagnée elle-même. Or elle s’est perdue en deux façons. Premièrement, en se donnant à son Époux d’une manière si désintéressée, qu’elle n’a nullement regardé son utilité, de quelque nature qu’elle soit. Secondement, en étouffant son estime et son amour pour toutes les créatures afin de n’avoir en vue que la gloire, l’honneur et l’amour de son Époux. Ainsi celui qui aime véritablement Dieu, ne cherche dans son service, ni profit, ni récompense, mais il désire seulement de s’oublier, ou plutôt de se perdre soi-même pour l’amour de son Créateur, comme saint Paul l’a pratiqué. *Car si je meurs*, dit-il, *c’est mon avantage.* En effet, se perdre de la sorte pour Dieu, c’est se trouver selon les oracles de Jésus-Christ. *Puisque celui,* dit-il, *qui voudra sauver sa vie, la perdra ; et celui qui la perdra pour l’amour de moi, la trouvera.* Que si nous voulons donner à ces paroles un sens spirituel et plus propre à notre sujet, nous dirons que l’ame se perd de telle sorte dans ses entretiens avec Dieu, qu’elle oublie toutes ses manières naturelles d’agir, qu’elle abandonne tous ses sens, et qu’elle n’agit avec Dieu que par foi et par amour.
 
-↑ Nàm qui me erubuerit et meos sermones, hùnc filius hominis erubescet cum venerit in majestate sua et patris et sanctorum angelorum. *Luc*. 9. 26.
-
-↑ Mihi enim vivere Christus est, et mori lucrum. *Phlipp*. 1. 21.
-
-↑ Qui enim voluerit animam suam salvam facere perdet eam : qui autem perdiderit animam suam propter me, inveniet eam. *Matt*. 16. 25.
-
 ## VINGT-DEUXIÈME CANTIQUE.
 
 De flores y esmeraldas En las frescas magnanas escogidas Haremos las guirnaldas, En tu amor florezidas Y en un cabello mio entretexidas. *De fleurs et d’émeraudes Choisies dès le grand matin, Nous ferons des bouquets, Fleuris en votre amour, Et liés de l’un de mes cheveux.*
@@ -4547,14 +3227,6 @@ La fleur des œuvres saintes et des vertus, n’est autre chose que la beauté e
 Ce cheveu est la volonté de l’ame et son amour pour son bien-aimé. Or comme le fil lie les fleurs, de même cet amour lie les vertus de l’ame ; et il est, suivant la doctrine de l’Apôtre, *le lien de la perfection.* Si l’ame perdait cet amour en se séparant de Dieu, toutes ses vertus se dissiperaient comme les fleurs d’un bouquet se dissipent quand elles ne sont plus liées ensemble. Ce n’est donc pas assez que Dieu nous aime pour nous donner les vertus, il faut que nous l’aimions réciproquement pour les conserver.
 
 L’Épouse dit un cheveu, et non plusieurs cheveux, pour marquer que sa volonté doit s’attacher à Dieu seul, en se détachant de toutes les choses créées. On connaît par-là le prix et l’excellence des vertus, puisqu’elles tirent toute leur perfection de l’amour que Dieu a pour les ames, que Dieu a pour les ames, et de l’amour que les ames ont pour Dieu.
-
-↑ Et dixit mihi : sufficit tibi gratia mea : nàm virtus in infrinitate perficitur. ii. Cor. 12. 9.
-
-↑ Astitit regina à dextris tuis, in vestitu deaurato, circumdata varietate. *Psal*. 44. 10.
-
-↑ Omne datum optimum, et omne donum perfectum, desursum est, descendens à patre luminum. *Jacob*. 1. 17.
-
-↑ Super omnia autem hæc, charitatem habere quòd est vinculum perfectionis. *Coloss*. 3. 14.
 
 ## VINGT-TROISIÈME CANTIQUE.
 
@@ -4586,8 +3258,6 @@ Or la cause d’un amour si véhément n’est autre que la grâce dont il a dé
 
 Car ayant reçu la grâce de Dieu, ses yeux, c’est-à-dire ses puissances spirituelles étaient délivrées de leur bassesse et de leur aveuglement naturel ; elles étaient élevées au-dessus de la nature, et éclairées d’une lumière surnaturelle ; elles étaient agréables à la majesté divine, et méritaient d’adorer ce qu’elles voyaient en Dieu. Mais qu’y voyaient-elles ? la grandeur de ses vertus, l’abondance de ses douceurs, l’infinité de ses bontés, de son amour, de sa miséricorde le nombre inexplicable des bienfaits qu’elle a reçus, soit dans l’état de grâce, soit hors de l’état de grâce. Mais avant que l’ame ait été comblée de ces dons, ses yeux, ou ses puissances, ne méritaient ni de voir, ni d’adorer, ni même de considérer en Dieu toutes ces choses.
 
-↑ Et de plenitudine ejus nos omnes accepimus, et gratiam pro gratiâ. *Jo*. 1. 16.
-
 ## VINGT-CINQUIÈME CANTIQUE.
 
 No quieras despreciarme ; Que si color moreno en mi hallaste, Ya bien puedes mirarme, Despues que mi miraste, Que gracia, y hermosura en mi dexaste. *Ne me méprisez pas ; Car si vous avez trouvé en moi une couleur noire, Vous pouvez maintenant me regarder, Après que vous m’avez déjà regardée. Car vous m’avez laissé de la grâce et de la beauté.*
@@ -4597,10 +3267,6 @@ L’épouse fondée sur les dons de Dieu, commence à croire que quoiqu’elle s
 Comme si elle disait : Puisque vous avez répandu sur moi tant de biens spirituels, ne concevez plus de mépris pour moi. Car si vous ayez trouvé en mon ame, avant que vous m’ayez régardée, les taches de mes péchés et de mes vices, et la bassesse de ma condition naturelle, vous m’avez affranchie de cette honte ; vous avez effacé la couleur qui me noircissait, et me faisait un objet désagréable à voir ; vous pouvez donc attacher vos yeux sur moi, et me regarder plusieurs fois, parce que vous m’avez laissée en possession des grâces et de la beauté que vous m’avez données.
 
 Après votre premier regard, ô mon Dieu, qui m’a élevé au comble des grâces, de l’honneur, de la gloire, des richesses divines, vous pouvez me regarder d’ici en avant sans discontinuation. En effet, Dieu met sa complaisance en une ame embellie de sa grâce : la voyant ennoblie par le commerce qu’elle a avec lui, il y demeure avec plaisir ; il l’aime avec une tendresse incroyable : dans toutes ses entreprises il lui fait de nouveaux dons plus grands que les premiers ; il lui accorde tout ce qu’elle lui demande. Nous avons une figure naturelle de cette libéralité de Dieu, en ce qu’il fit lui-même à Jacob. Depuis, lui dit-il, *que je vous ai revêtu de gloire et d’honneur, je vous ai aimé.* C’est-à-dire, l’honneur et la gloire que vous avez reçus de moi, vous ont rendu digne d’un plus grand amour, et d’un bienfait plus considérable. L’Épouse nous en fournit encore une noble idée dans ces Cantiques : *Filles de Jérusalem, je suis noire, mais je suis belle ; c’est pourquoi le Roi céleste m’a aimée et m’a menée en sa chambre.* Comme si elle disait : Quoique j’aie naturellement le teint noir, néanmoins mon Époux m’a donné de la beauté. Ce qui l’a engagé à m’aimer plus fortement, à me découvrir ses secrets les plus cachés, et à me faire de plus grands biens.
-
-↑ Ex quo honorabilis factus es in oculis meis et glorieaus, ego dilexi te. *Isa*. 13. 4.
-
-↑ Nigra sum sed formosa, filiæ, Jerusalem. *Cant*. 1. 4. Introduxit me rex in cellarià suâ. *Cant*, 1. 3.
 
 ## VINGT-SIXIÈME CANTIQUE.
 
@@ -4620,8 +3286,6 @@ C’est-à-dire, comme une pomme de pin est très-forte, de même toutes ces ver
 
 L’Épouse signifie par cette expression, que pour s’entretenir intérieurement avec son Époux, il faut chasser les idées des créatures qui lui viennent de la part de ses sens et de son imagination. Cet état étant surnaturel, ne souffre pas même les opérations purement naturelles des puissances de l’ame, parce que l’ame est uniquement occupée en cette union à aimer Dieu, et à se transformer en lui.
 
-↑ Capite nobis vulpes parvulas, quæ demoliuntur vineas. *Cant*. 2. 15.
-
 ## VINGT-SEPTIÈME CANTIQUE.
 
 Detente cierço muerto, Ven austro que recuerdas los amores ; Aspira por mi huerto, Y corran sus odores, Y pacera el amado entre las flores. *Arrétes-toi, vent de septentrion qui donnes la mort ; Viens, vent de midi qui réveilles les amours ; Souffles par mon jardin, Et que ses odeurs se répandent, Et que mon bien-aimé se repaisse entre les fleurs.*
@@ -4640,10 +3304,6 @@ Après que le Saint-Esprit a fait sentir à l’Épouse les effets sacrés de so
 
 C’est-à-dire, l’Époux se nourrit dans l’ame entre les vertus qui sont représentées par les fleurs, ou bien il demeure dans l’ame, dans laquelle il trouve une nourriture pleine de force et de délices. Mais il ne se nourrit pas seulement dans l’ame, il nourrit encore l’ame en la transformant en lui-même. L’Épouse sacrée explique tout ce mystère en ces termes : *Mon bien-aimé est venu dans son jardin, et dans le parterre des fleurs, pour s’y repaître, et pour y cueillir des lis.* Elle dit ensuite : *Je suis à mon bien-aimé, et mon bien-aimé est à moi.* Pour signifier qu’il se plaît à demeurer dans l’ame entre le lis de ses vertus et de ses perfections.
 
-↑ Videntes autem Aaron et filii Israël cornutam Moysi faciem, timuerunt propè accedere. *Exod*. 34. 30.
-
-↑ Dilectus meus descendit ad hortum suum ad arcolam aromatum ut pascatur in hortis, et lilia colligat. Ego dilecto meo, et dilectus meus mihi qui pascitur inter lilia. *Cant*. 6. 1. 2.
-
 ## VINGT-HUITIEME CANTIQUE.
 
 Entrado se ha la Esposa, En el ameno huerto deseado, Ya su sabor reposa, El cuello reclinado, Sobre los dulzes braços del amado. *L’Epouse est maintenant entrée Dans l’agréable jardin qu’elle désirait, Et elle repose à son gré, Le cou penché, Sur les doux bras de son bien-aimé.*
@@ -4656,10 +3316,6 @@ Elle appelle Dieu un jardin, à cause de l’agréable demeure qu’elle trouve 
 
 C’est-à-dire, joignant la force qu’elle a dans la pratique des vertus à la force de Dieu, ou plutôt se fondant sur cette puissance divine. Ce sont ces bras, c’est cette force qui la protègent contre le démon, le monde, la chair, les passions, les inclinations naturelles, tous les ennemis qui l’attaquaient. Ils n’osent plus l’inquiéter dans cette admirable transformation ; mais ils la laissent goûter à loisir les consolations divines. De sorte que ces paroles s’accomplissent en elle : *L’hiver est passé, la pluie est cessée, les fleurs paraissent déjà en nos terres, le temps de tailler est venu, on a entendu chanter les tourterelles, etc.*
 
-↑ Vivo autem, jàm non ego : vivit verò in me Christus. *Galath*. 2. 20.
-
-↑ Jam enim hiems transiit, imber abiit et recessit. Flores apparuerunt in terrà nostrâ, tempus putationis advenit : Vox turturis audita est in terrà nostrà, etc. *Cant*. 2. 11. 12.
-
 ## VINGT-NEUVIÈME CANTIQUE
 
 Debaxo del mancano Alli con migo fuiste desposada ; Alli te di la mano, Y fuiste reparada Donde tu madre fuera violada. *Sous un pommier Je vous ai épousée ; Là je vous ai donné la main, Et vous avez été réparée Où votre mère avait été violée.*
@@ -4669,8 +3325,6 @@ L’époux dit en ce Cantique à son épouse, de quelle manière, pour lui marqu
 C’est-à-dire, sur l’arbre de la Croix, où j’ai perdu la vie pour racheter la nature humaine, j’ai épousé toutes les ames, et leur ai donné la main pour gage de ma fidélité. C’est-là, mon Épouse, où je vous ai enrichie de mes grâces et élevée par une faveur singulière à l’état sublime où vous êtes, en vous appliquant les mérites de ma passion et de ma mort.
 
 Comme s’il disait : La nature humaine, votre mère, a été infectée du péché sous un arbre, et vous avez été rétablie sous l’arbre de la croix ; elle vous a engagée sous un arbre à mourir, et sous l’arbre de la croix je vous ai reudu la vie. Ainsi il lui découvre de quelle manière sa sagesse règle si juste toutes choses, qu’elle tire le bien du mal, et la vie de la mort. L’Époux se sert dans les Cantiques des mêmes paroles, pour exprimer à son Épouse les mêmes mystères..
-
-↑ Sub arbore malo suscitavi te : ibi corrupta est mater ua, ibi violata est genitrix tua. *Cant*. 8. 5.
 
 ## TRENTIÈME et TRENTE et UNIÈME CANTIQUES .
 
@@ -4690,12 +3344,6 @@ L’Épouse appelle ces frayeurs des gardes de nuit, parce qu’elles éveillent
 
 Ces derniers vers signifient les délices spirituelles de l’ame, l’impétuosité des quatre passions que ces plaisirs sacrés étouffent, les vertus parfaites qui défendent l’ame des insultes des démons et de la fureur des passions, et le doux sommeil que l’Épouse prend appuyée sur les bras du divin Époux.
 
-↑ Os meum aperui et attraxi spiritum : quia mandata tua desiderabam. *Psal*. 118. 131.
-
-↑ Concaluit cor meum intrà me, et in meditatione mea exardescet ignis. *Psal*. 38. 4.
-
-↑ Omnes dies pauperis, mali ; secura mens quasi juge convivium. *Prov*. 15. 15.
-
 ## TRENTE-DEUXIÈME CANTIQUE.
 
 O Ninfas de Judea, En tanto que enlas flores y rosales El ambar parfumea, Morà en los arrabales, Y no querais tocar nuestros umbrales. *Ô Nymphes de Judée, Pendant qu’entre les fleurs et les rosiers L’ambre gris répand son parfum, Demeurez dans les faubourgs, Et ne touchez pas le seuil de nos portes.*
@@ -4707,8 +3355,6 @@ Elle marque par la Judée la partie animale, parce qu’elle est, comme les Juif
 L’Épouse signifie par les fleurs, les vertus de l’ame ; par les rosiers, l’entendement, la mémoire et la volonté ; par l’ambre gris, le Saint-Esprit ; par le parfum, la communication que Dieu fait de ses douceurs à l’ame. Or, tandis que l’esprit divin répand ainsi ses richesses et ses consolations sur les puissances de l’ame, parmi ses vertus et ses saintes opérations, l’Épouse prie les mouvemens de la partie sensuelle, de demeurer dans les faubourgs de la Judée, c’est-à-dire, dans les sens intérieurs où les images des choses matérielles sont reçues, lorsqu’elles entrent par les sens extérieurs. Car on peut dire que les sens extérieurs et intérieurs, sont comme des faubourgs qui conduisent à la partie raisonnable, qui est comme la ville où l’ame converse avec Dieu. Mais après tout, l’Épouse ne veut pas que ces fantômes s’échappent de l’imagination, pour interrompre la jouissance qu’elle a de son Dieu, et de ses délices surnaturelles.
 
 C’est-à-dire, ne touchez pas même de vos premiers mouvemens la partie supérieure. Car les premiers mouvemens sont l’entrée de l’ame, pour aller jusqu’à la raison. Lorsqu’ils s’élèvent et ne donnent pas le temps d’y faire réflexion, ils frappent à la porte, ils attaquent la raison, pour obtenir d’elle quelque opération déréglée. Mais l’ame leur défend alors de passer plus outre, de peur qu’ils ne l’empêchent de s’appliquer à Dieu, et de goûter le repos et les douceurs infinies qu’elle trouve en sa conversation. La partie sensitive lui obéit, parce qu’elle est en cet état soumise à l’esprit avec toutes ses puissances, toutes ses forces, et toutes ses faiblesses. De sorte que cette vie a quelque chose de semblable à la vie de l’état d’innocence, où la partie inférieure de l’homme s’accordait si bien avec la partie supérieure, qu’elle lui était d’un grand secours pour connaître et pour aimer Dieu de toutes ses forces. Heureux celui qui possède cet état ! Mais qui est-il, et où le trouverons-nous ? Assurément il mérite bien que nous lui donnions de grandes louanges. Car on peut dire que sa vie est remplie de merveilles.
-
-↑ Quis est hic, et laudabimu seum ? fecit enim mirabilia in vità suâ. *Eccli*. 31.9.
 
 ## TRENTE-TROISIÈME CANTIQUE.
 
@@ -4726,8 +3372,6 @@ Lorsque l’Épouse prie l’Époux de jeter ses regards sur les champs qu’ell
 
 L’Épouse ajoute que comme son ame va vers son bien-aimé par des voies étrangères à ses sens et à ses puissances naturelles, de même il daigne se communiquer à elle par des connaissances et par des moyens si nobles et si divins, qu’ils soient imperceptibles aux sens et à l’esprit de l’homme.
 
-↑ A finibus terræ laudes audivimus, gloriam justi. Et dixi : secretum meum mihi, secretum meum mihi, væ mihi. *Isa*. 24, 16.
-
 ## TRENTE-QUATRIÈME CANTIQUE.
 
 La blanca palomica, Ala arca con el ramo se ha tornado, Y ya la tortolira Al socio deseado, En las riberas verdes ha hallado. *La colombe blanche Revint dans l’arche avec une branche d’olivier ; Et la chaste tourterelle Trouve sa compagne qu’elle désire Dans les rivages verds.*
@@ -4737,8 +3381,6 @@ L’époux parle de la pureté de son Épouse, et des riches récompenses qu’e
 L’Époux compare l’ame à la colombe qui était dans l’arche de Noé, et lui attribue presque les mêmes actions. Car comme la colombe sortit de l’arche, et revint enfin avec une branche d’olivier dans le bec, pour marquer que les eaux du déluge s’étaient retirées, de même l’ame est sortie des mains de Dieu par la création ; et après avoir été sur les eaux de ses péchés et de ses imperfections, elle est rentrée dans le sein de Dieu avec les marques de sa miséricorde, qui a éclaté dans le pardon des fautes de cette criminelle. C’est pourquoi elle retourne comme une colombe, toute blanche et toute nette.
 
 L’Épouse est encore comparée à la tourterelle, parce que comme la tourterelle, tandis qu’elle cherche sa compagne ne se met point sur les branches vertes des arbres, ne boit point d’eau claire et fraîche, et ne repose jamais à l’ombre, de même l’Épouse se prive de tous les plaisirs sensuels, de la gloire, des soulagemens du monde, de toutes les commodités de la vie, pendant qu’elle cherche son Époux. Et comme la tourterelle, après qu’elle a trouvé sa compagne, se sert des choses qu’elle abhorrait, de même l’Épouse prend les satisfactions qu’elle fuyait, après qu’elle a trouvé son Époux. De sorte qu’elle voit la fin de ses peines et l’accomplissement de ses désirs ; elle est heureusement abymée dans une mer de délices divines ; elle est rassasiée des plaisirs solides que la contemplation lui fait couler dans le cœur comme des torrens impétueux et inépuisables ; elle demeure en sûreté sous la protection de son bien-aimé ; ce que l’Épouse exprime en ces termes : *Je me suis mise à l’ombre de celui que j’ai désiré, et son fruit m’est extrêmement doux.*
-
-↑ Sub umbrâ illius quem desideraveram sedi : et fructus ejus dulcis gutturi meo. *Cant*. 2. 3.
 
 ## TRENTE-CINQUIÈME CANTIQUE.
 
@@ -4753,12 +3395,6 @@ L’ame, dans son éloignement des créatures, n’a nul commerce qu’avec Dieu
 Nous avons déjà remarqué que l’Époux veut conduire seul son Épouse. La raison est, parce qu’il la trouve seule dans la solitude ; elle s’est élevée au-dessus de toutes les créatures, elle ne veut posséder que lui seul. Il est donc juste qu’il se donne seul à elle, qu’il en soit seul le directeur, et qu’il soit seul toute sa félicité.
 
 C’est pourquoi, comme elle l’aime seul il l’aime seule réciproquement ; et blessé de son amour, il lui parle au cœur, comme dit un Prophète ; c’est-à-dire, il se communique si abondamment à elle, qu’il lui remplit le cœur de joie et de contentemens ineffables.
-
-↑ Etenim passer invenit sibi domum, et turtur nidum sibi ubi ponat pullos suos. *Psal*. 83. 4.
-
-↑ Quicumque enim spiritu Dei aguntur, ii sunt filii Dei. *Rom*. 8. 14.
-
-↑ Propter hoc, eccè ego lactabo eam, et ducam eam in solitudinem, et loquar ad cor ejus. *Osée*. 2. 14.
 
 ## TRENTE-SIXIÈME CANTIQUE.
 
@@ -4778,14 +3414,6 @@ Cette épaisseur signifie deux choses : la diversité des jugemens de Dieu, et l
 
 Plût au Ciel que les hommes fussent persuadés qu’ils ne peuvent pénétrer dans les profonds secrets de la Sagesse divine, sans passer par ces différentes souffrances où l’Épouse trouve du soulagement ! Plût à Dieu qu’ils en fissent, comme elle, le sujet de leur plaisir ! Ah ! que peu de gens entrent dans ce chemin épineux de la Croix, lequel conduit sûrement à la vie, parce que peu de gens veulent sentir avec Jésus-Christ les douleurs et les afflictions qui nous ouvrent l’entrée à la Sagesse divine !
 
-↑ Et mea omnia tua sunt, et tua mea sunt. *Jo*. 17. 10.
-
-↑ O altitudo divitiarum sapientiæ et scientiæ Dei ! quàm incomprehensibilia sunt judicia ejus, et investigabiles via ejus ! *Rom*. 11. 33.
-
-↑ Desiderabilia super aurum et lapidem pretiosum multum et dulciora super mel et favum. Etenim servus tuus custodit ea ; in custodiendis illis retributio multa. *Psal*. 18. 11. 12.
-
-↑ Quis det ut veniat petitio mea, et quod expecto tribuat mihi Deus ? Et qui cœpit me conterat, solvat manum suam, et succidat me ? Et hæc mihi sit consolatio, ut affligens me dolore, non parcat nec contradicam sermonibus Sancti. *Job*. 6. 8. 9. 10.
-
 ## TRENTE-SEPTIÈME CANTIQUE.
 
 Y luego alas subidas Cabernas de la piedra nos iremos, Que estan bien escondidas, Y alli nos entraremos, Y el mosto de granadas gustaremos. *Et incontinent nous irons ensemble Aux sublimes cavernes de la pierre, Qui sont fort cachées Et nous entrerons là ; Et nous y goûterons le jus des grenades.*
@@ -4800,12 +3428,6 @@ C’est-à-dire, nous entrerons dans la connaissance de ces mystères divins. El
 
 Les grenades représentent les plus hauts mystères de Dieu, ses plus profonds jugegemens, et ses plus sublimes grandeurs. Les grains de la grenade sont le symbole des effets innombrables des perfections divines. Leur figure ronde exprime l’éternité de Dieu, qui n’a, comme le cercle, ni commencement ni fin. Le jus des grenades signifie la jouissance que l’ame a par sa connaissance et par son amour, de la nature et des attributs de Dieu, et le contentement admirable qu’elle reçoit de cette possession. Elle offre à Dieu ce breuvage délicieux, comme l’Epouse l’offre dans les Cantiques à son Époux. *Là*, dit-elle, *vous m’instruirez, et je vous donnerai à boire du vin mixtionné et de la liqueur de mes grenades.* Elle les appelle ses grenades, parce que Dieu les lui a données en propre, et elle les lui rend comme celle à qui elles appartiennent. Ainsi l’Époux lui présente ce breuvage à goûter, et elle le lui présente réciproquement ; de sorte qu’il est commun à l’un et à l’autre.
 
-↑ Petra autem erat Christus. i *Cor*. 10. 4.
-
-↑ In quo sunt omnes thesauri sapientiae et scientia absconditi. *Coloss*. 2. 3.
-
-↑ Apprehendam te, et ducam in domum matris meæ : ibi me docebis et dabo tibi poculum ex vino condito et mustum malorum granatorum meorum. *Cant*. 8. 3.
-
 ## TRENTE-HUITIEME CANTIQUE.
 
 Alli me mostrarias. Aquello, que mi alma pretendia, Y luego mi darias Alli tu, vida mia, aquello que me diste el otro dia. *Là vous me montreriez Ce que mon ame prétendait ; Et là même vous me donneriez encore aussitôt, Ô ma vie, ce que vous m’aviez donné l’autre jour.*
@@ -4817,8 +3439,6 @@ L’Épouse reconnaissant le grand amour que Dieu a pour elle, veut en avoir un 
 Il faut remarquer que l’Épouse prie son Époux de lui apprendre à l’aimer, et non de lui donner son amour, parce qu’il enseigne à aimer Dieu, lorsque Dieu l’aime elle-même ; car comme son amour pour l’ame est pur, désintéressé, parfait, généreux, de même il lui fait la leçon d’un amour semblable. Mais il ne se peut faire en cette vie que nous aimions Dieu d’un amour aussi excellent que l’amour de Dieu même. Cet amour produit néanmoins dans l’ame les sentimens d’une joie si extraordinaire, qu’il lui semble être déjà toute pénétrée de la gloire et de la félicité de Dieu, et qu’elle éclate en louanges des grandeurs et des bontés divines. Mais elle ne possède ces avantages qu’après avoir reçu de son Dieu les premiers traits de sa pureté baptismale, ou de la justice originelle.
 
 L’ame regarde l’infusion de cette pureté, soit originelle, soit baptismale, comme le commencement de sa naissance spirituelle ; et elle appelle cet état un autre jour, ou un second jour après le premier jour de la création et de son baptême.
-
-↑ Claritas Dei diffusa est in cordibus nostris per Spiritum Sanctum qui datus est nobis. *Rom*. 5. 5.
 
 ## TRENTE-NEUVIÈME CANTIQUE.
 
@@ -4842,18 +3462,6 @@ Cette nuit est la contemplation dans laquelle l’Épouse désire connaître les
 
 Cette flamme n’est autre chose, que le parfait amour de l’ame pour Dieu. Il est consumant, parce qu’il transforme l’ame en lui-même ; il est doux, parce qu’il rend les volontés de l’Époux et de l’Épouse conformes l’une à l’autre. Il n’y a plus rien de fâcheux ni de changeant, parce qu’il n’est pas sujet à l’accroissement ni à la diminution ; car l’ame est alors semblable à un charbon qui est tout-à-fait ardent et changé en feu, qui ne fume plus, et qui n’a plus de noirceur. De même elle est toute embrasée d’amour, elle n’a plus d’imperfections naturelles, elle est toute amour. Cet amour la change de telle sorte, qu’elle ne fait plus que des actions divines. C’est dans la douceur et dans les transports de cet amour consommé, que l’Époux doit mettre son Épouse en possession de tous les biens qu’elle désire.
 
-↑ Quoniam autem estis filii, misit Deus Spiritum Filii sui in corda vestra clamantem Abba, Pater. *Galath*. 4. 6.
-
-↑ Pater, quos dedisti mihi, volo ut ubi sum ego et illi sint mecum. *Jo*. 17. 24.
-
-↑ Non pro eis autem rogo tantûm, sed et pro eis qui credituri sunt per verbum eorum in me : ut omnes unum sint, sicut tu Pater in me, et ego in te, ut et ipsi in nobis unum sint, ut credat mundus quia tu me micisti. Et ego claritatem quam dedisti mihi, dedi eis, ut sint unum sicut et nos unum sumus. Ego in eis, et tu in me, ut sint consummati in unum : et cognoscat mundus, quia tu me misisti, et dilexisti eos, sicut et me dilexisti. *Jo*. 17. 20. 21. 22. 23.
-
-↑ Gratia vobis et pax adimpleatur in cognitione Dei, et Christi Jesu Domini nostri : quomodò omnia nobis divinæn virtutis suæ, quæ ad vitam et pietatem donata sunt, per cognitionem ejus qui vocavit nos propriâ gloriâ et virtute : per quem maxima et pretiosa nobis promissa donavit ; ut per hæc efficiamini divinæ consortes naturæ. ii. *Petr*. 1.2. 3. 4.
-
-↑ Surge, propera, amica mea, formosa columba mea, et veni. Jam enim hiems transiit, imber abiit et recessit. Flores apparuerunt in terrâ nostrâ : tempus putationis advenit, vox turturis audita est in terrâ nostrâ. *Cant*. 2. 10. 11. 12.
-
-↑ Surge amica mea, speciosa mea, et veni : columba mea in foraminibus petræ, in caverna maceriæ, ostende mihi faciem tuam, sonet vox tua in auribus meis ; vox enim tua dulcis, et facies tua decora. *Cant*, 2. 13. 14.
-
 ## QUARANTIÈME CANTIQUE.
 
 Que nadie lo miraba Aminadab Tam poco parecia, Y el cerco sossegava, Y la cavalleria, A vista delas aguas descendia. *Aminadab n’était vu de personne, Et il ne paraissait pas ; Le siége s’adoucissait, Et la cavalerie descendait À la vue des eaux.*
@@ -4869,8 +3477,6 @@ Elle parle des passions qui assiégeaient l’ame, et qui la combattaient avec f
 Les eaux signifient les biens spirituels, que Dieu répand dans l’ame en cette parfaite union. La cavalerie exprime les puissances intérieures et extérieures de la partie sensuelle. L’Épouse dit que ces puissances sont descendues à la vue de ces eaux spirituelles, c’est-à-dire, que la partie animale s’est tellement purifiée en cet état, ou, si je l’ose dire, s’est tellement dégagée de la matiére, et élevée au-dessus d’elle-même qu’elle s’est approchée de l’esprit avec ses puissances et ses forces naturelles, pour être participante des dons spirituels que Dieu fait continuellement à l’ame. C’est ce que ces paroles de David nous insinuent : *Mon cœur et ma chair se sont réjouis au Dieu vivant.* Il faut prendre garde, que l’Épouse ne dit pas que la cavalerie est descendue pour boire des eaux, mais à la vue des eaux ; parce que ni la partie inférieure de l’homme, ni ses puissances ne peuvent goûter, proprement parler, les biens spirituels ; car étant matérielles, elles n’en peuvent être capables ni en ce monde ni en l’autre ; mais elles reçoivent de la joie par un certain regorgement des plaisirs de l’esprit sur elles ; en sorte qu’elles se resserrent et se réunissent avec lui, tandis que l’ame goûte ces biens délicieux. Et c’est ainsi qu’elles descendent plutôt à la vue de ces eaux divines, qu’elles ne vont les boire. Au reste, l’Épouse emploie le mot de descendre, et non pas un autre mot, pour nous apprendre que ces puissances passent de leurs opérations propres et naturelles, dans la récollection de l’ame, dans laquelle je prie Notre Seigneur Jésus-Christ, le très-doux Époux de nos ames, d’introduire et d’établir tous ceux qui invoquent son saint Nom.
 
 Ainsi soit-il.
-
-↑ Cor meum et caro mea exultaverunt in Deum vivum. *Psal*. 83. 2.
 
 # 23. LETTRES SPIRITUELLES DU BIENHEUREUX JEAN DE LA CROIX.
 
@@ -4969,10 +3575,6 @@ La seconde précaution contre le monde regarde les biens temporels. Pour vous d�
 ## TROISIÈME PRÉCAUTION.
 
 La troisième précaution vous est très-nécessaire pour vous mettre à couvert des pertes spirituelles qui arrivent quelquefois aux religieux dans les monastères. Ceux qui ne se précautionnent pas de cette manière, perdent la paix et le bien de l’ame, et tombent chaque jour en plusieurs péchés. Gardez-vous donc très-soigneusement de penser à ce qui concerne quelque religieux que ce soit, et beaucoup moins de parler, par exemple, de son naturel, de sa conversation, des autres choses même les plus importantes qui le touchent ; n’en dites rien, sinon à celui à qui il sera à propos de le déclarer en son temps. Quoique vous voyiez, quoique vous entendiez, ne vous en scandalisez pas, ne vous en étonnez nullement, mais effacez tout cela de votre esprit, pour conserver votre ame dans la pureté et dans la paix. Car quoique vous viviez parmi des Anges, vous jugerez que plusieurs choses ne sont pas bonnes, parce que vous n’en connaissez pas le fond. Mettez-vous devant les yeux l’exemple de la femme de Loth : toute effrayée de la ruine de Sodome, elle se tourna pour voir ce qui s’y passait ; et Dieu, pour la punir de sa curiosité, la changea en une statue de sel. Ce qui vous apprend, que si vous viviez parmi les démons, Dieu ne voudrait pas que vous fissiez des retours et des réflexions sur leurs actions, puisque ce ne serait pas à vous à en prendre connaissance. Vous ne devriez alors vous occuper qu’à purifier votre ame, sans souffrir aucun empêchement des pensées que vous pourriez avoir des autres religieux. Tenez pour certain, qu’il y aura toujours dans les communautés régulières, quelque chose qui choquera l’esprit, parce que les démons ne cessent jamais de troubler la paix et l’union des saints ; et Dieu le permet pour les exercer et pour en prendre des épreuves. Pour vous, si vous ne prenez garde à vous, comme si vous n’étiez pas dans un couvent, quelque peine que vous dévoriez, vous ne pourrez être bon religieux, ni passer jusqu’à la nudité de l’esprit, ni jusqu’au recueillement intérieur, ni vous garantir des dommages qui sont cachés sous de fausses apparences. Si vous vous comportez autrement, quoique vous ayiez un bon zèle, le démon vous surprendra tantôt en une chose, tantôt en une autre. Il vous a même déjà trompé, toutes les fois que vous avez donné occasion à votre ame de réfléchir sur ces choses et de se distraire. Souvenez-vous de ce que dit saint Jacques. *Si quelqu’un croit être religieux,* dit-il, *et s’il ne réprime pas néanmoins sa langue, sa religion est vaine,* Ces paroles ne se doivent pas moins entendre des pensées de l’entendement, qui est la langue intérieure de l’homme, que de la langue de notre bouche.
-
-↑ Quærite ergò primum regnum Dei, et justitiam ejus : et hæc omnia adjicientur vobis. *Matt*. 6. 33.
-
-↑ Si quis autem putat se religiosum esse, non refranans linguam suam sed seducens cor suum, hujus rana est religio. *Joan*, 26.
 
 ## PRÉCAUTIONS CONTRE LE DÉMON.
 
@@ -5211,8 +3813,6 @@ Mon ame désire encore pour l’amour de vous, ô mon Dieu, source de toutes mes
 99. Pesez bien cette terrible vérité, que plusieurs sont appelés et peu sont élus ; de sorte que si vous ne vivez avec beaucoup de précautions et de soins, votre perte est plus certaine que votre salut éternel.
 
 100 : S’il est constant, que quand il vous faudra répondre à Dieu de toute votre vie, vous vous repentirez de n’avoir pas bien employé le temps en son service, pourquoi ne le réglez-vous pas maintenant de la manière que vous voudrez alors l’avoir consumé pour votre Créateur ?
-
-↑ Juxtâ est Dominus iis qui tribulato sunt corde : et humiles spiritu salvabit. *Psal*. 33. 19.
 
 # 27. PRIÈRE QUE LE BIENHEUREUX JEAN DE LA CROIX FAIT À NOTRE SEIGNEUR, EN ACHEVANT SES INSTRUCTIONS.
 
@@ -5568,37 +4168,37 @@ FIN.
 
 # 29. Notes
 
-**1.** *Instruct. sur les états d’oraison*, liv. I
+**1.** *Instruct. sur les états d’oraison*, liv. I. n.12. Voyez aussi les autres écrits de Bossuet sur la Controverse du Quiétisme, et particulièrement *Mystica in tuto.* Praefat. necnon partis, I. cap. 8.
 
-**2.** Œuvres spirit. du P.
+**2.** Œuvres spirit. du P. Berthier, I. 5, p. 87, édit, de Paris, 1811.
 
 **3.** *Dict. hist.* de Moreri et de Feller, art. *S. Jean de la Croix.*
 
 **4.** Note sur la vie de S. Jean de la Croix, parmi les *Vies des Pères et des autres Saints*, traduites de l’anglais d’Alban Butler, par l’abbé Godescard, 24 Novembre.
 
-**5.** ii
+**5.** ii. *Cor*. 5, 16.
 
-**6.** i
+**6.** i. *Cor*. 2. v. 4 et 16.
 
-**7.** i
+**7.** i. *Cor*. 6, 17.
 
-**8.** Le P.
+**8.** Le P. Berthier parle ici de la traduction composée par le P. Maillard et publiée pour la première fois en 1695.
 
-**9.** Livre I
+**9.** Livre I, chap. 6 de la traduction du P. Maillard.
 
-**10.** Livre II
+**10.** Livre II, chap. 5.
 
-**11.** ii
+**11.** ii. Cor. 3, 18.
 
-**12.** Voici ces vers
+**12.** Voici ces vers : [Montée du Carmel, liv. I, ch. 13.] 1. Pour goûter tout, n’ayez du goût pour aucune chose. 2. Pour savoir tout, désirez de ne rien savoir. 3. Pour posséder tout, souhaitez de ne rien posséder. 4. Pour être tout, ayez la volonté de n’être rien en toutes choses. 5. Pour parvenir à ce que vous ne goûtez pas, vous devez passer par ce qui ne frappe point votre goût. 6. Pour arriver à ce que vous ne savez pas, il faut passer par ce que vous ignorez. 7. Pour avoir ce que vous ne possédez pas, il est nécessaire que vous passiez par ce que vous n’avez pas. 8. Pour devenir ce que vous n’êtes pas, vous devez passer par ce que vous n’êtes pas. 9. Lorsque vous vous arrêtez à quelque chose, vous cessez de vous jeter dans le tout. 10. Car pour venir du tout au tout, vous devez vous renoncer de tout au tout. 11. Et quand vous serez arrivé à la possession du tout, vous devez le retenir en ne voulant rien. 12. Car si vous voulez avoir quelque chose dans le tout, vous n’avez pas votre trésor tout pur en Dieu.
 
-**13.** Psal. XXXIII
+**13.** Psal. XXXIII 9.
 
-**14.** I
+**14.** I. Petr. 2, 3.
 
 **15.** Coloss. 3, 1, 2, 3.
 
-**16.** i
+**16.** i Cor. 2, 2.
 
 **17.** Philip. 3, 8.
 
@@ -5606,1364 +4206,1364 @@ FIN.
 
 **19.** Luc. 14, 33.
 
-**20.** *Montée du Carmel*, liv. I
+**20.** *Montée du Carmel*, liv. I, ch. 3 et suiv.
 
-**21.** Coloss. III
+**21.** Coloss. III, 5.
 
 **22.** Montée du Carmel, liv. I, ch. 13.
 
-**23.** *Nuit obscure*, liv. I
+**23.** *Nuit obscure*, liv. I, ch. 12.
 
-**24.** *Nuit obscure*, liv. I
+**24.** *Nuit obscure*, liv. I, chap. 12.
 
-**25.** *Montée du Carmel*, liv. II
+**25.** *Montée du Carmel*, liv. II, ch. 7.
 
-**26.** *Montée du Carmel*, liv. II
+**26.** *Montée du Carmel*, liv. II.
 
 **27.** Hebr. 11, 6.
 
-**28.** On voit assez que le P.
+**28.** On voit assez que le P. Berthier considère uniquement ces rapports et ces avantages en tant que surnaturels, c’est-à-dire, en tant qu’ils se rapportent à la vision intuitive de Dieu. Autrement les rapports et les avantages dont il parle ne nous sont pas connus par la foi seule, mais aussi par la raison.
 
 **29.** Rom. 8, 14.
 
-**30.** Cette proposition paraît trop générale, car il est certain que *la foi et la science humaine peuvent agir ensemble sur certains objets*, tels que l’existence de Dieu et de la loi naturelle, l’immortalité de l’ame, et plusieurs autres vérités que la raison et la foi nous découvrent également. Cependant la proposition du P.
+**30.** Cette proposition paraît trop générale, car il est certain que *la foi et la science humaine peuvent agir ensemble sur certains objets*, tels que l’existence de Dieu et de la loi naturelle, l’immortalité de l’ame, et plusieurs autres vérités que la raison et la foi nous découvrent également. Cependant la proposition du P. Berthier ne laisse pas d’être vraie, dans le sens où elle est restreinte par le contexte, c’est-à-dire, en ce sens que la raison seule ne peut ni découvrir ni pénétrer les vérités obscures que la foi nous enseigne.
 
-**31.** Psal. XVII
+**31.** Psal. XVII, 10 et seq.
 
 **32.** Joan. 1, 18.
 
-**33.** *Montée du Carmel*, liv. II
+**33.** *Montée du Carmel*, liv. II, ch. 13, 14 et 15.
 
-**34.** *Montée du Carmel*, liv. II
+**34.** *Montée du Carmel*, liv. II, ch. 6.
 
-**35.** *Id*., liv. III
+**35.** *Id*., liv. III, ch. 1 et suiv.
 
-**36.** *Montée du Carmel*, liv. III
+**36.** *Montée du Carmel*, liv. III, ch. 1 vers la fin.
 
-**37.** *Montée du Carmel*, liv. III
+**37.** *Montée du Carmel*, liv. III, ch. 1 vers le milieu.
 
-**38.** i
+**38.** i. Cor. 6. 17.
 
-**39.** *Montée du Carmel*, liv. III
+**39.** *Montée du Carmel*, liv. III, ch. 15 et suiv.
 
-**40.** Le P.
+**40.** Le P. Berthier, en écrivant ceci, ne paraît pas avoir fait assez d’attention que, selon l’enseignement unanime des théologiens, l’abnégation entière et universelle dont parle S. Jean de la Croix, n’est pas rigoureusement nécessaire pour l’accomplissement du précepte de la charité. En effet la charité, quoique véritable dans tous les fidèles en état de grâce, n’est pas incompatible avec bien des imperfections, et n’a pas en tous le même degré d’intensité. Voyez dans les Théologiens scholastiques l’explication du précepte de la charité. Voyez en particulier la *Somme de S. Thomas*, 2. 2. quæst. XXIV, art. 4 et 7. Billuart, *de Charit*. dissert. II, art. 1.
 
 **41.** Joan 3, 6.
 
-**42.** *Montée du Carmel*, liv. III
+**42.** *Montée du Carmel*, liv. III, ch. 23 vers le milieu.
 
-**43.** *Montée du Carmel*, liv. III
+**43.** *Montée du Carmel*, liv. III. ch. 14.
 
-**44.** *Montée du Carmel*, liv. III
+**44.** *Montée du Carmel*, liv. III, ch. 34.
 
-**45.** *Montée du Carmel*, liv. III
+**45.** *Montée du Carmel*, liv. III, ch. 39.
 
 **46.** *Montée du Carmel*, à la fin du chap. 44.
 
-**47.** *Nuit obscure*, liv. I
+**47.** *Nuit obscure*, liv. I, ch. 6.
 
-**48.** *Nuit obscure*, liv. I
+**48.** *Nuit obscure*, liv. I, ch. 4.
 
-**49.** Confess. liv. IV
+**49.** Confess. liv. IV, ch. 4.
 
-**50.** *Nuit obscure*, liv. II
+**50.** *Nuit obscure*, liv. II, ch. 7 vers la fin.
 
-**51.** *Vive Flamme*, Cantique III
+**51.** *Vive Flamme*, Cantique III, vers 3, §. 4.
 
-**52.** *Montée du Carmel*, liv. II
+**52.** *Montée du Carmel*, liv. II, ch. 12 dernier alinéa ; ch. 15 premier alinéa.
 
-**53.** *Nuit obscure*, liv. II
+**53.** *Nuit obscure*, liv. II, ch. 11, second alinéa.
 
-**54.** *Cantique spirituel*, Cantique IX
+**54.** *Cantique spirituel*, Cantique IX, vers la fin.
 
-**55.** *Nuit obscure*, liv. II
+**55.** *Nuit obscure*, liv. II, ch. 21 vers le milieu.
 
-**56.** *Montée du Carmel*, liv. II
+**56.** *Montée du Carmel*, liv. II, ch. 32 vers la fin.
 
-**57.** On voit assez que le P.
+**57.** On voit assez que le P. Berthier ne rejette ici que *l’état d’amour pur* au sens des quiétistes, qui excluaient de cet état tous les actes distingués de la charité. Les principes que le P. Berthier expose dans cet alinéa, aussi bien que dans la lettre suivante, montrent clairement qu’il était bien éloigné de nier la possibilité, et même la réalité d’un *état d’amour* pur dans lequel tous les actes distingués de la charité se font *ordinairement* par le motif propre de la charité. On ne doit pas perdre de vue cette observation en lisant la lettre suivante.
 
 **58.** Ce mot ne se trouvait pas dans la première édition, c’était certainement une faute d’impression, aussi a-t-elle été corrigée dans l’édition de 1811, que nous suivons ici.
 
-**59.** I
+**59.** I. Cantique, 1 vers.
 
 **60.** Voyez la troisième Lettre, ci-dessus page 30.
 
-**61.** Pauper sum ego, et in laboribus à juventute meà.
+**61.** Pauper sum ego, et in laboribus à juventute meà. Psal. 87, 16.
 
-**62.** Lux in tenebris lucet, et tenebræ eam non comprehenderunt. *Joan.*
+**62.** Lux in tenebris lucet, et tenebræ eam non comprehenderunt. *Joan.*, 1. 5.
 
-**63.** Aut quæ societas luci ad tenebras
+**63.** Aut quæ societas luci ad tenebras ? ii. *Cor.* 6. 14.
 
-**64.** Similes illis fiant qui faciunt ca, et omnes qui confidunt in eis. *Psal.*
+**64.** Similes illis fiant qui faciunt ca, et omnes qui confidunt in eis. *Psal.* 113. 8.
 
-**65.** Aspexi terram, et eccè vacua erat et nihili, et cœlos et non erat lux in eis. *Jerem.*
+**65.** Aspexi terram, et eccè vacua erat et nihili, et cœlos et non erat lux in eis. *Jerem.* 4. 23.
 
-**66.** Falax gratia, et vana est pulchritudo
+**66.** Falax gratia, et vana est pulchritudo, *Prov*. 31, 30.
 
-**67.** Nemo bonus nisi solus Deus
+**67.** Nemo bonus nisi solus Deus. *Luc*. 18. 19.
 
-**68.** Sapientia enim hujus mundi stultitia est apud Deum
+**68.** Sapientia enim hujus mundi stultitia est apud Deum. i. *Cor*. 3. 19.
 
-**69.** Dicentes enim se esse sapientes, stulti facti sunt.
+**69.** Dicentes enim se esse sapientes, stulti facti sunt. *Rom*. 1. 22.
 
-**70.** Nemo se seducat
+**70.** Nemo se seducat : Si quis videtur inter vos sapiens esse in hoc sæculo, stultus fiat ut sit sapiens. i. *Cor*. 3. 18.
 
-**71.** Ejice ancillam hanc, et filium ejus
+**71.** Ejice ancillam hanc, et filium ejus : Non enim erit hæres filius ancillæ cum filio meo Isaac. *Gen*. 21. 10.
 
-**72.** O viri ad vos clamito, et vox mea ad filios hominum. Intelligite, parvuli, astutiam, et insipientes animadvertite. Audite, quoniam de rebus magnis locutura sun… Mecum sunt divitiæ, et gloria, opes superbæ et justitia, Melior est enim fructus meus auro, et lapide pretioso, et genimina mea argento electo. In viis justitiæ ambulo, in medio semitarum judicii, ut ditem diligentes me, et thesauros corum repleam.
+**72.** O viri ad vos clamito, et vox mea ad filios hominum. Intelligite, parvuli, astutiam, et insipientes animadvertite. Audite, quoniam de rebus magnis locutura sun… Mecum sunt divitiæ, et gloria, opes superbæ et justitia, Melior est enim fructus meus auro, et lapide pretioso, et genimina mea argento electo. In viis justitiæ ambulo, in medio semitarum judicii, ut ditem diligentes me, et thesauros corum repleam. *Prov*. 8. 4. 5. 18. 19. 20. 21.
 
-**73.** Sic ergo omnis ex vobis qui non renuntiat omnibus quæ possidet, non potest meus esse discipulus.
+**73.** Sic ergo omnis ex vobis qui non renuntiat omnibus quæ possidet, non potest meus esse discipulus. *Luc*. 14. 33.**
 
-**74.** Et occidit pinguet corum
+**74.** Et occidit pinguet corum. *Psal*, 77. 31.
 
-**75.** Esto paratus manè, ut ascendas statim in montem Sinaï, stabisque mecum super verticem montis. Nullus ascendat tecum, nec videatur quispiam per totum montem
+**75.** Esto paratus manè, ut ascendas statim in montem Sinaï, stabisque mecum super verticem montis. Nullus ascendat tecum, nec videatur quispiam per totum montem ; boves quoque et oves non pascantur è contrà. *Exod*. 34. 2. 3.
 
-**76.** Jacob verò convocatâ omni domo suà, ait
+**76.** Jacob verò convocatâ omni domo suà, ait : Abjicite deos alienos qui in medio vestri sunt, et mundamini, et mutate vestimenta vestra ; Surgite, et ascendamus in Bethel, ut faciamus ibi altare Deo. *Genes*. 35. 2. 3.
 
-**77.** Non solidum, sed inane et cavum intrinsecùs facies.
+**77.** Non solidum, sed inane et cavum intrinsecùs facies. *Exod*. 27. 8.
 
-**78.** Duo enim mala fecit populus meus
+**78.** Duo enim mala fecit populus meus : me dereliquerunt fontem aquæ vivæ, et foderunt sibi cisternas, cisternas dissipatas, quæ continere non valent aquas. *Jerem.* 2. 13.
 
-**79.** Non est bonum sumere panem filiorum, et mittere canibus.
+**79.** Non est bonum sumere panem filiorum, et mittere canibus. *Matth*. 15. 26. Nolite dare sanctum canibus. *Matth*. 7. 6.
 
-**80.** Famem patientur ut canes. Ipsi dispergentur ad manducandum. Si verò non fuerint saturati, et murmurabunt.
+**80.** Famem patientur ut canes. Ipsi dispergentur ad manducandum. Si verò non fuerint saturati, et murmurabunt. *Psal*. 58. 15. 16.
 
-**81.** Et sicut somniat esuriens et comedit, cùm autem fuerit expergefactus vacua est anima ejus
+**81.** Et sicut somniat esuriens et comedit, cùm autem fuerit expergefactus vacua est anima ejus : et sicut somniatn sitiens et bibit, et postquam fuerit expergefactus, lassus adhúc sitit, et anima ejus vacua est, etc. *Isa*. 29. 8.
 
-**82.** Cùm satiatus fuerit arctabitur, æstuabit, et omnis dolor irruet super eum.
+**82.** Cùm satiatus fuerit arctabitur, æstuabit, et omnis dolor irruet super eum. *Job*. 20. 22.
 
-**83.** Impii autem quasi mare fervens, quod quiescere non potest.
+**83.** Impii autem quasi mare fervens, quod quiescere non potest. *Isa*. 57. 20.
 
-**84.** Onager assuetus in solitudine, in desiderio animæ suæ attraxit ventum amoris sui.
+**84.** Onager assuetus in solitudine, in desiderio animæ suæ attraxit ventum amoris sui. *Jerem*. 2. 24. Prohibe pedem tuum à nuditate, et guttur tuum à siti. *Ibid v*. 25.
 
-**85.** Et declinabit ad dexteram et esuriet
+**85.** Et declinabit ad dexteram et esuriet : et comedet ad sinistram, et non saturabitur. *Isa*. 9. 20.
 
 **86.** Funes peccatorum circumplexi sunt me. *Psal*. 118. 61.
 
-**87.** Circumdederunt me sicut apes, et exarserunt sicut ignis in spinis.
+**87.** Circumdederunt me sicut apes, et exarserunt sicut ignis in spinis. *Psal*. 117. 12.
 
-**88.** Cùmque molesta esset ei, et per multos dies jugiter adhæreret, spatium ad quietem non tribuens, defecit anima ejus et ad mortem usquè lassata est.
+**88.** Cùmque molesta esset ei, et per multos dies jugiter adhæreret, spatium ad quietem non tribuens, defecit anima ejus et ad mortem usquè lassata est. *Judic*. 16. 16.
 
-**89.** Quantum glorificavit se, et in deliciis fuit, tantum date illi ei tormentum et luctum.
+**89.** Quantum glorificavit se, et in deliciis fuit, tantum date illi ei tormentum et luctum. *Apoc*. 18.7.
 
-**90.** Omnes sitientes venite ad aquas
+**90.** Omnes sitientes venite ad aquas : et qui non habetis argentum, properate, emitte, et comedite : venite, emitte absque argento, et absque ullâ commutatione vinum et lac. Quarè appenditis argentum non in panibus, et laborem vestrum non in saturitate ? Audite audientes me, et comedite bonum, et delectabitur in crassitudine anima vestra. *Isa*. 55. 1. 2.
 
-**91.** Venite ad me, omnes qui laboratis et onerati estis, et ego reficiam vos.
+**91.** Venite ad me, omnes qui laboratis et onerati estis, et ego reficiam vos. *Matt*. 11. 28. Quoniam iniquitates meæ supergressæ sunt caput meum ; et sicut onus gravatæ sunt super me. *Psal*. 37. 5.
 
-**92.** Quoniam circumdederunt me mala quorum non est numerus
+**92.** Quoniam circumdederunt me mala quorum non est numerus ; comprehenderunt me iniquitates meæ, et non potui ut viderem. *Psal*. 39. 13.
 
-**93.** Et anima mea turbata est valdè.
+**93.** Et anima mea turbata est valdè. *Psal*. 6. 4.
 
-**94.** Cœcus autem si cœco ducatum præstet, ambo in foveam cadunt
+**94.** Cœcus autem si cœco ducatum præstet, ambo in foveam cadunt. *Matt*. 15. 14.
 
-**95.** Supercedidit ignis, et non viderunt solem
+**95.** Supercedidit ignis, et non viderunt solem. *Psalm*. 57. 9.
 
-**96.** Priusquam intelligerent spinæ vestræ rhamnum
+**96.** Priusquam intelligerent spinæ vestræ rhamnum : Sicut viventes, sic in irà absorbet eos. *Psal*. 57. 10.
 
-**97.** Cùmque jam esset senex, depravatum est cor ejus per mulieres, ut sequeretur deos alienos.
+**97.** Cùmque jam esset senex, depravatum est cor ejus per mulieres, ut sequeretur deos alienos. iii. *Reg*. 11. 4.
 
-**98.** Et omnia quæ desideraverunt oculi mei, non negavi eis
+**98.** Et omnia quæ desideraverunt oculi mei, non negavi eis ; nec prohibui cor meum, quin omni voluptate frueretur, et oblectaret se in his quæ præparaveram. *Ecclæ*. 2. 10.
 
-**99.** Nesciunt quid sit inter dexteram et sinistram suam.
+**99.** Nesciunt quid sit inter dexteram et sinistram suam. *Jonœ*. 4. 11.
 
-**100.** Palpavimus sicut cœci parietem, et quasi absque oculis attrectavimus
+**100.** Palpavimus sicut cœci parietem, et quasi absque oculis attrectavimus ; impegimus meridiè quasi in tenebris. *Isa*. 59. 10.
 
 **101.** Qui tetigerit picem, inquinabitur ab eâ. *Eccl*. 13. 1.
 
-**102.** Candidiores Nazaræi ejus nive, nitidiores lacte, rubicondiores ebore antiquo, sapphiro pulchriores. Denigrata est super carbones facies eorum, et non sunt cogniti in plateis.
+**102.** Candidiores Nazaræi ejus nive, nitidiores lacte, rubicondiores ebore antiquo, sapphiro pulchriores. Denigrata est super carbones facies eorum, et non sunt cogniti in plateis. *Thrênoi*. 4. 7. 8.
 
-**103.** Et ingressus vidi, et eccè omnis similitudo reptilium et animalium, abominatio et universa idola domus Israel depicta erant in pariete, in circuitu per totum.
+**103.** Et ingressus vidi, et eccè omnis similitudo reptilium et animalium, abominatio et universa idola domus Israel depicta erant in pariete, in circuitu per totum. *Ezech*. 8. 10.
 
-**104.** Et dixit ad me adhuc conversus videbis abominationes majores quas isti faciunt. Et introduxit me per ostium portæ domus Domini, quod respiciebat ad Aquilonem, et eccè ibi mulieres sedebant plangentes Adonidem. Et dixit ad me Certè vidisti fili hominis
+**104.** Et dixit ad me adhuc conversus videbis abominationes majores quas isti faciunt. Et introduxit me per ostium portæ domus Domini, quod respiciebat ad Aquilonem, et eccè ibi mulieres sedebant plangentes Adonidem. Et dixit ad me Certè vidisti fili hominis : adhuc conversus videbis abominationes majores his. Et introduxit me in atrium domus Domini interius. Et eccè in ostio Templi Domini inter vestibulum et altare quasi viginti quinque viri, dorsa habentes contrà templum Domini, et facies ad Orientem, et adorabant ad ortum solis. *Ezech*. 8. 13. 14. 15. 16. *Ibid. v*. 14.
 
-**105.** Effusus ea sicut aqua, non crescas
+**105.** Effusus ea sicut aqua, non crescas ; quia ascendisti cubile patris tui, et maculâsti stratum ejus. *Genes*. 49. 4.
 
-**106.** Fortitudinem meam ad te custodiam
+**106.** Fortitudinem meam ad te custodiam, *Psal*. 58. 10.
 
-**107.** Sint lumbi vestri præcincti
+**107.** Sint lumbi vestri præcincti. *Luc*. 12. 35.
 
-**108.** Sanguisugæ duæ sunt filiæ, dicentes
+**108.** Sanguisugæ duæ sunt filiæ, dicentes : affer, affer. Tria sunt insaturabilia, et quartum, quod numquàm dicit : Sufficit. *Prov*. 30. 15.
 
-**109.** Aufer à me ventris concupiscentias
+**109.** Aufer à me ventris concupiscentias. *Eccli*. 23. 6.
 
-**110.** Septies enim cadet justus et resurget.
+**110.** Septies enim cadet justus et resurget. *Prov*. 24. 16.
 
-**111.** Qui non congregat meeum, spargit.
+**111.** Qui non congregat meeum, spargit. *Matt*. 12. 30.
 
-**112.** Qui spernit modica, paulatim decidet
+**112.** Qui spernit modica, paulatim decidet. *Eccli*. 19. 1. *Ibid*. A scintilla unâ augetur ignis. *Eccli*. 11. 34.
 
-**113.** Quam ob rem nolui delere ens à facie vestrá
+**113.** Quam ob rem nolui delere ens à facie vestrá ; ut habeatis hostes, et dii eorum sint vobis in ruinam. *Judic*. 2. 3.
 
-**114.** Interfecerunt omnia quæ erant in eâ, à viro usquè ad mulierem, ab infante usquè ad senem, boves quoque et oves et asinos in ore gladii percusserunt.
+**114.** Interfecerunt omnia quæ erant in eâ, à viro usquè ad mulierem, ab infante usquè ad senem, boves quoque et oves et asinos in ore gladii percusserunt. *Josue*. 6. 21.
 
-**115.** Hoc itaque dico, fratres
+**115.** Hoc itaque dico, fratres : Tempus breve est : Reliquum est ; ut et qui habent uxores ; tanquam non habentes sint ; et qui flent, tanquam non flentes ; et qui gaudent, tanquam non gaudentes ; et qui emunt, tanquam non possidentes ; et qui utuntur hoc mundo, tanquam non utantur ; præterit enim figura hujus mundi. i. *Cor*. 7. 29. 30. 31.
 
-**116.** Et dixit mihi
+**116.** Et dixit mihi : Sufficit tibi gratia mea : Nam virtus in infirmitate perficitur. ii. *Cor*. 12. 9.
 
-**117.** Ergò fides ex auditu, auditus autem per Verbum Christi.
+**117.** Ergò fides ex auditu, auditus autem per Verbum Christi. *Rom*. 10. 17.
 
-**118.** Si non credideritis, non permanebitis.
+**118.** Si non credideritis, non permanebitis. *Isa*. 7.9.
 
-**119.** Tollensque se Angelus Dei qui præcedebat castra
+**119.** Tollensque se Angelus Dei qui præcedebat castra Israël, abiit post eos : et cum eo pariter columna nubis, priora dimittens post tergum, stetit inter castra Ægyptiorum et castra Israël et erat nubes tenebrosa, et illuminans noctem, ità ut ad se invicem toto noctis tempore accedere non volerent. *Exod*. 14. 19. 20,
 
-**120.** Dies diei eructat verbum, et nox nocti indicat scientiam.
+**120.** Dies diei eructat verbum, et nox nocti indicat scientiam. *Psal*. 18. 5.
 
-**121.** Et nox illuminatio mea in deliciis meis.
+**121.** Et nox illuminatio mea in deliciis meis. *Psal*. 138. 11.
 
-**122.** Sine fide autem impossibile est placere Deo. Credere enim oportet accedentem ad Deum quia est.
+**122.** Sine fide autem impossibile est placere Deo. Credere enim oportet accedentem ad Deum quia est. *Hebr*. 11. 6.
 
-**123.** Oculus non vidit, Deus absque te, preparasti expectantibus te.
+**123.** Oculus non vidit, Deus absque te, preparasti expectantibus te. *Isa*. 64. 4.
 
-**124.** Quod oculus non vidit, nec auris audivit, nec in cor hominis ascendit, quæ præparavit Deus iis qui diligunt illum
+**124.** Quod oculus non vidit, nec auris audivit, nec in cor hominis ascendit, quæ præparavit Deus iis qui diligunt illum. i. *Cor*. 2. 9.
 
-**125.** Et dixit Jesus
+**125.** Et dixit Jesus : In judicium ego in hunc mundum veni, ut qui non vident, videant, et qui vident, cœei fiant. *Joan*. 9. 39.
 
-**126.** Quotquot autem receperunt eum, dedit eis potestatem filios Dei fieri, his qui credunt in nomine ejus
+**126.** Quotquot autem receperunt eum, dedit eis potestatem filios Dei fieri, his qui credunt in nomine ejus ; qui non ex sanguinibus, neque ex voluntate carnis, neque ex voluntate viri, sed ex Deo nati sunt. *Joan*. 1. 12. 13.
 
-**127.** Respondit Jesus
+**127.** Respondit Jesus : Amen, amen dico tibi, nisi quis renatus fuerit ex aquâ et spiritu sancto, non potest introire in regnum Dei. *Joan*. 3. 5.
 
-**128.** Est autem fides sperandarum substantia rerum, argumentum non apparentium.
+**128.** Est autem fides sperandarum substantia rerum, argumentum non apparentium. *Hebr*. 11. 1.
 
-**129.** Spes autem quæ videtur, non est spes
+**129.** Spes autem quæ videtur, non est spes : nam quod videt quis, quid sperat ? *Rom*. 8. 24.
 
-**130.** Sic ergò omnis ex vobis, qui non renuntiat omnibus quæ possidet, non potest meus esse discipulus.
+**130.** Sic ergò omnis ex vobis, qui non renuntiat omnibus quæ possidet, non potest meus esse discipulus. *Luc*. 14. 33.
 
-**131.** Quis vestrum habebit amicum et ibit ad illum mediá nocte, et dicet illi
+**131.** Quis vestrum habebit amicum et ibit ad illum mediá nocte, et dicet illi : Amice, commoda mihi tres panes. *Luc*. 11. 5.
 
-**132.** Quàm angusta porta, et arcta via est, quæ ducit ad vitam, et pauci sunt qui inveniunt eam
+**132.** Quàm angusta porta, et arcta via est, quæ ducit ad vitam, et pauci sunt qui inveniunt eam ! *Matt*. 7.14.
 
-**133.** Si quis vult me sequi, deneget semetipsum, et tollat crucem suam et sequatur me. Qui enim voluerit animam suam salvam facere, perdet eam
+**133.** Si quis vult me sequi, deneget semetipsum, et tollat crucem suam et sequatur me. Qui enim voluerit animam suam salvam facere, perdet eam : qui autem perdiderit animam suam propter me et Evangelium, salvam faciet eam. *Marc*. 8. 34. 35.
 
-**134.** Qui enim voluerit animam suam salvam facere, perdet eam. Qui autem perdiderit animam suam propter me, inveniet eam.
+**134.** Qui enim voluerit animam suam salvam facere, perdet eam. Qui autem perdiderit animam suam propter me, inveniet eam. *Matt*. 16. 26.
 
-**135.** Qui amat animam suam, perdet eam
+**135.** Qui amat animam suam, perdet eam ; et qui odit animam suam in hoc mundo, in vitam æternam custodit eam. *Joan*. 12. 25.
 
-**136.** Jugum enim meum suave est, et onus meum leve.
+**136.** Jugum enim meum suave est, et onus meum leve. *Matt*. 11. 30.
 
-**137.** Ego sum via, et veritas, et vita.
+**137.** Ego sum via, et veritas, et vita. *Joan*. 14. 6. Ego sum ostium : per me si quis iutoreirit, salvabitur. *Joan*. 10. 9.
 
-**138.** Non est similis tui in diis, Domine
+**138.** Non est similis tui in diis, Domine ; et non est secundum opera tua. *Psal*. 85. 8.
 
-**139.** Deus in sancto via tua
+**139.** Deus in sancto via tua ; quis Deus magnus sicut Deus noster ? *Psal*. 76. 14.
 
-**140.** Quoniam excelsus Dominus, et humilia respicit
+**140.** Quoniam excelsus Dominus, et humilia respicit ; et alta à longè cognoscit. *Psal*. 137. 6.
 
-**141.** Non poteris videre faciem meam. Non enim videbit me homo et vivet.
+**141.** Non poteris videre faciem meam. Non enim videbit me homo et vivet. *Exod*. 33. 20.
 
-**142.** Deum nemo vidit umquàm.
+**142.** Deum nemo vidit umquàm. *Joan*. 1. 18.
 
-**143.** Oculus non vidit, nec auris audivit, nec in cor hominis ascendit, quæ præparavit Deus iis qui diligunt illum.
+**143.** Oculus non vidit, nec auris audivit, nec in cor hominis ascendit, quæ præparavit Deus iis qui diligunt illum. i. *Cor*. 2. 9.
 
-**144.** Oculus non vidit, Deus absque te, quæ præparasti expectantibus te.
+**144.** Oculus non vidit, Deus absque te, quæ præparasti expectantibus te. *Isa*. 64. 4. Tremefactus autem Moyses non audebat considerare. *Act*. 7. 32. Quod cùm audisset Elias, operuit vultum suum pallio. iii. *Reg*. 19. 13.
 
-**145.** Cui
+**145.** Cui ’ergo similem fecistis Deum ? Aut quam imaginem poneti ei ? Numquid sculptile conflavit faber ? Aut aurifex auro figuravit illud, et laminis argenteis argentarius ? *Isa*. 40. 18. 19.
 
-**146.** Viam autem sapientiæ nescierunt, neque commemorati sunt semitas ejus.
+**146.** Viam autem sapientiæ nescierunt, neque commemorati sunt semitas ejus. *Baruch*. 3. 23.
 
-**147.** Credere enim oportet accedentem ad Deum, quia est.
+**147.** Credere enim oportet accedentem ad Deum, quia est. *Heb*. 11. 6.
 
-**148.** Inclinavit cœlos et descendit, et caligo sub pedibus ejus
+**148.** Inclinavit cœlos et descendit, et caligo sub pedibus ejus : et ascendit super Cherubim, et volavit ; volavit super pennas ventorum. Et posuit tenebras latibulum suum ; in circuitu ejus tabernaculum ejus ; tenebrosa aqua in nubibus aeris. *Psal*. 17. 10. 11. 12.
 
-**149.** Tunc ait Salomon
+**149.** Tunc ait Salomon : Dominus dixit ut habitaret in nebula. iii. *Reg*. 8. 12.
 
-**150.** Ait ei Dominus
+**150.** Ait ei Dominus : Jam nunc veniam ad te in caligine nubis. *Exod*. 19. 9.
 
-**151.** Respondens autem Dominus Job de turbine, dixit.
+**151.** Respondens autem Dominus Job de turbine, dixit. *Job*. 38. 1. *Ibid*. 40. 1.
 
-**152.** Cum autem venerit quod perfectum est, evacuabitur quod ex parte est
+**152.** Cum autem venerit quod perfectum est, evacuabitur quod ex parte est. i. *Cor*. 13. 10.
 
-**153.** Ipse enim satanas transfigurat se in Angelum lucis.
+**153.** Ipse enim satanas transfigurat se in Angelum lucis. ii. *Cor*. 11. 14.
 
-**154.** Euge, serve bone et fidelis
+**154.** Euge, serve bone et fidelis ; quia super pauca fuisti fidelis super multa te constituam. *Matt*. 23. 21.
 
-**155.** Introduxit me in cellam vinariam, ordinavit in me charitatem.
+**155.** Introduxit me in cellam vinariam, ordinavit in me charitatem. *Cant*. 2. 4.
 
-**156.** Et vidi tanquàm mare vitreum mixtum igne, et eos qui vicerunt bestiam et imaginem ejus, et numerum nominis ejus, stantes super mare vitreum.
+**156.** Et vidi tanquàm mare vitreum mixtum igne, et eos qui vicerunt bestiam et imaginem ejus, et numerum nominis ejus, stantes super mare vitreum. *Apoc*. 15. 2. Et vidi mulierem sedentem super bestiam coccineam, plenam nominibus blasphemiæ, habentem capita septem et cornua decem *Apoc*. 16. 3.
 
-**157.** Et est datum illi bellum facere cum Sanctis et vincere eos.
+**157.** Et est datum illi bellum facere cum Sanctis et vincere eos. *Apoc*. 13. 2.
 
-**158.** Tunc vadit, et assumit septem alios spiritus secum, nequiores se, et ingressi habitant ibi.
+**158.** Tunc vadit, et assumit septem alios spiritus secum, nequiores se, et ingressi habitant ibi. *Luc*. 11. 26.
 
-**159.** Genus ergo cùm simus Dei, non debemus æstimare auro, aut argento, aut lapidi sculpturæ artis et cogitationis hominis, Divinum esae simile.
+**159.** Genus ergo cùm simus Dei, non debemus æstimare auro, aut argento, aut lapidi sculpturæ artis et cogitationis hominis, Divinum esae simile. *Act*. 17. 29
 
-**160.** Aut poterit comedi insulsum, quod non est sale conditum
+**160.** Aut poterit comedi insulsum, quod non est sale conditum ? *Job*. 6. 6.
 
-**161.** Vigilavi, et factus sum sicut passer solitarius in tecto.
+**161.** Vigilavi, et factus sum sicut passer solitarius in tecto. *Psal*. 101. 8.
 
-**162.** Nescivi
+**162.** Nescivi. *Cant*. 6. 11.
 
-**163.** Ego dormio, et cor meum vigilat
+**163.** Ego dormio, et cor meum vigilat. *Cant*. 5. 1.
 
-**164.** Vacate, et videte, quoniam ego sum Deus.
+**164.** Vacate, et videte, quoniam ego sum Deus. *Psal*. 45. 11.
 
-**165.** Operuit nubes tabernaculum testimonii, et gloria Domini implevit illud
+**165.** Operuit nubes tabernaculum testimonii, et gloria Domini implevit illud. *Exod*. 40. 32.
 
-**166.** Seraphin stabant super illud
+**166.** Seraphin stabant super illud : sex alæ uni, et sex alæ alteri duabus velabant faciem ejus, et duabus velabant pedes ejus. *Isa*. 6. 2.
 
-**167.** Quid tu vides, Jeremia
+**167.** Quid tu vides, Jeremia ? Et dixi : Virgam vigilantem ego video. *Jerem*. 1. 11
 
-**168.** Fecit quoque sibi Sedecias filius Chanaana, cornua ferrea, et ait Hæc dicit Dominus
+**168.** Fecit quoque sibi Sedecias filius Chanaana, cornua ferrea, et ait Hæc dicit Dominus : His ventilabis Syriam, donec deleas eam. iii. *Reg*. 22. 11.
 
-**169.** Vocem verborum ejus audistis, et formam penitus non vidistis.
+**169.** Vocem verborum ejus audistis, et formam penitus non vidistis. *Deut*. 4. 12.
 
-**170.** Erantque in eo tenebræ, et nubes, et caligo.
+**170.** Erantque in eo tenebræ, et nubes, et caligo. *Deut*. 4. 11.
 
-**171.** Si quis fuerit inter vos propheta Domini, in visione apparebo ei, vel per somnium loquar ad illum. At non talis servus meus Moyses, qui in omni domo meà fidelissimus est. Ore enim ad os loquor ei, et palàm, et non per ænigmata et figuras Dominum videt.
+**171.** Si quis fuerit inter vos propheta Domini, in visione apparebo ei, vel per somnium loquar ad illum. At non talis servus meus Moyses, qui in omni domo meà fidelissimus est. Ore enim ad os loquor ei, et palàm, et non per ænigmata et figuras Dominum videt. *Numer*. 12. 6. 7. 8.
 
-**172.** Et habemus firmiorem Propheticum sermonem
+**172.** Et habemus firmiorem Propheticum sermonem ; cui benefacitis attendentes quasi lucernæ lucenti in caliginoso loco, donec dies elucescat, et lucifer oriatur in cordibus vestris. ii. *Petr*. 1. 19.
 
-**173.** Quæ autem sunt, à Deo ordinatæ sunt
+**173.** Quæ autem sunt, à Deo ordinatæ sunt. *Rom*. 13. 1.
 
-**174.** Attingit ergo à fine usquè ad finem fortiter, et disponit omnia suaviter.
+**174.** Attingit ergo à fine usquè ad finem fortiter, et disponit omnia suaviter. *Sap*. 8. 2.
 
-**175.** Cûm essem parvulus, loquebar ut parvulus, sapiebam ut parvulus, cogitabam ut parvulus. Quando autem factus sum vir, evacuavi quæ erant parvuli.
+**175.** Cûm essem parvulus, loquebar ut parvulus, sapiebam ut parvulus, cogitabam ut parvulus. Quando autem factus sum vir, evacuavi quæ erant parvuli. i. Cor 13. 11.
 
-**176.** Cæcus autem si cæco ducatum præstet, ambo in foveam cadunt.
+**176.** Cæcus autem si cæco ducatum præstet, ambo in foveam cadunt. *Matt*. 15. 14.
 
-**177.** Dixitque ad eum
+**177.** Dixitque ad eum : Ego Dominus qui eduxi te de Ur Chaldæorum, ut darum tibi terram istam, et possideres eam. At ille ait : Domine Deus, unde scire possum, quòd possessurus sim eam ? *Genes*. 15, 7. 8.
 
-**178.** Ego descendam tecum illuc, et ego inde adducam te revertentem.
+**178.** Ego descendam tecum illuc, et ego inde adducam te revertentem. *Genes*. 46. 4.
 
-**179.** Littera enim occidit, Spiritus autem vivificat.
+**179.** Littera enim occidit, Spiritus autem vivificat. ii. *Cor*. 3. 6.
 
-**180.** Quem docebit scientiam
+**180.** Quem docebit scientiam ? Et quem iutelligere faciet auditum ? Ablactatos à lacte, avulsos ab uberibus. Quia manda remanda, manda remanda, expecta reexpecta expecta, reexpecta, modicum ibi, modicum ibi. In loquelà enim labii, et lingua altera loquetur ad populum istum. *Isa*. 28. 9. 10. 11.
 
-**181.** Et dixi
+**181.** Et dixi : Heu, heu, heu, Domine Deus, ergòne decepisti populum istum et Jerusalem, dicens ; Pax erit vobis ; et ecce pervenit gladius usquè ad animam. *Jerem*. 4. 10.
 
-**182.** Et dominabitur à mari usquè ad mare, et à flumine usquè ad terminos orbis terrarum.
+**182.** Et dominabitur à mari usquè ad mare, et à flumine usquè ad terminos orbis terrarum. *Psal* 71. 8. Quia liberabit pauperem à potente ; et pauperem, cui on erat adjutor. *Ibid. v*. 12.
 
-**183.** Qui enim habitabant Jerusalem et principes ejus hunc ignorantes, et voces Prophetarum, quæ per omne sabbatum leguntur, judicantes impleverunt.
+**183.** Qui enim habitabant Jerusalem et principes ejus hunc ignorantes, et voces Prophetarum, quæ per omne sabbatum leguntur, judicantes impleverunt. *Act*. 13. 27.
 
-**184.** Nos autem sperabamus, quia ipse esset redempturus Israël
+**184.** Nos autem sperabamus, quia ipse esset redempturus Israël. *Luc*. 24. 21.
 
-**185.** Igitur qui convenerant, interrogabant eum, dicentes
+**185.** Igitur qui convenerant, interrogabant eum, dicentes : Domine, si in tempore hoc restitues regnum Israël ? *Act*. 1. 6.
 
-**186.** Vos nescitis quidquam, nec cogitatis quia expedit vobis ut unus moriatur homo pro populo, et non tota gens pereat.
+**186.** Vos nescitis quidquam, nec cogitatis quia expedit vobis ut unus moriatur homo pro populo, et non tota gens pereat. *Joan*. 11. 49. 50.
 
-**187.** Animalis autem homo non percipit ea quæ sunt Spiritus Dei
+**187.** Animalis autem homo non percipit ea quæ sunt Spiritus Dei ; stultitia enim est illi, et non potest intelligere ; quia spiritualiter examinatur. Spiritualis autem judicat omnia ; et ipse à nemine judicatur. I. *Cor.* 2. 14
 
-**188.** Reges eos in virgà ferreà, et tanquam vas figuli confringes eos.
+**188.** Reges eos in virgà ferreà, et tanquam vas figuli confringes eos. *Psal*. 2. 9.
 
-**189.** Desiderium pauperum exaudivit Dominus
+**189.** Desiderium pauperum exaudivit Dominus. *Psal*. 49. *vel*. 10. *secundùm Hebræos v.* 17. Desiderium suum justis dabitur. *Prov*. 10. 24.
 
-**190.** Et cœpit Jonas introire in Civitatem itinere diei unius
+**190.** Et cœpit Jonas introire in Civitatem itinere diei unius ; et clamavit, et dixit : Adhuc quadraginta dies, et Ninive subvertetur. *Jonæ*. 3. 4.
 
-**191.** Et loqueris ad eum, dicens
+**191.** Et loqueris ad eum, dicens : Hæc dicit Dominus : Occidisti, insuper et possedisti. Et post hæc addes : Hæc dicit Dominus : In loco hoc, in quo linxerunt canes sanguinem Naboth, lambent quoque sanguinem tuum. III. *Reg*. 21. 19. Nonne vidisti humiliatum Achab coràm me ? Quia igitur humiliatus est mei causà, non inducam malum in diebus ejus, sed in diebus filii sui inferam malum domui ejus. *Ibid. v*. 28. 29.
 
-**192.** Hæc non cognoverunt Discipuli ejus primùm
+**192.** Hæc non cognoverunt Discipuli ejus primùm : Sed quandò glorificatus est Jesus, tunc recordati sunt quia hæc erant scripta de eo, et hæc fecerunt ei. *Joan*. 12. 16
 
-**193.** Proptereà ait Dominus Deus Israël
+**193.** Proptereà ait Dominus Deus Israël : Loquens locutus sum, ut domus tua, et domus Patris tui, ministraret in conspectu meo, usquè in sempiternum. Nunc autem dicit Dominus : Absit hoc à me ; sed quicumque glorificaverit me, glorificabo eum : qui autem contemnunt me, erunt ignobiles… Et videbis æmulum tuum in templo, in universis prosperis Israël ; et non erit senex in domo tuâ omnibus diebus. i. *Reg*. 2. 30. 32.
 
-**194.** Si igitur audieris omnia quæ præcepero tibi, et ambulaveris in viis meis, et feceris quod rectum est coràm me, custodiens mandata mea et præcepta mea, sicut fecit David servus meus
+**194.** Si igitur audieris omnia quæ præcepero tibi, et ambulaveris in viis meis, et feceris quod rectum est coràm me, custodiens mandata mea et præcepta mea, sicut fecit David servus meus : ero tecum, et ædificabo tibi domum fidelem quomodo ædificavi David domum, et tradam tibi Israël. III. *Reg*. 11. 38.
 
-**195.** Factus sum in derisum totà die, omnes subsannant me
+**195.** Factus sum in derisum totà die, omnes subsannant me : quia jam olim loquor, vociferans iniquitatem, et vastitatem clamito ; et factus est mihi sermo Domini in opprobrium, et in derisum totà die et dixi : Non recordabor ejus, neque loquar ultrà in nomine illius. *Jerem*. 20. 7. 8. 9.
 
-**196.** Formido et laqueus facta est nobis ratiocinatio.
+**196.** Formido et laqueus facta est nobis ratiocinatio. *Thrênoi*. 3. 47.
 
-**197.** Et vidit Deus opera eorum, quia conversi sunt de vià suà mala
+**197.** Et vidit Deus opera eorum, quia conversi sunt de vià suà mala ; et misertus est Deus super malitiam, quam locutus fuerat ut faceret eis, et non fecit. *Jonœ*. 3. 10.
 
-**198.** Dixit autem Dominus ad Samueëlem
+**198.** Dixit autem Dominus ad Samueëlem : Audi vocem populi in omnibus quæ loquuntur tibi. Non enim te abjecerunt, sed me, ne regnem super eos. i. *Reg*. 8. 7.
 
-**199.** Sed cùm ignoremus quid agere debeamus, hoc solum habemus residui, ut oculos nostros dirigamus ad te.
+**199.** Sed cùm ignoremus quid agere debeamus, hoc solum habemus residui, ut oculos nostros dirigamus ad te. II. *Par*. 20. 12.
 
-**200.** Dixit autem Samuël ad Saül
+**200.** Dixit autem Samuël ad Saül : Quare inquietasti me ut suscitarer ? i. *Reg*. 28. 15.
 
-**201.** Adhuc escæ eorum erant in ore ipsorum
+**201.** Adhuc escæ eorum erant in ore ipsorum : Et ira Dei ascendit super eos. *Ps*. 77. 30.
 
-**202.** Cni angelus
+**202.** Cni angelus : Cur, inquit, tertiò verberas asinam tuam ? Ego veni ut adversarer tibi, quia perversa est via tua, mihique contraria. *Numer*. 22. 32.
 
-**203.** Ergò quoniam hæc faciunt, certum est quòd in perditionem dabuntur.
+**203.** Ergò quoniam hæc faciunt, certum est quòd in perditionem dabuntur. *Judith*. 12. 22.
 
-**204.** Illos antem tanquam durus rex interrogans condemnasti. Absentes enim et præsentes similiter torquebantur.
+**204.** Illos antem tanquam durus rex interrogans condemnasti. Absentes enim et præsentes similiter torquebantur. *Sap*. 11. 11. 12. Nune ergò, filii, audite me, et nolite manere hic : Sed quacumque die sepelieritis matrem vestram circà me in uno sepulchro, ex eo dirigite gressus vestros ut exeatis hine. Video enim quia iniquitas ejus finem dabit ei. *Tobia*. 14. 12. 13.
 
-**205.** Qui ambulatis ut descendatis in Ægyptum, et os meum non interrogastis.
+**205.** Qui ambulatis ut descendatis in Ægyptum, et os meum non interrogastis. *Isa*. 30. 2.
 
-**206.** Susceperunt igitur de cibariis eorum, et os Domini non interrogaverunt.
+**206.** Susceperunt igitur de cibariis eorum, et os Domini non interrogaverunt. *Josue*. 9. 14.
 
-**207.** Multifariam multisque modis olim Deus loquens patribus in Prophetis, novissimè, diebus istis locutus est nobis in Filio.
+**207.** Multifariam multisque modis olim Deus loquens patribus in Prophetis, novissimè, diebus istis locutus est nobis in Filio. *Hebr*. 1. 1.
 
-**208.** Et eccè vox de nube dicens
+**208.** Et eccè vox de nube dicens : Hic est filius meus dilectus, in quo mihi benè complacui ; ipsum audite. *Matt*. 17. 5.
 
-**209.** In agnitionem mysterii Dei Patris et Christi Jesu
+**209.** In agnitionem mysterii Dei Patris et Christi Jesu ; in quo sunt omnes thesauri sapientiæ et scientiæ absconditi. *Coloss*. 2. 2. 3.
 
-**210.** Non enim judicavi me scire aliquid inter vos, nisi Jesum Christum, et hunc crucifixum.
+**210.** Non enim judicavi me scire aliquid inter vos, nisi Jesum Christum, et hunc crucifixum. i. *Cor*. 2.
 
-**211.** Quia in ipso inhabitat omnis plenitudo divinitatis corporaliter.
+**211.** Quia in ipso inhabitat omnis plenitudo divinitatis corporaliter. *Coloss*. 2. 9
 
-**212.** Cùm ergo accepisset Jesus acetum, dixit
+**212.** Cùm ergo accepisset Jesus acetum, dixit : Consummatum est. *Jos*. 19. 30.
 
-**213.** Sed licet nos, aut Angelus de cœlo evangelizet vobis præterquàm quod evangelizavimus vobis anathema sit.
+**213.** Sed licet nos, aut Angelus de cœlo evangelizet vobis præterquàm quod evangelizavimus vobis anathema sit. *Galat*. 1. 8.
 
-**214.** Quod cùm David rescisset, quia præpararet ei Saül clàm malum, dixit ad Abiathar Sacerdotem
+**214.** Quod cùm David rescisset, quia præpararet ei Saül clàm malum, dixit ad Abiathar Sacerdotem : Applica Ephod. i. *Reg*. 23. 9.
 
-**215.** Eadem nocte dixit Dominus ad eum
+**215.** Eadem nocte dixit Dominus ad eum : Surge, et descende in castra : quia tradidi eos in manu tuà… et cùm audieris quid loquantur, tunc confortabuntur manus tuæ, et securior ad hostium castra descendes. *Judic*. 7. 9. 11.
 
-**216.** Iratus Dominus in Moysem, ait
+**216.** Iratus Dominus in Moysem, ait : Aaron frater tuus Levites, scio quòd eloquens sit : eccè ipse egreditur in occursum tuum, vidensque te lætabitur corde. Loquere ad eum, et pone verba mea in ore ejus ; et ego ero in ore tuo, et in ore illius, et ostendam vobis quid agere debeatis. *Exod*. 4. 14. 15.
 
 **217.** *Ubi enim sunt duo vel tres congregati in nomine meo, ibi sum in medio eorum.* *Matt*. 18. 20.
 
-**218.** Væ soli
+**218.** Væ soli ; quia cùm ceciderit, non habet sublevantem se. Et si dormierint duo, fovebuntur mutuò ; unus quomodò calefiet ? *Ecclœ*. 4. 10. 11.
 
-**219.** Ascendi autem secundum revelationem, et contuli cum illis Evangelium, quod prædico Gentibus, seorsum autem iis qui videbantur aliquid esse
+**219.** Ascendi autem secundum revelationem, et contuli cum illis Evangelium, quod prædico Gentibus, seorsum autem iis qui videbantur aliquid esse : ne fortè in vacuum currerem aut cucurissem. *Galat*. 2. 2.
 
-**220.** Provide autem de omni plebe viros potentes, et
+**220.** Provide autem de omni plebe viros potentes, et timentes Deum, in quibus sit veritas, et qui oderint avaritiam, et constitue ox eis tribunos, et centuriones et quinquagenarios, et decanos qui judicent populum omni tempore. *Exod*. 18. 21. 22.
 
-**221.** Et scio hujusmodi hominem, (sive in corpore, sive extrà corpus nescio, Deus scite
+**221.** Et scio hujusmodi hominem, (sive in corpore, sive extrà corpus nescio, Deus scite :) quoniam raptus est in Paradisum, et audivit arcana verba, quæ non licet homini loqui. ii. *Cor*. 12. 3. 4.
 
-**222.** Iterum assumpsit eum diabolus in montem excelsum valdé et ostendit ei omnia regna mundi, et gloriam corum.
+**222.** Iterum assumpsit eum diabolus in montem excelsum valdé et ostendit ei omnia regna mundi, et gloriam corum. *Matt*. 4. 8.
 
-**223.** Multa fecisti, tu Domine Deus meus, mirabilia tua
+**223.** Multa fecisti, tu Domine Deus meus, mirabilia tua : et cogitationibus tuis non est qui similis sit tibi. *Psal*. 39. 6.
 
-**224.** Judicia Domini vera, justificata in semetipsa, desiderabilia super aurum et lapidem pretiosum multùm
+**224.** Judicia Domini vera, justificata in semetipsa, desiderabilia super aurum et lapidem pretiosum multùm : et dulciora super mel et favum. *Ps*. 18. 10. 11.
 
-**225.** Quo transeunte coràm eo, ait
+**225.** Quo transeunte coràm eo, ait : Dominator Domine Deus, misericors et clemens, patiens et multæ miserationis, ac verax, qui custodis misericordiam in millia ; qui aufers iniquitatem, et scetera, atque peccata, *Exod*. 34. 6. 7.
 
-**226.** Qui autem diliget me, diligetur à Patre meo
+**226.** Qui autem diliget me, diligetur à Patre meo ; et ego diligam eum, et manifestabo ei me ipsum. *Jo*. 14. 21.
 
-**227.** Alii quidem per Spiritum datur sermo sapientiæ
+**227.** Alii quidem per Spiritum datur sermo sapientiæ ; … alii discretio spirituum. i *Cor*. 12. 8. 10.
 
-**228.** Quomodò in aquis resplendent vultus prospicientium, ut corda bominum manifesta sunt prudentibus.
+**228.** Quomodò in aquis resplendent vultus prospicientium, ut corda bominum manifesta sunt prudentibus. *Pr*. 27. 19.
 
-**229.** Spiritualis autem judicat omnia.
+**229.** Spiritualis autem judicat omnia. i. *Cor*. 2. 15. Nobis autem revelavit Deus per Spiritum suum ; Spiritus enim omnia scrutatur, etiam profunda Dei. i. Cor. 2. 19.
 
-**230.** At ille ait
+**230.** At ille ait : Nonnè cor meum in præsenti erat, quandò reversus est homo de curru suo in occursum tui ? iv. *Reg*. 5. 26.
 
-**231.** Dixitque unus servorum ejus
+**231.** Dixitque unus servorum ejus : Nequaquam Domine mi Rex, sed Elisæus Propheta, qui est in Israel, indicat regi Israël omnia verba quæcumque locutus fueris in conclavi tuo. iv. *Reg*. 6. 12.
 
-**232.** Sed licet nos, aut Angelus de cœlo evangelizet et vobis, præterquam quod evangelizavimus vobis, anathema sit.
+**232.** Sed licet nos, aut Angelus de cœlo evangelizet et vobis, præterquam quod evangelizavimus vobis, anathema sit. *Galat*. 1. 8.
 
-**233.** Ergò fides ex auditu, auditus autem per verbum Christi.
+**233.** Ergò fides ex auditu, auditus autem per verbum Christi. *Rom*. 10. 17.
 
-**234.** Et habemus firmiorem propheticum sermonem
+**234.** Et habemus firmiorem propheticum sermonem : cui benefacitis attendentes. ii. *Petr*. 1. 19.
 
-**235.** Quid necesse est homini majora se quærere
+**235.** Quid necesse est homini majora se quærere ? *Ecclœ*. 7.1.
 
-**236.** Vox quidem, vox Jacob est
+**236.** Vox quidem, vox Jacob est : sed manus, manus sunt Esaü. *Genes*. 27. 22.
 
-**237.** Averte oculos tuos à me, quia ipsi me avolare fecerunt.
+**237.** Averte oculos tuos à me, quia ipsi me avolare fecerunt. *Cant*. 6. 4.
 
-**238.** Dico enim per gratiam quæ data est mihi, omnibus qui sunt inter vos
+**238.** Dico enim per gratiam quæ data est mihi, omnibus qui sunt inter vos ; non plus sapere quàm oportet sapere,sed sapere ad sobrietatem. *Rom*. 12. 3.
 
-**239.** Iratus Dominus in Moysem, ait
+**239.** Iratus Dominus in Moysem, ait : Aaron frater tuus Levites ; scio quòd eloquens sit : eccè ipse egreditur in occursum tuum, *Exod*… 14. 15. 16.
 
-**240.** Et sermo illius potcstate plenus est.
+**240.** Et sermo illius potcstate plenus est. *Ecclœ*. 8. 4.
 
-**241.** Eccè dabit voci suæ vocem virtutis.
+**241.** Eccè dabit voci suæ vocem virtutis. *Psal*. 67. 34.
 
-**242.** Ego Deus omnipotens
+**242.** Ego Deus omnipotens ; ambula coràm me, et esto perfectus. *Genes*. 17. 1.
 
-**243.** Quid paleis ad triticum, dicit Dominus
+**243.** Quid paleis ad triticum, dicit Dominus ? Numquid non verba mea sunt quasi ignis, dicit Dominus, et quasi malleus conterens petram ? *Jerem*. 23. 28. 29.
 
-**244.** Lequere, Domine
+**244.** Lequere, Domine ; quia audit servus tuus. i.*Reg*. 3. 10.
 
-**245.** Nemo potest duobus Dominis servire.
+**245.** Nemo potest duobus Dominis servire. *Matt*. 6. 24.
 
-**246.** Qui autem adhæret Domino, unus spiritus est.
+**246.** Qui autem adhæret Domino, unus spiritus est. I. *Cor*. 6. 17.
 
-**247.** Omnium enim artifex docuit me sapientia.
+**247.** Omnium enim artifex docuit me sapientia. *Sap*. 7. 21.
 
-**248.** Quicumque enim Spiritu Dei aguntur, ii sunt filii Dei.
+**248.** Quicumque enim Spiritu Dei aguntur, ii sunt filii Dei. *Rom*. 8. 14.
 
-**249.** Propter hoc eccè ego lactabo eam et ducam eam in solitudinem, loquar ad cor ejus.
+**249.** Propter hoc eccè ego lactabo eam et ducam eam in solitudinem, loquar ad cor ejus. *Osée*. 2. 14.
 
-**250.** Loquere, Domine, quia audit servus tuus.
+**250.** Loquere, Domine, quia audit servus tuus. i. *Reg*. 3. 10.
 
-**251.** Hortus conclusus soror mea sponsa, hortus conclusus, fons signatus.
+**251.** Hortus conclusus soror mea sponsa, hortus conclusus, fons signatus. *Cant*. 4. 12.
 
-**252.** Ecce ego declinabo super eam quasi fluvium pacis.
+**252.** Ecce ego declinabo super eam quasi fluvium pacis. *Isa*. 66. 12.
 
-**253.** Cogitaverunt et locuti sunt nequitiam
+**253.** Cogitaverunt et locuti sunt nequitiam : iniquitatem in excelso locuti sunt. *Psal*. 72. 8.
 
-**254.** Spiritus enim sanctus disciplinæ effugiet fictum, et auferet se à cogitationibus, quæ sunt sine intellectu.
+**254.** Spiritus enim sanctus disciplinæ effugiet fictum, et auferet se à cogitationibus, quæ sunt sine intellectu. *Sap*. 1. 5.
 
-**255.** Verumtamen in imagine pertransit homo
+**255.** Verumtamen in imagine pertransit homo ; sed et frustrà conturbatur. *Psal*. 38. 7.
 
-**256.** Et cognovi quòd non esset melius nisi lætari, et facere benè in vità sua.
+**256.** Et cognovi quòd non esset melius nisi lætari, et facere benè in vità sua. *Ecclœ*. 3. 12.
 
-**257.** Memorià memor ero, et tabescet in me anima mea
+**257.** Memorià memor ero, et tabescet in me anima mea. *Thrênoi*. 3. 20.
 
-**258.** Væ qui dicitis malum bonum, et bonum malum
+**258.** Væ qui dicitis malum bonum, et bonum malum ; ponentes tenebras lucem et lucem tenebras ; ponentes amarum in dulce, et dulce in amarum. *Isa*. 5. 20.
 
-**259.** Pharisæus stans, hæc apud se orabat
+**259.** Pharisæus stans, hæc apud se orabat : Deus gratias ago tibi, quia non sum sicut cæteri hominum : raptores, injusti, adulteri : velut etiam hic publicauus. Jejuno bis in sabato : decimas do omnium, quæ possideo. *Luc*. 18. 11. 12.
 
-**260.** Et dixi
+**260.** Et dixi : Forsitan tenebræ conculcabunt me ; et nox illuminatio mea in deliciiis meis. *Psal*. 138. 11.
 
-**261.** Deum nemo vidit unquàm
+**261.** Deum nemo vidit unquàm. *Joan*. 1. 18. Oculus non vidit, Deus absque te, quæ præparasti expectantibus te. *Isa*. 64. 4.
 
-**262.** Spiritum nolite extinguere.
+**262.** Spiritum nolite extinguere. i. *Thessal*. 5. 18.
 
-**263.** Pone me ut signaculum super brachium tuum.
+**263.** Pone me ut signaculum super brachium tuum. *Cant*. 8. 6.
 
-**264.** Super custodiam meam stabo, et figam gradum super munitionem et contemplabor, ut videam quid dicatur mihi.
+**264.** Super custodiam meam stabo, et figam gradum super munitionem et contemplabor, ut videam quid dicatur mihi. *Habacuc*. 2. 1.
 
-**265.** Vis autem scire, à homo inanis, quoniam fides sine operibus mortua est.
+**265.** Vis autem scire, à homo inanis, quoniam fides sine operibus mortua est. *Jacob*. 2. 20.
 
-**266.** Diliges Dominum Deum tuum ex toto corde tuo, et ex totà anima tuâà, et ex totà fortitudine tuà.
+**266.** Diliges Dominum Deum tuum ex toto corde tuo, et ex totà anima tuâà, et ex totà fortitudine tuà. *Deut*. 6. 5.
 
-**267.** Fortitudinem meam ad te custodiam, quia Deus susceptor meus es,
+**267.** Fortitudinem meam ad te custodiam, quia Deus susceptor meus es, *Psal*. 56. 10.
 
 **268.** Poet. de Cousol. Philosoph.
 
-**269.** Fili, ne in multis sint actus tui
+**269.** Fili, ne in multis sint actus tui : et si dives fueris, non eris immunis à delicto. *Eccli*. 11. 10.
 
-**270.** Amen dico vobis, quia dives difficilè intrabit in regnum cœlorum.
+**270.** Amen dico vobis, quia dives difficilè intrabit in regnum cœlorum. *Matt*. 19. 23.
 
-**271.** Nolite sperare in iniquitate, et rapinas nolite concupiscere
+**271.** Nolite sperare in iniquitate, et rapinas nolite concupiscere : divitiæ si affluant, nolite cor apponere. *Psal*. 61. 11.
 
-**272.** Vanitas vanitatum, dixit Ecclesiastes
+**272.** Vanitas vanitatum, dixit Ecclesiastes ; Vanitas vanitatum, et omnia vanitas. *Eccle*. 1. 2. etc.
 
-**273.** Dixit autem illi Deus
+**273.** Dixit autem illi Deus : stuite, hàc nocte animam tuam repetunt à te : quæ autem parasti, cujus erunt ? *Luc*. 12. 20.
 
-**274.** Ne timueris cùm dives factus fuerit homo, et cùm multiplicata fuerit gloria domùs ejus. Quoniam cùm interierit, non sumet omnia
+**274.** Ne timueris cùm dives factus fuerit homo, et cùm multiplicata fuerit gloria domùs ejus. Quoniam cùm interierit, non sumet omnia ; neque descendet cum eo gloria ejus. *Psal*. 48. 17. 18.
 
-**275.** Quid enim prodest homini, si mundum universum lucretur, animæ verò suæ detrimentum patiatur
+**275.** Quid enim prodest homini, si mundum universum lucretur, animæ verò suæ detrimentum patiatur ? *Matt*. 16. 26.
 
-**276.** Porrò sicut Absalon vir non erat pulcher in omni Israël, et decorus nimis
+**276.** Porrò sicut Absalon vir non erat pulcher in omni Israël, et decorus nimis : à vestigio pedis usquè ad verticem non erat in eo ulla macula. ii. *Reg*. 14. 25.
 
-**277.** Risum reputavi errorem
+**277.** Risum reputavi errorem ; et gaudio dixi : quid frustrà deciperis ? *Eccle*. 2. 2.
 
-**278.** Cor sapientium ubi tristitia est, et cor stultorum ubi lætitia.
+**278.** Cor sapientium ubi tristitia est, et cor stultorum ubi lætitia. *Eccle*. 7. 5.
 
-**279.** Melior est ira risu.
+**279.** Melior est ira risu. *Ecclœ. v*. 4. Melius est ire ad domum luctus, quàm ad domum convivii : In illà enim finis cunctorum admonetur hominum, et vivens cogitat quid futurum sit. *Ecclœ*. 7. 3.
 
-**280.** Alligatus es uxori
+**280.** Alligatus es uxori ? Noli quærere solutionem. Solutus es ab uxore ! Noli quærere uxorem. i. *Cor*. 7. 27.
 
-**281.** Hoc itaquè dico, fratres
+**281.** Hoc itaquè dico, fratres : Tempus breve est ; reliquum est, ut et qui habent uxores, tanquàm non habentes sint : et qui fient, tanquàm non fientes : et qui gaudent, tanquàm non gaudentes : et qui emunt, tanquàm non possidentes : et qui utuntur hoc mundo, tanquàm non utantur : præterit enim figura hujus mundi. i. *Cor*. 7. 29. 30. 31.
 
-**282.** Incrassatus est dilectus, et recalcitravit
+**282.** Incrassatus est dilectus, et recalcitravit : incrassatus, impinguatus, dilatatus, dereliquit Deum factorem suum, et recessit à Deo salutari suo. *Deut*. 32, 15.
 
-**283.** Fascinatio enim nugacitatis obscurat bona, et inconstantia concupiscentiæ transvertit sensum sine malitià.
+**283.** Fascinatio enim nugacitatis obscurat bona, et inconstantia concupiscentiæ transvertit sensum sine malitià. *Sap*. 4. 12.
 
-**284.** Nec accipies munera, quæ etiam excæcant prudentes, et subvertunt verba justorum.
+**284.** Nec accipies munera, quæ etiam excæcant prudentes, et subvertunt verba justorum. *Exod*. 23. 8.
 
-**285.** Loquimini de me coràm Domino, et coràm Christo ejus, utrum bovem cujusquam tulerim, aut asinum : si
+**285.** Loquimini de me coràm Domino, et coràm Christo ejus, utrum bovem cujusquam tulerim, aut asinum : si quempiam calumniatus sum, si oppressi aliquem, si de manu cujusquam manus accepi. i. *Reg*. 12. 3.
 
-**286.** Omnes diligunt munera, sequuntur retributiones. Pupillo non judicant
+**286.** Omnes diligunt munera, sequuntur retributiones. Pupillo non judicant ; et causa viduæ non ingreditur ad illos. *Isa*. 1. 23.
 
-**287.** Quia filii hujus sæculi prudentiores filiis lucis in generatione suà sunt.
+**287.** Quia filii hujus sæculi prudentiores filiis lucis in generatione suà sunt. *Luc*. 16. 8.
 
-**288.** Me dereliquerunt fontem aquæ vivæ, et foderunt sibi cisternas, cisternas dissipatas que continere non valent aquas.
+**288.** Me dereliquerunt fontem aquæ vivæ, et foderunt sibi cisternas, cisternas dissipatas que continere non valent aquas. *Jerem*. 2. 13.
 
-**289.** Prodiit quasi ex adipe iniquitas corum
+**289.** Prodiit quasi ex adipe iniquitas corum ; transierunt in affectum cordis. *Psal*. 72. 7.
 
-**290.** Mortificate ergo… Fornicationem, immunditiam, libidinem, concupiscentiam malam, et avaritiam, quæ est simulacrorum servitus.
+**290.** Mortificate ergo… Fornicationem, immunditiam, libidinem, concupiscentiam malam, et avaritiam, quæ est simulacrorum servitus. *Coloss*. 3. 5.
 
-**291.** Cùm vidisset autem Simon, quia per impositionem manus Apostolorum daretur Spiritus sanctus, obtulit eis pecuniam, dicens
+**291.** Cùm vidisset autem Simon, quia per impositionem manus Apostolorum daretur Spiritus sanctus, obtulit eis pecuniam, dicens : date et mihi hanc potestatem, ut cuicumque imposuero manus, accipiat Spiritum sanctum. *Act*. 8. 18.
 
-**292.** Est et alia infirmitas pessima quam vidi sub sole
+**292.** Est et alia infirmitas pessima quam vidi sub sole : divitiæ conservatæ in malum Domini sui. *Ecclœ*. 5. 12.
 
-**293.** Qui fidelis est in minimo, et in majori fidelis est.
+**293.** Qui fidelis est in minimo, et in majori fidelis est. *Luc*. 16. 10.
 
-**294.** Divitiæ si affluant, nolite cor apponere.
+**294.** Divitiæ si affluant, nolite cor apponere. *Psal*. 61. 11.
 
-**295.** Tanquàm nihil habentes, et omnia possidentes.
+**295.** Tanquàm nihil habentes, et omnia possidentes. ii. *Cor*. 6. 10.
 
-**296.** Stulte, hàc nocte animam tuam repetunt à te.
+**296.** Stulte, hàc nocte animam tuam repetunt à te. *Luc*. 12. 20.
 
-**297.** Quantùm glorificavit se, et in deliciis fuit, tantùm date illi tormentum et luctum.
+**297.** Quantùm glorificavit se, et in deliciis fuit, tantùm date illi tormentum et luctum. *Apoc*. 18. 7.
 
-**298.** Ipsi peribunt, tu autem permanes
+**298.** Ipsi peribunt, tu autem permanes ; et omnes sicut vestimentum veterascent. *Psal*. 101. 27.
 
-**299.** Quid frustrà deciperis
+**299.** Quid frustrà deciperis ? *Ecclœ*. 2. 2.
 
-**300.** Popule meus, qui te beatum dicunt, ipsi te decipiunt.
+**300.** Popule meus, qui te beatum dicunt, ipsi te decipiunt. *Isa*. 3. 12.
 
-**301.** Et cauda ejus trahebat tertiam partem stellarum cœli, et misit eas in terram.
+**301.** Et cauda ejus trahebat tertiam partem stellarum cœli, et misit eas in terram. *Apoc*. 12. 4. Quomodò obscuratum est aurum ? mutatus est color optimus, dispersi sunt lapides Sanctuarii, in capite omnium platearum. Filii Sion inclyti, et amicti auro primo : quomodò reputati sunt in vasa testea, opus manuum figuli ? *Threnor*. 4.
 
-**302.** Et vidi mulierem sedentem super bestiam coccineam, plenam nominibus blasphemiæ, habentem capita septem, et cornua decem.
+**302.** Et vidi mulierem sedentem super bestiam coccineam, plenam nominibus blasphemiæ, habentem capita septem, et cornua decem. *Apoc*. 17. 3.
 
-**303.** Cum quá fornicati sunt Reges terræ
+**303.** Cum quá fornicati sunt Reges terræ : et inebriati sunt qui inhabitant terram de vino prostitutionis ejus. *Ibid. v.* 2.
 
-**304.** Et erit in templo abominatio desolationis, et usquè ad consummationem perseverabit desolatio.
+**304.** Et erit in templo abominatio desolationis, et usquè ad consummationem perseverabit desolatio. *Dan*. 9. 27.
 
-**305.** Ne intuearis vinum quandò flavescit, cùm splenduerit in vitro color ejus
+**305.** Ne intuearis vinum quandò flavescit, cùm splenduerit in vitro color ejus : ingreditur blandè, sed in novissimo mordebit ut coluber, et sicut regulus venena diffundet. *Prov*. 23. 31. 32.
 
-**306.** Si quis vult post me venire, abneget semetipsum.
+**306.** Si quis vult post me venire, abneget semetipsum. *Matt*. 16. 24.
 
-**307.** Furor illis secundùm similitudinem serpentis
+**307.** Furor illis secundùm similitudinem serpentis : sicut aspidis surdæ, et obturantis aures suas ; quæ non exaudiet vocem incantantium, et venefici incantantis sapienter. *Psal*. 57. 5. 6.
 
-**308.** Spiritus enim sanctus disciplinæ effugiet fictum, et auferet se à cogitationibus quæ sunt sine intellectu.
+**308.** Spiritus enim sanctus disciplinæ effugiet fictum, et auferet se à cogitationibus quæ sunt sine intellectu. *Sap*. 1. 5.
 
-**309.** A sæculo non audierunt, neque auribus perceperunt
+**309.** A sæculo non audierunt, neque auribus perceperunt : Oculus non vidit, Dcus absque te, quæ præparasti expectantibus te. *Isa*. 64. 4.
 
-**310.** Caro enim concupiscit adversus Spiritum
+**310.** Caro enim concupiscit adversus Spiritum : Spiritus autem adversus carnem. *Galat*. 5. 17.
 
-**311.** Animalis autem homo non percipit ea quæ sunt Spiritus Dei… Spiritualis autem judicat omnia.
+**311.** Animalis autem homo non percipit ea quæ sunt Spiritus Dei… Spiritualis autem judicat omnia. I. *Cor*. 2. 14. 15.
 
-**312.** Et omnis qui reliquerit domum, vel fratres, aut sorores, etc. centuplum accipiet et vitam æternam possidebit.
+**312.** Et omnis qui reliquerit domum, vel fratres, aut sorores, etc. centuplum accipiet et vitam æternam possidebit. *Matt*. 19. 29.
 
 **313.** Car ce qui est né de la chair est chair
 
-**314.** Quod natum est ex carne, caro est
+**314.** Quod natum est ex carne, caro est : et quod natum est ex spiritu, spiritus est. *Joann*. 3. 6.
 
-**315.** Id enim, quod in præsenti est momentaneum et leve tribulationis nostræ, suprà modum in sublimitate æternum gloriæ pondus operatur in nobis.
+**315.** Id enim, quod in præsenti est momentaneum et leve tribulationis nostræ, suprà modum in sublimitate æternum gloriæ pondus operatur in nobis. II. *Cor*. 4. 17.
 
-**316.** Est enim in illâ (*Sapientiá*) spiritus intelligentiæ, sanctus, unicus, multiplex, subtilis, disertus, mobilis, incoinquinatus, certus, suavis, amans bonum, acutus, quem nihil vetat, benefaciens, humanus, benignus, etc.
+**316.** Est enim in illâ (*Sapientiá*) spiritus intelligentiæ, sanctus, unicus, multiplex, subtilis, disertus, mobilis, incoinquinatus, certus, suavis, amans bonum, acutus, quem nihil vetat, benefaciens, humanus, benignus, etc. *Sap*. 7. 22. 23.
 
-**317.** Et dixit Dominus Salomoni
+**317.** Et dixit Dominus Salomoni : Quia postulasti verbum hoc, et non petisti tibi dies multos, nec divitias, aut animas inimicorum tuorum, sed postulasti tibi sapientiam ad discernendum judicium : eccè feci tibi secundùm sermones tuos, et dedi tibi cor sapiens et intelligens, in tantum ut nullus antè te similis tui fuerit, nec post te surrecturus sit. Sed et hæc ; quæ non postulasti dedi tibi, divitias scilicet et gloriam, ut nemo fuerit similis tui in regibus, cunctis retrò diebus. iii *Reg*. 3. 11. 13.
 
-**318.** Pharisæus stans hæc apud se orabat, Deus, gratias ago tibi, quia non sum sicut ceteri hominum
+**318.** Pharisæus stans hæc apud se orabat, Deus, gratias ago tibi, quia non sum sicut ceteri hominum : raptores, injusti, adulteri : Velut etiam hic publicanus : jejuno bis in sabbato decimas do omnium quæ possideo. *Luc*. 18. 11. 12.
 
-**319.** Omnia verò opera sua faciunt, ut videantur ab hominibus.
+**319.** Omnia verò opera sua faciunt, ut videantur ab hominibus. *Matt*. 23. 5.
 
-**320.** Cùm ergò facis eleemosynam, noli tubâ canere antète, sicut hypocritæ faciunt in synagogis et in vicis, ut honorificentur ab hominibus amen dico vobis, receperunt mercedem suam.
+**320.** Cùm ergò facis eleemosynam, noli tubâ canere antète, sicut hypocritæ faciunt in synagogis et in vicis, ut honorificentur ab hominibus amen dico vobis, receperunt mercedem suam. *Matth*. 6. 2.
 
-**321.** Te autem faciente eleemosynam, nesciat sinistra tua quid faciat dextera tua.
+**321.** Te autem faciente eleemosynam, nesciat sinistra tua quid faciat dextera tua. *Matt*. 6. 3.
 
-**322.** Si vidi solem cùm fulgeret, et lunam incedentem clarè
+**322.** Si vidi solem cùm fulgeret, et lunam incedentem clarè ; et lætatum est in abscondito cor meum, et osculatus sum manum meam ore meo : quæ est iniquitas maxima, et negatio contrà Deum altissimum *Job*. 31. 26. 27. 28.
 
-**323.** Muscæ morientes perdunt suavitatem unguenti.
+**323.** Muscæ morientes perdunt suavitatem unguenti. *Ecclœ*. 10. 1.
 
-**324.** Malum manuum suarum dicunt bonum.
+**324.** Malum manuum suarum dicunt bonum. *Michœœ*. 7. 3.
 
-**325.** Sub umbrà dormit in secreto calami, et in locis humentibus.
+**325.** Sub umbrà dormit in secreto calami, et in locis humentibus. *Job*. 40. 16.
 
 **326.** Arrogantia tua decepit te, et superbia cordis tui. *Jerem*. 49. 16.
 
-**327.** Qui autem secus viam, hi sunt qui audiunt
+**327.** Qui autem secus viam, hi sunt qui audiunt : Deindè venit diabolus, et tollit verbum de corde eorum, ne credentes salvi fiant. *Luc*. 8. 12.
 
-**328.** Beati pauperes spiritu, quoniam, ipsorum est regnum cœlorum.
+**328.** Beati pauperes spiritu, quoniam, ipsorum est regnum cœlorum. *Matt*. 5. 3.
 
-**329.** Dedit quoque Deus sapientiam Salomoni, et prudentiam multam nimis.
+**329.** Dedit quoque Deus sapientiam Salomoni, et prudentiam multam nimis. iii. *Reg*. 4. 29.
 
-**330.** Alii quidem per Spiritum datur sermo sapientiæ
+**330.** Alii quidem per Spiritum datur sermo sapientiæ : alii autem sermo scientiæ secundùm eumdem Spiritum ; alteri fides in eodem Spiritu ; alii gratia samitatem in uno Spiritu : alii operatio virtutum, alii prophetia, alii discretio spirituum, alii genera linguarum, alii interpretatio sermonum. i. *Cor*. 8. 9. 10.
 
-**331.** Unicuique autem datur manifestatio spiritus ad utilitatem.
+**331.** Unicuique autem datur manifestatio spiritus ad utilitatem. i. *Cor*. 12. 7.
 
-**332.** Si linguis hominum loquar, et Angelorum, charitatem autem non habeam, factus sum velut as sonans, aut cymbalum tinniens. Et si habuero prophetiam, et noverim mysteria omnia, et omnem scientiam
+**332.** Si linguis hominum loquar, et Angelorum, charitatem autem non habeam, factus sum velut as sonans, aut cymbalum tinniens. Et si habuero prophetiam, et noverim mysteria omnia, et omnem scientiam : et si habuero omnem fidem, ità ut montes transferam, charitatem autem non habuero, nihil sum. i. *Cor*. 13. 1. 2.
 
-**333.** Multi dicent mihi in illâ die
+**333.** Multi dicent mihi in illâ die : Domine, Domine, nonnè in nomine tuo prophetavimus, et in nomine tuo dæmonia ejecimus, et in nomine tuo virtutes multas fecimus ? Et tunc confitebor illis : Quia numquàm novivos ; Discedite à me, qui operamini iniquitatem. *Matt*. 7. 22. 23.
 
-**334.** Verumtamen in hoc nolite gaudere, quia spiritus vobis subjiciuntur
+**334.** Verumtamen in hoc nolite gaudere, quia spiritus vobis subjiciuntur : gaudete autem, quòd nomina vestra scripta sunt in cœlis. *Luc*. 10. 20.
 
-**335.** Et iratus est Deus. Steltique Angélus Domini in viá contra Balaam, etc
+**335.** Et iratus est Deus. Steltique Angélus Domini in viá contra Balaam, etc. *Numer*. 22. 22.
 
-**336.** Cùm vidissent autem discipuli ejus Jacobus et Joannes dixerunt
+**336.** Cùm vidissent autem discipuli ejus Jacobus et Joannes dixerunt : Domine, vis dicimus ut ignis descendat de cœlo, et consumat illos ? Et conversus increpavit illos, dicens : Nescitis cujus spiritus estis. *Luc*. 9. 54. 55.
 
-**337.** Non mittebam prophetas, et ipsi currebant
+**337.** Non mittebam prophetas, et ipsi currebant : non loquebar ad eos, et ipsi prophetabant. *Jerem*. 23. 21.
 
-**338.** Eccè ego ad prophetas somniantes mendacium, ait Dominus, qui narraverunt ea et seduxerunt populum meum in mendacio suo, et in miraculis suis
+**338.** Eccè ego ad prophetas somniantes mendacium, ait Dominus, qui narraverunt ea et seduxerunt populum meum in mendacio suo, et in miraculis suis ; cùm ego non misissem eos, nec mandassem eis. *Jerem*, 23. 32.
 
-**339.** Date et mihi hanc potestatem, ut cuicumque imposuero manus, accipiat Spiritum Sanctum.
+**339.** Date et mihi hanc potestatem, ut cuicumque imposuero manus, accipiat Spiritum Sanctum. *Act*. 8. 19.
 
-**340.** Et Saül abstulit magos et hariolos de terrâ.
+**340.** Et Saül abstulit magos et hariolos de terrâ. i. *Reg*. 28. 3.
 
-**341.** Et nunc, Domine, respice in minas eorum
+**341.** Et nunc, Domine, respice in minas eorum, et da servis tuis cùm omni fiducia loqui verbum tuum. In eo quòd manum tuam extendas ad sanitates, et signa, et prodigia fieri per nomen sancti Filii tui Jesu. *Act*. 4. 29. 30.
 
-**342.** Dixitque ei mulier
+**342.** Dixitque ei mulier : Quem suscitabo tibi ? Qui ait : Samuelem mihi suscita. Cum autem vidisset mulier Samuelem, exclamavit voce magnà, etc. i. *Reg*. 28. 11. 12.
 
 **343.** *Greg. homil.* 26. in *Evang*.
 
-**344.** Cucurrit ergò, et venit ad Simonem Petrum et ad alium discipulum, quem amabat Jesus, et dicit illis
+**344.** Cucurrit ergò, et venit ad Simonem Petrum et ad alium discipulum, quem amabat Jesus, et dicit illis : Tulerunt Dominum de monumento, et nescimus ubi posuerunt eum. *Joan*. 20, 2. Et cùm se inclinasset, vidit posita linteamina. *Ibid. v.* 5. Fidex ex auditu. *Rom*. 10. 17. Vespere autem sabbati, quæ lucescit in prima sabbati venit Maria Magdalene et altera Maria, videre sepulchrum. Et eccè terræ motus factus est magnus. Angelus enim Domini descendit de cœlo, etc. *Matt*. 28. 1. 2. etc. Et ipse dixit ad eos : O stulti et tardi corde ad credendum in omnibus quæ locuti sunt prophetæ ! *Luc*. 24. 25. Et dixerunt ad invicem : nonnè cor nostrum ardens erat in nobis, dùm loqueretur in vià, et aperiret nobis Scripturas ? *Luc*. 24. 32.
 
-**345.** Quia vidisti me, Thoma, credidisti
+**345.** Quia vidisti me, Thoma, credidisti : Beati qui non viderunt et crediderunt. *Joan*. 20. 29.
 
-**346.** Dixit ergò Jesus ad eum
+**346.** Dixit ergò Jesus ad eum : Nisi signa et prodigia videritis, non creditis. *Joan*. 4. 48.
 
-**347.** Accedet homo ad cor altum, et exaltabitur, deus.
+**347.** Accedet homo ad cor altum, et exaltabitur, deus. *Psalm*. 63. 8.
 
-**348.** In terrâ deserta, et invià et inaquosa
+**348.** In terrâ deserta, et invià et inaquosa : Sie in sancto apparui tibi, ut viderem virtutem tuam et gloriam tuam. *Psal*. 62. 3.
 
-**349.** Qui cùm respexissent
+**349.** Qui cùm respexissent : dixerunt ad Micham : Quid tibi vis ? Cur clamas ? Qui respondit : Deos meos quos mihi feci, tulistis. *Judic*. 18. 23. 24.
 
-**350.** Cur furatus es Deos meos
+**350.** Cur furatus es Deos meos ? *Genes.* 31. 30. etc.
 
-**351.** Quanta
+**351.** Quanta audivimus facta in Capharnaum, fac et hic in patriâ tua. Ait autem : Amen dico vobis, quia nemo propheta acceptus est in patrià sua. *Luc*. 4. 23. 24.
 
-**352.** Hypocritæ, benè prophetavit de vobis Isaïas, dicens
+**352.** Hypocritæ, benè prophetavit de vobis Isaïas, dicens : Populus hic labiis me honorat : cor autem eorum longè est à me. *Matt*. 15. 7.8.
 
-**353.** Plurima autem turba straverunt vestimenta sua in viâ
+**353.** Plurima autem turba straverunt vestimenta sua in viâ : alii autem cædebant ramos de arboribus et sternebant in vià. Turbæ autem, quæ præcedebant et quæ sequebantur, clamabant, dicentes : Hosanna filio David, etc. *Matt*. 21. 8. 9.
 
-**354.** Præconis voce clamavit dicens
+**354.** Præconis voce clamavit dicens : Gras solemnitas Domini est. Surgentesque manè, obtulerunt Holocausta, et hostias pacificas, etc. *Exod*. 32. 5. 6.
 
-**355.** Areptisque Nadabl et Abiu filii Aaron thuribulis, posuerunt ignem, et incensum de super, offerentes coràm Domino ignem alienum
+**355.** Areptisque Nadabl et Abiu filii Aaron thuribulis, posuerunt ignem, et incensum de super, offerentes coràm Domino ignem alienum ; quod eis præceptum non erat. Egressusque ignis à Domino, devoravit eos, et mortui sunt coràm Domino. *Levit*. 10. 1. 2. Et ait illi : Amice, quomodò húc intrasti non habens vestem nuptialem ? *Matt*. 22. 12.
 
-**356.** Et dixit Dominus
+**356.** Et dixit Dominus : Eò quòd appropinquat populus iste ore suo, et labiis suis glorificat me, cor autem ejus longè est à me, et timuernnt me mandato hominum et doctrinis. *Isa*. 29. 13.
 
-**357.** Sed venit hora, et nunc est, quandò veri adoratores adorabunt Patrem in spiritu et veritate. Nam et Pater tales quærit qui adorent eum. Spiritus est Deus
+**357.** Sed venit hora, et nunc est, quandò veri adoratores adorabunt Patrem in spiritu et veritate. Nam et Pater tales quærit qui adorent eum. Spiritus est Deus ; et eos, qui adorant eum, in spiritu et veritate oportet adorare. *Jo*. 4. 23. 24.
 
-**358.** Nescitis quia templum Dei estis, et Spiritus Dei, habitat in vobis
+**358.** Nescitis quia templum Dei estis, et Spiritus Dei, habitat in vobis ? i. *Cor*. 3. 16.
 
-**359.** Eccè enim regnum Dei intrà vos est.
+**359.** Eccè enim regnum Dei intrà vos est. *Luc*. 17. 21.
 
-**360.** Et eos, qui adorant eum, in spiritu et veritate oportet adorare.
+**360.** Et eos, qui adorant eum, in spiritu et veritate oportet adorare. *Jo*. 4. 24.
 
-**361.** Quærite ergò primùm regnum Dei, et justitiam ejus
+**361.** Quærite ergò primùm regnum Dei, et justitiam ejus : et hæc omnia adjicientur vobis. *Matt*. 6. 33.
 
-**362.** Propè est Dominus omnibus invocantibus eum in veritatè.
+**362.** Propè est Dominus omnibus invocantibus eum in veritatè. *Psal*. 144. 18.
 
-**363.** Voluntatem timentium se faciet, et deprecationem eorum exaudiet
+**363.** Voluntatem timentium se faciet, et deprecationem eorum exaudiet : et salvos faciet eos. Custodit. Dominus omnes diligentes se, et omnes peccatores disperdet. *Psal*. 144. 19. 20.
 
-**364.** Dixit autem Deus ad Salomonem
+**364.** Dixit autem Deus ad Salomonem : Quia hoc magis placuit cordi tuo, et non postulâsti divitias et substantiam et gloriam, neque animas eorum qui te oderant sed nec dies vitæ plurimos : Petisti autem sapientiam et scientiam ut judicare possis populum meum super quem constitui te regem ; sapientia et scientia sunt tibi : divitias autem et substantiam et gloriam dabo tibi, ità ut nullus in regibus nec antè te nec post te fuerit similis tui. II Paralipomènes 1. 11. 12.
 
-**365.** Orantes autem, nolite multùm loqui, sicut Ethnici. Putant enim quòd in multiloquio suo exaudiantur. Nolite ergò assimilari eis. Scit enim pater vester quid opus sit vobis, antequam petatis eum.
+**365.** Orantes autem, nolite multùm loqui, sicut Ethnici. Putant enim quòd in multiloquio suo exaudiantur. Nolite ergò assimilari eis. Scit enim pater vester quid opus sit vobis, antequam petatis eum. *Matt*. 6. 7. 8.
 
-**366.** Dicebat autein et parabolam ad illos
+**366.** Dicebat autein et parabolam ad illos ; quoniàm oportet semper orare et non deficere. *Luc*. 18. 1.
 
-**367.** Et progressus pusillum, procidit in faciem suam, orans et dicens
+**367.** Et progressus pusillum, procidit in faciem suam, orans et dicens : Pater mi ! si possibile est, transeat à me calix iste. Verumtamen non sicut ego volo, sed sicut tu. *Matt*. 26. 39.
 
-**368.** Tu autem, cum oraveris, intra in cubiculum tuum, et clauso ostio ora patrem tuum iu abscondito
+**368.** Tu autem, cum oraveris, intra in cubiculum tuum, et clauso ostio ora patrem tuum iu abscondito : et pater tuus, qui videt in abscondito, reddet tibi. *Matt*. 6. 6.
 
-**369.** Et qui estis vos, qui tentatis Dominum
+**369.** Et qui estis vos, qui tentatis Dominum ? Non est iste sermo, qui misericordiam provocet, sed potiù qui iram excitet, et furorem accindar. *Judith*. 8. 11. 12.
 
-**370.** Eccè dabit voci suæ vocem virtutis.
+**370.** Eccè dabit voci suæ vocem virtutis. *Psal*. 67. 35.
 
-**371.** Respondens autem spiritus nequàm dixit eis
+**371.** Respondens autem spiritus nequàm dixit eis : Jesum novi, et Paulum scio : Vos autem qui estis ? Et insiliens in eos homo, in quo erat dæmonium pessimum, et dominatus amborum, in aluit contrà eos, ità ut nudi et vulnerati effugerent de domo illà. *Act*. 19. 15. 16.
 
-**372.** Jesus autem ait
+**372.** Jesus autem ait : Nolite prohibere eum : nemo est enim qui faciat virtutem in nomine meo, et possit citò malè loqui de me. *Marc*. 9. 38.
 
-**373.** Qui ergò alium doces, teipsum non doces, qui prædicas non furandum, furaris.
+**373.** Qui ergò alium doces, teipsum non doces, qui prædicas non furandum, furaris. *Rom*. 2. 21.
 
-**374.** Peccatori autem dixit Deus
+**374.** Peccatori autem dixit Deus : Quarè tu enarras justitias meas, et assumis Testamentum meum per os tuum ? Tu verò odisti disciplinam ; et projecisti sermones meos retrorsum. *Psal*. 49. 16. 17.
 
-**375.** Et ego, cùm venissem ad vos, fartres, veni non in sublimitate sermonis, aut sapientiæ annuntians vobis testimonium Christi… Et sermo meus et prædicatio mea, non in persuasibilibus humanæ sapientiæ verbis, sed in ostensione spiritûs et virtutis.
+**375.** Et ego, cùm venissem ad vos, fartres, veni non in sublimitate sermonis, aut sapientiæ annuntians vobis testimonium Christi… Et sermo meus et prædicatio mea, non in persuasibilibus humanæ sapientiæ verbis, sed in ostensione spiritûs et virtutis. i. *Cor*. 2. 1. et 4.
 
-**376.** Quid autem vides festucam in oculo fratris tui, et trabem in oculo tuo non vides
+**376.** Quid autem vides festucam in oculo fratris tui, et trabem in oculo tuo non vides ? *Matt*. 7. 3. Duces cæci, excolantes culicem, camelum autem glutientes. *Matt*. 23. 24.
 
-**377.** Fatuæ autem sapientibus dixerunt
+**377.** Fatuæ autem sapientibus dixerunt : Date nobis de oleo vestro ; quia lampades nostræ extinguuntur. *Matt*. 25. 8.
 
-**378.** Quod natum est ex carne, caro est
+**378.** Quod natum est ex carne, caro est : et quod natum est ex spiritu, spiritus est. *Jo*. 3. 6.
 
-**379.** Qui enim voluerit animam suam salvam facere, per- det eam qui autem perdiderit animam suam propter me, inveniet eam.
+**379.** Qui enim voluerit animam suam salvam facere, per- det eam qui autem perdiderit animam suam propter me, inveniet eam. *Matt*. 16. 25.
 
-**380.** Eccè dedi coràm te ostium apertum, quod nemo potest claudere
+**380.** Eccè dedi coràm te ostium apertum, quod nemo potest claudere : quia modicam habes virtutem, et servasti verbum meum, et non negasti nomen meum. *Apoc*. 3. 8.
 
-**381.** Vulgus quippè promiscuum, quod ascenderat cum eis, flagravit desiderio, sedens et flens, junctis sibi pariter filiis Israël, et ait
+**381.** Vulgus quippè promiscuum, quod ascenderat cum eis, flagravit desiderio, sedens et flens, junctis sibi pariter filiis Israël, et ait : Quis dabit nobis ad vescendum carnes ? Recordamur piscium quos comedebamus in Egypto gratis : in mentem nobis veniunt cucumeres, et pepones, porrique, et cepe, et allia. Anima nostra arida est, nihil aliud respiciunt oculi nostri nisi man. *Num*. 11. 4. 5. 6.
 
 **382.** *Averte oculos tuos à me, quia ipsi me avolare fecerunt.* *Cant*. 6. 4.
 
-**383.** Audiam quid loquatur in me Dominus Deus
+**383.** Audiam quid loquatur in me Dominus Deus : quoniam loquetur pacem in plebem suam. *Psal*. 84. 8.
 
-**384.** Quià inflammatum est cor meum, et renes mei commutati sunt
+**384.** Quià inflammatum est cor meum, et renes mei commutati sunt : et ego ad nihilum redactus sum, et nescivi. *Psal*. 72. 21.
 
-**385.** Sitivit anima mea ad Deum fortem vivum.
+**385.** Sitivit anima mea ad Deum fortem vivum. *Psal*. 41. 2
 
-**386.** Quàm angusta porta et arcta via est, quæ ducit ad vitam, et pauci sunt qui inveniunt eam.
+**386.** Quàm angusta porta et arcta via est, quæ ducit ad vitam, et pauci sunt qui inveniunt eam. *Matt*. 7. 14.
 
-**387.** At ille
+**387.** At ille : Ne appropies, inquit, húc : solve calceamentum de pedibus tuis. *Exod*. 3. 5.
 
-**388.** Orietur in tenebris lux tua.
+**388.** Orietur in tenebris lux tua. *Isa*. 58. 10.
 
-**389.** Tantummodò sola vexatio intellectum dabit auditui.
+**389.** Tantummodò sola vexatio intellectum dabit auditui. *Isa*. 28. 19.
 
-**390.** Quem docebit scientiam
+**390.** *Quem docebit scientiam ? et quem intelligere faciet auditum ? ablactatos à lacte, avulsos ab uberibus.*
 
-**391.** Super custodiam meam stabo, et figam gradum super munitionem et contemplabor, ut videam quid dicatur mihi, et quid respondeam ad arguentem me.
+**391.** Super custodiam meam stabo, et figam gradum super munitionem et contemplabor, ut videam quid dicatur mihi, et quid respondeam ad arguentem me. *Habac*. 2. 1.
 
-**392.** In terra deserta, et invia, et inaquosa
+**392.** In terra deserta, et invia, et inaquosa ; sic in Sancto apparui tibi, ut viderem virtutem tuam, et gloriam tuam. *Psal*. 62. 3.
 
-**393.** Obmutui, et humiliatus sum, et silui à bonis
+**393.** Obmutui, et humiliatus sum, et silui à bonis : et dolor meus renovatus est. *Psal*. 38. 3.
 
-**394.** Renuit consolari anima mea
+**394.** Renuit consolari anima mea : memor fui Dei, et delectatus sum, et exercitatus sum, et defecit spiritus meus. *Psal*. 76. 4.
 
-**395.** Qui non est tentatus, quid scit
+**395.** Qui non est tentatus, quid scit ?… qui non est expertus, pauca recognoscit. *Eccl*. 34. 9. 10.
 
-**396.** Castigasti me, et eruditus sum.
+**396.** Castigasti me, et eruditus sum. *Jerem*. 31, 18.
 
-**397.** Mittit crystallum suam sicut bucellas.
+**397.** Mittit crystallum suam sicut bucellas. *Psal*. 147. 6.
 
-**398.** Corpus enim, quod corrumpituragravat animam.
+**398.** Corpus enim, quod corrumpituragravat animam. *Sap*. 9. 15.
 
-**399.** Et sponsabo te mihi in fide.
+**399.** Et sponsabo te mihi in fide. *Osée*. 2. 20.
 
-**400.** Cùm essem parvulus, loquebar ut parvulus, sapiebam ut parvulus, cogitabam ut parvulus.
+**400.** Cùm essem parvulus, loquebar ut parvulus, sapiebam ut parvulus, cogitabam ut parvulus. i. *Cor*. 13. 11.
 
-**401.** Renovamini autem spiritu mentis vestræ, et induite novum hominem, qui secundùm Deum creatus est in justitià et sanctitate veritatis.
+**401.** Renovamini autem spiritu mentis vestræ, et induite novum hominem, qui secundùm Deum creatus est in justitià et sanctitate veritatis. *Ephes*. 4. 23. 24.
 
-**402.** Et nolite conformari huic sæculo, sed reformamini in novitate sensus vestri.
+**402.** Et nolite conformari huic sæculo, sed reformamini in novitate sensus vestri. *Rom*. 12. 2.
 
-**403.** Nubes et caligo in circuitu ejus.
+**403.** Nubes et caligo in circuitu ejus. *Psal*. 96. 2.
 
-**404.** Præ fulgore in conspectu ejus nubes transierunt.
+**404.** Præ fulgore in conspectu ejus nubes transierunt. *Psal*. 17. 13.
 
-**405.** Peccavi, quid faciam tibi, ô custos hominum
+**405.** Peccavi, quid faciam tibi, ô custos hominum ! Quarè posuisti me contrarium tibi, et factus sum mihimetipsi gravis ? *Job*. 7. 20.
 
-**406.** A fortitudine manus tuæ ego defeci in increpationibus
+**406.** A fortitudine manus tuæ ego defeci in increpationibus : Propter iniquitatem corripuisti hominem, et tabescere fecisti sicut araneam animam ejus. *Psal*. 38. 12.
 
-**407.** Nolo multà fortitudine contendat mecum, nec magnitudinis suæ mole me premat.
+**407.** Nolo multà fortitudine contendat mecum, nec magnitudinis suæ mole me premat. *Job*. 23. 6.
 
-**408.** Miseremini mei, miseremini mei, saltem vos amici mei
+**408.** Miseremini mei, miseremini mei, saltem vos amici mei ; quia manus Domini tetigit me. *Job*. 19. 21.
 
-**409.** Circumdederunt me dolores mortis
+**409.** Circumdederunt me dolores mortis ; el torrentes iniquitatis conturbaverunt me. Dolores inferni circumdederunt me ; præoccupaverunt me laquei mortis. In tribulatione mea invocav Dominum et ad Deum meum clamavi. *Psal*. 17. 5. 6. 7.
 
-**410.** Estimatus sum cum descendentibus in lacum
+**410.** Estimatus sum cum descendentibus in lacum : factus sum sicut homo sine adjutorio, inter mortuos liber : Sicut vulnerati dormientes in sepulchris, quorum non es memor ampliùs, et ipsi de manu tua repulsi sunt. Pesuerunt me in lacu inferiori in tenebrosis, et in umbrâ mortis, super me confirmatus est furor tuus : et omnes fluctus tuos induxisti super me. *Psal*. 87. 5. 6. 7. 8.
 
-**411.** Longè fecisti notos meos à me
+**411.** Longè fecisti notos meos à me : posuerunt me abominationem sibi. *Psal*. 87. 9.
 
-**412.** Et projecisti me in profundum in corde maris, et flumen circumdedit me
+**412.** Et projecisti me in profundum in corde maris, et flumen circumdedit me ; omnes gurgites tui, et fluctus tui super me transierunt. Et ego dixi : abjectus sum à conspectu oculorum tuorum ; verumtamen rursùs videbo templum sanctum tuum. Circumdederunt me aquæ usquè ad animam ; abyssus vallavit me ; pelagus operuit caput meum. Ad extrema montium descendi ; terræ vectes concluserunt me in æternum ; et sublevabis de corruptione vitam meam, Domine Deus meus. *Jonœ*. 2. 5. 6. 7.
 
-**413.** Cengere ossa quæ igne succendam, consumentur earnes, et coquetur universa compositio, et ossa tabescent.
+**413.** Cengere ossa quæ igne succendam, consumentur earnes, et coquetur universa compositio, et ossa tabescent. *Ezech*. 24. 10.
 
-**414.** Pone quoque eam super prunas vacuam, ut incalescat, et liquefiat æs ejus, et confletur in medio ejus inquinamentum ejus, et consumatur rubigo ejus.
+**414.** Pone quoque eam super prunas vacuam, ut incalescat, et liquefiat æs ejus, et confletur in medio ejus inquinamentum ejus, et consumatur rubigo ejus. *Ezech*. 24. 11.
 
-**415.** Tanquàm aurum in fornace probavit illos.
+**415.** Tanquàm aurum in fornace probavit illos. *Sap*. 3. 6.
 
-**416.** Salvum me fac, Deus
+**416.** Salvum me fac, Deus ; quoniam intraverunt aquæ usquè ad animam meam : Infixus sum in limo profundi, et non est substantia. Veni in altitudinem maris ; et tempestas demersit me. Laboravi clamans, raucæ factæ sunt fauces meaæ ; defecerunt oculi mei, dùm spero in Deum meum. *Psal*. 68. 1. 2. 3. 4.
 
-**417.** Ego ille quondam opulentus, repentè contritus sum
+**417.** Ego ille quondam opulentus, repentè contritus sum : tenuit cervicem meam, confregit me, et posuit me sibi quasi insignum. Circumdedit me lanceis suis convulneravit lumbos meos, non pepercit, et effudit in terrà viscera mea. Concidit me vulnere super vulnus, irruit in me quasi gigas. Saccum consui super cutem meam, et operui cinere carnem meam. Facies mea intumuit à fletu, et palpebræ meæ caligaverunt. *Job*. 16. 13. 14. 15. 16. 17.
 
-**418.** Ego vir videns paupertatem meam in virga indignationis ejus. Me minavit, et adduxit in tenebras, et non in lucem. Tantum in me vertit, et convertit manum suam totá die. Vetustam fecit pellem meam et carnem meam, contrivit ossa mea. Ædificavit in gyro meo, et circumdedit me felle et labore. In tenebrosis collocavit me, quasi mortuos sempiternos. Circum edificavit adversùm me, ut non egrediar aggravavit compedem meum. Sed et cùm clamavero et rogavero, exclusit orationem meam. Conclusit vias meas lapidibus quadris, semitas meas subvertit. Ursus insidians factus est mihi
+**418.** Ego vir videns paupertatem meam in virga indignationis ejus. Me minavit, et adduxit in tenebras, et non in lucem. Tantum in me vertit, et convertit manum suam totá die. Vetustam fecit pellem meam et carnem meam, contrivit ossa mea. Ædificavit in gyro meo, et circumdedit me felle et labore. In tenebrosis collocavit me, quasi mortuos sempiternos. Circum edificavit adversùm me, ut non egrediar aggravavit compedem meum. Sed et cùm clamavero et rogavero, exclusit orationem meam. Conclusit vias meas lapidibus quadris, semitas meas subvertit. Ursus insidians factus est mihi ; leo in absconditis. Semitas meas subvertit, et confregit me : posuit me desolatam. Tetendit arcum suum, et posuit me quasi signum ad sagittam. Misit in renibus meis filias pharetræ suæ. Factus sum in derisum omni populo meo, canticum eorum totá die. Replevit me amaritudinibus ; inebriavit me absinthio. Et fregit ad numerum dentes meos, cibavit me cinere. Et repulsa est a pace inima mea, oblitus sum bonorum. Et dixi : Periit finis meus, et spes mea à Domino. Recordare paupertatis et trangressionis meæ, absinthii et fellis. Memorià, memor ero, et tabescet in me anima mea. *Jerem*. *Thrênoi*. 3. 1. 2. 3. etc.
 
-**419.** Qui revelat profunda de tenebris, et producit in lucem umbra mortis.
+**419.** Qui revelat profunda de tenebris, et producit in lucem umbra mortis. *Job*. 12. 22.
 
-**420.** Sicut tenebræ ejus, ita et lumen ejus.
+**420.** Sicut tenebræ ejus, ita et lumen ejus. *Psal*. 138. 12. Collocavit me in obscuris sicut mortuos sæculi. *Psal*. 142. 4.
 
-**421.** Ego autem dixi in abundantiâ meâ
+**421.** Ego autem dixi in abundantiâ meâ : Non movebor in æternum. *Psal*. 29. 7.
 
-**422.** Opposuisti nubem tibi, ne transeat oratio.
+**422.** Opposuisti nubem tibi, ne transeat oratio. *Jerem*. *Thrênoi*. 3. 44. Conclusit vias meas lapidibus quadris, semitas meas sub vertit. *Ibid. v*. 9.
 
-**423.** Sed et cùm clamavero et rogavero, exclusit orationem meam.
+**423.** Sed et cùm clamavero et rogavero, exclusit orationem meam. *Ibid. v*. 8.
 
-**424.** Ponet in puivere os suum, si fortè sit spes.
+**424.** Ponet in puivere os suum, si fortè sit spes. *Ibid. v.* 29.
 
-**425.** Concepimus, et quasi parturivimus, et peperimus spiritum.
+**425.** Concepimus, et quasi parturivimus, et peperimus spiritum. *Isa*. 26. 18.
 
-**426.** Afflictus sum et humiliatus sum aimis
+**426.** Afflictus sum et humiliatus sum aimis : rugiebam à gemitu cordis mei. *Psal*. 37. 9.
 
-**427.** Antequàm comedam suspiro
+**427.** Antequàm comedam suspiro ; et tanquàm inundantes aquæ, sic rugitus meus. *Job*. 3. 24.
 
-**428.** Nocte os meum perforatur doloribus, et qui me comedunt, non dormiunt.
+**428.** Nocte os meum perforatur doloribus, et qui me comedunt, non dormiunt. *Job*. 30. 17.
 
-**429.** Colluctata est anima mea in illâ, et in faciendo eam confirmatus sum.
+**429.** Colluctata est anima mea in illâ, et in faciendo eam confirmatus sum. *Eccli*. 51. 25. Venter meus conturbatus est quærendo illam : proptereà bonam possidebo possessionem. *Ibid. v.* 29.
 
-**430.** Fortitudinem meam ad te custodiam, quià Deus susceptor meus es.
+**430.** Fortitudinem meam ad te custodiam, quià Deus susceptor meus es. *Psal*. 58. 10.
 
-**431.** Diliges Dominum Deum tuum ex toto corde tuo, et ex totà anima tuà, et ex totà mente tuà, et ex totà virtute tuà.
+**431.** Diliges Dominum Deum tuum ex toto corde tuo, et ex totà anima tuà, et ex totà mente tuà, et ex totà virtute tuà. *Marc*. 12. 30.
 
-**432.** Sitivit in te anima mea, quàm multipliciter tibi caro mea.
+**432.** Sitivit in te anima mea, quàm multipliciter tibi caro mea. *Psal*. 62. 3.
 
-**433.** Sicut servus desiderat umbram, et sicut mercenarius præstolatur finem operis sui
+**433.** Sicut servus desiderat umbram, et sicut mercenarius præstolatur finem operis sui : Sic et ego habui menses vacuos, et noctes laboriosas enumeravi mihi : Si dormiero, dicam : Quandò consurgam ? Et rursum expectabo vesperam, et replebor doloribus usquè ad tenebras. *Job*. 7. 2. 3. 4.
 
-**434.** Anima mea desideravit te in nocte
+**434.** Anima mea desideravit te in nocte ; sed et spiritu meo in præcordiis meis de manè vigilabo ad te. *Isa*. 16. 6.
 
-**435.** Cor mundum crea in me Deus.
+**435.** Cor mundum crea in me Deus. *Ps*. 50. 12.
 
-**436.** De excelso misit ignem in ossibus meis, et eruvit me.
+**436.** De excelso misit ignem in ossibus meis, et eruvit me. *Jer*. *Thrênoi*. 1. 13.
 
-**437.** Eloquia Domini, eloquia casta
+**437.** Eloquia Domini, eloquia casta : argentum igne examinatum, probatum terræ, purgatum septuplum. *Psal*. 11. 7.
 
-**438.** Et eccè mulier, quæ erat in civitate peccatrix, ut cognovit quod accubuisset in domo Pharisæi, attulit alabastrum unguenti, etc.
+**438.** Et eccè mulier, quæ erat in civitate peccatrix, ut cognovit quod accubuisset in domo Pharisæi, attulit alabastrum unguenti, etc. *Luc*. 7. 37.
 
-**439.** Una autem sabbati, Maria Magdalene venit manè, cùm adhuc tenebræ essent, ad monumentum, et vidit lapidem sublatum à monumento.
+**439.** Una autem sabbati, Maria Magdalene venit manè, cùm adhuc tenebræ essent, ad monumentum, et vidit lapidem sublatum à monumento. *Jo*. 20. 1.
 
-**440.** Dicit ei Jesus
+**440.** Dicit ei Jesus : Mulier, quid ploras ? Quem quæris ? Illa existimans quia hortulanus esset, dicit ei : Domine, si tu sustulisti eum, dicito mihi ubi posuisti eum ; et ego eum tollam. *Jo*. 20. 15.
 
-**441.** Adjuro vos, filiæ Jerusalem, si inveneritis dilectumn meum, ut nuntietis ei quia amore langueo.
+**441.** Adjuro vos, filiæ Jerusalem, si inveneritis dilectumn meum, ut nuntietis ei quia amore langueo. *Cant*. 5. 8.
 
-**442.** Cernens autem Rachel quèd infoecunda esset, invidit
+**442.** Cernens autem Rachel quèd infoecunda esset, invidit sorori suæ, et ait marito suo ; da mihi liberos, alioquin moriar. *Genes*. 30. 1.
 
-**443.** Renovamini autem spiritu mentis vestræ, et induite novum hominem, qui secundum Deum creatus est in justitiâ et sanctitate veritatis.
+**443.** Renovamini autem spiritu mentis vestræ, et induite novum hominem, qui secundum Deum creatus est in justitiâ et sanctitate veritatis. *Ephes*. 4. 23. 24.
 
-**444.** Quis mihi der te fratrem meum fugentem ubera matris meæ, ut inveniam te foris, et deosculer te, et jam ne nemo despiciat
+**444.** Quis mihi der te fratrem meum fugentem ubera matris meæ, ut inveniam te foris, et deosculer te, et jam ne nemo despiciat ? *Cant*. 8. 1.
 
-**445.** Et inimici hominis, domestici ejus.
+**445.** Et inimici hominis, domestici ejus. *Matt*. 10. 36.
 
-**446.** Perditio tua ex te, Israel, tantummodò in me auxilium tuum.
+**446.** Perditio tua ex te, Israel, tantummodò in me auxilium tuum. *Osée*, 13. 9.
 
-**447.** Et posuit tenebras latibulum suum, in circuitu ejus tabernaculum ejus
+**447.** Et posuit tenebras latibulum suum, in circuitu ejus tabernaculum ejus : tenebrosa aqua in nubibus aeris. Præ fulgore in conspectu ejus nubes transierunt. *Psal*. 17. 12. 13.
 
-**448.** Aspiciemus in terram, et eccè tenebræ tribulationis, et lux obtenebrata est in caligine ejus.
+**448.** Aspiciemus in terram, et eccè tenebræ tribulationis, et lux obtenebrata est in caligine ejus. *Isa*. 5. 30.
 
-**449.** Perfecisti eis, qui sperant in te, inconspectu filiorum hominum. Abscondes eos in abscondito faciei tuæ à conturbatione hominum. Proteges eos in tabernaculo tuo à contradictione linguarum.
+**449.** Perfecisti eis, qui sperant in te, inconspectu filiorum hominum. Abscondes eos in abscondito faciei tuæ à conturbatione hominum. Proteges eos in tabernaculo tuo à contradictione linguarum. *Psal*. 30. 20. 21.
 
-**450.** Et dixi A, a, a, Domine Deus, eccè nescio loqui, quia puer ego sum.
+**450.** Et dixi A, a, a, Domine Deus, eccè nescio loqui, quia puer ego sum. *Jerem*. 1. 6.
 
-**451.** Ait Moyses
+**451.** Ait Moyses : Obsecro Domine, non sum eloquens ab heri et nudius tertius, et ex quo locutus es ad servum tuum, impeditioris et tardioris linguæ sum. *Exod*. 4. 10.
 
-**452.** Non est qui possit scire vias ejus
+**452.** Non est qui possit scire vias ejus ; neque qui exquirat semitas ejus. *Baruch*. 3. 31.
 
-**453.** Illuxerunt coruscationes tuæ orbi terræ
+**453.** Illuxerunt coruscationes tuæ orbi terræ ; commota est et contremuit terra. In mari via tua, et semitæ tuæ in aquis multis : et vestigia tua non cognoscentur. *Psal*. 76. 19. 20.
 
-**454.** Numquid nosti semitas nubium magnas, et perfectas scientias
+**454.** Numquid nosti semitas nubium magnas, et perfectas scientias ? *Job*. 37. 16.
 
-**455.** Beatus vir cujus est auxilium abste
+**455.** Beatus vir cujus est auxilium abste ; ascensiones in corde suo disposuit, in valle lacrymarum, in loco quem posuit. Etenim benedictionem dabit legislator, ibunt de virtute in virtutem : videbitur Deus Deorum in Sion. *Psal*. 83. 6. 7. 8.
 
-**456.** Qui autem se exaltaverit, humiliabitur, et qui se humiliaverit, exaltabitur.
+**456.** Qui autem se exaltaverit, humiliabitur, et qui se humiliaverit, exaltabitur. *Matt*. 23. 12.
 
-**457.** Adjuro vos, filiæ Jerusalem, si inveneritis dilectum meum, ut nuntietis ei quia amore langueo.
+**457.** Adjuro vos, filiæ Jerusalem, si inveneritis dilectum meum, ut nuntietis ei quia amore langueo. *Cant*. 5. 8,
 
-**458.** Velociter exaudi me, Domine
+**458.** Velociter exaudi me, Domine : defecit spiritus meus. *Psal*. 142. 7. Defecit in salutare tuum anima mea, et in verbum tuum supersperavi. *Psal*. 118. 81.
 
-**459.** Pluviam volontariam segregabis, Deus, hereditati tuæ
+**459.** Pluviam volontariam segregabis, Deus, hereditati tuæ ; et infirmata est, tu verò perfecisti eam. *Psal*. 67. 10.
 
-**460.** Surgam et circuibo civitatem
+**460.** Surgam et circuibo civitatem : per vicos et plateas quæram quem diligit anima mea. *Cant*. 3. 2.
 
-**461.** Quærite Dominum, et confirmamini
+**461.** Quærite Dominum, et confirmamini ; quærite faciem ejus semper. *Psal*. 104. 4.
 
-**462.** Beatus vir qui timet Dominum
+**462.** Beatus vir qui timet Dominum : in mandatis ejus volet nimis. *Psal*. 111. 1.
 
-**463.** Servivit ergò Jacob pro Rachel septem annis
+**463.** Servivit ergò Jacob pro Rachel septem annis ; et videbantur illi pauci dies præ amoris magnitudine. *Genes*. 29. 20.
 
-**464.** Quia fortis est ut mors dilectio, dura sicut infernus æmulatio.
+**464.** Quia fortis est ut mors dilectio, dura sicut infernus æmulatio. *Cant*. 8. 6.
 
-**465.** Recordatus sum tuf, miserans adolescentiam tuam et charitatem desponsationis tuæ, quandò secuta es me in deserto.
+**465.** Recordatus sum tuf, miserans adolescentiam tuam et charitatem desponsationis tuæ, quandò secuta es me in deserto. *Jerem*. 2. 2.
 
-**466.** Quàm dilecta tabernacula tua Domine virtutum
+**466.** Quàm dilecta tabernacula tua Domine virtutum ! concupiscit et deficit anima mea in atria Domini. *Psal*. 83. 1.
 
-**467.** Da mihi liberos alioquin moriar.
+**467.** Da mihi liberos alioquin moriar. *Genes*. 30. 2.
 
-**468.** Qui autem sperant in Domino, mutabunt fortitudinem, assument pennas sicut aquila, current et non laborabunt, ambulabunt et non deficient.
+**468.** Qui autem sperant in Domino, mutabunt fortitudinem, assument pennas sicut aquila, current et non laborabunt, ambulabunt et non deficient. *Isa*. 40. 31.
 
-**469.** Quemadmodùm desiderat cervus ad fontes aquarum, ità desiderat anima mea ad te Deus.
+**469.** Quemadmodùm desiderat cervus ad fontes aquarum, ità desiderat anima mea ad te Deus. *Psal*, 41. 2.
 
-**470.** Neque iniquitas mea, neque peccatum, meum Domine
+**470.** Neque iniquitas mea, neque peccatum, meum Domine : sine iniquitate cucurri ct direxi. *Psal*. 58. 5.
 
-**471.** Viam mandatorum cucurri, cùm dilatasti cor meum.
+**471.** Viam mandatorum cucurri, cùm dilatasti cor meum. *Psal*. 118. 32.
 
-**472.** Aut dimette eis hanc noxam, aut si non facis, dele me de libro tuo quem scripsisti.
+**472.** Aut dimette eis hanc noxam, aut si non facis, dele me de libro tuo quem scripsisti. *Exod*. 32. 31. 32.
 
-**473.** Delectare in Domino, et dabit tibi petitiones cordis tui.
+**473.** Delectare in Domino, et dabit tibi petitiones cordis tui. *Psal*. 36. 4.
 
-**474.** Osculetur me osculo oris sui.
+**474.** Osculetur me osculo oris sui. *Cant*. 1. 2
 
-**475.** Paululum cùm pertransissem eos, inveni quem diligit anima mea
+**475.** Paululum cùm pertransissem eos, inveni quem diligit anima mea ; tenui eum nec dimittam. *Cant*. 3. 4.
 
-**476.** Daniel, vir desideriorum, intellige verba quæ ego loquor ad te, et sta in gradu tuo.
+**476.** Daniel, vir desideriorum, intellige verba quæ ego loquor ad te, et sta in gradu tuo. *Dan*. 10. 13.
 
-**477.** Beati mundo corde, quoniam ipsi Deum videbunt.
+**477.** Beati mundo corde, quoniam ipsi Deum videbunt. *Matt*. 5. 8.
 
-**478.** Scimus quoniam cùm apparuerit, similes ei erimus, quoniam videbimus cum sicuti est.
+**478.** Scimus quoniam cùm apparuerit, similes ei erimus, quoniam videbimus cum sicuti est. i.*Joan*. 3. 2.
 
-**479.** Quià adversarius vester diabolus tanquàm leo rugiens circuit quærens quem devoret
+**479.** Quià adversarius vester diabolus tanquàm leo rugiens circuit quærens quem devoret : cui resistite fortes in fide. i. *Petr*. 5. 8, 9.
 
-**480.** Sine fide autem impossibile est placere Deo.
+**480.** Sine fide autem impossibile est placere Deo. *Hebr*. 11. 6.
 
-**481.** Et sponsabo te mihi in fide.
+**481.** Et sponsabo te mihi in fide. *Osée*, 2. 20.
 
-**482.** Ut non loquatur os meum opera hominum
+**482.** Ut non loquatur os meum opera hominum : propter verba labiorum tuorum ego custodivi vias duras. *Psal*. 16. 4.
 
-**483.** Nos autem qui diei sumus, sobrii simus, induti loricam fidei et charitatis, et galeam spem salutis.
+**483.** Nos autem qui diei sumus, sobrii simus, induti loricam fidei et charitatis, et galeam spem salutis. i. *Thessal*. 5. 8.
 
-**484.** Oculi mei semper ad Dominum.
+**484.** Oculi mei semper ad Dominum. *Psal*. 24. 15.
 
-**485.** Eccè sicut oculi servorum in manibus
+**485.** Eccè sicut oculi servorum in manibus dominorum suorum. Sicut oculi ancillæ in manibus Dominæ suæ : ità oculi nostri ad Dominum Deum nostrum, donec misereatur nostri. *Psal*. 122. 2.
 
-**486.** Nigra sum sed formosa filiæ Jerusalem.
+**486.** Nigra sum sed formosa filiæ Jerusalem. *Cant*. 1. 4. Introduxit me rex in cellaria sua. Exultabimus et lætabimur in te. *Cant*. 1. 3. Indica mihi quem diligit anima mea, ubi pascas, ubi cubes in meridie. *Cant*. 1. 6.
 
-**487.** Nesciat sinistra tua quid faciat dextera tua.
+**487.** Nesciat sinistra tua quid faciat dextera tua. *Matt*. 6. 3.
 
-**488.** En lectum Salomonis sexaginta fortes ambiunt ex fortissimis Israël
+**488.** En lectum Salomonis sexaginta fortes ambiunt ex fortissimis Israël ; omnes tenentes gladios, et ad bella doctissimi ; unius cujusque ensis super femur suum propter timores nocturnos. *Cant*. 3. 7. 8.
 
-**489.** Descendi in hortum nucum, ut viderem poma convallium
+**489.** Descendi in hortum nucum, ut viderem poma convallium, et inspicerem, si floruisset vinea, et germinassent mala punica. Nescivi ; anima mea conturbavit me propter quadrigas Aminadab. *Cant*. 6. 10. 11.
 
-**490.** Vocavit autem Pharao sapientes et maleficos
+**490.** Vocavit autem Pharao sapientes et maleficos ; et fecerunt etiam ipsi per in cantationes Ægyptiacas et arcana quædam similiter : projeceruntque siuguli virgas suas, versæ sunt in dracones. *Exod*. 7. 11. 12.
 
-**491.** Osculetur me osculo oris sui.
+**491.** Osculetur me osculo oris sui. *Cant*. 1. 1.
 
-**492.** Quis mihi der te fratrem meum fugentem ubera matris meæ, ut inveniam te foris, et deosculer te, et jam me nemo despiciat
+**492.** Quis mihi der te fratrem meum fugentem ubera matris meæ, ut inveniam te foris, et deosculer te, et jam me nemo despiciat ? *Cant*. 8. 1.
 
-**493.** Cùm enim quietum silentium contineret omnia, et nox in suo cursu medium iter haberet, omnipotens sermo tuus de cœlo à regalibus sedibus, durus debellator in mediam exterminii terram prosilivit.
+**493.** Cùm enim quietum silentium contineret omnia, et nox in suo cursu medium iter haberet, omnipotens sermo tuus de cœlo à regalibus sedibus, durus debellator in mediam exterminii terram prosilivit. *Sap*. 18. 14. 15. Invenerunt me custodes qui circumeunt civitatem. Percuserunt me, et vulneraverunt me : tulerunt pallium meum mihi custodes murorum. *Cant*. 5. 7. Paululùm cùm pertransissem eos, inveni quem diligit anima mea. *Cant*. 3. 4.
 
-**494.** Si quis diligit me, sermonem meum servabit, et Pater meus diliget eum, et ad eum veniemus, et mansionem apud eum faciemus.
+**494.** Si quis diligit me, sermonem meum servabit, et Pater meus diliget eum, et ad eum veniemus, et mansionem apud eum faciemus. *Joan*. 14. 23.
 
-**495.** Qui credit in me, sicut dicit Scriptura, flumina de ventre ejus fluent aquæ vivae.
+**495.** Qui credit in me, sicut dicit Scriptura, flumina de ventre ejus fluent aquæ vivae. *Jo.* 7. 38.
 
-**496.** Tulit itaque Manuë hœdum de capris
+**496.** Tulit itaque Manuë hœdum de capris ; et libamenta, et posuit super petram, offerens Domino qui facit mirabilia ; ipse autem et uxor ejus intuebantur. Cùmque ascenderet flamma altaris in coelum, Angelus Domini pariter inflamma ascendit. *Judic*. 13. 19. 20.<re
 
-**497.** Ignitum eloquium tuum vehementer.
+**497.** Ignitum eloquium tuum vehementer. *Psal*. 118. 140.
 
-**498.** Numquid non verba mea sunt quasi ignis, dicit Dominus.
+**498.** Numquid non verba mea sunt quasi ignis, dicit Dominus. *Jerem*. 23. 29.
 
-**499.** Verba quæ ego locutus sum vobis, spiritus et vita sunt.
+**499.** Verba quæ ego locutus sum vobis, spiritus et vita sunt. *Jo*. 6. 64.
 
-**500.** Ex hoc multi discipulorum ejus abierunt retrò
+**500.** Ex hoc multi discipulorum ejus abierunt retrò ; et jàm non cum illo ampliùs ambulabant. *Jo*. 6. 67.
 
-**501.** Respondit ergò ei Simon Petrus
+**501.** Respondit ergò ei Simon Petrus : Domine, ad quem ibimus ? verba vitæ æternæ habes. *Jo*. 6. 69.
 
-**502.** Cor meum et caro mea exultaverunt in Deum vivum.
+**502.** Cor meum et caro mea exultaverunt in Deum vivum. *Psal*. 83. 2.
 
-**503.** Anima mea liquefacta est, ut locutus est.
+**503.** Anima mea liquefacta est, ut locutus est. *Cant*. 5. 6.
 
-**504.** Quæ placuit ei, et invenit gratiam in conspectu illius. Et præcepit eunucho, ut acceleraret mundum muliebrem, et traderet ei partes suas, et septem puellas speciosissimas de domo regis, et tàm ipsam, quàm pedissequas ejus ornaret at que excoleret.
+**504.** Quæ placuit ei, et invenit gratiam in conspectu illius. Et præcepit eunucho, ut acceleraret mundum muliebrem, et traderet ei partes suas, et septem puellas speciosissimas de domo regis, et tàm ipsam, quàm pedissequas ejus ornaret at que excoleret. *Esther*. 2. 9.
 
-**505.** Cùm eo eram cuncta componens
+**505.** Cùm eo eram cuncta componens ; et delectabar per singulos dies, ludens coràm eo omni tempore ; ludens in orbe terrarum ; et deliciæ meæ esse cum filiis hominum. *Prov*. 8. 30. 31.
 
-**506.** Quæ est ista que ascendit de deserto, deliciis affluens, innixa super dilectum suum
+**506.** Quæ est ista que ascendit de deserto, deliciis affluens, innixa super dilectum suum ? *Cant*. 8. 5.
 
-**507.** Surge, propera, amica mea, columba mea, formosa mea et veni
+**507.** Surge, propera, amica mea, columba mea, formosa mea et veni : Jam enim hiems transiit, imber abiit et recessit. Flores apparuerunt in terrà nostrà, tempus putationis advenit : vox turturis audita est in terrà nostrà : ficus protulit grossos suos : vineæ florentes dederunt odorem suum. Surge amica mea, speciosa mea, et veni : columba mea in foraminibus petræ, in cavernà maceriæ, ostende mhi faciem tuam, sonet vox tua in auribus meis : Vox enim tua dulcis, et facies tua decora. *Cant*. 2. 10. 11. 12. 13. 14.
 
-**508.** Scimus enim quoniam si terrestris domus nostra hujus habitationis dissolvatur, quòd ædificationem ex Deo habemus, domum non manufactam, æternam in cœlis.
+**508.** Scimus enim quoniam si terrestris domus nostra hujus habitationis dissolvatur, quòd ædificationem ex Deo habemus, domum non manufactam, æternam in cœlis. ii. *Cor*. 5. 1.
 
-**509.** Anni nostri sicut aranea meditabuntur.
+**509.** Anni nostri sicut aranea meditabuntur. *Psal*. 89. 10.
 
-**510.** Quoniam mille anni antè oculos tuos, tanquàm dies hesterna quæ præterit.
+**510.** Quoniam mille anni antè oculos tuos, tanquàm dies hesterna quæ præterit. *Psal*. 89. 4. Omnes gentes quasi non sint, sic sunt coràm eo, et quassi nihilum et inane reputatæ sunt ei. *Isa*. 40. 17.
 
-**511.** Placens Deo factus est dilectus, et vivens inter peccatores translatus est. Raptus est nè malatia mutaret intellectum ejus, aut nè fictio deciperet animam illius. Consummatus in brevi explevit tempora multa. Placita enim erat Deo anima illius. Propter hoc properavit educere illum de medio iniquitatum.
+**511.** Placens Deo factus est dilectus, et vivens inter peccatores translatus est. Raptus est nè malatia mutaret intellectum ejus, aut nè fictio deciperet animam illius. Consummatus in brevi explevit tempora multa. Placita enim erat Deo anima illius. Propter hoc properavit educere illum de medio iniquitatum. *Sap*. 4. 10. 11. 13. 14.
 
-**512.** Spiritualis autem judicat omnia, et ipse à nemine judicatur.
+**512.** Spiritualis autem judicat omnia, et ipse à nemine judicatur. i. Cor. 2. 15. Spiritus enim omnia scrutatur, etiam profunda Dei. *Ibid. v.* 10.
 
-**513.** Simile est regnum cœlorum grano sinapis, quod accipiens homo seminavit in agro suo
+**513.** Simile est regnum cœlorum grano sinapis, quod accipiens homo seminavit in agro suo : quod minimum quidem est omnibus seminibus : cùm autem creverit, majus est omnibus oleribus, et fit arbor, ità ut volucres cœli veniant, et habitent in ramis ejus. *Matt*. 13. 31. 32.
 
-**514.** Reversusque mirabiliter me crucias.
+**514.** Reversusque mirabiliter me crucias. *Job*. 10. 16.
 
-**515.** Quam magna multitudo dulcedinis tuæ Domine, quàm abscondisti timentibus te
+**515.** Quam magna multitudo dulcedinis tuæ Domine, quàm abscondisti timentibus te ! *Psal*. 30. 20.
 
-**516.** Corpus enim quod corrumpitur, aggravat animam, et terrena inhabitatio deprimir sensum multa cogitantem.
+**516.** Corpus enim quod corrumpitur, aggravat animam, et terrena inhabitatio deprimir sensum multa cogitantem. *Sap*, 9. 15.
 
-**517.** De cætero nemo mihi molestus sit
+**517.** De cætero nemo mihi molestus sit : ego enim stigmata Domini Jesu in corpore meo porto. *Galat*. 6. 17.
 
-**518.** Qui respicit terram, et facit eam tremere, qui tangit montes et fumigant.
+**518.** Qui respicit terram, et facit eam tremere, qui tangit montes et fumigant. *Psal*. 103. 32. Stetit et mensus est terram ; aspexit et dissolvit gentes, et contriti sunt mentes sæculi. Incurvati sunt colles mundi, ab itineribus æternitatis ejus. *Habach*. 3. 6 *Job*. 19. toto capite.
 
-**519.** Qui cùm sit splendor gloriæ et figura substantiæ ejus.
+**519.** Qui cùm sit splendor gloriæ et figura substantiæ ejus. *Hebr*. 1. 3.
 
-**520.** Non est audita in terra Chanaan, neque visa est in Theman.
+**520.** Non est audita in terra Chanaan, neque visa est in Theman. *Baruch*. 3. 22.
 
-**521.** Et ecce Dominus transit, et spiritus grandis et fortis subvertens montes, et conterens petras antè Dominum, non in spiritu Dominus, et post spiritum commotio, non in commotione Dominus
+**521.** Et ecce Dominus transit, et spiritus grandis et fortis subvertens montes, et conterens petras antè Dominum, non in spiritu Dominus, et post spiritum commotio, non in commotione Dominus : et post commotionem ignis, non in igne Dominus, et post ignem sibilas aura tennis. iii. *Reg*. 19. 11. 12.
 
-**522.** Abscondes cos in abscondito faciei tuæ à conturbatione hominum
+**522.** Abscondes cos in abscondito faciei tuæ à conturbatione hominum : proteges eos in tabernaculo tuo à contradictione linguarum. *Psal*. 30. 21.
 
-**523.** Vincenti dabo manna absconditum, et dabo illi calculum candidum
+**523.** Vincenti dabo manna absconditum, et dabo illi calculum candidum ; et in calculo nomen novum scriptum, quod nemo scit, nisi qui accipit. *Apoc*. 2. 17.
 
-**524.** Omnia ossa mea dicent
+**524.** Omnia ossa mea dicent : Domine, quis similis tibi ? *Psal*. 34. 10.
 
-**525.** Sufficit tibi gratia mea, nam virtus in infirmitate perficitur.
+**525.** Sufficit tibi gratia mea, nam virtus in infirmitate perficitur. ii. *Cor*. 12. 9.
 
-**526.** De excelso misit ignem in ossibus meis, et erudivit me.
+**526.** De excelso misit ignem in ossibus meis, et erudivit me. *Jerem*. *Thrênoi*. 1. 13.
 
-**527.** Castigasti me, et eruditus sum.
+**527.** Castigasti me, et eruditus sum. *Jerem*. 31. 18.
 
-**528.** Qui non est tentatus, quid scit
+**528.** Qui non est tentatus, quid scit ? *Eccli*. 34. 9.
 
-**529.** Si cum peditibus currens laborasti, quomodò contendere poteris cum equis
+**529.** Si cum peditibus currens laborasti, quomodò contendere poteris cum equis ? Cùm autem in terra pacis securus fueris, quid facies in superbia Jordanis ? *Jerem*. 12. 5.
 
-**530.** Et quia acceptus eras Deo, necesse fuit ut tentatio probaret te.
+**530.** Et quia acceptus eras Deo, necesse fuit ut tentatio probaret te. *Tob*. 12. 13. Et dixit Dominus ad Satan : Numquid considerasti servum meum Job, quod non sit ei similis in terrâ, vir simplex et rectus, ac timens Deum, et recedens à malo, et adhuc retinens innocentiam ? *Job*. 2. 3.
 
-**531.** Si Spiritus potestatem habentis ascenderit super te, locum tuum ne dimiseris
+**531.** Si Spiritus potestatem habentis ascenderit super te, locum tuum ne dimiseris : Quia curatio faciet cessare peccata maxima. *Ecclœ*. 10. 4.
 
-**532.** Quia tenebræ non obscurabuntur à te, et nox sicut dies illuminabitur
+**532.** Quia tenebræ non obscurabuntur à te, et nox sicut dies illuminabitur : sicut tenebræ ejus, ita et lumen ejus. *Psal*. 138. 12.
 
-**533.** Quantas ostendisti mihi tribulationes multas, et malas
+**533.** Quantas ostendisti mihi tribulationes multas, et malas ; et conversus vivificasti me, et de abyssis terræ iterùm reduxisti me. Multiplicasti magnificentiam tuam et conversus consolatus es me. *Psal*. 70. 20. 21.
 
-**534.** Scimus enim quoniam si terrestris domus nostra hujus habitationis dissolvatur, quod ædificationem ex Deo habemus, domum non manufactam, æternam in cœlis.
+**534.** Scimus enim quoniam si terrestris domus nostra hujus habitationis dissolvatur, quod ædificationem ex Deo habemus, domum non manufactam, æternam in cœlis. ii. *Cor*. 5. 1.
 
-**535.** Si enim secundùm carnem vixeritis, moriemini
+**535.** Si enim secundùm carnem vixeritis, moriemini ; si autem spiritu facta carnis mortificaveritis, vivetis. *Rom*. 8. 13.
 
-**536.** Renovamini autem spiritu mentis vestræ, et induite novum hominem, qui secundùm Deum creatus est in justitià et sanctitate veritatis.
+**536.** Renovamini autem spiritu mentis vestræ, et induite novum hominem, qui secundùm Deum creatus est in justitià et sanctitate veritatis. *Ephes*. 4. 23. 24. Nolite mentiri invicem, expoliantes vos veterem hominem cum actibus, et induentes novum, eum qui renovatur in agnitionem, secundum imaginem ejus qui creavit illum. *Coloss*. 3. 9. 10.
 
-**537.** Quicumque enim spiritu Dei aguntur ii sunt filii Dei.
+**537.** Quicumque enim spiritu Dei aguntur ii sunt filii Dei. *Rom*. 8. 14.
 
-**538.** Vivo autem, jam non ego, vivit verò in me Christus.
+**538.** Vivo autem, jam non ego, vivit verò in me Christus. *Galath*. 2. 20.
 
-**539.** Absorpta est mors in victoria.
+**539.** Absorpta est mors in victoria. i. *Cor*. 15. 54.
 
-**540.** Ero mors tua, ô mors
+**540.** Ero mors tua, ô mors ! morsus tuus ero, inferne. *Osée*. 13. 14.
 
-**541.** Nigra sum, sed formosa, filiæ Jerusalem.
+**541.** Nigra sum, sed formosa, filiæ Jerusalem. *Cant*. 1. 4.
 
-**542.** Dicebamque
+**542.** Dicebamque : in nidulo meo moriar, et sicut palma multiplicabo dies. Gloria mea semper novabitur. *Job*. 29. 18. 20.
 
-**543.** Convertisti plantum meum in gaudium mihi
+**543.** Convertisti plantum meum in gaudium mihi ; conscidisti saccum meum, et circumdedisti me lititià : ut cantet tibi gloria mea, et non compungar ; Domine Deus meus, in æternum confitebor tibi. *Psal*. 29. 12. 13.
 
-**544.** Dilectus meus mihi et ego illi.
+**544.** Dilectus meus mihi et ego illi. *Cant*. 2. 16.
 
-**545.** Quo transeunte coràm eo, ait
+**545.** Quo transeunte coràm eo, ait : Dominator Domine Deus, misericors et clemens, patiens et multæ misera- tionis, ac verax, qui custodis misericordiam in millia : qui aufers iniquitatem et scelera atque peccata, nullusque apud te per se innocens est. *Exod*. 34. 6. 7.
 
-**546.** Lampades ejus, lampades ignis atque flammarum.
+**546.** Lampades ejus, lampades ignis atque flammarum. *Cant*. 8. 6.
 
 **547.** *Cùm ergo occubuisset sol, facta est caligo tenebrosa, et apparuit clibanus fumans, et lampas ignis transiens inter divisiones illas.* *Gen*. 15. 17.
 
-**548.** Et virtus altissimi obumbrabit tibi.
+**548.** Et virtus altissimi obumbrabit tibi. *Luc*. 1. 35.
 
-**549.** Sedentes in tenebris et umbrà mortis.
+**549.** Sedentes in tenebris et umbrà mortis. *Psal*. 106. 10.
 
-**550.** Hæc visio similitudinis gloriæ Domini.
+**550.** Hæc visio similitudinis gloriæ Domini. *Ezech*. 2. 1.
 
-**551.** Quemadmodùm desiderat cervus ad fontes aquarum, ità desiderat anima mea ad te, Deus.
+**551.** Quemadmodùm desiderat cervus ad fontes aquarum, ità desiderat anima mea ad te, Deus. *Psal*. 41. 1.
 
-**552.** Quàm dilecta tabernacula tua, Domine virtutum concupiscit et deficit anima mea in atria Domini.
+**552.** Quàm dilecta tabernacula tua, Domine virtutum concupiscit et deficit anima mea in atria Domini. *Psal*. 83. 3.
 
-**553.** Memoria memor ero, et tabescet in me anima mea. Hæc recolens in corde meo, ideò sperabo.
+**553.** Memoria memor ero, et tabescet in me anima mea. Hæc recolens in corde meo, ideò sperabo. *Jerem*. *Thrênoi*. 3. 20. 21.
 
-**554.** Quæ est ista que ascendit per desertum, sicut virgula fumi ex aromatibus myrrhæ et thuris et universi pulveris pigmentarii
+**554.** Quæ est ista que ascendit per desertum, sicut virgula fumi ex aromatibus myrrhæ et thuris et universi pulveris pigmentarii ?*Cant*. 3. 6.
 
-**555.** Propter hoc, eccè ego lactabo eam, et dncam eam in solitudinem
+**555.** Propter hoc, eccè ego lactabo eam, et dncam eam in solitudinem ; et loquar ad cor ejus. *Osée* 2. 14.
 
-**556.** Audiam quid loquatur in me Dominus Deus, quoniam loquetur pacem in plebem snam.
+**556.** Audiam quid loquatur in me Dominus Deus, quoniam loquetur pacem in plebem snam. *Psal*. 84. 9.
 
-**557.** Animalis autem homo non percipit ea quæ sunt Spiritus Dei.
+**557.** Animalis autem homo non percipit ea quæ sunt Spiritus Dei. i. *Cor*. 2. 14.
 
-**558.** Adjuro vos, filiæ Jerusalem, per capreas cervosque camporum
+**558.** Adjuro vos, filiæ Jerusalem, per capreas cervosque camporum ; ne suscitetis, neque evigilare faciatis dilectam, donec ipsa velit. *Cant*. 3. 5.
 
-**559.** Factus sum infirmis infirmus, ut infirmos lucrifacerem. Omnibus omnia factus sum ut omnes facerem salvos.
+**559.** Factus sum infirmis infirmus, ut infirmos lucrifacerem. Omnibus omnia factus sum ut omnes facerem salvos. i. *Cor*. 9. 22.
 
-**560.** Væ pastoribus Israël qui pascebant semetipsos
+**560.** Væ pastoribus Israël qui pascebant semetipsos : nonne greges à pastoribus pascuntur ? Lac comedebatis, et lanisoperiebamini. *Ezech*. 34. 2. 3. Eccè ego ipse super pastores requiram gregem meum de manu eorum. *Ibid. v.* 10.
 
-**561.** Væ vobis legisperitis, quia tulistis clavem scientiæ ipsi non introistis, et eos, qui introibant, prohibuistis.
+**561.** Væ vobis legisperitis, quia tulistis clavem scientiæ ipsi non introistis, et eos, qui introibant, prohibuistis. *Luc*. 11. 52.
 
-**562.** Et ait Dominus servo
+**562.** Et ait Dominus servo : exi in vias, et sepes ; et compelle intrare, ut impleatur domus mea. *Luc*. 14. 23.
 
-**563.** Eccè absorbebit fluvium, et non mirabitur
+**563.** Eccè absorbebit fluvium, et non mirabitur : et habet fiduciam, quòd influat Jordanis in os ejus. In oculis ejus quasi hamo capiet eum, et in sudibus perforabit nares ejus. *Jo*. 40. 18. 19. Sub ipso erunt radii solis, et secernet sibiaurum quasi lutum. *Jo*. 41. 21.
 
-**564.** Dixit que Deus
+**564.** Dixit que Deus : fiat lux. Et facta est lux. *Genes*. 1. 3.
 
-**565.** Dies Dici eructat verbum, et nox nocti indicat scientiam.
+**565.** Dies Dici eructat verbum, et nox nocti indicat scientiam. *Psal*. 18. 3.
 
-**566.** Facinatio enim nugacitatis obscurat bona, et inconstantia concupiscentiæ transvertit sensum sine malitia.
+**566.** Facinatio enim nugacitatis obscurat bona, et inconstantia concupiscentiæ transvertit sensum sine malitia. *Sap*. 4. 12.
 
-**567.** Et mea omnia tua sunt, et tua mea sunt.
+**567.** Et mea omnia tua sunt, et tua mea sunt. *Joan*. 17. 10.
 
-**568.** Et notum feci eis nomen tuum, et notum faciam
+**568.** Et notum feci eis nomen tuum, et notum faciam : ut dilectio, qua dilexisti me in ipsis sit, et ego in ipsis. *Joan*. 17. 26.
 
-**569.** Populnm istum formavi mihi, laudem meam narrabit.
+**569.** Populnm istum formavi mihi, laudem meam narrabit. *Isa*. 43. 21.
 
-**570.** Spiritus est qui vivificat
+**570.** Spiritus est qui vivificat : caro non prodest quidquam. Verba quæ ego locutus sum vobis, spiritus et vita sunt. *Joan*. 6. 64.
 
-**571.** In ipso enim vivimus et movemur.
+**571.** In ipso enim vivimus et movemur. *Act*. 17. 28.
 
-**572.** Parvulus enim natus est nobis, et filius datus est nobis, et factus est principatus super humerum ejus.
+**572.** Parvulus enim natus est nobis, et filius datus est nobis, et factus est principatus super humerum ejus. *Isa*. 9. 6.
 
-**573.** Portansque omnia verbo virtutis suæ.
+**573.** Portansque omnia verbo virtutis suæ. *Hebr*. 1. 3.
 
-**574.** Per me reges regnant et legum conditores justa decernunt
+**574.** Per me reges regnant et legum conditores justa decernunt : per me principes imperant, et potentes decernunt justitiam. *Prov*. 8. 15. 16.
 
-**575.** Omnibus enim mobilibus mobilior est sapientia.
+**575.** Omnibus enim mobilibus mobilior est sapientia. *Sap*. 7. 24.
 
-**576.** Exurge, quarè obdormis Domine
+**576.** Exurge, quarè obdormis Domine ? Exurge, et ne repellas in finem. *Psal*. 43. 23.
 
-**577.** Quæ respondit
+**577.** Quæ respondit : Vidi te, Domine, quasi angelum Dei, et conturbatum est cor meum, præ timore gloriæ tuæ. Valdè enim mirabilis es, Domine, et facies tua plena est gratiarum. *Esther*. 15. 16. 17.
 
-**578.** Astitit regina à dextris tuis in vestitu deaurato circumdata varietate.
+**578.** Astitit regina à dextris tuis in vestitu deaurato circumdata varietate. *Psal*. 44. 10.
 
-**579.** Similiter autem et spiritus adjuvat infirmitatem nostram.
+**579.** Similiter autem et spiritus adjuvat infirmitatem nostram. *Rom*. 8. 26.
 
-**580.** Deum nemo vidit unquàm. Unigenitus Filius, qui est in sinu Patris, ipse enarravit.
+**580.** Deum nemo vidit unquàm. Unigenitus Filius, qui est in sinu Patris, ipse enarravit. *Joan*. 1. 18.
 
-**581.** Verè tu
+**581.** Verè tu es Deus absconditus, Deus Israel salvator *Isa*. 45. 15.
 
-**582.** Si venerit ad me, non videbo eum
+**582.** Si venerit ad me, non videbo eum : si abierit, non intelligam. *Jo*. 9. 11.
 
-**583.** Indica mihi, quem diligit anima mea, ubi pascas, ubi cubes in meridie.
+**583.** Indica mihi, quem diligit anima mea, ubi pascas, ubi cubes in meridie. *Cant*. 1. 6.
 
 **584.** *S. Aug. C. Soliloq.* 31.
 
-**585.** Et ipsi intrà nos gemimus, adoptionem filiorum Dei expectantes.
+**585.** Et ipsi intrà nos gemimus, adoptionem filiorum Dei expectantes. *Rom*. 8. 23.
 
-**586.** Similis est dilectus meus capræ, hinnuloque cerverum.
+**586.** Similis est dilectus meus capræ, hinnuloque cerverum. *Cant*. 2. 9.
 
-**587.** Quia inflammatum est cor meum, et renes mei commutati sunt, et ego ad nihilum redactus sum et nescivi.
+**587.** Quia inflammatum est cor meum, et renes mei commutati sunt, et ego ad nihilum redactus sum et nescivi. *Psal*. 72. 21.
 
-**588.** Surgam, et circuibo civitatem
+**588.** Surgam, et circuibo civitatem : per vicos et plateas quæram quem diligit anima mea : quæsivi illum, et non inveni. *Cant*. 3. 2.
 
-**589.** Quando orabas cum lacrymis, et sepeliebas mortuos, et derelinquebas prandium tuum, et mortuos abscondebas, per diem, in domo tua, et nocte sepeliebas eos ego, obtuli orationem tuam Domino.
+**589.** Quando orabas cum lacrymis, et sepeliebas mortuos, et derelinquebas prandium tuum, et mortuos abscondebas, per diem, in domo tua, et nocte sepeliebas eos ego, obtuli orationem tuam Domino. *Tob*. 12. 12.
 
-**590.** Cui ait Dominus
+**590.** Cui ait Dominus : vidi afflictionem populi mei in Ægypto, et clamorem ejus audivi propter duritiam eorum qui præsunt operibus : et sciens dolorem ejus, descendi ut liberem eum de manibus Ægyptiorum. *Exod*. 3. 7. 8.
 
-**591.** Ne timeas Zacharia, quoniam exaudita est deprecatio tua.
+**591.** Ne timeas Zacharia, quoniam exaudita est deprecatio tua. *Luc*. 1. 13.
 
-**592.** Et factus est Dominus refugium pauperi
+**592.** Et factus est Dominus refugium pauperi : adjutor in oportunitatibus, in tribulatione. *Psal*. 9. 10.
 
-**593.** Recordare paupertatis et transgressionis meæ, absynthii et fellis.
+**593.** Recordare paupertatis et transgressionis meæ, absynthii et fellis. *Jerem*. *Thrênoi*. 3.19.
 
-**594.** In quo sunt omnes thesauri sapientiæ et scientiæ absconditi.
+**594.** In quo sunt omnes thesauri sapientiæ et scientiæ absconditi. *Coloss*. 2. 3.
 
-**595.** Accipe librum, et devora illum, et faciet amaricari ventrem tuum.
+**595.** Accipe librum, et devora illum, et faciet amaricari ventrem tuum. *Apoc*. 10. 9.
 
-**596.** Fel draconum vinum eorum, et venenum aspidum insanabile.
+**596.** Fel draconum vinum eorum, et venenum aspidum insanabile. *Deut*. 32. 33.
 
-**597.** Deficiente vino, dicit mater Jesu ad eum
+**597.** Deficiente vino, dicit mater Jesu ad eum : vinum non habent. *Jo*. 2. 3.
 
-**598.** Miserunt ergo sorores ejus ad eum, dicentes
+**598.** Miserunt ergo sorores ejus ad eum, dicentes : Domine ecce quem amas infirmatur. *Jo*. 11. 3.
 
-**599.** Nolite sperare in iniquitate, et rapinas nolite concupiscere
+**599.** Nolite sperare in iniquitate, et rapinas nolite concupiscere : divitiæ si affluant nolite cor apponere. *Psal*. 61. 12.
 
-**600.** Quoniam alieni insurrexerunt adversum me, et fortes quæsierunt animam meam, et non proposuerunt Deum ante conspectum suum.
+**600.** Quoniam alieni insurrexerunt adversum me, et fortes quæsierunt animam meam, et non proposuerunt Deum ante conspectum suum. *Psal*. 53. 5.
 
-**601.** Non est super terram potestas, que comparetur ei qui factus est ut nullum timeret.
+**601.** Non est super terram potestas, que comparetur ei qui factus est ut nullum timeret. *Job*. 41. 24.
 
-**602.** Induite vos armaturam Dei ut possitis stare adversùs insidias diaboli
+**602.** Induite vos armaturam Dei ut possitis stare adversùs insidias diaboli : quoniam non est nobis colluctatio adversùs carnem et sanguinem ; sed adversùs principes et potestates, adversùs mundi rectores tenebrarum harum, contrà spiritualia nequitiæ in cœlestibus. *Ephes*, 6. 11. 12.
 
-**603.** Caro enim concupiscit adversùs spiritum
+**603.** Caro enim concupiscit adversùs spiritum : spiritus autem adversùs carnem. *Galath*. 5. 17.
 
-**604.** Si enim secundùm carnem vixeritis moriemini
+**604.** Si enim secundùm carnem vixeritis moriemini : si autem spiritu facta carnis mortificaveritis, vivetis. *Rom*. 8. 13.
 
-**605.** Invisibilia enim ipsius à creatura mundi, per ea quæ facta sunt intellecta, conspiciuntur
+**605.** Invisibilia enim ipsius à creatura mundi, per ea quæ facta sunt intellecta, conspiciuntur : sempiterna quoque ejus virtus et divinitas : ita ut sint inexcusabiles. *Rom*. 1. 20.
 
-**606.** Qui cum sit splendor gloriæ et figura substantiæ ejus.
+**606.** Qui cum sit splendor gloriæ et figura substantiæ ejus. *Hebr*. 1. 3.
 
-**607.** Viditque Deus cuncta quæ fecerat
+**607.** Viditque Deus cuncta quæ fecerat : et erant valdè bona. *Genes*. 1. 31.
 
-**608.** Et ego si exaltatus fuero à terra, omnia traham ad meipsum.
+**608.** Et ego si exaltatus fuero à terra, omnia traham ad meipsum. *Joan*. 12 32.
 
-**609.** Aperis tu manum tuam
+**609.** Aperis tu manum tuam ; et imples omne animal benedictione. *Psal*. 144. 16.
 
-**610.** Adjuro vos, filiæ Jerusalem, si inveneritis dilectum meum, ut nuntietis ei quia amore langueo.
+**610.** Adjuro vos, filiæ Jerusalem, si inveneritis dilectum meum, ut nuntietis ei quia amore langueo. *Cant*. 5. 8.
 
-**611.** Vulnerasti cor meum, soror mea sponsa, vulnerasti cor meum in uno oculorum tuorum, et in uno crine colli tui.
+**611.** Vulnerasti cor meum, soror mea sponsa, vulnerasti cor meum in uno oculorum tuorum, et in uno crine colli tui. *Cant*. 4. 9.
 
-**612.** Da mihi li beros alioquin moriar.
+**612.** Da mihi li beros alioquin moriar. *Gen*. 30. 1.
 
-**613.** Quis det ut veniat petitio mea, et quod expectò tribuat mihi Deus
+**613.** Quis det ut veniat petitio mea, et quod expectò tribuat mihi Deus ? Et qui cœpit ipse me conterat ; solvat manum suam, et succidat me ? *Job*. 6. 8. 9.
 
-**614.** In ipso enim vivimus, movemur et sumus.
+**614.** In ipso enim vivimus, movemur et sumus. *Act*. 17. 28.
 
-**615.** Sicut servus desiderat umbram, et sicut mercenarius præstolatur finem operis sui
+**615.** Sicut servus desiderat umbram, et sicut mercenarius præstolatur finem operis sui : Sic et ego habui menses vacuos, et noctes laboriosas enumeravi mihi : Si dormiero, dicam : Quandò consurgam ? Et rursum expectabo vesperam, et replebor doloribus usquè ad tenebras. *Job*. 7. 2. 3. 4.
 
-**616.** Quâm dilecta tabernacula tua, Domine virtutum
+**616.** Quâm dilecta tabernacula tua, Domine virtutum ! Concupiscit et deficit anima mea in atria Domini. *Psal*. 83. 1.
 
-**617.** Si ergò inveni gratiam in conspectu tuo, ostende mihi faciem tuam, ut sciam te, et inveniam gratiam antè oculos tuos. Rursumque ait
+**617.** Si ergò inveni gratiam in conspectu tuo, ostende mihi faciem tuam, ut sciam te, et inveniam gratiam antè oculos tuos. Rursumque ait : non poteris videre faciem meam : non enim videbit me homo, et vivet. *Exod*. 33. 13. et 20.
 
-**618.** Nam et qui sumus in hoc tabernaculo, ingemiscimus gravati
+**618.** Nam et qui sumus in hoc tabernaculo, ingemiscimus gravati : eò quòd nolumus expoliari, sed supervestiri, ut absorbeatur quòd mortale est à vità. ii. *Cor*. 5. 4.
 
-**619.** Desiderium habens dissolvi, et esse cum Christo.
+**619.** Desiderium habens dissolvi, et esse cum Christo. *Philipp*. 1. 23.
 
-**620.** Timor non est in charitate
+**620.** Timor non est in charitate : sed perfecta charitas foràs mittit timorem. i. *Jo*. 4. 18.
 
 **621.** O mors, bonum est judicium tuum homini indigenti. *Ecli*. 41. 3.
 
-**622.** Pretiosa in conspectu Domini mors sanctorum ejus.
+**622.** Pretiosa in conspectu Domini mors sanctorum ejus. *Psal*. 113. 16.
 
-**623.** Qui cum splendor gloriæ et figura substantiæ, ejus.
+**623.** Qui cum splendor gloriæ et figura substantiæ, ejus. *Hebr*. 1. 3.
 
-**624.** Et sponsabo te mihi in fide.
+**624.** Et sponsabo te mihi in fide. *Osée*. 2. 20.
 
 **625.** Sed aqua quam ego dabo ei, fiet in eo fons aquæ salientis in vitam æternam. *Jo*. 4. 14.
 
-**626.** Si dormiatis inter medios cleros pennæ, columbæ deargentate, et posteriora dorsi ejus in pallore auri.
+**626.** Si dormiatis inter medios cleros pennæ, columbæ deargentate, et posteriora dorsi ejus in pallore auri. *Psal*. 67. 14.
 
-**627.** Cùm autem venerit quod perfectum est, evacuabitur quòd ex parte est.
+**627.** Cùm autem venerit quod perfectum est, evacuabitur quòd ex parte est. i. Cor. 13. 10.
 
-**628.** Vivo autem jam non ego, vivit verò in me Christus.
+**628.** Vivo autem jam non ego, vivit verò in me Christus. *Galat*. 2, 20.
 
-**629.** Pone me ut signaculum super cor tuum, ut signaculum super brachium tuum.
+**629.** Pone me ut signaculum super cor tuum, ut signaculum super brachium tuum. *Cant*. 8. 6.
 
-**630.** Scio hominem in Christo ante annos quatuordecim, (sive in corpore nescio, sive extra corpus nescio Deus seit,) raptum hujusmodi usque ad tertium cœlum.
+**630.** Scio hominem in Christo ante annos quatuordecim, (sive in corpore nescio, sive extra corpus nescio Deus seit,) raptum hujusmodi usque ad tertium cœlum. ii. *Cor*. 12. 2.
 
-**631.** Si linguis hominum loquar, et angelorum, charitatem autem non habeam, factus sum velut æs sonans, aut cymbalum tinniens, etc.
+**631.** Si linguis hominum loquar, et angelorum, charitatem autem non habeam, factus sum velut æs sonans, aut cymbalum tinniens, etc. i. *Cor*. 13. 1. etc. Super omnia autem hæc, charitatem habete, quod est vinculum perfectionis. *Coloss*. 3. 14.
 
-**632.** Charitas patiens est, benigna est
+**632.** Charitas patiens est, benigna est ; charitas non æmulatur, non agit perperam, non inflatur, non est ambitiosa, non querit quæ sua sunt, non irritatur, non cogitat malum, non gaudet super iniquitatem, congaudet autem véritati. Omnia suffert, omnia credit, omnia sperat, omnia sustinet. i. Cor. 13. 4. 5. 6. 7.
 
-**633.** Quia hæc dicit Dominus
+**633.** Quia hæc dicit Dominus : eccè ego declinabo super eam quasi fluvium pacis, et quasi torrentem inundantem gloriam gentium. *Isa*. 66. 12.
 
-**634.** Esurientes implevit bonis.
+**634.** Esurientes implevit bonis. *Luc*. 1. 53.
 
-**635.** Venit ergò vox de cœlo
+**635.** Venit ergò vox de cœlo : et clarificavi, et iterùm clarificabo. Turba ergo quæ stabat et audierat dicebat tonitruum esse factum : alii dicebant : Angelus ei locutus est. *Jo*. 12. 28. 29.
 
-**636.** Sonet vox tua in auribus meis
+**636.** Sonet vox tua in auribus meis : Vox enim tua dulcis. *Cant*, 2. 14.
 
-**637.** Et post ignem sibilus auræ tenuis. Quòd cùm audisset Elias, operuit vultum suum pallio, et egressus stetit in
+**637.** Et post ignem sibilus auræ tenuis. Quòd cùm audisset Elias, operuit vultum suum pallio, et egressus stetit in ostio speluneæ, et eccè vox ad eum dicens. III. Reg. 19. 12. 13.
 
-**638.** Ergo fides ex auditu
+**638.** Ergo fides ex auditu. Rom*.* 10. 17.
 
-**639.** Auditu auris audivi te
+**639.** Auditu auris audivi te ; nunc autem oculus meus videt te. *Job*. 42. 5.
 
-**640.** Vigilavi, et factus sum sicut passer solitarius in tecto.
+**640.** Vigilavi, et factus sum sicut passer solitarius in tecto. *Psal*. 101. 8.
 
-**641.** Et audivi vocem de cœlo, tanquam vocem aquarum multarum, et tanquam vocem tonitrui magni
+**641.** Et audivi vocem de cœlo, tanquam vocem aquarum multarum, et tanquam vocem tonitrui magni : et vocem, quam audivi, sicut citharædorum citharizantium in citharis suis. *Apoc*. 14. 2.
 
-**642.** Lectulus noster floridus.
+**642.** Lectulus noster floridus. *Cant*. 1. 15.
 
 **643.** Et déliciæ meæ, esse cum filiis hominum. *Prov*. 8. 31.
 
-**644.** Quis mihi det te fratrem meum sugentem ubera matris meæ, ut inveniam te foris et deosculer te et jam me nemo despiciat
+**644.** Quis mihi det te fratrem meum sugentem ubera matris meæ, ut inveniam te foris et deosculer te et jam me nemo despiciat ? *Cant*. 8. 1.
 
-**645.** En lectulum Salomonis sexaginta fortes ambiunt ex fortissimis Israel
+**645.** En lectulum Salomonis sexaginta fortes ambiunt ex fortissimis Israel : omnes tenentes gladios, et ad bella doctissimi. *Cant*. 5. 7.
 
-**646.** Ideò adolescentulæ dilexerunt te. Trahe me
+**646.** Ideò adolescentulæ dilexerunt te. Trahe me : post te curremus in odorem unguentorum tuorum. *Cant*. 1. 2. 3.
 
-**647.** Viam mandatorum tuorum cucurri, cum dilatasti cor meum.
+**647.** Viam mandatorum tuorum cucurri, cum dilatasti cor meum. *Psal*. 118. 32.
 
-**648.** Concaluit cor meum intrà me et in meditatione mea exardescet ignis.
+**648.** Concaluit cor meum intrà me et in meditatione mea exardescet ignis. *Psal*. 38. 4.
 
-**649.** Ne derelinquas amicum antiquum
+**649.** Ne derelinquas amicum antiquum ; novus enim non erit similis illi. Vinum novum, amicus novus. *Eccli*. 9. 14. 15.
 
-**650.** Et replebit eum spiritus timoris Domini.
+**650.** Et replebit eum spiritus timoris Domini. *Isa*. 11. 3.
 
-**651.** Et eccè homo erat in Jerusalem, cui nomen Simeon
+**651.** Et eccè homo erat in Jerusalem, cui nomen Simeon ; at homo iste justus et timoratus. *Luc*. 2. 25.
 
-**652.** Aninia mea liquefacta est, ut locutus est.
+**652.** Aninia mea liquefacta est, ut locutus est. *Cant*. 5. 6.
 
-**653.** Ibi me docebis, et dabo tibi poculum ex vino condito.
+**653.** Ibi me docebis, et dabo tibi poculum ex vino condito. *Cant*. 8. 2.
 
-**654.** Introduxit me in cellam vinariam
+**654.** Introduxit me in cellam vinariam ; Ordinavit in me charitatem. *Cant*. 2. 4.
 
-**655.** Descendi in hortum nucum, ut viderem poma convallium, et inspicerem si floruisset vinea, et germinassent mala punica
+**655.** Descendi in hortum nucum, ut viderem poma convallium, et inspicerem si floruisset vinea, et germinassent mala punica : Nescivi. *Cant*. 6. 10.
 
-**656.** Quis inflammatum est cor meum, et renes mei commutati sunt, et ego ad nihilum redactus sum et nescivi.
+**656.** Quis inflammatum est cor meum, et renes mei commutati sunt, et ego ad nihilum redactus sum et nescivi. *Psal*. 72. 21. 22.
 
-**657.** Nonnè Deo subjecta erit anima mea
+**657.** Nonnè Deo subjecta erit anima mea ? ab ipso enim salutare meum. Nam et ipse Deus meus et salutaris meus, susceptor meus non movebor ampliùs. *Psal*. 61. 1. 2.
 
-**658.** Nàm qui me erubuerit et meos sermones, hùnc filius hominis erubescet cum venerit in majestate sua et patris et sanctorum angelorum.
+**658.** Nàm qui me erubuerit et meos sermones, hùnc filius hominis erubescet cum venerit in majestate sua et patris et sanctorum angelorum. *Luc*. 9. 26.
 
-**659.** Mihi enim vivere Christus est, et mori lucrum.
+**659.** Mihi enim vivere Christus est, et mori lucrum. *Phlipp*. 1. 21.
 
-**660.** Qui enim voluerit animam suam salvam facere perdet eam
+**660.** Qui enim voluerit animam suam salvam facere perdet eam : qui autem perdiderit animam suam propter me, inveniet eam. *Matt*. 16. 25.
 
-**661.** Et dixit mihi
+**661.** Et dixit mihi : sufficit tibi gratia mea : nàm virtus in infrinitate perficitur. ii. Cor. 12. 9.
 
-**662.** Astitit regina à dextris tuis, in vestitu deaurato, circumdata varietate.
+**662.** Astitit regina à dextris tuis, in vestitu deaurato, circumdata varietate. *Psal*. 44. 10.
 
-**663.** Omne datum optimum, et omne donum perfectum, desursum est, descendens à patre luminum.
+**663.** Omne datum optimum, et omne donum perfectum, desursum est, descendens à patre luminum. *Jacob*. 1. 17.
 
-**664.** Super omnia autem hæc, charitatem habere quòd est vinculum perfectionis.
+**664.** Super omnia autem hæc, charitatem habere quòd est vinculum perfectionis. *Coloss*. 3. 14.
 
-**665.** Et de plenitudine ejus nos omnes accepimus, et gratiam pro gratiâ.
+**665.** Et de plenitudine ejus nos omnes accepimus, et gratiam pro gratiâ. *Jo*. 1. 16.
 
-**666.** Ex quo honorabilis factus es in oculis meis et glorieaus, ego dilexi te.
+**666.** Ex quo honorabilis factus es in oculis meis et glorieaus, ego dilexi te. *Isa*. 13. 4.
 
-**667.** Nigra sum sed formosa, filiæ, Jerusalem.
+**667.** Nigra sum sed formosa, filiæ, Jerusalem. *Cant*. 1. 4. Introduxit me rex in cellarià suâ. *Cant*, 1. 3.
 
-**668.** Capite nobis vulpes parvulas, quæ demoliuntur vineas.
+**668.** Capite nobis vulpes parvulas, quæ demoliuntur vineas. *Cant*. 2. 15.
 
-**669.** Videntes autem Aaron et filii Israël cornutam Moysi faciem, timuerunt propè accedere.
+**669.** Videntes autem Aaron et filii Israël cornutam Moysi faciem, timuerunt propè accedere. *Exod*. 34. 30.
 
-**670.** Dilectus meus descendit ad hortum suum ad arcolam aromatum ut pascatur in hortis, et lilia colligat. Ego dilecto meo, et dilectus meus mihi qui pascitur inter lilia.
+**670.** Dilectus meus descendit ad hortum suum ad arcolam aromatum ut pascatur in hortis, et lilia colligat. Ego dilecto meo, et dilectus meus mihi qui pascitur inter lilia. *Cant*. 6. 1. 2.
 
-**671.** Vivo autem, jàm non ego
+**671.** Vivo autem, jàm non ego : vivit verò in me Christus. *Galath*. 2. 20.
 
-**672.** Jam enim hiems transiit, imber abiit et recessit. Flores apparuerunt in terrà nostrâ, tempus putationis advenit
+**672.** Jam enim hiems transiit, imber abiit et recessit. Flores apparuerunt in terrà nostrâ, tempus putationis advenit : Vox turturis audita est in terrà nostrà, etc. *Cant*. 2. 11. 12.
 
-**673.** Sub arbore malo suscitavi te
+**673.** Sub arbore malo suscitavi te : ibi corrupta est mater ua, ibi violata est genitrix tua. *Cant*. 8. 5.
 
-**674.** Os meum aperui et attraxi spiritum
+**674.** Os meum aperui et attraxi spiritum : quia mandata tua desiderabam. *Psal*. 118. 131.
 
-**675.** Concaluit cor meum intrà me, et in meditatione mea exardescet ignis.
+**675.** Concaluit cor meum intrà me, et in meditatione mea exardescet ignis. *Psal*. 38. 4.
 
-**676.** Omnes dies pauperis, mali
+**676.** Omnes dies pauperis, mali ; secura mens quasi juge convivium. *Prov*. 15. 15.
 
-**677.** Quis est hic, et laudabimu seum
+**677.** Quis est hic, et laudabimu seum ? fecit enim mirabilia in vità suâ. *Eccli*. 31.9.
 
-**678.** A finibus terræ laudes audivimus, gloriam justi. Et dixi
+**678.** A finibus terræ laudes audivimus, gloriam justi. Et dixi : secretum meum mihi, secretum meum mihi, væ mihi. *Isa*. 24, 16.
 
-**679.** Sub umbrâ illius quem desideraveram sedi
+**679.** Sub umbrâ illius quem desideraveram sedi : et fructus ejus dulcis gutturi meo. *Cant*. 2. 3.
 
-**680.** Etenim passer invenit sibi domum, et turtur nidum sibi ubi ponat pullos suos.
+**680.** Etenim passer invenit sibi domum, et turtur nidum sibi ubi ponat pullos suos. *Psal*. 83. 4.
 
-**681.** Quicumque enim spiritu Dei aguntur, ii sunt filii Dei.
+**681.** Quicumque enim spiritu Dei aguntur, ii sunt filii Dei. *Rom*. 8. 14.
 
-**682.** Propter hoc, eccè ego lactabo eam, et ducam eam in solitudinem, et loquar ad cor ejus.
+**682.** Propter hoc, eccè ego lactabo eam, et ducam eam in solitudinem, et loquar ad cor ejus. *Osée*. 2. 14.
 
-**683.** Et mea omnia tua sunt, et tua mea sunt.
+**683.** Et mea omnia tua sunt, et tua mea sunt. *Jo*. 17. 10.
 
-**684.** O altitudo divitiarum sapientiæ et scientiæ Dei
+**684.** O altitudo divitiarum sapientiæ et scientiæ Dei ! quàm incomprehensibilia sunt judicia ejus, et investigabiles via ejus ! *Rom*. 11. 33.
 
-**685.** Desiderabilia super aurum et lapidem pretiosum multum et dulciora super mel et favum. Etenim servus tuus custodit ea
+**685.** Desiderabilia super aurum et lapidem pretiosum multum et dulciora super mel et favum. Etenim servus tuus custodit ea ; in custodiendis illis retributio multa. *Psal*. 18. 11. 12.
 
-**686.** Quis det ut veniat petitio mea, et quod expecto tribuat mihi Deus
+**686.** Quis det ut veniat petitio mea, et quod expecto tribuat mihi Deus ? Et qui cœpit me conterat, solvat manum suam, et succidat me ? Et hæc mihi sit consolatio, ut affligens me dolore, non parcat nec contradicam sermonibus Sancti. *Job*. 6. 8. 9. 10.
 
-**687.** Petra autem erat Christus.
+**687.** Petra autem erat Christus. i *Cor*. 10. 4.
 
-**688.** In quo sunt omnes thesauri sapientiae et scientia absconditi.
+**688.** In quo sunt omnes thesauri sapientiae et scientia absconditi. *Coloss*. 2. 3.
 
-**689.** Apprehendam te, et ducam in domum matris meæ
+**689.** Apprehendam te, et ducam in domum matris meæ : ibi me docebis et dabo tibi poculum ex vino condito et mustum malorum granatorum meorum. *Cant*. 8. 3.
 
-**690.** Claritas Dei diffusa est in cordibus nostris per Spiritum Sanctum qui datus est nobis.
+**690.** Claritas Dei diffusa est in cordibus nostris per Spiritum Sanctum qui datus est nobis. *Rom*. 5. 5.
 
-**691.** Quoniam autem estis filii, misit Deus Spiritum Filii sui in corda vestra clamantem Abba, Pater.
+**691.** Quoniam autem estis filii, misit Deus Spiritum Filii sui in corda vestra clamantem Abba, Pater. *Galath*. 4. 6.
 
-**692.** Pater, quos dedisti mihi, volo ut ubi sum ego et illi sint
+**692.** Pater, quos dedisti mihi, volo ut ubi sum ego et illi sint mecum. *Jo*. 17. 24.
 
-**693.** Non pro eis autem rogo tantûm, sed et pro eis qui credituri sunt per verbum eorum in me
+**693.** Non pro eis autem rogo tantûm, sed et pro eis qui credituri sunt per verbum eorum in me : ut omnes unum sint, sicut tu Pater in me, et ego in te, ut et ipsi in nobis unum sint, ut credat mundus quia tu me micisti. Et ego claritatem quam dedisti mihi, dedi eis, ut sint unum sicut et nos unum sumus. Ego in eis, et tu in me, ut sint consummati in unum : et cognoscat mundus, quia tu me misisti, et dilexisti eos, sicut et me dilexisti. *Jo*. 17. 20. 21. 22. 23.
 
-**694.** Gratia vobis et pax adimpleatur in cognitione Dei, et Christi Jesu Domini nostri
+**694.** Gratia vobis et pax adimpleatur in cognitione Dei, et Christi Jesu Domini nostri : quomodò omnia nobis divinæn virtutis suæ, quæ ad vitam et pietatem donata sunt, per cognitionem ejus qui vocavit nos propriâ gloriâ et virtute : per quem maxima et pretiosa nobis promissa donavit ; ut per hæc efficiamini divinæ consortes naturæ. ii. *Petr*. 1.2. 3. 4.
 
-**695.** Surge, propera, amica mea, formosa columba mea, et veni. Jam enim hiems transiit, imber abiit et recessit. Flores apparuerunt in terrâ nostrâ
+**695.** Surge, propera, amica mea, formosa columba mea, et veni. Jam enim hiems transiit, imber abiit et recessit. Flores apparuerunt in terrâ nostrâ : tempus putationis advenit, vox turturis audita est in terrâ nostrâ. *Cant*. 2. 10. 11. 12.
 
-**696.** Surge amica mea, speciosa mea, et veni
+**696.** Surge amica mea, speciosa mea, et veni : columba mea in foraminibus petræ, in caverna maceriæ, ostende mihi faciem tuam, sonet vox tua in auribus meis ; vox enim tua dulcis, et facies tua decora. *Cant*, 2. 13. 14.
 
-**697.** Cor meum et caro mea exultaverunt in Deum vivum.
+**697.** Cor meum et caro mea exultaverunt in Deum vivum. *Psal*. 83. 2.
 
-**698.** Quærite ergò primum regnum Dei, et justitiam ejus
+**698.** Quærite ergò primum regnum Dei, et justitiam ejus : et hæc omnia adjicientur vobis. *Matt*. 6. 33.
 
-**699.** Si quis autem putat se religiosum esse, non refranans linguam suam sed seducens cor suum, hujus rana est religio.
+**699.** Si quis autem putat se religiosum esse, non refranans linguam suam sed seducens cor suum, hujus rana est religio. *Joan*, 26.
 
-**700.** Juxtâ est Dominus iis qui tribulato sunt corde
+**700.** Juxtâ est Dominus iis qui tribulato sunt corde : et humiles spiritu salvabit. *Psal*. 33. 19.
