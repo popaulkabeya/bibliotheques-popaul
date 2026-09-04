@@ -15,6 +15,7 @@ const MAGASINS = {
   alarms: { keyPath: 'id' },
   done: { keyPath: 'key' },
   fulltext: { keyPath: 'key' },     // index de recherche dans les textes
+  programmes: { keyPath: 'id' },   // programmes de prière sur une période (voir programmes.js)
 };
 
 const creerManquants = (db) => {

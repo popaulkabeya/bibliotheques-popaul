@@ -2,7 +2,8 @@
  * home.js — Page d'accueil : point de départ quotidien plutôt qu'un simple rayonnage.
  * Met en avant l'office correspondant à l'heure, la lecture en cours et un texte du jour.
  */
-import { recent, allAlarms, faitesDuJour, marquerFaite, retirerFaite } from './store.js';
+import { recent, allAlarms, faitesDuJour, marquerFaite, retirerFaite, allProgrammes, jourClef as jourCle } from './store.js';
+import { seancesCommeItems } from './pratique.js';
 import { escapeHtml, url } from './reader.js';
 import { state, catOf, bookOf } from './library.js';
 import { resumer } from './progress.js';
@@ -44,20 +45,23 @@ const JOURS_COURTS = ['dim', 'lun', 'mar', 'mer', 'jeu', 'ven', 'sam'];
 export async function agendaDuJour(maintenant = new Date()) {
   const jour = maintenant.getDay();
   const minutes = maintenant.getHours() * 60 + maintenant.getMinutes();
+  const iso = jourCle(maintenant);
   const faites = await faitesDuJour();
 
-  return (await allAlarms())
+  const alarmes = (await allAlarms())
     .filter((a) => a.enabled && a.days.includes(jour))
-    .map((a) => {
-      const prevu = a.hour * 60 + a.minute;
+    .map((a) => ({ ...a, source: 'alarm', faite: faites.has(a.id) }));
+
+  // Les séances de programme du jour rejoignent les rappels : un seul agenda,
+  // que la prière vienne d'un rappel régulier ou d'un programme sur une période.
+  const seances = seancesCommeItems(await allProgrammes(), iso);
+
+  return [...alarmes, ...seances]
+    .map((x) => {
+      const prevu = x.hour * 60 + x.minute;
       const ecart = minutes - prevu;
-      // Une prière accomplie le reste, quelle que soit l'heure. Sinon : à venir,
-      // puis « c'est l'heure » pendant 90 minutes, puis manquée.
-      const etat = faites.has(a.id) ? 'faite'
-        : ecart < 0 ? 'avenir'
-        : ecart <= 90 ? 'maintenant'
-        : 'manquee';
-      return { ...a, prevu, ecart, etat, faite: faites.has(a.id) };
+      const etat = x.faite ? 'faite' : ecart < 0 ? 'avenir' : ecart <= 90 ? 'maintenant' : 'manquee';
+      return { ...x, prevu, ecart, etat };
     })
     .sort((a, b) => a.prevu - b.prevu);
 }

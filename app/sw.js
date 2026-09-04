@@ -3,7 +3,7 @@
  * Deux caches distincts : « shell » (versionné, purgé à chaque mise à jour)
  * et « livres-v1 » (piloté par l'utilisateur, jamais purgé automatiquement).
  */
-const SHELL = 'shell-v50';
+const SHELL = 'shell-v56';
 const BOOKS = 'livres-v1';
 
 const SHELL_FILES = [
@@ -14,7 +14,8 @@ const SHELL_FILES = [
   './src/js/store.js', './src/js/tts.js', './src/js/home.js',
   './src/js/alarms.js', './src/js/progress.js', './src/js/sentences.js',
   './src/js/voicebar.js', './src/js/lisibilite.js', './src/js/viewers.js',
-  './src/js/programmes.js', './src/css/programmes.css',
+  './src/js/programmes.js', './src/css/programmes.css', './src/js/pdf-recherche.js',
+  './src/js/miniplayer.js', './src/js/miniplayer-ui.js', './src/css/miniplayer.css',
   './src/js/pratique.js', './src/css/pratique.css', './src/js/recherche.js', './src/css/recherche.css',
   './src/js/dialogue.js', './src/js/sante.js', './src/js/stockage.js',
   './src/data/catalog.json', './src/data/prayers.json',

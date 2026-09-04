@@ -43,14 +43,14 @@ export function etat(p) {
 
 /* ═══════════════ Séances et progression ═══════════════ */
 /** Séances valant pour un jour donné, triées par heure. */
-const seancesDu = (p, j) => {
+export const seancesDu = (p, j) => {
   const rang = rangDu(p, j);
   return (p.seances || [])
     .filter((s) => s.jour == null || s.jour === rang)
     .sort((a, b) => a.heure.localeCompare(b.heure));
 };
 
-const estFait = (p, j, sid) => (p.faits?.[j] || []).includes(sid);
+export const estFait = (p, j, sid) => (p.faits?.[j] || []).includes(sid);
 
 /** Nombre de séances cochées / nombre total sur toute la période. */
 export function progression(p) {
@@ -63,7 +63,7 @@ export function progression(p) {
   return { faits, total, pct: total ? Math.round((faits / total) * 100) : 0 };
 }
 
-async function basculer(pid, jour, sid) {
+export async function basculer(pid, jour, sid) {
   const p = await getProgramme(pid);
   if (!p) return;
   p.faits = p.faits || {};

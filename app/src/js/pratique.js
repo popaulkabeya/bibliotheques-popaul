@@ -2,7 +2,8 @@
  * pratique.js — La régularité de la pratique dans le temps.
  * Un miroir, pas un jeu : ce que tu tiens, ce qui glisse, sans badge ni récompense.
  */
-import { allAlarms, toutesLesFaites, jourClef } from './store.js';
+import { allAlarms, toutesLesFaites, jourClef, allProgrammes } from './store.js';
+import { seancesDu, estFait as seanceFaite, progression, etat as etatProgramme, nbJours } from './programmes.js';
 import { escapeHtml } from './reader.js';
 import { bookOf } from './library.js';
 
@@ -22,8 +23,32 @@ const pct = (n, t) => (t ? Math.round((n / t) * 100) : null);
  * Une prière n'est due qu'à partir de sa date de création — ou, pour les rappels
  * antérieurs à cette règle, de la première fois où elle a été pointée.
  */
+/**
+ * Traduit les séances d'un programme de prière dans la même forme qu'un rappel,
+ * pour qu'elles comptent dans une régularité unique — sans dupliquer leur suivi :
+ * `p.faits` reste la seule source de vérité pour un programme, on ne fait que la lire.
+ */
+export function seancesCommeItems(programmes, iso) {
+  const items = [];
+  for (const p of programmes) {
+    if (iso < p.debut || iso > p.fin) continue;                 // hors période : rien dû
+    for (const s of seancesDu(p, iso)) {
+      const [h, m] = s.heure.split(':').map(Number);
+      items.push({
+        id: `prog:${p.id}:${iso}:${s.id}`, source: 'prog', programmeId: p.id, jour: iso, seanceId: s.id,
+        label: s.intention || p.titre, sectionLabel: p.titre,
+        hour: h, minute: m, bookId: s.bookId, volume: s.volume ?? 0,
+        section: s.h3 != null ? `p${s.h3}` : null,
+        faite: seanceFaite(p, iso, s.id),
+      });
+    }
+  }
+  return items;
+}
+
 export async function historique(nbJours = 35) {
   const alarmes = (await allAlarms()).filter((a) => a.enabled);
+  const programmes = await allProgrammes();
   const faites = (await toutesLesFaites()) || [];
 
   const parJour = new Map();
@@ -43,18 +68,25 @@ export async function historique(nbJours = 35) {
     const d = decale(now, -i);
     const iso = jourClef(d);
     const estAujourdhui = iso === aujourdhui;
-    const dues = alarmes.filter((a) => a.days.includes(d.getDay()) && debut(a) <= iso);
+
+    const duesAlarmes = alarmes.filter((a) => a.days.includes(d.getDay()) && debut(a) <= iso);
     const pointees = parJour.get(iso) || new Set();
-    const faitesJ = dues.filter((a) => pointees.has(a.id));
+    const duesProg = seancesCommeItems(programmes, iso);   // portent déjà leur propre `faite`
+
+    const dues = [
+      ...duesAlarmes.map((a) => ({ ...a, source: 'alarm', faite: pointees.has(a.id) })),
+      ...duesProg,
+    ];
+    const faitesJ = dues.filter((x) => x.faite);
     // Aujourd'hui, seules les prières dont l'heure est passée peuvent être manquées.
     const echues = estAujourdhui
-      ? dues.filter((a) => a.hour * 60 + a.minute + FENETRE <= minutesNow) : dues;
-    const manquees = echues.filter((a) => !pointees.has(a.id));
-    const aVenir = estAujourdhui ? dues.filter((a) => !echues.includes(a) && !pointees.has(a.id)) : [];
+      ? dues.filter((x) => x.hour * 60 + x.minute + FENETRE <= minutesNow) : dues;
+    const manquees = echues.filter((x) => !x.faite);
+    const aVenir = estAujourdhui ? dues.filter((x) => !echues.includes(x) && !x.faite) : [];
     jours.push({ iso, date: d, dues, faites: faitesJ, manquees, aVenir, estAujourdhui,
                  ratio: pct(faitesJ.length, faitesJ.length + manquees.length) });
   }
-  return { alarmes, jours };
+  return { alarmes, programmes, jours };
 }
 
 /** Jours consécutifs sans prière manquée, en remontant depuis aujourd'hui. */
@@ -86,11 +118,12 @@ const total = (jours) => jours.reduce((s, j) => ({ f: s.f + j.faites.length, m: 
 
 export async function renderPratique() {
   const host = $('pratique');
-  const { alarmes, jours } = await historique(35);
+  const { alarmes, programmes, jours } = await historique(35);
   const semaine = jours.slice(-7);
   const t7 = total(semaine), t30 = total(jours.slice(-30));
+  const progActifs = programmes.filter((p) => (p.seances || []).length && jours.some((j) => j.dues.some((x) => x.programmeId === p.id)));
 
-  if (!alarmes.length) {
+  if (!alarmes.length && !progActifs.length) {
     host.innerHTML = `
       <header class="home-head"><p class="home-date">Pratique</p><h1>Ta régularité.</h1></header>
       <p class="pr-vide">Rien à mesurer encore : aucune prière n'est programmée.
@@ -120,10 +153,17 @@ export async function renderPratique() {
       <p class="pr-legende"><i class="ok"></i> faite <i class="ko"></i> manquée <i class="av"></i> à venir</p>
     </section>
 
+    ${alarmes.length ? `
     <section class="home-block">
       <h2 class="home-h">Par prière</h2>
       <div class="pr-liste">${alarmes.map((a) => lignePriere(a, jours)).join('')}</div>
-    </section>
+    </section>` : ''}
+
+    ${progActifs.length ? `
+    <section class="home-block">
+      <h2 class="home-h">Programmes en cours</h2>
+      <div class="pr-liste">${progActifs.map(ligneProgramme).join('')}</div>
+    </section>` : ''}
 
     <section class="home-block">
       <h2 class="home-h">Les cinq dernières semaines</h2>
@@ -158,6 +198,23 @@ function lignePriere(a, jours) {
     </div>
     <div class="pr-mesure"><span>7 j</span>${barre(s7)}<em>${s7.faits}/${s7.dus}</em></div>
     <div class="pr-mesure"><span>30 j</span>${barre(s30)}<em>${s30.faits}/${s30.dus}</em></div>
+  </div>`;
+}
+
+function ligneProgramme(p) {
+  const pr = progression(p);
+  const j = nbJours(p);
+  const encours = etatProgramme(p) === 'encours';
+  return `
+  <div class="pr-ligne" data-go-programme="${p.id}">
+    <div class="pr-ligne-tete">
+      <b>${escapeHtml(p.titre)}</b>
+      <small>${j} jour${j > 1 ? 's' : ''} · ${encours ? 'en cours' : etatProgramme(p)}</small>
+    </div>
+    <div class="pr-mesure"><span>Total</span>
+      <div class="pr-barre" title="${pr.faits} sur ${pr.total}"><span style="width:${pr.pct}%"></span></div>
+      <em>${pr.faits}/${pr.total}</em>
+    </div>
   </div>`;
 }
 

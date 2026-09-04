@@ -14,6 +14,8 @@ import { demander } from './dialogue.js';
 import { verifierSource, initSante } from './sante.js';
 import { updateStorage, cacheEverything, initStockage } from './stockage.js';
 import { renderProgrammes } from './programmes.js';
+import * as progModule from './programmes.js';
+import { initMiniplayerUI } from './miniplayer-ui.js';
 
 const $ = (id) => document.getElementById(id);
 let settings = store.loadSettings();
@@ -207,13 +209,24 @@ function wire() {
       e.preventDefault(); sheet(lib.bookOf(e.target.dataset.book));
     }
   });
+  $('pratique').addEventListener('click', (e) => {
+    const go = e.target.closest('[data-go-programme]');
+    if (go) location.hash = `#/programmes/${go.dataset.goProgramme}`;
+  });
+
   $('home').addEventListener('click', async (e) => {
     // Pointer une prière comme faite, sans ouvrir le texte.
     const check = e.target.closest('[data-faite]');
     if (check) {
       const id = check.dataset.faite;
       const dejaFaite = check.getAttribute('aria-pressed') === 'true';
-      await (dejaFaite ? store.retirerFaite(id) : store.marquerFaite(id));
+      const prog = /^prog:([^:]+):([^:]+):(.+)$/.exec(id);
+      if (prog) {
+        const [, programmeId, jour, seanceId] = prog;
+        await progModule.basculer(programmeId, jour, seanceId);
+      } else {
+        await (dejaFaite ? store.retirerFaite(id) : store.marquerFaite(id));
+      }
       renderHome();
       toast(dejaFaite ? 'Prière remise à faire.' : 'Prière marquée comme faite.');
       return;
@@ -279,6 +292,7 @@ function wire() {
   });
 
   wireReader();
+  initMiniplayerUI({ onOpenBook: (bookId, vIndex) => { location.hash = `#/lire/${bookId}/${vIndex}`; } });
 }
 
 function sheet(book) {

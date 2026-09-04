@@ -6,8 +6,10 @@ import { saveProgress, getProgress, formatBytes, isCached } from './store.js';
 import { splitSentences } from './tts.js';
 import { highlight as surligner, clearHighlight as effacer, indexSentences } from './sentences.js';
 import { mesurer, resumer } from './progress.js';
-import { filtrerPhrases, estLisible, aplatir } from './lisibilite.js';
+import { aplatir, filtrerPhrases } from './lisibilite.js';
+import { chercherPageAvecTexteDe } from './pdf-recherche.js';
 import { renderGallery, renderAudio } from './viewers.js';
+import * as miniplayer from './miniplayer.js';
 
 const $ = (id) => document.getElementById(id);
 export const url = (p) => '../' + p.split('/').map(encodeURIComponent).join('/');
@@ -84,26 +86,6 @@ function watchResize() {
     resizeTimer = setTimeout(() => { if (session.kind === 'pdf') renderPdfPage(session.page); }, 180);
   });
   resizeObs.observe(stage());
-}
-
-/**
- * Cherche la première page, à partir de `depart`, contenant du texte lisible.
- * N'extrait que le texte — aucun rendu graphique — pour rester rapide sur les
- * ouvrages numérisés qui ouvrent sur des dizaines de planches muettes.
- * @returns {Promise<number>} le numéro de page, ou 0 si rien jusqu'à la fin
- */
-export async function chercherPageAvecTexte(depart) {
-  if (!session.doc) return 0;
-  for (let n = Math.max(1, depart); n <= session.pages; n++) {
-    const page = await session.doc.getPage(n);
-    const tc = await page.getTextContent();
-    const brut = tc.items.map((i) => i.str).join(' ').replace(/\s+/g, ' ');
-    // Double condition : la page doit être globalement vraisemblable, et livrer
-    // plus d'un fragment. Un mot isolé rescapé d'une gravure ne justifie pas
-    // d'interrompre l'écoute sur une planche muette.
-    if (estLisible(brut) && filtrerPhrases(splitSentences(brut)).length >= 2) return n;
-  }
-  return 0;
 }
 
 /**
@@ -309,17 +291,23 @@ function openGallery(volume) {
   renderGallery(volume, stage(), url);
 }
 
+let detacherAudio = null;
+
+/**
+ * La lecture est déléguée au moteur persistant (miniplayer.js) : ouvrir cette vue
+ * ne fait que reprendre ou afficher un livre déjà en cours ailleurs, sans jamais
+ * l'interrompre en refermant le lecteur.
+ */
 async function openAudio(volume) {
   session.kind = 'audio';
   session.sentences = [];
+  detacherAudio?.();
   const saved = await getProgress(progressId());
-  renderAudio(volume, stage(), {
-    url,
-    saved: saved && saved.volume === session.vIndex ? saved : null,
-    onTrack: (n) => { session.page = n; },
-    onTime: (t) => { session.audioTime = t; },
-    time: () => session.audioTime,
-    persist,
+  const reprise = saved && saved.volume === session.vIndex ? saved : null;
+  detacherAudio = renderAudio(volume, stage(), {
+    book: session.book, vIndex: session.vIndex, mp: miniplayer,
+    startTrack: reprise?.page ? Math.min(reprise.page - 1, volume.tracks.length - 1) : 0,
+    startAt: reprise?.audioTime || 0,
   });
 }
 
@@ -345,6 +333,9 @@ function buildToc(headings, onClick) {
 }
 
 /* ═══════════════ Progression ═══════════════ */
+
+/** Conserve l'appel existant de voicebar.js — l'algorithme vit dans pdf-recherche.js. */
+export const chercherPageAvecTexte = (depart) => chercherPageAvecTexteDe(session.doc, depart, session.pages);
 
 export const progressId = () => `${session.book?.id}:${session.vIndex}`;
 
@@ -405,6 +396,7 @@ export async function openVolume(book, vIndex, opts = {}) {
   session.sentences = []; session.spans = [];
   session.chars = 0; session.sections = 0; session.audioTime = 0;
 
+  detacherAudio?.(); detacherAudio = null;
   arreterMedias();
   stage().removeEventListener('scroll', onScroll);
   $('pager').hidden = true;
@@ -487,7 +479,9 @@ export function closeVolume() {
   pendingRender = null;
   try { session.rendition?.destroy(); } catch {}
   try { session.doc?.destroy(); } catch {}
-  if (session.kind === 'audio') persist();     // garder la position avant de couper
+  // L'audio n'est plus arrêté ici : il vit dans le moteur persistant et continue
+  // même si le lecteur se ferme. On se contente de ne plus écouter ses mises à jour.
+  detacherAudio?.(); detacherAudio = null;
   arreterMedias();
   stage().removeEventListener('scroll', onScroll);
   stage().innerHTML = '';

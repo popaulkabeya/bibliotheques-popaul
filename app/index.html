@@ -17,6 +17,7 @@
 <link rel="stylesheet" href="src/css/programmes.css">
 <link rel="stylesheet" href="src/css/pratique.css">
 <link rel="stylesheet" href="src/css/recherche.css">
+<link rel="stylesheet" href="src/css/miniplayer.css">
 <link rel="stylesheet" href="src/css/reader.css">
 </head>
 <body>
@@ -139,6 +140,40 @@
       <label>Hauteur <b id="vbPitchVal">1.0</b><input id="vbPitch" type="range" min="0.5" max="1.6" step="0.05" value="1"></label>
       <label class="chk"><input id="vbFollow" type="checkbox" checked> Suivre le texte pendant la lecture</label>
       <label class="chk"><input id="vbAuto" type="checkbox" checked> Enchaîner automatiquement les pages</label>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════ LECTEUR AUDIO PERSISTANT ══════════ -->
+<div class="miniplayer" id="miniplayer" hidden>
+  <div class="mp-row">
+    <button class="icon-btn" id="mpPrev" title="Piste précédente">⏮</button>
+    <button class="icon-btn big" id="mpPlay" title="Lire / Pause">▶</button>
+    <button class="icon-btn" id="mpNext" title="Piste suivante">⏭</button>
+    <span class="mp-sep"></span>
+    <button class="icon-btn" id="mpBack15" title="Reculer de 15 s">⟲15</button>
+    <button class="icon-btn" id="mpFwd15" title="Avancer de 15 s">15⟳</button>
+    <div class="mp-body" id="mpBody" role="button" tabindex="0" title="Ouvrir le livre">
+      <b id="mpTitle"></b><small id="mpSub"></small>
+    </div>
+    <span class="mp-time" id="mpTime">0:00 / 0:00</span>
+    <button class="icon-btn" id="mpRate" title="Vitesse de lecture">1.0×</button>
+    <button class="icon-btn" id="mpSleep" title="Minuterie de sommeil">☾</button>
+    <button class="icon-btn" id="mpStop" title="Arrêter">✕</button>
+  </div>
+  <div class="mp-progress" id="mpProgress"><span id="mpFill"></span></div>
+  <div class="mp-panel" id="mpRatePanel" hidden>
+    <p>Vitesse</p>
+    <div class="mp-choices" data-choices="rate">
+      <button data-v="0.75">0.75×</button><button data-v="1">1×</button><button data-v="1.25">1.25×</button>
+      <button data-v="1.5">1.5×</button><button data-v="1.75">1.75×</button><button data-v="2">2×</button>
+    </div>
+  </div>
+  <div class="mp-panel" id="mpSleepPanel" hidden>
+    <p>S'arrêter</p>
+    <div class="mp-choices" data-choices="sleep">
+      <button data-v="0">Annuler</button><button data-v="10">10 min</button><button data-v="20">20 min</button>
+      <button data-v="30">30 min</button><button data-v="45">45 min</button><button data-v="piste">Fin de la piste</button>
     </div>
   </div>
 </div>
