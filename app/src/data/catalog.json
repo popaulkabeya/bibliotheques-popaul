@@ -636,7 +636,7 @@
     {
       "id": "zohar",
       "category": "kabbale",
-      "order": 2,
+      "order": 3,
       "title": "Le Zohar",
       "subtitle": "Le Livre de la Splendeur — 6 tomes",
       "author": "trad. Jean de Pauly",
@@ -693,7 +693,7 @@
     {
       "id": "franck-kabbale",
       "category": "kabbale",
-      "order": 3,
+      "order": 4,
       "title": "La Kabbale",
       "subtitle": "La philosophie religieuse des Hébreux",
       "author": "Adolphe Franck",
@@ -755,7 +755,7 @@
     {
       "id": "hershon-talmud",
       "category": "kabbale",
-      "order": 4,
+      "order": 5,
       "title": "Talmudic Miscellany",
       "subtitle": "Mille extraits du Talmud, du Midrash et de la Kabbale",
       "author": "Paul Isaac Hershon",
@@ -2465,8 +2465,106 @@
         }
       ],
       "bytes": 91164
+    },
+    {
+      "id": "sefer-raziel",
+      "category": "kabbale",
+      "order": 6,
+      "title": "Sefer Raziel HaMalakh",
+      "subtitle": "Le Livre de l'ange Raziel — fac-similé hébreu",
+      "author": "Anonyme, attribué à l'ange Raziel",
+      "era": "XIIIᵉ s. — impr. 1701, réimpr. 1943-1944",
+      "lang": "he",
+      "glyph": "ר",
+      "tags": [
+        "kabbale pratique",
+        "anges",
+        "amulettes",
+        "noms divins",
+        "hébreu",
+        "fac-similé"
+      ],
+      "summary": "Le grand livre de Kabbale pratique que la tradition dit remis par l'ange Raziel à Adam : noms et hiérarchies des anges, cosmologie, prières, amulettes et formules de protection. Aucune traduction libre n'existe, dans aucune langue : voici le texte hébreu d'Amsterdam 1701, en caractères Rashi, dans la réimpression de Grosswardein (1943-1944) augmentée des gloses du Maggid de Kozienice.",
+      "volumes": [
+        {
+          "label": "Fac-similé hébreu — 124 pages (HE)",
+          "type": "pdf",
+          "path": "Sefer-Raziel-HaMalakh-Grosswardein-HE.pdf",
+          "bytes": 6666642
+        }
+      ],
+      "bytes": 6666642
+    },
+    {
+      "id": "sefer-bahir",
+      "category": "kabbale",
+      "order": 2,
+      "title": "Sefer HaBahir",
+      "subtitle": "Le Livre de la Clarté — 200 sections",
+      "author": "attribué à Rabbi Nehounia ben HaQana — trad. de l'hébreu",
+      "era": "Provence, fin du XIIᵉ s.",
+      "lang": "fr",
+      "glyph": "ב",
+      "tags": [
+        "kabbale",
+        "sefirot",
+        "lettres",
+        "shekhinah",
+        "transmigration",
+        "paraboles"
+      ],
+      "summary": "Le plus ancien livre de la Kabbale proprement dite, apparu en Provence à la fin du XIIᵉ siècle : des maîtres y dialoguent sur les lettres, les voyelles, les Noms divins et les versets, par de courtes paraboles royales. On y voit naître les dix Sefirot comme puissances divines, la Shekhinah féminine et la transmigration des âmes. Le chaînon entre le Sepher Yetzirah et le Zohar. Traduction de travail faite sur l'hébreu.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Sefer-HaBahir-Livre-de-la-Clarte-FR.md",
+          "bytes": 159356
+        }
+      ],
+      "bytes": 159356
+    },
+    {
+      "id": "sefer-habrit",
+      "category": "kabbale",
+      "order": 7,
+      "title": "Sefer HaBrit",
+      "subtitle": "Le Livre de l'Alliance — sciences et Kabbale",
+      "author": "Pinchas Eliyahu Horowitz de Vilna",
+      "era": "Brünn, 1797 — éd. augmentée, Vilna, 1818",
+      "lang": "fr",
+      "glyph": "ה",
+      "tags": [
+        "kabbale",
+        "sciences",
+        "amour du prochain",
+        "encyclopédie",
+        "XVIIIᵉ siècle"
+      ],
+      "summary": "L'un des livres hébraïques les plus lus de son temps : une vaste encyclopédie qui parcourt les sciences de la fin du XVIIIᵉ siècle, puis la métaphysique, l'éthique, la prophétie et la Kabbale. En français : le ma'amar sur l'amour du prochain (chapitres 1 à 13), qui fait de l'amour de tout être humain, de quelque peuple qu'il soit, une obligation placée au-dessus de l'étude elle-même. L'œuvre complète est jointe dans la traduction anglaise de Scott Weisman (licence CC BY-NC-ND), réalisée avec l'aide d'une IA et relue sommairement, ainsi qu'en fac-similé hébreu de l'édition augmentée de Vilna (1818), celle dont la traduction anglaise a été tirée.",
+      "volumes": [
+        {
+          "label": "L'amour du prochain — partie II, ma'amar 13, chap. 1 à 13 (FR)",
+          "type": "md",
+          "path": "Sefer-HaBrit-Amour-du-Prochain-Horowitz-FR.md",
+          "bytes": 62574
+        },
+        {
+          "label": "Œuvre complète — trad. Scott Weisman, CC BY-NC-ND (EN)",
+          "type": "pdf",
+          "path": "Sefer-HaBrit-Horowitz-Weisman-EN.pdf",
+          "bytes": 4216314
+        },
+        {
+          "label": "Fac-similé hébreu — édition augmentée, Vilna 1818 (HE)",
+          "type": "pdf",
+          "path": "Sefer-HaBrit-HaShalem-Horowitz-HE.pdf",
+          "bytes": 37941262
+        }
+      ],
+      "bytes": 42220150
     }
   ],
-  "totalBytes": 3905537329,
-  "generatedAt": "2026-09-11"
+  "totalBytes": 3954583477,
+  "generatedAt": "2026-09-14"
 }

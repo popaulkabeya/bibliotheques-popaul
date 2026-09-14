@@ -228,7 +228,7 @@ export function openSheet(book, handlers) {
         <dl>
           <dt>Auteur</dt><dd>${escapeHtml(book.author)}</dd>
           <dt>Époque</dt><dd>${escapeHtml(book.era)}</dd>
-          <dt>Langue</dt><dd>${({ fr: 'Français', en: 'Anglais', gez: 'Guèze' })[book.lang] || book.lang}</dd>
+          <dt>Langue</dt><dd>${({ fr: 'Français', en: 'Anglais', gez: 'Guèze', he: 'Hébreu' })[book.lang] || book.lang}</dd>
           <dt>Poids</dt><dd>${formatBytes(book.bytes || 0)}</dd>
         </dl>
       </div>
