@@ -16,6 +16,7 @@ import { updateStorage, cacheEverything, initStockage } from './stockage.js';
 import { renderProgrammes } from './programmes.js';
 import * as progModule from './programmes.js';
 import { initMiniplayerUI } from './miniplayer-ui.js';
+import { applyStatic, toggleLang, onLangChange } from './i18n.js';
 
 const $ = (id) => document.getElementById(id);
 let settings = store.loadSettings();
@@ -24,6 +25,8 @@ let deferredInstall = null;
 /* ═══════════════ Amorçage ═══════════════ */
 
 (async function boot() {
+  applyStatic();
+  $('langBtn').addEventListener('click', toggleLang);
   try {
     const res = await fetch('src/data/catalog.json');
     lib.state.catalog = await res.json();
@@ -40,6 +43,15 @@ let deferredInstall = null;
   lib.renderNav();
   lib.renderStats();
   lib.renderContinue();
+
+  onLangChange(() => {
+    lib.renderNav();
+    const [kind, a] = location.hash.slice(2).split('/');
+    const cats = { rappels: '__rappels', pratique: '__pratique', programmes: '__programmes' };
+    lib.markNav(kind === 'c' ? a : (cats[kind] || (!kind ? '__home' : '')));
+    updateStorage();
+    verifierSource();
+  });
   route();
   applyFontSize(settings.fontSize);
   wire();

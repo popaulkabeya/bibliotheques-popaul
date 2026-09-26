@@ -4,6 +4,7 @@
 import * as store from './store.js';
 import * as lib from './library.js';
 import { demander } from './dialogue.js';
+import { t } from './i18n.js';
 
 const $ = (id) => document.getElementById(id);
 let signaler = () => {};
@@ -22,9 +23,7 @@ async function majPersistance(nbLivres) {
   const sur = await navigator.storage.persisted().catch(() => false);
   el.hidden = sur;
   if (!sur) {
-    el.textContent = "⚠ Stockage non garanti : le navigateur peut supprimer ces livres " +
-      "s'il manque de place. Installez l'application (menu du navigateur → Installer, " +
-      "ou « Sur l'écran d'accueil » sur iPhone) pour les conserver à coup sûr.";
+    el.textContent = t('storage.persistWarn');
   }
 }
 
@@ -38,9 +37,9 @@ export async function updateStorage() {
     .reduce((s, b) => s + (b.bytes || 0), 0);
   $('gaugeFill').style.width = Math.min(100, (u?.ratio || 0) * 100).toFixed(1) + '%';
   $('storageLine').innerHTML = n
-    ? `<b>${n}</b> livre${n > 1 ? 's' : ''} sur l'appareil · ${store.formatBytes(bytes)}` +
-      (u ? `<br>${store.formatBytes(u.used)} utilisés sur ${store.formatBytes(u.quota)}` : '')
-    : `Aucun livre téléchargé.<br>Bibliothèque complète : ${store.formatBytes(lib.state.catalog.totalBytes || 0)}`;
+    ? t('storage.line.some', { n, livre: t(n > 1 ? 'storage.books' : 'storage.book'), poids: store.formatBytes(bytes) }) +
+      (u ? t('storage.line.used', { used: store.formatBytes(u.used), quota: store.formatBytes(u.quota) }) : '')
+    : t('storage.line.none', { total: store.formatBytes(lib.state.catalog.totalBytes || 0) });
 }
 
 export async function cacheEverything() {
@@ -63,7 +62,7 @@ export async function cacheEverything() {
     catch (e) { signaler('Interrompu : ' + e.message); break; }
   }
   btn.disabled = false;
-  btn.textContent = 'Tout télécharger';
+  btn.textContent = t('storage.downloadAll');
   await lib.refreshState();
   rafraichir();
   updateStorage();

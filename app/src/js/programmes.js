@@ -88,8 +88,9 @@ const lienSeance = (s) =>
   s.bookId ? `#/lire/${s.bookId}/${s.volume ?? 0}${s.h3 != null ? `/p${s.h3}` : ''}` : '';
 
 /* ═══════════════ Modèle tiré d'un livret ═══════════════ */
-/** Une section de livret vaut une journée quand elle s'appelle « Jour … » ou « Nuit … ». */
-const RE_JOUR = /^(?:\d+\.\s*)?(Jour|Nuit)\b/i;
+/** Une section de livret vaut une journée quand elle s'appelle « Jour … », « Nuit … »
+ *  ou « Soir … », éventuellement précédé d'un ordinal (« Premier soir », « Deuxième nuit »). */
+const RE_JOUR = /^(?:\d+\.\s*)?(?:\S+\s+)?(Jour|Nuit|Soir)\b/i;
 /** Les pièces qui se prient — elles deviennent des séances. */
 const RE_PRIERE = /^Pri[èe]re\b/i;
 /** Ce qui se dit plutôt que ne se lit : à exclure des passages de la journée. */
@@ -120,7 +121,7 @@ export function modeleDepuisLivret(bookId, debut) {
   const seances = [];
   jours.forEach(([titreJour, entrees], i) => {
     const theme = titreJour.split(/\s+—\s+/).slice(1).join(' — ') || titreJour;
-    const nuit = /nuit/i.test(titreJour);
+    const nuit = /(nuit|soir)/i.test(titreJour);
     const passage = entrees.filter((e) => !RE_A_DIRE.test(e.title)).slice(0, 2)
       .map((e) => e.title).join(' · ');
     const prises = new Set();
@@ -134,6 +135,16 @@ export function modeleDepuisLivret(bookId, debut) {
       seances.push({
         id: `s${i + 1}-${h.replace(':', '')}`, jour: i + 1, heure: h, intitule: e.title,
         bookId, volume: e.volume ?? 0, h3: e.h3Index, passage, intention: theme,
+      });
+    }
+    // Journée d'un seul tenant (office d'une heure, sans pièce intitulée « Prière ») :
+    // une séance unique qui ouvre sur le début de la journée.
+    if (!prises.size) {
+      const h = heureDe(titreJour, nuit ? '21:00' : '06:00');
+      seances.push({
+        id: `s${i + 1}-${h.replace(':', '')}`, jour: i + 1, heure: h,
+        intitule: nuit ? 'Office du soir' : 'Office du jour',
+        bookId, volume: entrees[0].volume ?? 0, h3: entrees[0].h3Index, passage, intention: theme,
       });
     }
   });
@@ -246,8 +257,45 @@ function blocModeles() {
   </section>`;
 }
 
+/** Le formulaire de composition, partagé entre la création et la modification. */
+function formulaireHtml({ titre = '', intention = '', debut = aujourdhui(), fin = plusDeJours(aujourdhui(), 6),
+  bouton = 'Créer le programme' } = {}) {
+  return `
+      <form class="pg-form" id="pgForm">
+        <label class="large">Intitulé<input name="titre" maxlength="80" required
+          placeholder="Ce que porte ce programme" value="${escapeHtml(titre)}"></label>
+        <label class="large">Intention générale<input name="intention" maxlength="140"
+          placeholder="Facultatif — la demande de fond" value="${escapeHtml(intention)}"></label>
+        <label>Premier jour<input type="date" name="debut" value="${debut}" required></label>
+        <label>Dernier jour<input type="date" name="fin" value="${fin}" required></label>
+        <div class="pg-form-full">
+          <h3 class="pg-sh">Séances</h3>
+          <div class="pg-brouillon" id="pgBrouillon"></div>
+          <div class="pg-ajout">
+            <label>Heure<input type="time" id="pgHeure" value="06:00"></label>
+            <label>Jour<select id="pgJour"><option value="">Tous les jours</option></select></label>
+            <label>Intitulé<input id="pgIntitule" maxlength="60" placeholder="Prière du matin"></label>
+            <label>Prière<select id="pgLivre">
+              <option value="">— aucune —</option>
+              ${livresIndexes().map((b) => `<option value="${b.id}">${escapeHtml(b.title)}</option>`).join('')}
+            </select></label>
+            <label>Passage<select id="pgPassage" disabled></select></label>
+            <label>Intention<input id="pgIntention" maxlength="90" placeholder="Ce qu'on demande"></label>
+            <button type="button" class="mini-btn" id="pgAdd">Ajouter la séance</button>
+          </div>
+        </div>
+        <div class="pg-form-full">
+          <button class="act primary" type="submit">${bouton}</button>
+        </div>
+      </form>`;
+}
+
 export async function renderProgrammes(id) {
-  if (id) return renderUn(id);
+  if (id) {
+    // La route ne porte que l'id (voir app.js) ; le segment « modifier » se lit dans le hash.
+    const troisieme = location.hash.slice(2).split('/')[2];
+    return troisieme === 'modifier' ? renderEdition(id) : renderUn(id);
+  }
   const ordre = { encours: 0, avenir: 1, termine: 2 };
   const liste = (await allProgrammes())
     .sort((a, b) => ordre[etat(a)] - ordre[etat(b)] || String(a.debut).localeCompare(String(b.debut)));
@@ -272,39 +320,38 @@ export async function renderProgrammes(id) {
 
     <section class="home-block">
       <h2 class="home-h">Composer un programme</h2>
-      <form class="pg-form" id="pgForm">
-        <label class="large">Intitulé<input name="titre" maxlength="80" required
-          placeholder="Ce que porte ce programme"></label>
-        <label class="large">Intention générale<input name="intention" maxlength="140"
-          placeholder="Facultatif — la demande de fond"></label>
-        <label>Premier jour<input type="date" name="debut" value="${aujourdhui()}" required></label>
-        <label>Dernier jour<input type="date" name="fin" value="${plusDeJours(aujourdhui(), 6)}" required></label>
-        <div class="pg-form-full">
-          <h3 class="pg-sh">Séances</h3>
-          <div class="pg-brouillon" id="pgBrouillon"></div>
-          <div class="pg-ajout">
-            <label>Heure<input type="time" id="pgHeure" value="06:00"></label>
-            <label>Jour<select id="pgJour"><option value="">Tous les jours</option></select></label>
-            <label>Intitulé<input id="pgIntitule" maxlength="60" placeholder="Prière du matin"></label>
-            <label>Prière<select id="pgLivre">
-              <option value="">— aucune —</option>
-              ${livresIndexes().map((b) => `<option value="${b.id}">${escapeHtml(b.title)}</option>`).join('')}
-            </select></label>
-            <label>Passage<select id="pgPassage" disabled></select></label>
-            <label>Intention<input id="pgIntention" maxlength="90" placeholder="Ce qu'on demande"></label>
-            <button type="button" class="mini-btn" id="pgAdd">Ajouter la séance</button>
-          </div>
-        </div>
-        <div class="pg-form-full">
-          <button class="act primary" type="submit">Créer le programme</button>
-        </div>
-      </form>
+      ${formulaireHtml()}
     </section>`;
 
   brouillon = [];
   majBrouillon();
   majJours();
-  brancherListe();
+  brancherListe({ mode: 'creer' });
+}
+
+/* ═══════════════ Vue : modifier un programme ═══════════════ */
+
+async function renderEdition(id) {
+  const p = await getProgramme(id);
+  if (!p) { location.hash = '#/programmes'; return; }
+
+  $('programmes').innerHTML = `
+    <header class="home-head">
+      <a class="pg-retour" href="#/programmes/${p.id}">← Annuler</a>
+      <h1>Modifier « ${escapeHtml(p.titre)} »</h1>
+      <p class="pg-lede">Changez l'intitulé, les dates ou les séances. Ce qui a déjà été coché
+        le reste pour les séances qui subsistent à l'identique.</p>
+    </header>
+
+    <section class="home-block">
+      ${formulaireHtml({ titre: p.titre, intention: p.intention, debut: p.debut, fin: p.fin,
+        bouton: 'Enregistrer les modifications' })}
+    </section>`;
+
+  brouillon = (p.seances || []).map((s) => ({ ...s }));
+  majBrouillon();
+  majJours();
+  brancherListe({ mode: 'modifier', prog: p });
 }
 
 /* ═══════════════ Vue : un programme ═══════════════ */
@@ -326,6 +373,7 @@ async function renderUn(id) {
       <div class="pg-barre grand"><span style="width:${pct}%"></span></div>
       <p class="pg-compte">${faits} / ${total} séances priées</p>
       <div class="pg-tools">
+        <a class="mini-btn" href="#/programmes/${p.id}/modifier">Modifier ce programme</a>
         <button class="mini-btn" id="pgICS">Exporter vers mon agenda</button>
         <button class="mini-btn ghost" id="pgDel">Supprimer ce programme</button>
       </div>
@@ -397,7 +445,7 @@ function majPassages() {
     : '<option value="">—</option>';
 }
 
-function brancherListe() {
+function brancherListe({ mode = 'creer', prog = null } = {}) {
   const form = $('pgForm');
 
   $('pgLivre')?.addEventListener('change', majPassages);
@@ -442,6 +490,27 @@ function brancherListe() {
     if (brouillon.some((s) => s.jour && s.jour > nbJours({ debut: d, fin: f })))
       { toast('Une séance vise un jour hors de la période.'); return; }
 
+    if (mode === 'modifier' && prog) {
+      // Ce qui a déjà été coché ne vaut que pour les séances qui subsistent à l'identique (même id).
+      const idsRestants = new Set(brouillon.map((s) => s.id));
+      const faits = {};
+      for (const [jour, ids] of Object.entries(prog.faits || {})) {
+        const gardes = ids.filter((sid) => idsRestants.has(sid));
+        if (gardes.length) faits[jour] = gardes;
+      }
+      await saveProgramme({
+        ...prog,
+        titre: form.titre.value.trim(),
+        intention: form.intention.value.trim(),
+        debut: d, fin: f,
+        seances: brouillon,
+        faits,
+      });
+      toast('Programme modifié.');
+      location.hash = `#/programmes/${prog.id}`;
+      return;
+    }
+
     await saveProgramme({
       id: `prog-${Date.now().toString(36)}`,
       titre: form.titre.value.trim(),
@@ -454,7 +523,7 @@ function brancherListe() {
     renderProgrammes();
   });
 
-  // — modèles tirés d'un livret —
+  // — modèles tirés d'un livret (seulement à la création) —
   document.querySelectorAll('[data-modele]').forEach((b) => {
     b.addEventListener('click', async () => {
       const p = modeleDepuisLivret(b.dataset.modele, aujourdhui());

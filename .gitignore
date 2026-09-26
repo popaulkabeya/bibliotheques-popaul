@@ -19,3 +19,7 @@ node_modules/
 # Scratch
 scratch/
 *.tmp
+
+# Offices privés : noms réels de personnes et d'entreprises, gardés hors de Git.
+/Trois-Soirs-contre-le-Licenciement/
+/Action-de-Grace-et-Scellement/

@@ -2,6 +2,7 @@
  * sante.js — L'application interroge réellement sa source de livres, au lieu de se fier
  * à navigator.onLine, qui reste vrai quand seul le serveur local est arrêté.
  */
+import { t } from './i18n.js';
 
 const $ = (id) => document.getElementById(id);
 let signaler = () => {};
@@ -25,9 +26,9 @@ export async function verifierSource() {
 
   if (!navigator.onLine) {
     pill.className = 'net-pill off';
-    txt.textContent = 'hors ligne';
+    txt.textContent = t('net.offline');
     arreterSurveillance();
-    pill.title = 'Aucune connexion. Seuls les livres téléchargés sont lisibles.';
+    pill.title = t('net.title.offline');
     return;
   }
   try {
@@ -40,16 +41,15 @@ export async function verifierSource() {
     if (!r.ok) throw new Error(String(r.status));
     const revient = pill.classList.contains('ko');
     pill.className = 'net-pill';
-    txt.textContent = 'en ligne';
-    pill.title = 'La bibliothèque répond.';
+    txt.textContent = t('net.online');
+    pill.title = t('net.title.online');
     arreterSurveillance();
     if (revient) signaler('La bibliothèque répond de nouveau.');
   } catch {
     pill.className = 'net-pill ko';
-    txt.textContent = 'source coupée';
+    txt.textContent = t('net.sourceDown');
     surveillerRetour();
-    pill.title = "Le serveur de la bibliothèque ne répond pas. Relancez ./scripts/start.sh — " +
-                 'en attendant, seuls les livres téléchargés sont lisibles.';
+    pill.title = t('net.title.down');
   }
 }
 
