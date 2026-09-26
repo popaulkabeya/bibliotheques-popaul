@@ -1455,22 +1455,29 @@
       "title": "Le Véritable Dragon Rouge",
       "subtitle": "Le Grand Grimoire",
       "author": "Anonyme",
-      "era": "éd. 1521 (fictive) — XIXᵉ s.",
+      "era": "éd. 1521 (fictive) — éd. courte XIXᵉ s. — éd. longue 1845",
       "lang": "fr",
       "glyph": "⛧",
       "tags": [
         "grand grimoire",
         "pacte",
         "lucifuge",
-        "audio"
+        "audio",
+        "dragon rouge"
       ],
-      "summary": "Le grimoire du pacte et de la baguette foudroyante, avec le dialogue fameux avec Lucifuge Rofocale. Sommet de la littérature magique populaire française.",
+      "summary": "Le grimoire du pacte et de la baguette foudroyante, avec le dialogue fameux avec Lucifuge Rofocale. Sommet de la littérature magique populaire française. Deux éditions du XIXᵉ siècle sont réunies ici : une courte (40 p.) et une plus longue (120 p., 1845, sous le nom d'Antonio Venitiana), toutes deux dans le domaine public.",
       "volumes": [
         {
-          "label": "Édition PDF",
+          "label": "Édition courte (40 p.)",
           "type": "pdf",
           "path": "Le-Veritable-Dragon-Rouge-FR.pdf",
           "bytes": 2190943
+        },
+        {
+          "label": "Édition longue (120 p., 1845)",
+          "type": "pdf",
+          "path": "Grand-Grimoire-Edition-1845-FR.pdf",
+          "bytes": 2953590
         },
         {
           "label": "Livre audio — 2 pistes",
@@ -1486,7 +1493,7 @@
           ]
         }
       ],
-      "bytes": 30315288,
+      "bytes": 33268878,
       "addedAt": "2026-09-03"
     },
     {
@@ -2031,7 +2038,7 @@
       "order": 8,
       "title": "Sept Nuits de Prière pour la Famille",
       "subtitle": "Programme de minuit",
-      "author": "",
+      "author": "Popaul Kabeya",
       "era": "Livret personnel",
       "lang": "fr",
       "glyph": "✝",
@@ -2715,35 +2722,6 @@
         }
       ],
       "bytes": 10664400,
-      "addedAt": "2026-09-26"
-    },
-    {
-      "id": "grand-grimoire",
-      "category": "grimoires",
-      "order": 14,
-      "title": "Le Grand Grimoire",
-      "subtitle": "ou l'Art de commander les esprits célestes, aériens, terrestres, infernaux (Dragon Rouge)",
-      "author": "Antonio Venitiana (attr.)",
-      "era": "1823 / éd. 1845",
-      "lang": "fr",
-      "glyph": "☾",
-      "tags": [
-        "grimoire",
-        "dragon rouge",
-        "magie noire",
-        "esprits",
-        "pacte"
-      ],
-      "summary": "Grimoire français du XIXe siècle, distinct du Véritable Dragon Rouge déjà présent dans cette bibliothèque : l'art de commander les esprits célestes, aériens, terrestres et infernaux, attribué au légendaire pape Honorius. Fac-similé numérisé, d'une lisibilité inégale.",
-      "volumes": [
-        {
-          "label": "Fac-similé PDF",
-          "type": "pdf",
-          "path": "Dragon-Rouge-Grand-Grimoire/Grand-Grimoire-Dragon-Rouge-1823-FR.pdf",
-          "bytes": 2953590
-        }
-      ],
-      "bytes": 2953590,
       "addedAt": "2026-09-26"
     },
     {
