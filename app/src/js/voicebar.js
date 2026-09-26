@@ -5,6 +5,7 @@
 import * as store from './store.js';
 import * as rd from './reader.js';
 import { speaker, loadVoices, rankVoices } from './tts.js';
+import { t, onLangChange } from './i18n.js';
 
 const $ = (id) => document.getElementById(id);
 let settings = store.loadSettings();
@@ -29,7 +30,7 @@ export function fillVoices() {
   sel.innerHTML = voices.map((v, i) =>
     `<option value="${v.voiceURI}"${v.voiceURI === settings.voiceURI ? ' selected' : ''}>
       ${v.name} — ${v.lang}${v.localService ? ' · hors-ligne' : ''}</option>`).join('')
-    || '<option>Aucune voix installée</option>';
+    || `<option>${t('voicebar.noVoice')}</option>`;
   const pick = voices.find((v) => v.voiceURI === settings.voiceURI) || voices[0];
   if (pick) { speaker.voice = pick; sel.value = pick.voiceURI; }
   $('vbRate').value = settings.rate; $('vbRateVal').textContent = (+settings.rate).toFixed(2) + '×';
@@ -44,7 +45,7 @@ export function resetVoice(lang = 'fr') {
   speaker.lang = lang === 'en' ? 'en-GB' : 'fr-FR';
   $('voicebar').hidden = true;
   $('vbFill').style.width = '0%';
-  $('vbText').textContent = 'Prêt à lire.';
+  $('vbText').textContent = t('voicebar.ready');
   if (rankVoices(lang).length) fillVoices();
 }
 
@@ -67,14 +68,14 @@ export function startVoice(depart = 0) {
   const sentences = rd.session.sentences;
   if (!sentences.length) {
     if (rd.session.kind === 'pdf') {
-      signaler('Page sans texte lisible — recherche de la suivante…');
+      signaler(t('voicebar.pageUnreadable'));
       chercherPageLisible().then((ok) => {
         if (ok) startVoice(0);
-        else signaler('Aucun texte lisible jusqu\'à la fin de ce volume.');
+        else signaler(t('voicebar.noReadableText'));
       });
       return;
     }
-    signaler('Aucun texte à lire dans cette vue.');
+    signaler(t('voicebar.nothingToRead'));
     return;
   }
   $('voicebar').hidden = false;
@@ -128,9 +129,10 @@ function wireVoice() {
   };
   speaker.onState = (playing) => {
     $('vbPlay').textContent = playing ? '❚❚' : '▶';
-    $('speakBtn').textContent = playing ? '❚❚ Voix' : '▶ Voix';
+    $('speakBtn').textContent = `${playing ? '❚❚' : '▶'} ${t('reader.speak.label')}`;
     $('speakBtn').classList.toggle('on', playing);
   };
+  onLangChange(() => { $('speakBtn').textContent = `${speaker.playing ? '❚❚' : '▶'} ${t('reader.speak.label')}`; });
   speaker.onEnd = async () => {
     rd.clearHighlight();
     const s = rd.session;
@@ -145,7 +147,7 @@ function wireVoice() {
       await new Promise((r) => setTimeout(r, 350));
       if (s.sentences.length) { speaker.load(s.sentences, 0); speaker.play(); return; }
     }
-    $('vbText').textContent = 'Lecture terminée.';
+    $('vbText').textContent = t('voicebar.finished');
     $('vbFill').style.width = '100%';
   };
 }

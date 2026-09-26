@@ -4,6 +4,7 @@
 import { formatBytes, isCached, cacheBook, uncacheBook, allProgress, persist } from './store.js';
 import { escapeHtml, url } from './reader.js';
 import { resumer } from './progress.js';
+import { t } from './i18n.js';
 
 const $ = (id) => document.getElementById(id);
 
@@ -11,6 +12,14 @@ export const state = { catalog: null, prayers: [], query: '', progress: new Map(
 
 const FMT = { pdf: 'PDF', epub: 'EPUB', md: 'Texte', audio: 'Audio', gallery: 'Images' };
 const ICO = { pdf: '▤', epub: '❐', md: '✎', audio: '♪', gallery: '❈' };
+
+/** Date d'ajout d'un livre à la bibliothèque, en clair (« 26 septembre 2026 »). */
+const FMT_AJOUT = new Intl.DateTimeFormat('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' });
+const dateAjoutEnClair = (iso) => {
+  if (!iso) return '';
+  const [y, m, j] = iso.split('-').map(Number);
+  return FMT_AJOUT.format(new Date(y, m - 1, j));
+};
 
 export const catOf = (id) => state.catalog.categories.find((c) => c.id === id);
 export const bookOf = (id) => state.catalog.books.find((b) => b.id === id);
@@ -88,13 +97,13 @@ export async function refreshState() {
 
 export function renderNav() {
   const nav = $('catNav');
-  nav.innerHTML = '<p class="nav-h">Corpus</p>' +
-    '<a href="#/" data-cat="__home" class="active"><span class="g">✦</span><span class="n">Accueil</span></a>' +
-    '<a href="#/tout" data-cat=""><span class="g">❧</span><span class="n">Toute la bibliothèque</span>' +
+  nav.innerHTML = `<p class="nav-h">${t('nav.corpus')}</p>` +
+    `<a href="#/" data-cat="__home" class="active"><span class="g">✦</span><span class="n">${t('nav.home')}</span></a>` +
+    `<a href="#/tout" data-cat=""><span class="g">❧</span><span class="n">${t('nav.all')}</span>` +
     `<span class="c">${state.catalog.books.length}</span></a>` +
-    '<a href="#/programmes" data-cat="__programmes"><span class="g">✧</span><span class="n">Programmes</span></a>' +
-    '<a href="#/rappels" data-cat="__rappels"><span class="g">☾</span><span class="n">Rappels</span></a>' +
-    '<a href="#/pratique" data-cat="__pratique"><span class="g">◎</span><span class="n">Pratique</span></a>' +
+    `<a href="#/programmes" data-cat="__programmes"><span class="g">✧</span><span class="n">${t('nav.programmes')}</span></a>` +
+    `<a href="#/rappels" data-cat="__rappels"><span class="g">☾</span><span class="n">${t('nav.reminders')}</span></a>` +
+    `<a href="#/pratique" data-cat="__pratique"><span class="g">◎</span><span class="n">${t('nav.practice')}</span></a>` +
     state.catalog.categories.sort((a, b) => a.order - b.order).map((c) => `
       <a href="#/c/${c.id}" data-cat="${c.id}" style="--cat:${c.accent}">
         <span class="g">${c.glyph}</span><span class="n">${escapeHtml(c.name)}</span>
@@ -230,6 +239,7 @@ export function openSheet(book, handlers) {
           <dt>Époque</dt><dd>${escapeHtml(book.era)}</dd>
           <dt>Langue</dt><dd>${({ fr: 'Français', en: 'Anglais', gez: 'Guèze', he: 'Hébreu' })[book.lang] || book.lang}</dd>
           <dt>Poids</dt><dd>${formatBytes(book.bytes || 0)}</dd>
+          ${book.addedAt ? `<dt>Ajouté</dt><dd>${dateAjoutEnClair(book.addedAt)}</dd>` : ''}
         </dl>
       </div>
     </div>

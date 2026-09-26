@@ -22,44 +22,45 @@
 </head>
 <body>
 
-<div id="boot" class="boot"><div class="boot-mark">✦</div><p>Ouverture de la bibliothèque…</p></div>
+<div id="boot" class="boot"><div class="boot-mark">✦</div><p data-i18n="boot.opening">Ouverture de la bibliothèque…</p></div>
 
 <!-- ══════════ EN-TÊTE ══════════ -->
 <header class="topbar" id="topbar">
-  <button class="icon-btn menu-btn" id="menuBtn" aria-label="Ouvrir le sommaire" aria-expanded="false">☰</button>
+  <button class="icon-btn menu-btn" id="menuBtn" data-i18n-aria="menu.open" aria-label="Ouvrir le sommaire" aria-expanded="false">☰</button>
   <a class="brand" href="#/">
     <span class="brand-mark">✦</span>
-    <span class="brand-text"><strong>Bibliothèque</strong><em>Spirituelle</em></span>
+    <span class="brand-text"><strong data-i18n="brand.strong">Bibliothèque</strong><em data-i18n="brand.em">Spirituelle</em></span>
   </a>
   <div class="search-wrap">
-    <input id="search" type="search" placeholder="Rechercher un livre, une prière, un passage…" autocomplete="off" aria-label="Rechercher">
+    <input id="search" type="search" data-i18n-placeholder="search.placeholder" placeholder="Rechercher un livre, une prière, un passage…" autocomplete="off" data-i18n-aria="search.aria" aria-label="Rechercher">
     <kbd class="search-kbd">/</kbd>
   </div>
   <div class="topbar-actions">
-    <span class="net-pill" id="netPill" title="État de la connexion"><i></i><span>en ligne</span></span>
-    <button class="icon-btn" id="installBtn" hidden title="Installer l'application">⤓</button>
+    <span class="net-pill" id="netPill" data-i18n-title="net.title" title="État de la connexion"><i></i><span>en ligne</span></span>
+    <button class="icon-btn" id="installBtn" hidden data-i18n-title="install.title" title="Installer l'application">⤓</button>
+    <button class="icon-btn lang-btn" id="langBtn" title="English">FR</button>
   </div>
 </header>
 
 <div class="shell">
   <!-- ══════════ SOMMAIRE ══════════ -->
   <aside class="sidebar" id="sidebar">
-    <nav class="nav" id="catNav" aria-label="Catégories"></nav>
+    <nav class="nav" id="catNav" data-i18n-aria="nav.categories" aria-label="Catégories"></nav>
 
     <section class="storage-card">
-      <h4>Hors-ligne</h4>
+      <h4 data-i18n="storage.title">Hors-ligne</h4>
       <div class="gauge"><span id="gaugeFill"></span></div>
-      <p class="storage-line" id="storageLine">Calcul…</p>
+      <p class="storage-line" id="storageLine" data-i18n="storage.calculating">Calcul…</p>
       <p class="sw-warn" id="persistWarn" hidden></p>
-      <p class="sw-warn" id="swWarn" hidden>⚠ Hors-ligne indisponible dans ce navigateur : les livres se téléchargent mais ne seront pas resservis sans réseau.</p>
+      <p class="sw-warn" id="swWarn" hidden data-i18n="storage.offlineWarn">⚠ Hors-ligne indisponible dans ce navigateur : les livres se téléchargent mais ne seront pas resservis sans réseau.</p>
       <div class="storage-btns">
-        <button class="mini-btn" id="cacheAllBtn">Tout télécharger</button>
-        <button class="mini-btn ghost" id="clearCacheBtn">Vider</button>
+        <button class="mini-btn" id="cacheAllBtn" data-i18n="storage.downloadAll">Tout télécharger</button>
+        <button class="mini-btn ghost" id="clearCacheBtn" data-i18n="storage.clear">Vider</button>
       </div>
     </section>
 
     <section class="continue-card" id="continueCard" hidden>
-      <h4>Reprendre</h4>
+      <h4 data-i18n="continue.title">Reprendre</h4>
       <div id="continueList"></div>
     </section>
   </aside>
@@ -74,15 +75,15 @@
     <section class="hero" id="hero">
       <p class="hero-kicker" id="heroKicker"></p>
       <h1>Une bibliothèque, un ordre.</h1>
-      <p class="hero-lede">Des Écritures au canon élargi, des apocryphes à la Kabbale, de la doctrine aux grimoires, jusqu'à la pratique quotidienne. Les textes sont rangés dans l'ordre où ils s'éclairent les uns les autres — et tout se lit hors connexion.</p>
+      <p class="hero-lede" data-i18n="hero.lede">Des Écritures au canon élargi, des apocryphes à la Kabbale, de la doctrine aux grimoires, jusqu'à la pratique quotidienne. Les textes sont rangés dans l'ordre où ils s'éclairent les uns les autres — et tout se lit hors connexion.</p>
       <div class="hero-stats" id="heroStats"></div>
     </section>
     <div id="prayerResults"></div>
     <div id="textResults" hidden></div>
     <div id="shelves"></div>
-    <p class="empty" id="emptyState" hidden>Aucun ouvrage ne correspond à cette recherche.</p>
+    <p class="empty" id="emptyState" hidden data-i18n="search.empty">Aucun ouvrage ne correspond à cette recherche.</p>
     <footer class="foot">
-      <p>Bibliothèque personnelle · fonctionne hors-ligne · lecture vocale par synthèse système</p>
+      <p data-i18n="footer.tagline">Bibliothèque personnelle · fonctionne hors-ligne · lecture vocale par synthèse système</p>
     </footer>
   </main>
 </div>
@@ -90,21 +91,21 @@
 <!-- ══════════ FICHE LIVRE ══════════ -->
 <div class="sheet-wrap" id="sheetWrap" hidden>
   <div class="sheet-scrim" data-close-sheet></div>
-  <article class="sheet" id="sheet" role="dialog" aria-modal="true" aria-label="Fiche du livre"></article>
+  <article class="sheet" id="sheet" role="dialog" aria-modal="true" data-i18n-aria="sheet.aria" aria-label="Fiche du livre"></article>
 </div>
 
 <!-- ══════════ LECTEUR ══════════ -->
 <div class="reader" id="reader" hidden>
   <header class="reader-bar">
-    <button class="icon-btn" id="readerClose" aria-label="Fermer le lecteur">←</button>
+    <button class="icon-btn" id="readerClose" data-i18n-aria="reader.close.aria" aria-label="Fermer le lecteur">←</button>
     <div class="reader-title"><strong id="readerTitle"></strong><span id="readerSub"></span></div>
     <span class="reader-prog" id="readerProg" hidden></span>
     <div class="reader-tools">
-      <button class="icon-btn" id="tocBtn" title="Sommaire du livre" hidden>❐</button>
-      <button class="icon-btn" id="bookmarkBtn" title="Marquer cette page">☆</button>
-      <button class="icon-btn" id="fontMinus" title="Réduire le texte">A−</button>
-      <button class="icon-btn" id="fontPlus" title="Agrandir le texte">A+</button>
-      <button class="icon-btn accent" id="speakBtn" title="Lecture vocale">▶ Voix</button>
+      <button class="icon-btn" id="tocBtn" data-i18n-title="reader.toc.title" title="Sommaire du livre" hidden>❐</button>
+      <button class="icon-btn" id="bookmarkBtn" data-i18n-title="reader.bookmark.title" title="Marquer cette page">☆</button>
+      <button class="icon-btn" id="fontMinus" data-i18n-title="reader.fontMinus.title" title="Réduire le texte">A−</button>
+      <button class="icon-btn" id="fontPlus" data-i18n-title="reader.fontPlus.title" title="Agrandir le texte">A+</button>
+      <button class="icon-btn accent" id="speakBtn" data-i18n-title="reader.speak.title" title="Lecture vocale">▶ <span id="speakBtnLabel" data-i18n="reader.speak.label">Voix</span></button>
     </div>
   </header>
 
@@ -115,31 +116,31 @@
 
   <!-- Pagination PDF -->
   <div class="pager" id="pager" hidden>
-    <button class="icon-btn" id="pagePrev" aria-label="Page précédente">‹</button>
-    <input id="pageInput" type="number" min="1" value="1" aria-label="Numéro de page">
+    <button class="icon-btn" id="pagePrev" data-i18n-aria="pager.prev.aria" aria-label="Page précédente">‹</button>
+    <input id="pageInput" type="number" min="1" value="1" data-i18n-aria="pager.pageNumber.aria" aria-label="Numéro de page">
     <span class="pager-total">/ <b id="pageTotal">—</b></span>
-    <button class="icon-btn" id="pageNext" aria-label="Page suivante">›</button>
-    <input id="pageRange" type="range" min="1" value="1" aria-label="Curseur de page">
+    <button class="icon-btn" id="pageNext" data-i18n-aria="pager.next.aria" aria-label="Page suivante">›</button>
+    <input id="pageRange" type="range" min="1" value="1" data-i18n-aria="pager.range.aria" aria-label="Curseur de page">
   </div>
 
   <!-- Barre vocale -->
   <div class="voicebar" id="voicebar" hidden>
     <div class="vb-row">
-      <button class="icon-btn" id="vbPrev" title="Phrase précédente">⏮</button>
-      <button class="icon-btn big" id="vbPlay" title="Lire / Pause">▶</button>
-      <button class="icon-btn" id="vbNext" title="Phrase suivante">⏭</button>
-      <button class="icon-btn" id="vbStop" title="Arrêter">⏹</button>
-      <p class="vb-text" id="vbText">Prêt à lire.</p>
-      <button class="icon-btn" id="vbSettings" title="Réglages de la voix">⚙</button>
-      <button class="icon-btn" id="vbClose" title="Fermer la lecture vocale">✕</button>
+      <button class="icon-btn" id="vbPrev" data-i18n-title="voicebar.prev.title" title="Phrase précédente">⏮</button>
+      <button class="icon-btn big" id="vbPlay" data-i18n-title="voicebar.play.title" title="Lire / Pause">▶</button>
+      <button class="icon-btn" id="vbNext" data-i18n-title="voicebar.next.title" title="Phrase suivante">⏭</button>
+      <button class="icon-btn" id="vbStop" data-i18n-title="voicebar.stop.title" title="Arrêter">⏹</button>
+      <p class="vb-text" id="vbText" data-i18n="voicebar.ready">Prêt à lire.</p>
+      <button class="icon-btn" id="vbSettings" data-i18n-title="voicebar.settings.title" title="Réglages de la voix">⚙</button>
+      <button class="icon-btn" id="vbClose" data-i18n-title="voicebar.close.title" title="Fermer la lecture vocale">✕</button>
     </div>
     <div class="vb-progress"><span id="vbFill"></span></div>
     <div class="vb-panel" id="vbPanel" hidden>
-      <label>Voix<select id="vbVoice"></select></label>
-      <label>Vitesse <b id="vbRateVal">1.0×</b><input id="vbRate" type="range" min="0.5" max="2" step="0.05" value="1"></label>
-      <label>Hauteur <b id="vbPitchVal">1.0</b><input id="vbPitch" type="range" min="0.5" max="1.6" step="0.05" value="1"></label>
-      <label class="chk"><input id="vbFollow" type="checkbox" checked> Suivre le texte pendant la lecture</label>
-      <label class="chk"><input id="vbAuto" type="checkbox" checked> Enchaîner automatiquement les pages</label>
+      <label><span data-i18n="voicebar.voiceLabel">Voix</span><select id="vbVoice"></select></label>
+      <label><span data-i18n="voicebar.rateLabel">Vitesse</span> <b id="vbRateVal">1.0×</b><input id="vbRate" type="range" min="0.5" max="2" step="0.05" value="1"></label>
+      <label><span data-i18n="voicebar.pitchLabel">Hauteur</span> <b id="vbPitchVal">1.0</b><input id="vbPitch" type="range" min="0.5" max="1.6" step="0.05" value="1"></label>
+      <label class="chk"><input id="vbFollow" type="checkbox" checked> <span data-i18n="voicebar.follow">Suivre le texte pendant la lecture</span></label>
+      <label class="chk"><input id="vbAuto" type="checkbox" checked> <span data-i18n="voicebar.autoNext">Enchaîner automatiquement les pages</span></label>
     </div>
   </div>
 </div>
@@ -147,33 +148,33 @@
 <!-- ══════════ LECTEUR AUDIO PERSISTANT ══════════ -->
 <div class="miniplayer" id="miniplayer" hidden>
   <div class="mp-row">
-    <button class="icon-btn" id="mpPrev" title="Piste précédente">⏮</button>
-    <button class="icon-btn big" id="mpPlay" title="Lire / Pause">▶</button>
-    <button class="icon-btn" id="mpNext" title="Piste suivante">⏭</button>
+    <button class="icon-btn" id="mpPrev" data-i18n-title="miniplayer.prev.title" title="Piste précédente">⏮</button>
+    <button class="icon-btn big" id="mpPlay" data-i18n-title="miniplayer.play.title" title="Lire / Pause">▶</button>
+    <button class="icon-btn" id="mpNext" data-i18n-title="miniplayer.next.title" title="Piste suivante">⏭</button>
     <span class="mp-sep"></span>
-    <button class="icon-btn" id="mpBack15" title="Reculer de 15 s">⟲15</button>
-    <button class="icon-btn" id="mpFwd15" title="Avancer de 15 s">15⟳</button>
-    <div class="mp-body" id="mpBody" role="button" tabindex="0" title="Ouvrir le livre">
+    <button class="icon-btn" id="mpBack15" data-i18n-title="miniplayer.back15.title" title="Reculer de 15 s">⟲15</button>
+    <button class="icon-btn" id="mpFwd15" data-i18n-title="miniplayer.fwd15.title" title="Avancer de 15 s">15⟳</button>
+    <div class="mp-body" id="mpBody" role="button" tabindex="0" data-i18n-title="miniplayer.open.title" title="Ouvrir le livre">
       <b id="mpTitle"></b><small id="mpSub"></small>
     </div>
     <span class="mp-time" id="mpTime">0:00 / 0:00</span>
-    <button class="icon-btn" id="mpRate" title="Vitesse de lecture">1.0×</button>
-    <button class="icon-btn" id="mpSleep" title="Minuterie de sommeil">☾</button>
-    <button class="icon-btn" id="mpStop" title="Arrêter">✕</button>
+    <button class="icon-btn" id="mpRate" data-i18n-title="miniplayer.rate.title" title="Vitesse de lecture">1.0×</button>
+    <button class="icon-btn" id="mpSleep" data-i18n-title="miniplayer.sleep.title" title="Minuterie de sommeil">☾</button>
+    <button class="icon-btn" id="mpStop" data-i18n-title="miniplayer.stop.title" title="Arrêter">✕</button>
   </div>
   <div class="mp-progress" id="mpProgress"><span id="mpFill"></span></div>
   <div class="mp-panel" id="mpRatePanel" hidden>
-    <p>Vitesse</p>
+    <p data-i18n="miniplayer.speedLabel">Vitesse</p>
     <div class="mp-choices" data-choices="rate">
       <button data-v="0.75">0.75×</button><button data-v="1">1×</button><button data-v="1.25">1.25×</button>
       <button data-v="1.5">1.5×</button><button data-v="1.75">1.75×</button><button data-v="2">2×</button>
     </div>
   </div>
   <div class="mp-panel" id="mpSleepPanel" hidden>
-    <p>S'arrêter</p>
+    <p data-i18n="miniplayer.sleepLabel">S'arrêter</p>
     <div class="mp-choices" data-choices="sleep">
-      <button data-v="0">Annuler</button><button data-v="10">10 min</button><button data-v="20">20 min</button>
-      <button data-v="30">30 min</button><button data-v="45">45 min</button><button data-v="piste">Fin de la piste</button>
+      <button data-v="0" data-i18n="miniplayer.cancel">Annuler</button><button data-v="10">10 min</button><button data-v="20">20 min</button>
+      <button data-v="30">30 min</button><button data-v="45">45 min</button><button data-v="piste" data-i18n="miniplayer.endOfTrack">Fin de la piste</button>
     </div>
   </div>
 </div>

@@ -115,7 +115,8 @@
           ]
         }
       ],
-      "bytes": 358660107
+      "bytes": 358660107,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "garima",
@@ -156,7 +157,8 @@
           ]
         }
       ],
-      "bytes": 4334061
+      "bytes": 4334061,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "evangiles-apocryphes",
@@ -236,7 +238,8 @@
           ]
         }
       ],
-      "bytes": 238639544
+      "bytes": 238639544,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "evangile-thomas",
@@ -274,7 +277,8 @@
           ]
         }
       ],
-      "bytes": 10316999
+      "bytes": 10316999,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "evangile-philippe",
@@ -346,7 +350,8 @@
           ]
         }
       ],
-      "bytes": 16835163
+      "bytes": 16835163,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "judas-marie",
@@ -391,7 +396,8 @@
           ]
         }
       ],
-      "bytes": 12253051
+      "bytes": 12253051,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "apocryphon-jean",
@@ -420,7 +426,8 @@
           "bytes": 51555
         }
       ],
-      "bytes": 51555
+      "bytes": 51555,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "epitre-apotres",
@@ -446,7 +453,8 @@
           "bytes": 41840778
         }
       ],
-      "bytes": 41840778
+      "bytes": 41840778,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "pistis-sophia",
@@ -511,7 +519,8 @@
           ]
         }
       ],
-      "bytes": 243683143
+      "bytes": 243683143,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "verite-jacques",
@@ -545,7 +554,8 @@
           "bytes": 1541564
         }
       ],
-      "bytes": 1600414
+      "bytes": 1600414,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "pierre-egerton",
@@ -581,7 +591,8 @@
         }
       ],
       "order": 9,
-      "bytes": 706556
+      "bytes": 706556,
+      "addedAt": "2026-09-04"
     },
     {
       "id": "sepher-yetzirah",
@@ -631,7 +642,8 @@
           ]
         }
       ],
-      "bytes": 8813047
+      "bytes": 8813047,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "zohar",
@@ -688,7 +700,8 @@
           "bytes": 13944943
         }
       ],
-      "bytes": 102705831
+      "bytes": 102705831,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "franck-kabbale",
@@ -750,7 +763,8 @@
           ]
         }
       ],
-      "bytes": 241797905
+      "bytes": 241797905,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "hershon-talmud",
@@ -818,7 +832,8 @@
           ]
         }
       ],
-      "bytes": 309814513
+      "bytes": 309814513,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "levi-dogme",
@@ -872,7 +887,8 @@
           ]
         }
       ],
-      "bytes": 156449288
+      "bytes": 156449288,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "levi-rituel",
@@ -928,7 +944,8 @@
           ]
         }
       ],
-      "bytes": 178675229
+      "bytes": 178675229,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "levi-histoire",
@@ -998,7 +1015,8 @@
           ]
         }
       ],
-      "bytes": 329011758
+      "bytes": 329011758,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "levi-clef",
@@ -1024,7 +1042,8 @@
           "bytes": 17472806
         }
       ],
-      "bytes": 17472806
+      "bytes": 17472806,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "clavicule-salomon",
@@ -1072,7 +1091,8 @@
           ]
         }
       ],
-      "bytes": 114031879
+      "bytes": 114031879,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "goetia",
@@ -1098,7 +1118,8 @@
           "bytes": 1001749
         }
       ],
-      "bytes": 1001749
+      "bytes": 1001749,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "abramelin",
@@ -1166,7 +1187,8 @@
           ]
         }
       ],
-      "bytes": 165549438
+      "bytes": 165549438,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "moise-6-7",
@@ -1229,7 +1251,8 @@
           ]
         }
       ],
-      "bytes": 162903700
+      "bytes": 162903700,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "honorius",
@@ -1277,7 +1300,8 @@
           ]
         }
       ],
-      "bytes": 28427443
+      "bytes": 28427443,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "enchiridion",
@@ -1323,7 +1347,8 @@
           ]
         }
       ],
-      "bytes": 108311613
+      "bytes": 108311613,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "petit-albert",
@@ -1367,7 +1392,8 @@
           ]
         }
       ],
-      "bytes": 76231345
+      "bytes": 76231345,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "secrets-egyptiens",
@@ -1419,7 +1445,8 @@
           ]
         }
       ],
-      "bytes": 134418763
+      "bytes": 134418763,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "dragon-rouge",
@@ -1459,7 +1486,8 @@
           ]
         }
       ],
-      "bytes": 30315288
+      "bytes": 30315288,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "long-lost-friend",
@@ -1501,7 +1529,8 @@
           ]
         }
       ],
-      "bytes": 48533225
+      "bytes": 48533225,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "grimorium-verum",
@@ -1535,7 +1564,8 @@
           "bytes": 1399572
         }
       ],
-      "bytes": 1457893
+      "bytes": 1457893,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "testament-salomon",
@@ -1570,7 +1600,8 @@
           "bytes": 1800588
         }
       ],
-      "bytes": 1872215
+      "bytes": 1872215,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "grand-albert",
@@ -1603,7 +1634,8 @@
           "bytes": 1866912
         }
       ],
-      "bytes": 1935933
+      "bytes": 1935933,
+      "addedAt": "2026-09-04"
     },
     {
       "id": "livret-trois-prieres",
@@ -1655,7 +1687,8 @@
           ]
         }
       ],
-      "bytes": 2554063
+      "bytes": 2554063,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "abbe-julio",
@@ -1731,7 +1764,8 @@
           ]
         }
       ],
-      "bytes": 416597674
+      "bytes": 416597674,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "office-matin-soir",
@@ -1781,7 +1815,8 @@
           ]
         }
       ],
-      "bytes": 4019557
+      "bytes": 4019557,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "recueil-prieres",
@@ -1837,7 +1872,8 @@
           ]
         }
       ],
-      "bytes": 159168505
+      "bytes": 159168505,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "prieres-faveur",
@@ -1891,7 +1927,8 @@
           ]
         }
       ],
-      "bytes": 5948903
+      "bytes": 5948903,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "priere-deblocage",
@@ -1947,7 +1984,8 @@
           ]
         }
       ],
-      "bytes": 7283490
+      "bytes": 7283490,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "sept-jours-travail",
@@ -1984,7 +2022,8 @@
           "bytes": 141763
         }
       ],
-      "bytes": 176254
+      "bytes": 176254,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "sept-nuits-famille",
@@ -2016,7 +2055,8 @@
           "bytes": 105858
         }
       ],
-      "bytes": 121553
+      "bytes": 121553,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "koran",
@@ -2051,7 +2091,8 @@
           "bytes": 36246426
         }
       ],
-      "bytes": 37876951
+      "bytes": 37876951,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "yahweh",
@@ -2081,7 +2122,8 @@
           "bytes": 16474688
         }
       ],
-      "bytes": 16474688
+      "bytes": 16474688,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "tao-te-king",
@@ -2117,7 +2159,8 @@
         }
       ],
       "order": 5,
-      "bytes": 13421809
+      "bytes": 13421809,
+      "addedAt": "2026-09-04"
     },
     {
       "id": "bhagavad-gita",
@@ -2154,7 +2197,8 @@
         }
       ],
       "order": 6,
-      "bytes": 3648043
+      "bytes": 3648043,
+      "addedAt": "2026-09-04"
     },
     {
       "id": "imitation",
@@ -2189,7 +2233,8 @@
           "bytes": 18832808
         }
       ],
-      "bytes": 19463816
+      "bytes": 19463816,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "vie-devote",
@@ -2224,7 +2269,8 @@
           "bytes": 17180038
         }
       ],
-      "bytes": 17811391
+      "bytes": 17811391,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "combat-spirituel",
@@ -2259,7 +2305,8 @@
           "bytes": 11016528
         }
       ],
-      "bytes": 11364690
+      "bytes": 11364690,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "jean-de-la-croix",
@@ -2295,7 +2342,8 @@
           "bytes": 37330881
         }
       ],
-      "bytes": 38881505
+      "bytes": 38881505,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "prieres-invocations",
@@ -2334,7 +2382,8 @@
           "bytes": 83417
         }
       ],
-      "bytes": 97954
+      "bytes": 97954,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "traite-priere",
@@ -2368,7 +2417,8 @@
           "bytes": 972430
         }
       ],
-      "bytes": 1009514
+      "bytes": 1009514,
+      "addedAt": "2026-09-03"
     },
     {
       "id": "litanies-sacre-coeur",
@@ -2401,7 +2451,8 @@
           "bytes": 148068
         }
       ],
-      "bytes": 151726
+      "bytes": 151726,
+      "addedAt": "2026-09-04"
     },
     {
       "id": "regle-augustin",
@@ -2435,7 +2486,8 @@
           "bytes": 703228
         }
       ],
-      "bytes": 721847
+      "bytes": 721847,
+      "addedAt": "2026-09-04"
     },
     {
       "id": "secrets-henoch",
@@ -2464,7 +2516,8 @@
           "bytes": 91164
         }
       ],
-      "bytes": 91164
+      "bytes": 91164,
+      "addedAt": "2026-09-11"
     },
     {
       "id": "sefer-raziel",
@@ -2493,7 +2546,8 @@
           "bytes": 6666642
         }
       ],
-      "bytes": 6666642
+      "bytes": 6666642,
+      "addedAt": "2026-09-14"
     },
     {
       "id": "sefer-bahir",
@@ -2522,7 +2576,8 @@
           "bytes": 159356
         }
       ],
-      "bytes": 159356
+      "bytes": 159356,
+      "addedAt": "2026-09-14"
     },
     {
       "id": "sefer-habrit",
@@ -2562,9 +2617,194 @@
           "bytes": 37941262
         }
       ],
-      "bytes": 42220150
+      "bytes": 42220150,
+      "addedAt": "2026-09-14"
+    },
+    {
+      "id": "une-meme-lumiere",
+      "category": "ecritures",
+      "order": 7,
+      "title": "Une même lumière",
+      "subtitle": "Ce que les Écritures des cinq grandes religions ont en commun",
+      "author": "Popaul Kabeya",
+      "era": "2026 — textes du XVe s. av. J.-C. au IXe s.",
+      "lang": "fr",
+      "glyph": "✹",
+      "tags": [
+        "religions comparées",
+        "hindouisme",
+        "judaïsme",
+        "bouddhisme",
+        "christianisme",
+        "islam",
+        "règle d'or",
+        "écritures",
+        "dialogue interreligieux"
+      ],
+      "summary": "Dix-sept thèmes — Dieu et l'Absolu, la lumière, la Règle d'or, la compassion, la paix, le pardon, le don, les parents, la vérité, la maîtrise de soi, la prière, le cœur, le détachement, les actes, la mort — où les Veda et la Gîtâ, la Torah, le Dhammapada, l'Évangile et le Coran parlent côte à côte, cités dans leurs traductions anciennes et vérifiés dans leurs sources. Chaque thème dit ce qui converge et ce qui nuance ; une partie entière expose ce qui distingue les cinq traditions.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Une-Meme-Lumiere-Cinq-Religions-FR.md",
+          "bytes": 148908
+        },
+        {
+          "label": "Version PDF — 74 pages",
+          "type": "pdf",
+          "path": "Une-Meme-Lumiere-Cinq-Religions-FR.pdf",
+          "bytes": 4167536
+        }
+      ],
+      "bytes": 4316444,
+      "addedAt": "2026-09-12"
+    },
+    {
+      "id": "levi-fables-symboles",
+      "category": "doctrine",
+      "order": 5,
+      "title": "Fables et Symboles",
+      "subtitle": "avec leur explication",
+      "author": "Éliphas Lévi",
+      "era": "1862",
+      "lang": "fr",
+      "glyph": "☥",
+      "tags": [
+        "éliphas lévi",
+        "fables",
+        "symboles",
+        "kabbale",
+        "allégorie"
+      ],
+      "summary": "L'un des derniers ouvrages d'Éliphas Lévi : un recueil de fables suivies de leur explication ésotérique, dans la lignée de son Dogme et Rituel de la Haute Magie déjà présents dans cette bibliothèque.",
+      "volumes": [
+        {
+          "label": "Fac-similé PDF",
+          "type": "pdf",
+          "path": "Fables-et-Symboles-Levi-FR.pdf",
+          "bytes": 98926
+        }
+      ],
+      "bytes": 98926,
+      "addedAt": "2026-09-26"
+    },
+    {
+      "id": "levi-science-esprits",
+      "category": "doctrine",
+      "order": 6,
+      "title": "La Science des Esprits",
+      "subtitle": "Révélation du dogme secret des kabbalistes",
+      "author": "Éliphas Lévi",
+      "era": "1865",
+      "lang": "fr",
+      "glyph": "☥",
+      "tags": [
+        "éliphas lévi",
+        "kabbale",
+        "spiritisme",
+        "dogme secret",
+        "évangiles"
+      ],
+      "summary": "Révélation du dogme secret des kabbalistes, esprit occulte des Évangiles, et appréciation des doctrines et des phénomènes spirites — l'un des derniers ouvrages d'Éliphas Lévi.",
+      "volumes": [
+        {
+          "label": "Fac-similé PDF",
+          "type": "pdf",
+          "path": "Science-des-Esprits-Levi-FR.pdf",
+          "bytes": 10664400
+        }
+      ],
+      "bytes": 10664400,
+      "addedAt": "2026-09-26"
+    },
+    {
+      "id": "grand-grimoire",
+      "category": "grimoires",
+      "order": 14,
+      "title": "Le Grand Grimoire",
+      "subtitle": "ou l'Art de commander les esprits célestes, aériens, terrestres, infernaux (Dragon Rouge)",
+      "author": "Antonio Venitiana (attr.)",
+      "era": "1823 / éd. 1845",
+      "lang": "fr",
+      "glyph": "☾",
+      "tags": [
+        "grimoire",
+        "dragon rouge",
+        "magie noire",
+        "esprits",
+        "pacte"
+      ],
+      "summary": "Grimoire français du XIXe siècle, distinct du Véritable Dragon Rouge déjà présent dans cette bibliothèque : l'art de commander les esprits célestes, aériens, terrestres et infernaux, attribué au légendaire pape Honorius. Fac-similé numérisé, d'une lisibilité inégale.",
+      "volumes": [
+        {
+          "label": "Fac-similé PDF",
+          "type": "pdf",
+          "path": "Dragon-Rouge-Grand-Grimoire/Grand-Grimoire-Dragon-Rouge-1823-FR.pdf",
+          "bytes": 2953590
+        }
+      ],
+      "bytes": 2953590,
+      "addedAt": "2026-09-26"
+    },
+    {
+      "id": "protevangile-jacques",
+      "category": "apocryphes",
+      "order": 11,
+      "title": "Protévangile de Jacques le Mineur",
+      "subtitle": "Évangile apocryphe de l'enfance de Marie",
+      "author": "Attribué à Jacques",
+      "era": "IIe siècle",
+      "lang": "fr",
+      "glyph": "☥",
+      "tags": [
+        "apocryphe",
+        "enfance de marie",
+        "annonciation",
+        "nativité",
+        "jacques"
+      ],
+      "summary": "Le plus influent des évangiles apocryphes de l'enfance : la naissance et la présentation de Marie au Temple, l'Annonciation, la naissance virginale de Jésus dans la grotte, et l'épreuve des eaux amères. Traduction française de Gustave Brumet (XIXe siècle), domaine public.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Protevangile-Jacques-Brumet-FR.md",
+          "bytes": 29231
+        }
+      ],
+      "bytes": 29231,
+      "addedAt": "2026-09-26"
+    },
+    {
+      "id": "arbatel",
+      "category": "grimoires",
+      "order": 15,
+      "title": "Arbatel of Magic",
+      "subtitle": "Arbatel de magia veterum",
+      "author": "Anonyme",
+      "era": "1575 / trad. 1655",
+      "lang": "en",
+      "glyph": "☾",
+      "tags": [
+        "grimoire",
+        "magie olympique",
+        "esprits olympiens",
+        "renaissance",
+        "robert turner"
+      ],
+      "summary": "Traité de magie de la Renaissance (Bâle, 1575) à la réputation plus douce que les autres grimoires de cette bibliothèque : sept septénaires d'aphorismes sur les Esprits Olympiques et l'usage de la magie pour la gloire de Dieu. Traduction anglaise de Robert Turner, 1655, domaine public.",
+      "volumes": [
+        {
+          "label": "Full text",
+          "type": "md",
+          "path": "Arbatel-of-Magic-Turner-EN.md",
+          "bytes": 75597
+        }
+      ],
+      "bytes": 75597,
+      "addedAt": "2026-09-26"
     }
   ],
-  "totalBytes": 3954583477,
-  "generatedAt": "2026-09-14"
+  "totalBytes": 3972721665,
+  "generatedAt": "2026-09-26"
 }

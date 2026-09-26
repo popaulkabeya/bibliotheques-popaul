@@ -1,6 +1,7 @@
 /**
  * dialogue.js — Confirmation dessinée par l'application, à la place de confirm().
  */
+import { t } from './i18n.js';
 
 /**
  * Confirmation dessinée par l'application.
@@ -9,7 +10,7 @@
  * « non » en silence, et l'action semble ne rien faire. On ne s'y fie plus.
  * @returns {Promise<boolean>}
  */
-export function demander({ titre, message, valider = 'Confirmer', annuler = 'Annuler', danger = false }) {
+export function demander({ titre, message, valider = t('dialogue.confirm'), annuler = t('dialogue.cancel'), danger = false }) {
   return new Promise((resolve) => {
     const fond = document.createElement('div');
     fond.className = 'ask-wrap';
