@@ -21,6 +21,15 @@ const dateAjoutEnClair = (iso) => {
   return FMT_AJOUT.format(new Date(y, m - 1, j));
 };
 
+/** Un ajout de moins de 14 jours mérite le badge « Nouveau » sur sa vignette. */
+const JOURS_NOUVEAU = 14;
+function estNouveau(iso) {
+  if (!iso) return false;
+  const [y, m, j] = iso.split('-').map(Number);
+  const ecart = (Date.now() - new Date(y, m - 1, j).getTime()) / 86400000;
+  return ecart >= 0 && ecart < JOURS_NOUVEAU;
+}
+
 export const catOf = (id) => state.catalog.categories.find((c) => c.id === id);
 export const bookOf = (id) => state.catalog.books.find((b) => b.id === id);
 
@@ -157,6 +166,7 @@ function cardHtml(book) {
       ${state.cached.has(book.id) ? '<span class="badge saved" title="Disponible hors-ligne">⤓</span>' : ''}
       ${prog ? `<span class="badge reading" title="${pct} % lu">${pct >= 97 ? '✓' : '◐'}</span>` : ''}
     </div>
+    ${estNouveau(book.addedAt) ? `<span class="badge-new" title="Ajouté le ${dateAjoutEnClair(book.addedAt)}">Nouveau</span>` : ''}
     <div class="cover">
       ${coverFor(book) || `<span class="cover-glyph">${book.glyph}</span>`}
       <span class="cover-era">${escapeHtml(book.era)}</span>

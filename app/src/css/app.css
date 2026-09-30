@@ -212,6 +212,11 @@ button,input,select{font:inherit; color:inherit}
 .badge.reading{color:var(--gold); border-color:rgba(217,164,65,.5)}
 .card-prog{position:absolute; left:0; right:0; bottom:0; height:2.5px; background:rgba(0,0,0,.4); z-index:2}
 .card-prog span{display:block; height:100%; background:var(--gold)}
+.badge-new{
+  position:absolute; top:9px; left:9px; z-index:2; font-size:9px; font-weight:600;
+  letter-spacing:.09em; text-transform:uppercase; color:var(--ink); background:var(--gold);
+  padding:3px 8px; border-radius:20px; box-shadow:0 2px 8px rgba(0,0,0,.35);
+}
 
 /* ── résultats de recherche dans les prières (extrait, pas le livre entier) ── */
 .presults{margin-bottom:36px}
