@@ -4,6 +4,7 @@
  */
 import { recent, allAlarms, faitesDuJour, marquerFaite, retirerFaite, allProgrammes, jourClef as jourCle } from './store.js';
 import { seancesCommeItems } from './pratique.js';
+import { suggestionsSemaine } from './programmes.js';
 import { escapeHtml, url } from './reader.js';
 import { state, catOf, bookOf } from './library.js';
 import { resumer } from './progress.js';
@@ -123,6 +124,7 @@ export async function renderHome() {
   const agenda = await agendaDuJour();
   const aFaire = agenda.filter((a) => a.etat !== 'passe');
   const suggestion = texteDuJour([livret?.id, ...reprises.map((r) => r.bookId)]);
+  const suggSemaine = (await suggestionsSemaine(3)).filter((b) => b.id !== suggestion?.id);
 
   $('home').innerHTML = `
     <header class="home-head">
@@ -149,6 +151,14 @@ export async function renderHome() {
       <div class="home-corpus">${state.catalog.categories
         .slice().sort((a, b) => a.order - b.order).map(corpusTile).join('')}</div>
     </section>
+
+    ${suggSemaine.length ? `
+    <section class="home-block">
+      <h2 class="home-h">D'après ta semaine de prière</h2>
+      <p class="pg-lede">Des livres proches des thèmes de tes prières programmées ces sept prochains
+        jours — à ouvrir en plus de l'office, pas à sa place.</p>
+      <div class="home-sugg-list">${suggSemaine.map(suggestionCard).join('')}</div>
+    </section>` : ''}
 
     ${suggestion ? `
     <section class="home-block">

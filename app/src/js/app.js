@@ -2,6 +2,7 @@
  * app.js — Amorçage, routage, contrôles du lecteur et pilotage de la voix.
  */
 import * as store from './store.js';
+import { armerLecture, annulerLecture, suspendreLecture, reprendreLecture, rattraperLecture, initLectureValidation } from './lecture-validation.js';
 import * as lib from './library.js';
 import * as rd from './reader.js';
 import { supported as ttsOk } from './tts.js';
@@ -65,59 +66,17 @@ let deferredInstall = null;
   });
   document.addEventListener('bs:toast', (e) => toast(e.detail));
   initSante(toast);
+  initLectureValidation(toast, renderHome);
   initStockage({ onToast: toast, onRefresh: () => lib.renderShelves(location.hash.startsWith('#/c/') ? location.hash.slice(4) : '') });
 
   if (ttsOk()) await voice.init(toast);
   else { $('speakBtn').hidden = true; }
 
+  rattraperLecture();   // une lecture de 2 min peut avoir mûri pendant que l'app était fermée
+
   $('boot').classList.add('gone');
   setTimeout(() => $('boot').remove(), 600);
 })();
-
-/* ═══════════════ Validation d'une prière par la lecture ═══════════════ */
-
-/**
- * Ouvrir une prière ne suffit pas à la marquer faite : il faut y rester.
- * On compte le temps réellement passé dans le lecteur — le décompte se suspend
- * quand l'onglet passe à l'arrière-plan et s'annule si l'on referme trop tôt —
- * puis on valide au bout de DUREE_LECTURE.
- */
-const DUREE_LECTURE = 2 * 60 * 1000;
-let veille = null;   // { alarmId, cumul, depuis, timer }
-
-/** Démarre le décompte pour un rappel. Un nouveau départ remplace le précédent. */
-function armerLecture(alarmId) {
-  annulerLecture();
-  veille = { alarmId, cumul: 0, depuis: 0, timer: null };
-  reprendreLecture();
-}
-
-function reprendreLecture() {
-  if (!veille || veille.timer) return;
-  veille.depuis = Date.now();
-  veille.timer = setTimeout(validerLecture, Math.max(0, DUREE_LECTURE - veille.cumul));
-}
-
-function suspendreLecture() {
-  if (!veille || !veille.timer) return;
-  clearTimeout(veille.timer);
-  veille.timer = null;
-  veille.cumul += Date.now() - veille.depuis;
-}
-
-function annulerLecture() {
-  suspendreLecture();
-  veille = null;
-}
-
-async function validerLecture() {
-  if (!veille) return;
-  const { alarmId } = veille;
-  veille = null;
-  await store.marquerFaite(alarmId);
-  renderHome();                                  // l'agenda est prêt quand on ressortira
-  toast('Prière marquée comme faite — 2 minutes de lecture.');
-}
 
 /* ═══════════════ Routage ═══════════════ */
 
@@ -202,7 +161,9 @@ function wire() {
   });
   // Le temps ne court que pendant qu'on a le texte sous les yeux.
   document.addEventListener('visibilitychange', () => {
-    if (document.hidden) suspendreLecture(); else reprendreLecture();
+    if (document.hidden) { suspendreLecture(); return; }
+    reprendreLecture();
+    rattraperLecture();   // couvre le cas où la page a été déchargée pendant l'absence
   });
 
   document.addEventListener('keydown', (e) => {

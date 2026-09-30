@@ -62,6 +62,8 @@
 
 /* ── reprendre la lecture ── */
 .home-resume{display:grid; grid-template-columns:repeat(auto-fill,minmax(268px,1fr)); gap:13px}
+.home-sugg-list{display:grid; grid-template-columns:repeat(auto-fill,minmax(320px,1fr)); gap:13px}
+.home-sugg-list .sugg{height:100%}
 .rcard{
   display:flex; gap:14px; align-items:center; padding:15px 16px; cursor:pointer;
   border:1px solid var(--line); border-radius:12px; background:var(--ink-2);
@@ -164,11 +166,15 @@
 .ag-bilan b.manq{color:var(--warn)}
 
 .ag-check{
-  flex-shrink:0; width:26px; height:26px; border-radius:50%; cursor:pointer;
+  /* Le rond visible reste discret (26px) ; la zone tactile réelle va jusqu'à 44px via ::before,
+     le minimum recommandé pour le doigt — un rond trop petit se rate facilement sur iPhone,
+     et un tapotement manqué tombe alors sur la ligne (qui ouvre le livre) sans jamais cocher. */
+  position:relative; flex-shrink:0; width:26px; height:26px; border-radius:50%; cursor:pointer;
   border:1.5px solid var(--line); background:transparent; color:var(--ink);
   font-size:13px; line-height:1; display:grid; place-content:center;
   transition:.18s var(--ease);
 }
+.ag-check::before{content:''; position:absolute; inset:-9px}
 .ag-check:hover{border-color:var(--gold); background:rgba(217,164,65,.12)}
 .ag-item .ag-corps{cursor:pointer}
 

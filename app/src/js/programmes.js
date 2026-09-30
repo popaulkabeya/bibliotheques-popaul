@@ -564,3 +564,56 @@ function brancherUn(p) {
 
   brancherCochage();
 }
+
+/* ═══════════════ Suggestions tirées de la semaine de prière ═══════════════ */
+
+/** Mots-outils : trop communs pour indiquer un thème, à écarter des intentions. */
+const MOTS_VIDES = new Set(['pour','avec','dans','vers','tout','tous','toute','toutes','cette','contre',
+  'leur','leurs','notre','votre','nos','vos','sur','les','des','une','que','qui','ses','mes','ces',
+  'sans','plus','être','avoir','fait','faire','sera','sont','soit','ceux','celle','celles','celui']);
+
+/** Mots significatifs (4 lettres ou plus, hors mots-outils) d'un texte libre, accents ignorés. */
+const motsClefs = (texte) => (texte || '').toLowerCase()
+  .normalize('NFD').replace(/[̀-ͯ]/g, '')
+  .split(/[^a-z]+/i).filter((m) => m.length >= 4 && !MOTS_VIDES.has(m));
+
+/**
+ * Livres suggérés d'après les prières programmées cette semaine (aujourd'hui + 6 jours).
+ * Pondère les tags des livres déjà liés à une séance et les mots-clefs des intentions et
+ * intitulés (y compris sans livre, pour les séances composées à la main), puis classe le
+ * reste du catalogue par recoupement. Exclut ce qui est déjà programmé cette semaine.
+ */
+export async function suggestionsSemaine(n = 3) {
+  const debut = aujourdhui();
+  const jours = Array.from({ length: 7 }, (_, i) => plusDeJours(debut, i));
+  const programmes = (await allProgrammes()).filter((p) => etat(p) !== 'termine');
+  const seances = programmes.flatMap((p) => jours.flatMap((j) => seancesDu(p, j)));
+  if (!seances.length) return [];
+
+  const dejaId = new Set(seances.map((s) => s.bookId).filter(Boolean));
+  const poids = new Map();
+  const ajoute = (m, v) => poids.set(m, (poids.get(m) || 0) + v);
+
+  for (const s of seances) {
+    const livre = s.bookId ? bookOf(s.bookId) : null;
+    if (livre) (livre.tags || []).forEach((t) => ajoute(t.toLowerCase(), 2));
+    motsClefs(s.intention).forEach((m) => ajoute(m, 1));
+    motsClefs(s.intitule).forEach((m) => ajoute(m, 1));
+  }
+  if (!poids.size) return [];
+
+  const score = (b) => {
+    let s = 0;
+    for (const t of (b.tags || [])) s += poids.get(t.toLowerCase()) || 0;
+    for (const m of new Set(motsClefs(b.summary))) s += (poids.get(m) || 0) * 0.3;
+    return s;
+  };
+
+  return state.catalog.books
+    .filter((b) => !dejaId.has(b.id))
+    .map((b) => ({ b, s: score(b) }))
+    .filter((x) => x.s > 0)
+    .sort((a, b) => b.s - a.s)
+    .slice(0, n)
+    .map((x) => x.b);
+}
