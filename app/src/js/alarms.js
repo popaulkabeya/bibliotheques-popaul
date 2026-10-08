@@ -5,7 +5,8 @@
  *  — un minuteur interne qui notifie tant que l'application tourne (onglet, même en arrière-plan) ;
  *  — un export .ics, pour confier les rappels à l'agenda du téléphone, qui lui sonne toujours.
  */
-import { allAlarms, saveAlarm, deleteAlarm } from './store.js';
+import { allAlarms, saveAlarm, deleteAlarm, allProgrammes, jourClef } from './store.js';
+import { seancesCommeItems } from './pratique.js';
 import { escapeHtml } from './reader.js';
 import { bookOf } from './library.js';
 
@@ -47,7 +48,17 @@ async function verifier() {
     await saveAlarm(a);
     sonner(a);
   }
+
+  // Les séances d'un programme sonnent aussi, sur sa seule période. Leur identifiant
+  // porte déjà la date : un ensemble en mémoire suffit à ne sonner qu'une fois.
+  for (const s of seancesCommeItems(await allProgrammes(), jourClef(maintenant))) {
+    const retard = minutes - (s.hour * 60 + s.minute);
+    if (s.faite || retard < 0 || retard > 3 || seancesSonnees.has(s.id)) continue;
+    seancesSonnees.add(s.id);
+    sonner(s);
+  }
 }
+const seancesSonnees = new Set();
 
 /** Prochaine occurrence d'un rappel, en texte lisible. */
 export function prochaine(a) {
@@ -108,7 +119,8 @@ function banniere(a) {
   setTimeout(fermer, 60000);
 }
 
-const ouvrirDepuis = (a) => onOuvrir?.(a.bookId, a.volume ?? 0, a.section ?? null, a.id);
+// Une séance de programme se pointe dans son programme, pas comme un rappel lu.
+const ouvrirDepuis = (a) => onOuvrir?.(a.bookId, a.volume ?? 0, a.section ?? null, a.source === 'prog' ? null : a.id);
 
 /* ═══════════════ Export vers l'agenda ═══════════════ */
 

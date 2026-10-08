@@ -40,7 +40,21 @@ let deferredInstall = null;
     lib.state.prayers = await res.json();
   } catch { lib.state.prayers = []; }   // index optionnel : la recherche par livre continue de fonctionner sans lui
 
+  // Livrets privés (noms réels de personnes et d'entreprises) : hors de Git, ajoutés
+  // au catalogue et à l'index seulement s'ils sont présents sur ce disque.
+  const [livresPrives, prieresPrivees] = await Promise.all(
+    ['src/data/catalog.prive.json', 'src/data/prayers.prive.json'].map((url) =>
+      fetch(url).then((r) => (r.ok ? r.json() : null)).catch(() => null)));
+  for (const b of livresPrives?.books || []) {
+    lib.state.catalog.books.push(b);
+    lib.state.catalog.totalBytes = (lib.state.catalog.totalBytes || 0) + (b.bytes || 0);
+  }
+  if (Array.isArray(prieresPrivees)) lib.state.prayers.push(...prieresPrivees);
+
   await lib.refreshState();
+  // Un programme enregistré avant une mise à jour de son modèle reprend les nouvelles séances.
+  // Le module accompagne un livret privé : il peut manquer.
+  await import('./trente-jours.js').then((m) => m.actualiserTrenteJours()).catch(() => {});
   lib.renderNav();
   lib.renderStats();
   lib.renderContinue();

@@ -3,7 +3,7 @@
  * Deux caches distincts : « shell » (versionné, purgé à chaque mise à jour)
  * et « livres-v1 » (piloté par l'utilisateur, jamais purgé automatiquement).
  */
-const SHELL = 'shell-v68';
+const SHELL = 'shell-v76';
 const BOOKS = 'livres-v1';
 
 const SHELL_FILES = [
@@ -14,7 +14,7 @@ const SHELL_FILES = [
   './src/js/store.js', './src/js/tts.js', './src/js/home.js',
   './src/js/alarms.js', './src/js/progress.js', './src/js/sentences.js',
   './src/js/voicebar.js', './src/js/lisibilite.js', './src/js/viewers.js',
-  './src/js/programmes.js', './src/css/programmes.css', './src/js/pdf-recherche.js',
+  './src/js/programmes.js', './src/js/trente-jours.js', './src/css/programmes.css', './src/js/pdf-recherche.js',
   './src/js/miniplayer.js', './src/js/miniplayer-ui.js', './src/css/miniplayer.css',
   './src/js/pratique.js', './src/css/pratique.css', './src/js/recherche.js', './src/css/recherche.css',
   './src/js/dialogue.js', './src/js/sante.js', './src/js/stockage.js',
@@ -105,7 +105,8 @@ self.addEventListener('fetch', (event) => {
     // 2. Page d'entrée et catalogue → réseau d'abord. Ce sont les deux fichiers qui
     //    changent quand la bibliothèque évolue ; « cache d'abord » aurait toujours
     //    un rechargement de retard. Repli sur le cache si le réseau manque.
-    if (url.pathname.endsWith('/catalog.json') || url.pathname.endsWith('/prayers.json') || request.mode === 'navigate' ||
+    if (url.pathname.endsWith('/catalog.json') || url.pathname.endsWith('/prayers.json') ||
+        url.pathname.endsWith('.prive.json') || request.mode === 'navigate' ||
         url.pathname.endsWith('/app/') || url.pathname.endsWith('/index.html')) {
       try {
         const fresh = await fetch(request, { cache: 'no-store' });
