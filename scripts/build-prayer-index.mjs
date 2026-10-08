@@ -9,10 +9,14 @@
  * document rendu (marked, dans l'ordre du fichier) — c'est ce qui permet au
  * lecteur de sauter directement à la bonne section (voir app.js/goToSection).
  *
+ * Les livrets privés (noms réels de personnes et d'entreprises) restent hors de Git :
+ * leurs fiches sont dans catalog.prive.json, et leurs prières vont dans prayers.prive.json,
+ * ignoré lui aussi. Chaque livret privé à volume .md y est indexé, sans figurer ci-dessous.
+ *
  * À relancer après toute modification des .md sources listées ci-dessous.
  * Usage : node scripts/build-prayer-index.mjs
  */
-import { readFileSync, writeFileSync } from 'node:fs';
+import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { join, resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -119,17 +123,30 @@ function parseBook(bookId, filePath, mdVolIndex) {
   return entries;
 }
 
-function main() {
-  const catalog = JSON.parse(readFileSync(join(ROOT, 'app/src/data/catalog.json'), 'utf8'));
+function indexer(catalog, sources, sortie) {
   const all = [];
-  for (const { bookId, file } of SOURCES) {
+  for (const { bookId, file } of sources) {
     const mdVolIndex = mdVolumeIndex(catalog, bookId);
     const entries = parseBook(bookId, join(ROOT, file), mdVolIndex);
     console.log(`${bookId} : ${entries.length} prières indexées`);
     all.push(...entries);
   }
-  writeFileSync(join(ROOT, 'app/src/data/prayers.json'), JSON.stringify(all, null, 2) + '\n');
-  console.log(`\n${all.length} prières écrites dans app/src/data/prayers.json`);
+  writeFileSync(join(ROOT, sortie), JSON.stringify(all, null, 2) + '\n');
+  console.log(`\n${all.length} prières écrites dans ${sortie}\n`);
+}
+
+function main() {
+  const catalog = JSON.parse(readFileSync(join(ROOT, 'app/src/data/catalog.json'), 'utf8'));
+  indexer(catalog, SOURCES, 'app/src/data/prayers.json');
+
+  const prive = join(ROOT, 'app/src/data/catalog.prive.json');
+  if (!existsSync(prive)) return;
+  const catalogPrive = JSON.parse(readFileSync(prive, 'utf8'));
+  const sources = catalogPrive.books.flatMap((b) => {
+    const md = b.volumes.find((v) => v.type === 'md');
+    return md ? [{ bookId: b.id, file: md.path }] : [];
+  });
+  indexer(catalogPrive, sources, 'app/src/data/prayers.prive.json');
 }
 
 main();

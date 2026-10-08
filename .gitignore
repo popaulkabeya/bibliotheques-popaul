@@ -23,3 +23,8 @@ scratch/
 # Offices privés : noms réels de personnes et d'entreprises, gardés hors de Git.
 /Trois-Soirs-contre-le-Licenciement/
 /Action-de-Grace-et-Scellement/
+# Leurs fiches et leurs prières indexées (chargées par l'application si elles sont là),
+# et le module du programme qui accompagne l'un d'eux. Les dossiers des autres livrets
+# privés sont exclus localement (.git/info/exclude), pour que leur titre même reste privé.
+app/src/data/*.prive.json
+app/src/js/trente-jours.js

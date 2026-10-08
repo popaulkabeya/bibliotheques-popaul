@@ -7,9 +7,12 @@
  * un rythme régulier comme un livret dont chaque jour a son propre texte.
  * Cochage conservé par jour : `faits['2026-08-30'] = ['s1','s2']`.
  */
-import { allProgrammes, saveProgramme, deleteProgramme, getProgramme } from './store.js';
+import { allProgrammes, saveProgramme, deleteProgramme, getProgramme, deleteAlarm } from './store.js';
 import { escapeHtml } from './reader.js';
 import { bookOf, state } from './library.js';
+
+// Le programme des trente jours accompagne un livret privé, hors de Git : sans lui, pas de bouton.
+const trenteJours = await import('./trente-jours.js').catch(() => null);
 
 const $ = (id) => document.getElementById(id);
 
@@ -247,13 +250,17 @@ function carteProgramme(p) {
 
 function blocModeles() {
   const m = livretsModeles();
-  if (!m.length) return '';
+  const trente = trenteJours?.modeleTrenteJours() ? `<div class="pg-modeles">
+      <button class="mini-btn" data-trente-jours>Trente Jours pour Gouverner — 7 oct. → 5 nov.</button></div>` : '';
+  if (!m.length) return trente ? `<section class="home-block">
+    <h2 class="home-h">Partir d'un livret</h2>${trente}</section>` : '';
   return `<section class="home-block">
     <h2 class="home-h">Partir d'un livret</h2>
     <p class="pg-lede">Ces livrets sont bâtis jour par jour : le programme se remplit tout seul —
       les passages, l'intention et les séances de chaque journée. Il commence aujourd'hui.</p>
     <div class="pg-modeles">${m.map((b) =>
       `<button class="mini-btn" data-modele="${b.id}">${escapeHtml(b.title)}</button>`).join('')}</div>
+    ${trente}
   </section>`;
 }
 
@@ -532,6 +539,21 @@ function brancherListe({ mode = 'creer', prog = null } = {}) {
       toast(`« ${p.titre} » commence aujourd'hui — ${nbJours(p)} jours.`);
       location.hash = `#/programmes/${p.id}`;
     });
+  });
+
+  // — le programme du mois, à dates fixes —
+  document.querySelector('[data-trente-jours]')?.addEventListener('click', async () => {
+    const { ID_TRENTE_JOURS, modeleTrenteJours } = trenteJours;
+    if (!(await getProgramme(ID_TRENTE_JOURS))) {
+      const p = modeleTrenteJours();
+      if (!p) { toast("Le livret n'est pas indexé."); return; }
+      await saveProgramme(p);
+      // Le programme porte déjà la prière de Joseph matin, midi et soir, à ses dates :
+      // les anciens rappels quotidiens « Comme Joseph » feraient doublon.
+      for (const id of ['joseph-matin', 'joseph-midi', 'joseph-soir']) await deleteAlarm(id);
+      toast(`« ${p.titre} » programmé du 7 octobre au 5 novembre — ${p.seances.length} séances.`);
+    } else toast('Ce programme est déjà en place.');
+    location.hash = `#/programmes/${ID_TRENTE_JOURS}`;
   });
 
   brancherCochage();
