@@ -89,12 +89,24 @@ function sonner(a) {
   const livre = bookOf(a.bookId);
   const corps = livre ? `${livre.title}${a.sectionLabel ? ' · ' + a.sectionLabel : ''}` : '';
 
-  if (permission() === 'granted') {
-    const n = new Notification(a.label, { body: corps, icon: 'icons/icon-192.png', tag: a.id,
-                                          badge: 'icons/icon-192.png', requireInteraction: false });
-    n.onclick = () => { window.focus(); ouvrirDepuis(a); n.close(); };
-  }
+  if (permission() === 'granted') notifier(a, corps);
   banniere(a);
+}
+
+/**
+ * Le constructeur `Notification` est refusé sur Android (« Illegal constructor ») et dans
+ * certaines applications installées : seul le service worker y notifie. Sans ce repli,
+ * l'exception empêchait même le bandeau de s'afficher — le rappel était perdu en silence.
+ */
+function notifier(a, corps) {
+  const options = { body: corps, icon: 'icons/icon-192.png', tag: a.id,
+                    badge: 'icons/icon-192.png', requireInteraction: false };
+  try {
+    const n = new Notification(a.label, options);
+    n.onclick = () => { window.focus(); ouvrirDepuis(a); n.close(); };
+  } catch {
+    navigator.serviceWorker?.ready.then((reg) => reg.showNotification(a.label, options)).catch(() => {});
+  }
 }
 
 /** Repli visible dans l'application, utile aussi quand les notifications sont refusées. */
@@ -119,8 +131,9 @@ function banniere(a) {
   setTimeout(fermer, 60000);
 }
 
-// Une séance de programme se pointe dans son programme, pas comme un rappel lu.
-const ouvrirDepuis = (a) => onOuvrir?.(a.bookId, a.volume ?? 0, a.section ?? null, a.source === 'prog' ? null : a.id);
+// L'identifiant suit dans tous les cas : la lecture de deux minutes sait pointer un rappel
+// comme une séance de programme (voir lecture-validation.js).
+const ouvrirDepuis = (a) => onOuvrir?.(a.bookId, a.volume ?? 0, a.section ?? null, a.id);
 
 /* ═══════════════ Export vers l'agenda ═══════════════ */
 

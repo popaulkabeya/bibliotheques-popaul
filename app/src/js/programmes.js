@@ -10,6 +10,7 @@
 import { allProgrammes, saveProgramme, deleteProgramme, getProgramme, deleteAlarm } from './store.js';
 import { escapeHtml } from './reader.js';
 import { bookOf, state } from './library.js';
+import { armerLecture } from './lecture-validation.js';
 
 // Le programme des trente jours accompagne un livret privé, hors de Git : sans lui, pas de bouton.
 const trenteJours = await import('./trente-jours.js').catch(() => null);
@@ -565,6 +566,13 @@ function brancherCochage() {
   if (cochageBranche) return;
   cochageBranche = true;
   $('programmes').addEventListener('click', async (e) => {
+    // « Prier » depuis le programme vaut l'accueil : deux minutes dans le texte valident la séance du jour.
+    const prier = e.target.closest('.pg-ouvrir')?.closest('.pg-seance');
+    if (prier) {
+      const { prog, jour, seance } = prier.dataset;
+      if (jour === aujourdhui() && !prier.classList.contains('fait')) armerLecture(`prog:${prog}:${jour}:${seance}`);
+      return;
+    }
     const el = e.target.closest('[data-check]')?.closest('.pg-seance');
     if (!el) return;
     await basculer(el.dataset.prog, el.dataset.jour, el.dataset.seance);

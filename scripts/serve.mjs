@@ -39,6 +39,8 @@ const server = createServer((req, res) => {
     return res.writeHead(302, { Location: '/app/' }).end();
   }
   if (pathname.endsWith('/')) pathname += 'index.html';
+  // Fichiers cachés (.git, .claude…) : le serveur écoute aussi le réseau local, ils n'ont rien à y faire.
+  if (pathname.split('/').some((seg) => seg.startsWith('.'))) return send(res, 404, 'Introuvable');
 
   const file = resolve(join(ROOT, pathname));
   // Empêche toute sortie de l'arborescence du projet
@@ -81,6 +83,10 @@ const server = createServer((req, res) => {
     if (m) {
       let start = m[1] ? parseInt(m[1], 10) : 0;
       let end = m[2] ? parseInt(m[2], 10) : stat.size - 1;
+      if (!m[1] && m[2]) {                   // « bytes=-500 » : les 500 derniers octets, pas les 501 premiers
+        start = Math.max(0, stat.size - parseInt(m[2], 10));
+        end = stat.size - 1;
+      }
       if (start >= stat.size || end >= stat.size) end = stat.size - 1;
       if (start > end) return res.writeHead(416, { 'Content-Range': `bytes */${stat.size}` }).end();
       res.writeHead(206, { ...headers,
