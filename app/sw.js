@@ -3,7 +3,7 @@
  * Deux caches distincts : « shell » (versionné, purgé à chaque mise à jour)
  * et « livres-v1 » (piloté par l'utilisateur, jamais purgé automatiquement).
  */
-const SHELL = 'shell-v77';
+const SHELL = 'shell-v81';
 const BOOKS = 'livres-v1';
 
 const SHELL_FILES = [
@@ -31,6 +31,16 @@ self.addEventListener('install', (e) => {
     // addAll échoue en bloc : on tolère les absences (icône PNG optionnelle)
     await Promise.all(SHELL_FILES.map((f) => cache.add(f).catch(() => {})));
     self.skipWaiting();
+  })());
+});
+
+/** Une notification de rappel émise par le service worker (Android) ramène à l'application. */
+self.addEventListener('notificationclick', (e) => {
+  e.notification.close();
+  e.waitUntil((async () => {
+    const fenetres = await self.clients.matchAll({ type: 'window', includeUncontrolled: true });
+    if (fenetres.length) return fenetres[0].focus();
+    return self.clients.openWindow('./');
   })());
 });
 

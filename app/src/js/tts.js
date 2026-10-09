@@ -183,6 +183,9 @@ export class Speaker {
     const wasPlaying = this.playing;
     this.index = next;
     try { synth.cancel(); } catch {}
+    // En pause, la phrase suspendue vient d'être annulée : « reprendre » ne relancerait que
+    // du vide, bouton sur lecture et voix muette. On sort de la pause pour relire la nouvelle.
+    if (this.paused) { this.paused = false; try { synth.resume(); } catch {} }
     this.onSentence?.(this.index, this.queue[this.index]);
     if (wasPlaying) { this.playing = true; this.paused = false; setTimeout(() => this._speak(), 60); }
     this._emit();

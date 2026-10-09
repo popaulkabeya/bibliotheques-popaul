@@ -2,7 +2,7 @@
  * app.js — Amorçage, routage, contrôles du lecteur et pilotage de la voix.
  */
 import * as store from './store.js';
-import { armerLecture, annulerLecture, suspendreLecture, reprendreLecture, rattraperLecture, initLectureValidation } from './lecture-validation.js';
+import { armerLecture, annulerLecture, suspendreLecture, reprendreLecture, rattraperLecture, recupererSeancesEgarees, initLectureValidation } from './lecture-validation.js';
 import * as lib from './library.js';
 import * as rd from './reader.js';
 import { supported as ttsOk } from './tts.js';
@@ -86,6 +86,7 @@ let deferredInstall = null;
   if (ttsOk()) await voice.init(toast);
   else { $('speakBtn').hidden = true; }
 
+  await recupererSeancesEgarees();   // avant le rattrapage : les deux écrivent dans les programmes
   rattraperLecture();   // une lecture de 2 min peut avoir mûri pendant que l'app était fermée
 
   $('boot').classList.add('gone');

@@ -55,17 +55,18 @@ export async function cacheEverything() {
 
   await store.persist();
   btn.disabled = true;
-  let i = 0;
+  let i = 0, interrompu = false;
   for (const b of books) {
     btn.textContent = `${++i}/${books.length}…`;
     try { await store.cacheBook(b); lib.state.cached.add(b.id); }
-    catch (e) { signaler('Interrompu : ' + e.message); break; }
+    catch (e) { signaler('Interrompu : ' + e.message); interrompu = true; break; }
   }
   btn.disabled = false;
   btn.textContent = t('storage.downloadAll');
   await lib.refreshState();
   rafraichir();
   updateStorage();
-  signaler('Bibliothèque disponible hors connexion.');
+  // Après une interruption, le message d'erreur doit rester : le succès l'aurait recouvert.
+  if (!interrompu) signaler('Bibliothèque disponible hors connexion.');
 }
 

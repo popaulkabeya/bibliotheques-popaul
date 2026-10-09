@@ -37,7 +37,8 @@ export const session = {
 const stage = () => $('stage');
 const spinner = (msg) => { stage().innerHTML = `<div class="loading"><div class="sp"></div><p>${msg}</p></div>`; };
 const fail = (title, detail) => {
-  stage().innerHTML = `<div class="err"><b>${title}</b><span>${detail}</span></div>`;
+  // Le détail peut reprendre un message d'erreur brut : il s'affiche, il ne s'interprète pas.
+  stage().innerHTML = `<div class="err"><b>${escapeHtml(title)}</b><span>${escapeHtml(detail)}</span></div>`;
 };
 
 /* ═══════════════ Surlignage des phrases ═══════════════ */
@@ -402,6 +403,7 @@ export async function openVolume(book, vIndex, opts = {}) {
   $('pager').hidden = true;
   $('toc').hidden = true;
   $('tocBtn').hidden = true;
+  $('readerProg').hidden = true;             // sinon l'avancement du livre précédent reste affiché
   $('readerTitle').textContent = book.title;
   $('readerSub').textContent = `${volume.label} · ${book.author}`;
 
@@ -474,6 +476,10 @@ function arreterMedias() {
 }
 
 export function closeVolume() {
+  // La position d'un texte ne s'enregistre qu'à 700 ms du dernier défilement : refermer
+  // avant ce délai la perdait. On l'enregistre tant que la scène est encore là.
+  clearTimeout(scrollTimer);
+  if (session.kind === 'md') persist();
   resizeObs?.disconnect(); resizeObs = null; clearTimeout(resizeTimer);
   try { pendingRender?.cancel(); } catch {}
   pendingRender = null;

@@ -65,9 +65,40 @@ async function validerLecture() {
   const { alarmId } = veille;
   veille = null;
   try { localStorage.removeItem(CLEF_ARMEE); } catch {}
-  await store.marquerFaite(alarmId);
+  await pointer(alarmId);
   rafraichirAccueil();                                  // l'agenda est prêt quand on ressortira
   signalerToast('Prière marquée comme faite — 2 minutes de lecture.');
+}
+
+/**
+ * Une séance de programme (« prog:<programme>:<jour>:<séance> ») se pointe dans son programme :
+ * `p.faits` est la seule source que l'agenda lit pour elle. Un rappel, lui, va dans l'historique
+ * des prières faites. Sans cette distinction, la lecture était bien comptée, mais jamais relue.
+ */
+const SEANCE = /^prog:([^:]+):([^:]+):(.+)$/;
+
+async function pointer(id) {
+  const m = SEANCE.exec(id);
+  if (!m) return store.marquerFaite(id);
+  const [, pid, jour, sid] = m;
+  const p = await store.getProgramme(pid);
+  const deja = p?.faits?.[jour] || [];
+  if (!p || deja.includes(sid)) return;                // jamais décocher : la lecture ne fait qu'ajouter
+  p.faits = { ...p.faits, [jour]: [...deja, sid] };
+  await store.saveProgramme(p);
+}
+
+/**
+ * Rend à leur programme les séances validées par la lecture avant ce correctif : elles avaient
+ * été rangées parmi les rappels, où l'agenda ne les cherche pas. Une fois au démarrage.
+ */
+export async function recupererSeancesEgarees() {
+  const egarees = ((await store.toutesLesFaites()) || []).filter((f) => SEANCE.test(f.alarmId));
+  for (const f of egarees) {                           // une à une : même programme, même enregistrement
+    await pointer(f.alarmId);
+    await store.retirerFaite(f.alarmId, f.jour);
+  }
+  if (egarees.length) rafraichirAccueil();
 }
 
 /**
@@ -84,7 +115,7 @@ export async function rattraperLecture() {
   if (Date.now() - arme.startedAt < DUREE_LECTURE) return;                                // pas encore l'heure
   localStorage.removeItem(CLEF_ARMEE);
   if (veille?.alarmId === arme.alarmId) veille = null;
-  await store.marquerFaite(arme.alarmId);
+  await pointer(arme.alarmId);
   rafraichirAccueil();
   signalerToast('Prière marquée comme faite — 2 minutes de lecture.');
 }
