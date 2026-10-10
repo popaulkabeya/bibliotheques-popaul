@@ -2781,8 +2781,67 @@
       ],
       "bytes": 75597,
       "addedAt": "2026-09-26"
+    },
+    {
+      "id": "voynich",
+      "category": "grimoires",
+      "order": 16,
+      "title": "Le Manuscrit de Voynich",
+      "subtitle": "Beinecke MS 408 — le manuscrit à l'écriture inconnue",
+      "author": "Anonyme",
+      "era": "XVᵉ s. — vélin daté 1404–1438",
+      "lang": "inconnue",
+      "glyph": "✿",
+      "tags": [
+        "manuscrit",
+        "écriture inconnue",
+        "herbier",
+        "astrologie",
+        "énigme",
+        "yale"
+      ],
+      "summary": "Codex écrit dans une langue et un alphabet que personne n'a encore déchiffrés, illustré de plantes introuvables, de schémas astronomiques et de bains de femmes reliés par des tuyaux. Vélin daté au carbone 14 de 1404–1438 ; acquis par Wilfrid Voynich en 1912, conservé à la bibliothèque Beinecke de Yale. Fac-similé complet (214 vues) d'après les scans de Yale, domaine public.",
+      "volumes": [
+        {
+          "label": "Fac-similé (scans de Yale)",
+          "type": "pdf",
+          "path": "Manuscrit-de-Voynich/Manuscrit-de-Voynich-Beinecke-MS408.pdf",
+          "bytes": 127121031
+        }
+      ],
+      "addedAt": "2026-10-10",
+      "bytes": 127121031
+    },
+    {
+      "id": "nuage-inconnaissance",
+      "category": "pratique",
+      "order": 17,
+      "title": "Le Nuage d'inconnaissance",
+      "subtitle": "The Cloud of Unknowing — éd. Evelyn Underhill",
+      "author": "Anonyme anglais",
+      "era": "fin du XIVᵉ s. — éd. 1922",
+      "lang": "en",
+      "glyph": "☁",
+      "tags": [
+        "mystique",
+        "contemplation",
+        "prière",
+        "théologie négative",
+        "moyen âge"
+      ],
+      "summary": "Traité anonyme de la fin du XIVᵉ siècle sur la prière contemplative : entre Dieu et l'âme s'étend une « nuée d'inconnaissance » que seul un élan d'amour nu peut percer, tandis qu'une « nuée d'oubli » est jetée sur toutes les créatures. Texte anglais modernisé d'après le manuscrit Harley 674, avec l'introduction et le glossaire d'Evelyn Underhill (2ᵉ éd., 1922), domaine public.",
+      "volumes": [
+        {
+          "label": "Full text (Underhill)",
+          "type": "md",
+          "path": "Nuage-d-Inconnaissance/Cloud-of-Unknowing-Underhill-EN.md",
+          "bytes": 233337
+        }
+      ],
+      "addedAt": "2026-10-10",
+      "bytes": 233337
     }
   ],
-  "totalBytes": 3972721665,
-  "generatedAt": "2026-09-26"
+  "totalBytes": 4100076033,
+  "generatedAt": "2026-10-10"
 }
