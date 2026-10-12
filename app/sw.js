@@ -3,7 +3,7 @@
  * Deux caches distincts : « shell » (versionné, purgé à chaque mise à jour)
  * et « livres-v1 » (piloté par l'utilisateur, jamais purgé automatiquement).
  */
-const SHELL = 'shell-v81';
+const SHELL = 'shell-v82';
 const BOOKS = 'livres-v1';
 
 const SHELL_FILES = [
@@ -93,6 +93,38 @@ async function rangeFrom(cached, rangeHeader) {
   });
 }
 
+/**
+ * Revalidation silencieuse d'un livre déjà téléchargé.
+ *
+ * Le cache des livres sert « cache d'abord » : sans cela, un appareil garderait
+ * indéfiniment l'ancienne édition d'un livre modifié sur le serveur. On interroge donc
+ * le serveur par requête conditionnelle (ETag / Last-Modified du fichier en cache) :
+ * s'il répond 304, rien n'est transféré ; sinon la copie hors-ligne est remplacée et
+ * servira dès la prochaine ouverture. Au plus une vérification par fichier et par
+ * quart d'heure, pour ne pas multiplier les requêtes pendant la lecture d'un audio.
+ */
+const REVALIDATION_MS = 15 * 60 * 1000;
+const dernieresVerifs = new Map();
+
+async function revalider(url, cached) {
+  const cle = url.origin + url.pathname;
+  const maintenant = Date.now();
+  if (maintenant - (dernieresVerifs.get(cle) || 0) < REVALIDATION_MS) return;
+  dernieresVerifs.set(cle, maintenant);
+
+  const etag = cached.headers.get('ETag');
+  const modifie = cached.headers.get('Last-Modified');
+  if (!etag && !modifie) return;                 // aucun validateur : pas de requête conditionnelle possible
+
+  try {
+    const entetes = {};
+    if (etag) entetes['If-None-Match'] = etag;
+    if (modifie) entetes['If-Modified-Since'] = modifie;
+    const res = await fetch(cle, { headers: entetes, cache: 'no-store' });
+    if (res.status === 200) (await caches.open(BOOKS)).put(cle, res);
+  } catch {}                                      // hors connexion : on garde la copie locale
+}
+
 self.addEventListener('fetch', (event) => {
   const { request } = event;
   if (request.method !== 'GET') return;
@@ -110,7 +142,10 @@ self.addEventListener('fetch', (event) => {
   event.respondWith((async () => {
     // 1. Livre déjà téléchargé → servi depuis le disque, même en ligne
     const bookHit = await caches.match(request, { cacheName: BOOKS, ignoreVary: true, ignoreSearch: true });
-    if (bookHit) return range ? rangeFrom(bookHit.clone(), range) : bookHit;
+    if (bookHit) {
+      event.waitUntil(revalider(url, bookHit));
+      return range ? rangeFrom(bookHit.clone(), range) : bookHit;
+    }
 
     // 2. Page d'entrée et catalogue → réseau d'abord. Ce sont les deux fichiers qui
     //    changent quand la bibliothèque évolue ; « cache d'abord » aurait toujours
