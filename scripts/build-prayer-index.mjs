@@ -112,6 +112,11 @@ function parseBook(bookId, filePath, mdVolIndex) {
     }
     if (!cur) continue;
 
+    // Un sous-titre « #### » ouvre un bloc rattaché à la section sans en faire partie :
+    // il ne doit pas nourrir son extrait (le Psaume 23 sous « Le Sceau », par exemple).
+    if (/^####+\s/.test(line)) { cur.clos = true; continue; }
+    if (cur.clos) continue;
+
     const t = line.trim();
     if (!t) continue;
     if (t.startsWith('>')) { cur.quoteLines.push(t.replace(/^>\s?/, '')); continue; }

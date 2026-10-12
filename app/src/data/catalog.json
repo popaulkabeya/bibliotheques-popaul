@@ -1670,7 +1670,7 @@
           "label": "Texte intégral",
           "type": "md",
           "path": "Livret-Trois-Prieres-du-Jour/Livret-Trois-Prieres-du-Jour-FR.md",
-          "bytes": 7551
+          "bytes": 9501
         },
         {
           "label": "Livret PDF — 4 pages",
@@ -1694,7 +1694,7 @@
           ]
         }
       ],
-      "bytes": 2554063,
+      "bytes": 2556013,
       "addedAt": "2026-09-03"
     },
     {
@@ -2842,6 +2842,6 @@
       "bytes": 233337
     }
   ],
-  "totalBytes": 4100076033,
-  "generatedAt": "2026-10-10"
+  "totalBytes": 4100077983,
+  "generatedAt": "2026-10-12"
 }
