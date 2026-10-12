@@ -44,6 +44,15 @@ infiniment au-delà de tout ce que je demande ou pense,
 à lui soit la gloire en Jésus-Christ, dans toutes les générations,  
 aux siècles des siècles ! Amen !
 
+#### Psaume 23
+
+L'Éternel est mon berger : je ne manquerai de rien.  
+Il me fait reposer dans de verts pâturages, il me dirige près des eaux paisibles.  
+Il restaure mon âme, il me conduit dans les sentiers de la justice, à cause de son nom.  
+Quand je marche dans la vallée de l'ombre de la mort, je ne crains aucun mal, car tu es avec moi : ta houlette et ton bâton me rassurent.  
+Tu dresses devant moi une table, en face de mes adversaires ; tu oins d'huile ma tête, et ma coupe déborde.  
+Oui, le bonheur et la grâce m'accompagneront tous les jours de ma vie, et j'habiterai dans la maison de l'Éternel jusqu'à la fin de mes jours.
+
 ### Les décrets du matin
 
 Je me lève et je décrète :
@@ -103,6 +112,15 @@ Or, à celui qui peut faire, par la puissance qui agit en moi,
 infiniment au-delà de tout ce que je demande ou pense,  
 à lui soit la gloire en Jésus-Christ, dans toutes les générations,  
 aux siècles des siècles ! Amen !
+
+#### Psaume 23
+
+L'Éternel est mon berger : je ne manquerai de rien.  
+Il me fait reposer dans de verts pâturages, il me dirige près des eaux paisibles.  
+Il restaure mon âme, il me conduit dans les sentiers de la justice, à cause de son nom.  
+Quand je marche dans la vallée de l'ombre de la mort, je ne crains aucun mal, car tu es avec moi : ta houlette et ton bâton me rassurent.  
+Tu dresses devant moi une table, en face de mes adversaires ; tu oins d'huile ma tête, et ma coupe déborde.  
+Oui, le bonheur et la grâce m'accompagneront tous les jours de ma vie, et j'habiterai dans la maison de l'Éternel jusqu'à la fin de mes jours.
 
 ### La demande et la bénédiction
 
@@ -171,6 +189,15 @@ Or, à celui qui peut faire, par la puissance qui agit en moi,
 infiniment au-delà de tout ce que je demande ou pense,  
 à lui soit la gloire en Jésus-Christ, dans toutes les générations,  
 aux siècles des siècles ! Amen !
+
+#### Psaume 23
+
+L'Éternel est mon berger : je ne manquerai de rien.  
+Il me fait reposer dans de verts pâturages, il me dirige près des eaux paisibles.  
+Il restaure mon âme, il me conduit dans les sentiers de la justice, à cause de son nom.  
+Quand je marche dans la vallée de l'ombre de la mort, je ne crains aucun mal, car tu es avec moi : ta houlette et ton bâton me rassurent.  
+Tu dresses devant moi une table, en face de mes adversaires ; tu oins d'huile ma tête, et ma coupe déborde.  
+Oui, le bonheur et la grâce m'accompagneront tous les jours de ma vie, et j'habiterai dans la maison de l'Éternel jusqu'à la fin de mes jours.
 
 ### L'entrée dans le silence
 
