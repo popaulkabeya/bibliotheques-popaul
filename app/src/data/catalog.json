@@ -1670,13 +1670,13 @@
           "label": "Texte intégral",
           "type": "md",
           "path": "Livret-Trois-Prieres-du-Jour/Livret-Trois-Prieres-du-Jour-FR.md",
-          "bytes": 9501
+          "bytes": 10405
         },
         {
           "label": "Livret PDF — 7 pages",
           "type": "pdf",
           "path": "Livret-Trois-Prieres-du-Jour/Livret-Trois-Prieres-du-Jour-FR.pdf",
-          "bytes": 395831
+          "bytes": 456792
         },
         {
           "label": "Livre audio — 3 pistes",
@@ -1688,13 +1688,13 @@
             "Livret-Trois-Prieres-du-Jour/Livre-Audio/03 - III · Invocation du Soir — 21 h 00.m4a"
           ],
           "sizes": [
-            1156536,
-            1026696,
-            953842
+            1262045,
+            1132593,
+            1081509
           ]
         }
       ],
-      "bytes": 3542406,
+      "bytes": 3943344,
       "addedAt": "2026-09-03"
     },
     {
@@ -2842,6 +2842,6 @@
       "bytes": 233337
     }
   ],
-  "totalBytes": 4101064376,
-  "generatedAt": "2026-10-12"
+  "totalBytes": 4101465314,
+  "generatedAt": "2026-10-13"
 }

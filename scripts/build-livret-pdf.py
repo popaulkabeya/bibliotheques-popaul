@@ -144,6 +144,23 @@ p.np::first-letter { font:600 1.75em 'Playfair Display',serif; color:var(--gold)
 .seal .label { font:600 8.6pt 'Cormorant Garamond',serif; letter-spacing:.3em; text-transform:uppercase;
                color:var(--gold); margin-bottom:2.2mm; padding-left:.3em }
 .seal p { font:italic 500 12.4pt/1.5 'Cormorant Garamond',serif; margin-bottom:1.6mm }
+.seal.multi { margin-top:0 }
+.seal.multi p { font-size:11.6pt; line-height:1.42 }
+.seal.multi .label + p + .label { margin-top:3.4mm }
+
+/* page trop pleine : resserrée par FIT_JS, jamais rognée */
+.inner.dense { top:23mm !important }
+.dense p { margin-bottom:2.6mm }
+.dense .decl p { line-height:1.46 }
+.dense .seal.multi p { line-height:1.34 }
+.dense .amen { margin-top:3mm }
+.dense .glyph { height:11mm }
+.dense .sep { margin:2mm auto 4.5mm }
+.dense .stars { margin:0 0 3mm }
+.dense .seal { margin:3.5mm 0 3.5mm }
+.dense .seal.multi { margin-top:0 }
+.dense .lead { margin-bottom:1.6mm }
+.dense .decl { margin-bottom:3mm }
 
 .decl { border-left:1.4pt solid var(--gold-l); padding-left:4.2mm; margin:1mm 0 4.2mm 1mm }
 .decl p { font:500 12pt/1.55 'Cormorant Garamond',serif; margin-bottom:0 }
@@ -173,6 +190,28 @@ SOLEIL_COUVERTURE = (
 )
 
 
+# Les pages ont une hauteur fixe et overflow:hidden : un texte trop long serait rogné en
+# silence, sans page en plus. Chaque page se mesure donc avant l'impression.
+FIT_JS = """
+document.fonts.ready.then(() => {
+  const exces = (inner) => {
+    const pied = inner.querySelector('.foot');
+    const blocs = [...inner.children].filter((c) => c !== pied);
+    return blocs.length ? blocs.at(-1).getBoundingClientRect().bottom - (pied.getBoundingClientRect().top - 6) : 0;
+  };
+  const debord = [];
+  document.querySelectorAll('.page .inner').forEach((inner, i) => {
+    if (exces(inner) <= 0) return;
+    inner.classList.add('dense');
+    const reste = exces(inner);
+    if (reste > 0) debord.push(`${i + 2} (${Math.ceil(reste)} px de trop)`);
+  });
+  document.body.dataset.debord = debord.join(',');
+  document.body.dataset.mesure = '1';
+});
+"""
+
+
 def rendre_bloc(paras):
     out = []
     for p in paras:
@@ -192,6 +231,14 @@ def rendre_scripture(titre, lignes):
     """Bloc d'Écriture entre deux filets (le Sceau, le Psaume 23) ; la casse vient du CSS."""
     return (f'<div class="seal"><div class="label">{esc(titre)}</div>'
             f'<p>{lignes_vers_html(lignes)}</p></div>')
+
+
+def rendre_scriptures(blocs):
+    """Les sous-titres #### d'un office : un seul cadre, plus serré dès qu'il y en a plusieurs."""
+    if len(blocs) == 1:
+        return rendre_scripture(*blocs[0])
+    corps = "".join(f'<div class="label">{esc(t)}</div><p>{lignes_vers_html(l)}</p>' for t, l in blocs)
+    return f'<div class="seal multi">{corps}</div>'
 
 
 def pied(num, nom, suite):
@@ -248,20 +295,19 @@ def construire(livret):
         paras = paragraphes(corps_intro)
 
         sceau = ""
-        psaume = ""
+        h4 = []
         suite = []
-        h3_vus = 0
         for kind, titre, lignes in o["sections"]:
             if kind == "intro":
                 continue
             if kind == "h3" and titre.startswith("Le Sceau"):
                 sceau = rendre_scripture(titre, lignes)
             elif kind == "h4":
-                psaume = rendre_scripture(titre, lignes)
+                h4.append((titre, lignes))
             else:
                 suite.append(rendre_bloc(paragraphes(lignes)))   # intertitres du markdown : non repris
         pages.append(page_office_1(o, paras, mots, sceau))
-        pages.append(page_office_2(o, psaume, "\n".join(suite)))
+        pages.append(page_office_2(o, rendre_scriptures(h4) if h4 else "", "\n".join(suite)))
     return pages
 
 
@@ -280,11 +326,19 @@ def main():
              "&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=block")
     doc = (f'<!doctype html><html lang="fr"><head><meta charset="utf-8">'
            f'<title>Les Trois Prières du Jour</title><link rel="stylesheet" href="{fonts}">'
-           f'<style>{CSS}</style></head><body>{"".join(pages)}</body></html>')
+           f'<style>{CSS}</style></head><body>{"".join(pages)}<script>{FIT_JS}</script></body></html>')
 
     tmp = Path(tempfile.mkdtemp(prefix="livret-pdf-"))
     page_html = tmp / "livret.html"
     page_html.write_text(doc, encoding="utf-8")
+
+    dom = subprocess.run([CHROME, "--headless=new", "--disable-gpu", "--virtual-time-budget=20000",
+                          "--dump-dom", page_html.as_uri()], check=True, capture_output=True, text=True).stdout
+    mesure = re.search(r'<body[^>]*data-debord="([^"]*)"[^>]*data-mesure="1"', dom)
+    if not mesure:
+        raise SystemExit("⚠ la mesure des pages n'a pas abouti (polices non chargées ?)")
+    if mesure.group(1):
+        raise SystemExit(f"⚠ texte rogné même resserré, page(s) {mesure.group(1)} : alléger l'office")
     brut = tmp / "brut.pdf"
     subprocess.run([CHROME, "--headless=new", "--disable-gpu", "--no-pdf-header-footer",
                     "--virtual-time-budget=20000", f"--print-to-pdf={brut}", page_html.as_uri()],
