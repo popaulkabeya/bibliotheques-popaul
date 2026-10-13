@@ -53,6 +53,14 @@ Quand je marche dans la vallée de l'ombre de la mort, je ne crains aucun mal, c
 Tu dresses devant moi une table, en face de mes adversaires ; tu oins d'huile ma tête, et ma coupe déborde.  
 Oui, le bonheur et la grâce m'accompagneront tous les jours de ma vie, et j'habiterai dans la maison de l'Éternel jusqu'à la fin de mes jours.
 
+#### Prière du Nuage d'inconnaissance
+
+Dieu, devant qui tous les cœurs sont ouverts,  
+à qui toute volonté parle, et à qui nul secret n'est caché :  
+je te supplie de purifier l'intention de mon cœur  
+par le don ineffable de ta grâce,  
+afin que je t'aime parfaitement et que je te loue dignement. Amen.
+
 ### Les décrets du matin
 
 Je me lève et je décrète :
@@ -121,6 +129,12 @@ Il restaure mon âme, il me conduit dans les sentiers de la justice, à cause de
 Quand je marche dans la vallée de l'ombre de la mort, je ne crains aucun mal, car tu es avec moi : ta houlette et ton bâton me rassurent.  
 Tu dresses devant moi une table, en face de mes adversaires ; tu oins d'huile ma tête, et ma coupe déborde.  
 Oui, le bonheur et la grâce m'accompagneront tous les jours de ma vie, et j'habiterai dans la maison de l'Éternel jusqu'à la fin de mes jours.
+
+#### Psaume 55.17-18, 23
+
+Et moi, je crie à Dieu, et l'Éternel me sauvera.  
+Le soir, le matin, et à midi, je soupire et je gémis, et il entendra ma voix.  
+Remets ton sort à l'Éternel, et il te soutiendra, il ne laissera jamais chanceler le juste.
 
 ### La demande et la bénédiction
 
@@ -198,6 +212,14 @@ Il restaure mon âme, il me conduit dans les sentiers de la justice, à cause de
 Quand je marche dans la vallée de l'ombre de la mort, je ne crains aucun mal, car tu es avec moi : ta houlette et ton bâton me rassurent.  
 Tu dresses devant moi une table, en face de mes adversaires ; tu oins d'huile ma tête, et ma coupe déborde.  
 Oui, le bonheur et la grâce m'accompagneront tous les jours de ma vie, et j'habiterai dans la maison de l'Éternel jusqu'à la fin de mes jours.
+
+#### Aux quatre évangélistes, avant le sommeil
+
+Luc, sois présent comme défenseur de cette chambre.  
+Marc, prie Jésus pour que nous ne soyons pas la proie du démon.  
+Jean, je te prie de chasser tous les fantômes.  
+Matthieu, sois mon gardien pendant que je dors cette nuit.  
+Jésus, Fils de David, aie pitié de moi. Amen.
 
 ### L'entrée dans le silence
 
