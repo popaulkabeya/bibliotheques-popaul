@@ -464,7 +464,7 @@ Call the Prince of the Kingdom, and lay a command upon him, and command what tho
 
 22
 
-taken from the treasury of Magick; A Book, a Gemme, and magical Horn, which being had, any one may easily, if he will, make himself the Monarch of the world. But Judaus chused rather to live among Gods, until the judgement, before the transi- tory good of this world; and his heart is so blinde, that he understandeth nothing of the God of heaven and earth, or thinketh more, but enjoyeth the delights of things immortal, to his own eternal destruction. And he may be easier called up, then the Angel oiPlotinus in the Temple of Lis.
+taken from the treasury of Magick; A Book, a Gemme, and magical Horn, which being had, any one may easily, if he will, make himself the Monarch of the world. But Judaus chused rather to live among Gods, until the judgement, before the transi- tory good of this world; and his heart is so blinde, that he understandeth nothing of the God of heaven and earth, or thinketh more, but enjoyeth the delights of things immortal, to his own eternal destruction. And he may be easier called up, then the Angel of Plotinus in the Temple of Lis.
 
 Aphorism 32.
 

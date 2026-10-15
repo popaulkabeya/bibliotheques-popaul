@@ -1380,7 +1380,7 @@ Flottant entre l’un et l’autre, n’appartenant ni à ceux-ci ni à ceux-là
 
 Les hypocrites seront au plus bas degré du feu, et tu ne leur verras pas de protecteur.
 
-Mais ceux qui se seront convertis.et corrigés, qui se seront fermement attachés à Dieu et montrés sincères dans leur foi, seront de nouveau avec les croyants. Or, Dieu décernera aux croyants une récompense magnifique.
+Mais ceux qui se seront convertis et corrigés, qui se seront fermement attachés à Dieu et montrés sincères dans leur foi, seront de nouveau avec les croyants. Or, Dieu décernera aux croyants une récompense magnifique.
 
 Pourquoi Dieu vous infligerait-il le châtiment, si vous êtes reconnaissants et si vous avez cru ? Dieu est reconnaissant et il sait tout.
 
@@ -4536,7 +4536,7 @@ Il entra dans son jardin, coupable envers lui-même, et s’écria ile ne pense 
 
 Je ne pense pas que l’heure arrive jamais, et si je reparais devant Dieu, j’aurai en échange un jardin encore plus beau que celui-ci.
 
-Son ami lui dit, pendant qu’ils étaient ainsi en conversation. Ne crois-tu pas en celui qui t’a créé.de terre, puis de sperme, et qui *enfin* t’a donné les proportions parfaites d’homme ?
+Son ami lui dit, pendant qu’ils étaient ainsi en conversation. Ne crois-tu pas en celui qui t’a créé de terre, puis de sperme, et qui *enfin* t’a donné les proportions parfaites d’homme ?
 
 Quant à moi, Dieu est mon Seigneur, et je ne lui associerai qui que ce soit.
 
@@ -6952,7 +6952,7 @@ Quiconque fait des efforts, les fait pour son propre avantage ; car Dieu peut se
 
 Nous effacerons les péchés de ceux qui auront cru et pratiqué les bonnes œuvres, et nous les rétribuerons selon leurs plus belles actions.
 
-Nous avons recommandé à l’homme de tenir une belle conduite à l’égard de ses père.et mère. S’ils t’engagent à m’associer ces êtres dont tu ne sais rien, ne leur obéis pas. Vous reviendrez tous devant moi, et alors je vous réciterai ce que vous avez fait.
+Nous avons recommandé à l’homme de tenir une belle conduite à l’égard de ses père et mère. S’ils t’engagent à m’associer ces êtres dont tu ne sais rien, ne leur obéis pas. Vous reviendrez tous devant moi, et alors je vous réciterai ce que vous avez fait.
 
 Nous placerons au nombre des justes ceux qui auront cru et fait le bien.
 
@@ -9024,7 +9024,7 @@ Cependant ils lui ont attribué des enfants parmi ses serviteurs. L’homme est 
 
 Dieu aurait-il pris des filles parmi ses créatures, et vous aurait-il choisis pour ses fils ?
 
-Et cependant, quand on annonce à l’un d’entre eux la naissance d’un être qu’il attribue à Dieu, son visage s’assombrit, et il.est comme suffoqué.
+Et cependant, quand on annonce à l’un d’entre eux la naissance d’un être qu’il attribue à Dieu, son visage s’assombrit, et il est comme suffoqué.
 
 *Attribueront-ils à Dieu comme enfant* un être qui grandît dans les ornements et les parures, et qui est toujours à disputer sans raison ?
 
@@ -10474,7 +10474,7 @@ Ils persévéraient dans une haine implacable,
 
 Et disaient :
 
-Quand nous serons morts, quand nous serons devenus poussière.et os, serons-nous ranimés de nouveau,
+Quand nous serons morts, quand nous serons devenus poussière et os, serons-nous ranimés de nouveau,
 
 Ainsi que nos pères les anciens ?
 
@@ -14418,7 +14418,7 @@ ZENDJEBIL, LXXVI, 17.
 
 ↑ C’est-à-dire, ne vous enlevez pas les uns aux autres ce que chacun possède, par les jeux de hasard, par l’usure et autres gains illicites ; mais vous pouvez avoir le bien d’autrui légitimement, c’est-à-dire par le trafic, par le commerce.
 
-↑ Le sens de ce passage est incertain, et le vague résulte de l’emploi différent que peut avoir le mot *nafs* (personne, individu, âme, soi-même), en sorte qu’on peut tout aussi bien traduire ne tuez pas vous-mêmes, vos personnes, les uns les autres, ne vous entretuez pas, ou bien ne vous tuez pas vous-mêmes, ne commettez pas le suicide. Les commentateurs ne savent pas eux-mêmes dans quel sens il faut prendre ces mots ; cela peut signifier, disent-ils, ne vous jetez pas vous-même dans la mort comme les Hindous idolâtres, ou bien ne vous tuez pas entre vous, musulmans, car vous ne faites qu’un seul, et pour ainsi dire une seule âme (*nafs*). On rencontre, il est vrai, souvent en arabe l’expression *la taktol nafsak*, ne tue pas ton âme, c’est-à-dire, ne te tue pas (à force de te livrer à la douleur, etc.) ; mais le mot *nafs*, mis au pluriel, jette du vague ; il en serait de même en français, si on se contentait de dire : « Ne vous tuez pas. » Le commencement du verset est dirigé contre la convoitise et l’enlèvement illicite du bien d’autrui, et le législateur a pu ajouter en passant la défense du meurtre. D’un autre côté, les mots à la fin du verset : « Dieu est miséricordieux envers vous », sembleraient indiquer qu’il s’agit de la défense du suicide.Voy. IV, 69, où l’on se sert de cette expression.
+↑ Le sens de ce passage est incertain, et le vague résulte de l’emploi différent que peut avoir le mot *nafs* (personne, individu, âme, soi-même), en sorte qu’on peut tout aussi bien traduire ne tuez pas vous-mêmes, vos personnes, les uns les autres, ne vous entretuez pas, ou bien ne vous tuez pas vous-mêmes, ne commettez pas le suicide. Les commentateurs ne savent pas eux-mêmes dans quel sens il faut prendre ces mots ; cela peut signifier, disent-ils, ne vous jetez pas vous-même dans la mort comme les Hindous idolâtres, ou bien ne vous tuez pas entre vous, musulmans, car vous ne faites qu’un seul, et pour ainsi dire une seule âme (*nafs*). On rencontre, il est vrai, souvent en arabe l’expression *la taktol nafsak*, ne tue pas ton âme, c’est-à-dire, ne te tue pas (à force de te livrer à la douleur, etc.) ; mais le mot *nafs*, mis au pluriel, jette du vague ; il en serait de même en français, si on se contentait de dire : « Ne vous tuez pas. » Le commencement du verset est dirigé contre la convoitise et l’enlèvement illicite du bien d’autrui, et le législateur a pu ajouter en passant la défense du meurtre. D’un autre côté, les mots à la fin du verset : « Dieu est miséricordieux envers vous », sembleraient indiquer qu’il s’agit de la défense du suicide. Voy. IV, 69, où l’on se sert de cette expression.
 
 ↑ C’est-à-dire, leurs personnes et l’avoir de leurs maris.
 
@@ -16876,7 +16876,7 @@ ZENDJEBIL, LXXVI, 17.
 
 **223.** C’est-à-dire, ne vous enlevez pas les uns aux autres ce que chacun possède, par les jeux de hasard, par l’usure et autres gains illicites ; mais vous pouvez avoir le bien d’autrui légitimement, c’est-à-dire par le trafic, par le commerce.
 
-**224.** Le sens de ce passage est incertain, et le vague résulte de l’emploi différent que peut avoir le mot *nafs* (personne, individu, âme, soi-même), en sorte qu’on peut tout aussi bien traduire ne tuez pas vous-mêmes, vos personnes, les uns les autres, ne vous entretuez pas, ou bien ne vous tuez pas vous-mêmes, ne commettez pas le suicide. Les commentateurs ne savent pas eux-mêmes dans quel sens il faut prendre ces mots ; cela peut signifier, disent-ils, ne vous jetez pas vous-même dans la mort comme les Hindous idolâtres, ou bien ne vous tuez pas entre vous, musulmans, car vous ne faites qu’un seul, et pour ainsi dire une seule âme (*nafs*). On rencontre, il est vrai, souvent en arabe l’expression *la taktol nafsak*, ne tue pas ton âme, c’est-à-dire, ne te tue pas (à force de te livrer à la douleur, etc.) ; mais le mot *nafs*, mis au pluriel, jette du vague ; il en serait de même en français, si on se contentait de dire : « Ne vous tuez pas. » Le commencement du verset est dirigé contre la convoitise et l’enlèvement illicite du bien d’autrui, et le législateur a pu ajouter en passant la défense du meurtre. D’un autre côté, les mots à la fin du verset : « Dieu est miséricordieux envers vous », sembleraient indiquer qu’il s’agit de la défense du suicide.Voy. IV, 69, où l’on se sert de cette expression.
+**224.** Le sens de ce passage est incertain, et le vague résulte de l’emploi différent que peut avoir le mot *nafs* (personne, individu, âme, soi-même), en sorte qu’on peut tout aussi bien traduire ne tuez pas vous-mêmes, vos personnes, les uns les autres, ne vous entretuez pas, ou bien ne vous tuez pas vous-mêmes, ne commettez pas le suicide. Les commentateurs ne savent pas eux-mêmes dans quel sens il faut prendre ces mots ; cela peut signifier, disent-ils, ne vous jetez pas vous-même dans la mort comme les Hindous idolâtres, ou bien ne vous tuez pas entre vous, musulmans, car vous ne faites qu’un seul, et pour ainsi dire une seule âme (*nafs*). On rencontre, il est vrai, souvent en arabe l’expression *la taktol nafsak*, ne tue pas ton âme, c’est-à-dire, ne te tue pas (à force de te livrer à la douleur, etc.) ; mais le mot *nafs*, mis au pluriel, jette du vague ; il en serait de même en français, si on se contentait de dire : « Ne vous tuez pas. » Le commencement du verset est dirigé contre la convoitise et l’enlèvement illicite du bien d’autrui, et le législateur a pu ajouter en passant la défense du meurtre. D’un autre côté, les mots à la fin du verset : « Dieu est miséricordieux envers vous », sembleraient indiquer qu’il s’agit de la défense du suicide. Voy. IV, 69, où l’on se sert de cette expression.
 
 **225.** C’est-à-dire, leurs personnes et l’avoir de leurs maris.
 

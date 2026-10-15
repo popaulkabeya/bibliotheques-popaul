@@ -371,7 +371,7 @@
 ### Pour une bouche putride (charme de Job)
 *Source : Secrets égyptiens d'Albert le Grand, Tome premier. Usage : contre une bouche putride.*
 
-> Job, Job, voyageait par le pays ; il portait une verge à la main ; alors Dieu, le Seigneur, lui apparut en vision, et parla : Job, Job, pourquoi te lamentes-tu, mon cher ? — Seigneur, pourquoi ne serais-je pas fort triste, puisque sauvage et putride est la langue, et la bouche de mon enfant ? † † † Trois fois.
+> Job, Job voyageait par le pays ; il portait une verge à la main ; alors Dieu, le Seigneur, lui apparut en vision, et parla : Job, Job, pourquoi te lamentes-tu, mon cher ? — Seigneur, pourquoi ne serais-je pas fort triste, puisque sauvage et putride est la langue, et la bouche de mon enfant ? † † † Trois fois.
 
 
 ### Quand un os est tordu, disloqué ou foulé (pour l'homme et la bête)
@@ -545,7 +545,7 @@
 ### Contre les vers dans le corps d'un homme (saint Pierre et Jésus)
 *Source : Secrets égyptiens d'Albert le Grand, Tome premier. Usage : tuer les vers dans le corps d'un homme ; trois fois.*
 
-> Saint Pierre et Jésus s'en allaient par le champ. Ils creusèrent trois sillons, où ils trouvèrent trois vers. L'un était blanc, l'autre est noir, le troisième est rouge. Désormais, N. N., tous tes vers sont morts. Trois fois.
+> Saint Pierre et Jésus s'en allaient par le champ. Ils creusèrent trois sillons, où ils trouvèrent trois vers. L'un était blanc, l'autre était noir, le troisième était rouge. Désormais, N. N., tous tes vers sont morts. Trois fois.
 
 
 ### Pour le mal de dents (saint Pierre sous le chêne)
@@ -1160,7 +1160,7 @@
 ### Pour tuer les vers du sabot chez le bétail
 *Source : Secrets égyptiens d'Albert le Grand, Tome second. Usage : tuer les vers du sabot chez le bétail.*
 
-> Le Christ, le Seigneur, cheminait sur le champ, sur le champ de Joseph ; il ouvre trois sillons, il attrapa trois vers ; le premier était blanc, l'autre était noir, et le troisième était mort ; et par là, N. N., tous tes vers sont morts. † † † Trois fois.
+> Le Christ, le Seigneur, cheminait sur le champ, sur le champ de Joseph ; il ouvrit trois sillons, il attrapa trois vers ; le premier était blanc, l'autre était noir, et le troisième était mort ; et par là, N. N., tous tes vers sont morts. † † † Trois fois.
 
 
 ### Pour le pis enflé
@@ -2352,7 +2352,7 @@
 **Mode d'emploi :**
 
 - Heure : non précisé dans la source
-- Lieu : inscrite sur les portes des maisons et des remparts d'Édesse (attesté par le pèlerin Égérie, IVe siècle)
+- Lieu : inscrite sur les portes des maisons et des remparts d'Édesse (attesté par la pèlerine Égérie, IVe siècle)
 - Fréquence / nombre de fois : port ou affichage permanent
 - Rituel : la lettre elle-même, copiée sur un support (parchemin, linteau de porte, amulette), tenait lieu de protection ; croyance en une garantie d'invulnérabilité de la ville d'Édesse tant que la lettre y demeurait affichée
 
@@ -2438,7 +2438,7 @@
 ### Bénédiction contre les voleurs rusés
 *Source : Secrets égyptiens d'Albert le Grand, Tome premier. Usage : à prononcer chaque matin, trois fois, sur tous ses biens, avec dévotion, contre les voleurs.*
 
-> Notre chère mère vint dans un jardin. Trois anges l'y consolèrent. Le premier se nomme saint Michel ; l'autre, saint Gabriel ; le troisième, saint Pierre. Alors Pierre parla à notre bien-aimée Marie : J'ai vu trois voleurs entrer là. Ils ont dessein de voler ton cher enfant et de le tuer. Mais la bien-aimée mère Marie dit : Pierre, lie ; saint Pierre, lie ; et Pierre les lia de bandes de fer, des propres mains de Dieu, et par ses cinq saintes plaies ; que par cela, avec Gabriel, en ce jour et cette nuit, et cette année entière, et pour toujours et en tout temps, mes biens soient liés. Quiconque tente d'y voler doit rester planté comme un bâton, voir comme une brique, et demeurer immobile. Il doit rester dressé, sans pouvoir partir d'ici jusqu'à ce que je lui permette de s'en aller. C'est de ma propre langue que je dois le lui dire. Tel est mon ordre et la volonté de Gabriel, qui désormais, de jour et de nuit, et toute l'année, pour tous les temps à venir, sera signifié à tout voleur, afin qu'il se repente. Qu'à cela Dieu prête sa bénédiction. Dieu le Père, Dieu le Fils et Dieu le Saint-Esprit. Amen.
+> Notre chère mère vint dans un jardin. Trois anges l'y consolèrent. Le premier se nomme saint Michel ; l'autre, saint Gabriel ; le troisième, saint Pierre. Alors Pierre parla à notre bien-aimée Marie : J'ai vu trois voleurs entrer là. Ils ont dessein de voler ton cher enfant et de le tuer. Mais la bien-aimée mère Marie dit : Pierre, lie ; saint Pierre, lie ; et Pierre les lia de bandes de fer, des propres mains de Dieu, et par ses cinq saintes plaies ; que par cela, avec Gabriel, en ce jour et cette nuit, et cette année entière, et pour toujours et en tout temps, mes biens soient liés. Quiconque tente d'y voler doit rester planté comme un bâton, voire comme une brique, et demeurer immobile. Il doit rester dressé, sans pouvoir partir d'ici jusqu'à ce que je lui permette de s'en aller. C'est de ma propre langue que je dois le lui dire. Tel est mon ordre et la volonté de Gabriel, qui désormais, de jour et de nuit, et toute l'année, pour tous les temps à venir, sera signifié à tout voleur, afin qu'il se repente. Qu'à cela Dieu prête sa bénédiction. Dieu le Père, Dieu le Fils et Dieu le Saint-Esprit. Amen.
 
 
 ### Une manière particulière de recouvrer des biens volés (la roue de chariot)
@@ -2566,7 +2566,7 @@
 ### Grande conjuration pour contraindre un voleur à rendre le bien volé
 *Source : Secrets égyptiens d'Albert le Grand, Tome second. Usage : contraindre le voleur, par la puissance de Dieu, des saints archanges et des noms divins, à ramener les biens volés dans la maison ; comprend la prière du Psaume 91.*
 
-> Au nom de la Sainte Trinité, je presse et conjure N. N., toi voleur, homme ou femme, au nom de Dieu qui sait tout, par Aaron le grand prêtre, par l'aide duquel je contrains et vaincs tous les diables ; que ceci te soit signifié : Moloch et Lucifer aussi seront envoyés, de même que saint Michel, saint Gabriel, saint Raphaël avec maintes milliers de légions d'esprits obéissants et de saints anges de Dieu ; que ceci soit ta contrainte, ton obéissance, ta rançon, ta plaie, ton obligation : Astaroth, Dieu dans les Dieux et de Dieu, le voleur qui a dérobé N. N., ce voleur, homme ou femme, amène-le ici, chez moi, dans ma maison de N. N., avec les articles volés. Belzébuth soit lié, Lucifer soit lié, Satan soit lié par les rayons qui émanent de la sainte face de Dieu ; le Dieu qui a donné à Moïse les commandements, qu'il m'aide, moi N. N., à sortir de peine, et qu'il vous déshonore ! Mais moi qui garde le commandement et aime la loi, que cette loi soit Dieu, un Dieu puissant, un vainqueur, un consolateur et un sauveur. Moloch, Lucifer, Astaroth, Pemeoth, Fornigator, Anector, Somiator, ne dormez point, éveillez-vous ; que le fort héros Holaha, le puissant Eaton, le grand Tetragramaton, Athe, Alpha et Omega, contraignent le voleur à rendre les objets volés dans la maison de N. N., et que le voleur n'ait ni repos ni paix, par le sable et la terre, par la mer ou l'air, sur la montagne ou le rocher ; toi, diable maudit, ramène le voleur dans ma maison avec tous les biens volés.
+> Au nom de la Sainte Trinité, je presse et conjure N. N., toi voleur, homme ou femme, au nom de Dieu qui sait tout, par Aaron le grand prêtre, par l'aide duquel je contrains et vaincs tous les diables ; que ceci te soit signifié : Moloch et Lucifer aussi seront envoyés, de même que saint Michel, saint Gabriel, saint Raphaël avec maints milliers de légions d'esprits obéissants et de saints anges de Dieu ; que ceci soit ta contrainte, ton obéissance, ta rançon, ta plaie, ton obligation : Astaroth, Dieu dans les Dieux et de Dieu, le voleur qui a dérobé N. N., ce voleur, homme ou femme, amène-le ici, chez moi, dans ma maison de N. N., avec les articles volés. Belzébuth soit lié, Lucifer soit lié, Satan soit lié par les rayons qui émanent de la sainte face de Dieu ; le Dieu qui a donné à Moïse les commandements, qu'il m'aide, moi N. N., à sortir de peine, et qu'il vous déshonore ! Mais moi qui garde le commandement et aime la loi, que cette loi soit Dieu, un Dieu puissant, un vainqueur, un consolateur et un sauveur. Moloch, Lucifer, Astaroth, Pemeoth, Fornigator, Anector, Somiator, ne dormez point, éveillez-vous ; que le fort héros Holaha, le puissant Eaton, le grand Tetragramaton, Athe, Alpha et Omega, contraignent le voleur à rendre les objets volés dans la maison de N. N., et que le voleur n'ait ni repos ni paix, par le sable et la terre, par la mer ou l'air, sur la montagne ou le rocher ; toi, diable maudit, ramène le voleur dans ma maison avec tous les biens volés.
 >
 > Contemple le Dieu puissant. Que saint Zapheel soit ta prière, soit ta contrainte ; que l'arche de Dieu, l'arche de l'alliance de la demeure du Seigneur, m'aide à apporter la corde pour vous, diables ; et pour cela, que Dieu en Dieu soit mon secours dans le besoin et la peine. Jehovah, Saboah, Emanuel, ah Jathos Noio sottjs, Ishiros, Kiriel aios Fius Imago Via veritas Salvator. Oberator Tetragramatum Stoch Nahus tribelasus Spenter omnipotens Venus, Sanitus, Trinus, Imenesus, Virtus, Principitatis, Liberator Manus Erohye, Mediator Imbrator Oulus Prillus, teris Judaea arnes humuisien. Psaume 91. Priez : Satan, diable maudit, as-tu entendu la puissance d'Adonay, notre grand Seigneur ? Alors tu dois, par la puissance de Jehovah, contraindre sur-le-champ le voleur qui a dérobé N. N., et le forcer (ou la forcer) à ce que ces choses volées soient rendues dans ma maison, à moi N. N.
 >
@@ -3301,7 +3301,7 @@
 >
 > Mais bénis-moi, moi et mes fils, afin que nous puissions croître, nous multiplier et remplir la terre.
 >
-> Et tu sais comment tes veilleurs, les pères de ces esprits, ont agi à mon époque : et quant à ces esprits qui sont vivants, emprisonne-les et retiens-les fermement dans le lieu de condamnation, et qu'ils ne apportent pas la destruction sur le fils de ton serviteur, mon Dieu ; car ceux-ci sont malins et créés pour détruire.
+> Et tu sais comment tes veilleurs, les pères de ces esprits, ont agi à mon époque : et quant à ces esprits qui sont vivants, emprisonne-les et retiens-les fermement dans le lieu de condamnation, et qu'ils n'apportent pas la destruction sur le fils de ton serviteur, mon Dieu ; car ceux-ci sont malins et créés pour détruire.
 >
 > Et qu'ils ne dominent pas sur les esprits des vivants ; car Toi seul peux exercer leur domination sur eux. Et qu'ils n'aient plus pouvoir sur les fils des justes, désormais et à jamais. »
 
@@ -3316,8 +3316,8 @@
 >
 > Délivre-moi des mains des mauvais esprits qui dominent sur les pensées du cœur des hommes,
 > Et qu'ils ne m'éloignent pas de Toi, mon Dieu.
-> Et établis-toi moi et ma postérité pour toujours
-> Afin que nous ne nous égarons plus désormais et pour toujours. »
+> Et établis-moi, moi et ma postérité pour toujours
+> Afin que nous ne nous égarions plus désormais et pour toujours. »
 >
 > Et il dit : Dois-je retourner à Ur des Chaldéens qui cherchent ma face, afin que je puisse revenir vers eux, dois-je rester ici en ce lieu ? Le droit chemin devant Toi prospère entre les mains de Ton serviteur afin qu'il puisse l'accomplir et que je ne puisse pas marcher dans la tromperie de mon cœur, ô mon Dieu.
 
@@ -3327,7 +3327,7 @@
 ### Exorcisme contre Satan et les anges rebelles (Léon XIII)
 *Source : idem — texte complet publié par ordre du pape Léon XIII, traduction française, Wikisource (« Exorcisme contre Satan et les anges rebelles par S.S. Léon XIII »). Usage : formule de protection contre l'action du démon, la sorcellerie, les tentations, maladies et calamités, destinée aux fidèles.*
 
-> Au nom de Jésus-Christ notre Dieu et Seigneur, par l'intercession de l'immaculée Vierge Marie, Mère de Dieu, du bienheureux Michel Archange, des bienheureux apôtres Pierre et Paul et de tous les Saints et forts de l'autorité sacrée de notre ministère, nous entreprenons avec confiance de repousser les assauts et artifices du démon.
+> Au nom de Jésus-Christ notre Dieu et Seigneur, par l'intercession de l'immaculée Vierge Marie, Mère de Dieu, du bienheureux Michel Archange, des bienheureux apôtres Pierre et Paul et de tous les Saints, et forts de l'autorité sacrée de notre ministère, nous entreprenons avec confiance de repousser les assauts et artifices du démon.
 >
 > PSAUMES 67
 >
@@ -3567,7 +3567,7 @@
 ### Conjuration de la Septième Table — les Esprits de Mars
 *Source : Septième Livre, « La Septième Table — les Esprits de Mars ». Usage : porte bonheur en cas de querelles ; les esprits de Mars viendront en aide.*
 
-> « N. N., je te cite, Esprit Emol, par Deus Sachnaton ; Luil, par Acumea ; Ltriji, par Ambriel ; Tijlaij, par Ehos ; par Jeha, par Zora ; Ajreh, par Awoth : que vous paraissiez devant moi sous une belle forme humaine et accomplissiez mon désir — ainsi, en vérité, dans et par le nom que Aaron entendit et qui fut préparé pour lui. F. f. f. »
+> « N. N., je te cite, Esprit Emol, par Deus Sachnaton ; Luil, par Acumea ; Ltriji, par Ambriel ; Tijlaij, par Ehos ; par Jeha, par Zora ; Ajreh, par Awoth : que vous paraissiez devant moi sous une belle forme humaine et accomplissiez mon désir — ainsi, en vérité, dans et par le nom qu'Aaron entendit et qui fut préparé pour lui. F. f. f. »
 
 <div markdown="1" class="lang-annot">
 
@@ -3584,7 +3584,7 @@
 - Heure : non précisé dans la source
 - Lieu : non précisé dans la source
 - Fréquence / nombre de fois : non précisé dans la source
-- Rituel : formule prononcée « par le nom que Aaron entendit et qui fut préparé pour lui » — aucun autre détail donné
+- Rituel : formule prononcée « par le nom qu'Aaron entendit et qui fut préparé pour lui » — aucun autre détail donné
 
 </div>
 
@@ -5722,10 +5722,10 @@
 > Et il mangea et but, et bénit le Dieu Très-Haut,
 > Qui a créé le ciel et la terre,
 > Qui a créé toutes les graisses de la terre,
-> Et les a donnés aux enfants des hommes
+> Et les a données aux enfants des hommes
 > Afin qu'ils puissent manger et boire et bénir leur Créateur.
 >
-> « Et maintenant je te rends grâce, mon Dieu, parce que tu m'as fait voir ce jour : voici, j'ai cent soixante-quinze ans, un vieillard et rassasié de jours, et tous mes jours ont la paix m'a été accordée.
+> « Et maintenant je te rends grâce, mon Dieu, parce que tu m'as fait voir ce jour : voici, j'ai cent soixante-quinze ans, un vieillard et rassasié de jours, et tous mes jours, la paix m'a été accordée.
 >
 > « L'épée de l'adversaire ne m'a pas vaincu dans tout ce que tu m'as donné, à moi et à mes enfants, tous les jours de ma vie jusqu'à ce jour.
 >
@@ -5834,7 +5834,7 @@
 ### Dernière prière d'Abraham pour Jacob
 *Source : Bible éthiopienne — Les Livres Oubliés, Jubilés 22, 27-30. Usage : ultime intercession d'Abraham, Jacob endormi sur son sein, avant de mourir.*
 
-> « Le Dieu Très-Haut, le Dieu de tous et le Créateur de tous, qui m'a fait sortir d'Ur en Chaldée afin de me donner ce pays pour en hériter pour toujours, et afin que je puisse établir une sainte semence — bénie soit le Très-Haut pour toujours. »
+> « Le Dieu Très-Haut, le Dieu de tous et le Créateur de tous, qui m'a fait sortir d'Ur en Chaldée afin de me donner ce pays pour en hériter pour toujours, et afin que je puisse établir une sainte semence — béni soit le Très-Haut pour toujours. »
 >
 > Et il bénit Jacob et dit : « Mon fils, pour lequel je me réjouis de tout mon cœur et de toute mon affection, que ta grâce et ta miséricorde s'élèvent toujours sur lui et sur sa postérité.
 >
@@ -5873,7 +5873,7 @@
 > [Mon affection] et mes seins te bénissent
 > Et ma bouche et ma langue te louent grandement.
 >
-> Augmente et s'étend sur la terre,
+> Augmente et étends-toi sur la terre,
 > Et que ta postérité soit parfaite dans la joie du ciel et de la terre pour toujours ;
 > Et que ta semence se réjouisse,
 > Et au grand jour de paix, qu'il y ait la paix.
@@ -5904,7 +5904,7 @@
 > Sois seigneur sur tes frères,
 > Et que les fils de ta mère se prosternent devant toi ;
 > Et que toutes les bénédictions par lesquelles le Seigneur m'a béni et a béni Abraham, mon père,
-> Soit communiqué à toi et à ta postérité pour toujours :
+> Soient communiquées à toi et à ta postérité pour toujours :
 > Maudit soit celui qui te maudit,
 > Et béni soit celui qui te bénit. »
 
@@ -5957,13 +5957,13 @@
 > Il y aura une grande paix pour toute la postérité des fils du bien-aimé ;
 > Béni soit celui qui te bénit,
 > Et tous ceux qui te haïssent, t'affligent et te maudissent
-> Sera déraciné et détruit de la terre et sera maudit. »
+> Seront déracinés et détruits de la terre et seront maudits. »
 
 
 ### Bénédiction de Raguel et Anne au matin des noces
 *Source : Bible éthiopienne — Les Livres Oubliés, Tobie 8, 17-19. Usage : bénédiction de soulagement et d'action de grâces des parents de Sara, apprenant que leur gendre est vivant.*
 
-> « Nous vous bénissons Seigneur, Dieu d'Israël, car le malheur que nous redoutions n'est pas arrivé. Vous avez usé envers nous de miséricorde, et vous avez éloigné de nous l'ennemi qui nous persécutait. Vous avez eu pitié de deux enfants uniques. Faites, Seigneur, qu'ils vous bénissent de plus en plus, et qu'ils vous offrent un sacrifice de louange pour leur préservation, afin que toutes les nations reconnaissent que vous seul êtes Dieu sur toute la terre. »
+> « Nous vous bénissons, Seigneur, Dieu d'Israël, car le malheur que nous redoutions n'est pas arrivé. Vous avez usé envers nous de miséricorde, et vous avez éloigné de nous l'ennemi qui nous persécutait. Vous avez eu pitié de deux enfants uniques. Faites, Seigneur, qu'ils vous bénissent de plus en plus, et qu'ils vous offrent un sacrifice de louange pour leur préservation, afin que toutes les nations reconnaissent que vous seul êtes Dieu sur toute la terre. »
 
 
 ### Bénédiction de Gabélus sur Tobie et Sara
@@ -6096,7 +6096,7 @@
 > digne de suprême louange et exaltation à tout jamais.
 > Vous êtes béni dans le temple de votre sainte gloire,
 > digne de suprême louange et gloire à jamais.
-> Vous élus béni sur le trône de votre royaume,
+> Vous êtes béni sur le trône de votre royaume,
 > digne de suprême louange et exaltation à jamais.
 > Vous êtes béni, vous dont le regard pénètre les abîmes,
 > et qui êtes assis sur les Chérubins,
@@ -6167,9 +6167,9 @@
 > louez-le et exaltez-le à jamais.
 > Ananias, Azarias et Misaël, bénissez le Seigneur ;
 > louez-le et exaltez-le à jamais.
-> Car il nous à tirés du schéol,
+> Car il nous a tirés du schéol,
 > et délivrés de la puissance de la mort ;
-> il nous à sauvés du milieu de la fournaise de flamme brûlante,
+> il nous a sauvés du milieu de la fournaise de flamme brûlante,
 > et tirés du milieu du feu.
 > Célébrez le Seigneur, car il est bon,
 > car sa miséricorde dure à jamais.
@@ -6266,7 +6266,7 @@
 > Et fera germer de toi une plante de justice sur toute la terre, dans toutes les générations de la terre,
 > Et mon nom et ton nom ne seront pas oubliés à jamais sous le ciel.
 >
-> Va, mon fils en paix.
+> Va, mon fils, en paix.
 > Que le Dieu Très-Haut, mon Dieu et ton Dieu, te fortifie pour faire sa volonté,
 > Et puisse-t-il bénir toute ta postérité et le reste de ta postérité pour les générations et pour toujours, avec toutes les justes bénédictions,
 > Afin que tu sois une bénédiction sur toute la terre. »
@@ -6299,7 +6299,7 @@
 
 > « Mes fils, je vais par le chemin de mes pères, vers la maison éternelle où sont mes pères. [...] Et ceci, je vous commande, mes fils, de pratiquer la justice et l'intégrité sur la terre, afin que l'Éternel fasse venir sur vous tout ce que l'Éternel a dit qu'il ferait à Abraham et à sa postérité. Et aimez-vous les uns les autres, mes fils, vos frères comme un homme qui aime son âme [...] Souvenez-vous, mes fils, du Seigneur Dieu d'Abraham, votre père, et de la façon dont moi aussi je l'ai adoré et que je l'ai servi dans la justice et dans la joie, afin qu'il vous multiplie et augmente votre postérité comme les étoiles du ciel en multitude, et établis-toi sur la terre comme une plante de justice qui ne sera pas déracinée de génération en génération. [...]
 >
-> « Et que chacun aimera son frère avec affection et justice, et que personne ne désirera du mal contre son frère désormais et pour toujours, tous les jours de votre vie, afin que vous puissiez prospérer dans toutes vos actions et ne pas être détruits. [...]
+> « Et que chacun aime son frère avec affection et justice, et que personne ne désire du mal contre son frère désormais et pour toujours, tous les jours de votre vie, afin que vous puissiez prospérer dans toutes vos actions et ne pas être détruits. [...]
 >
 > « Qu'une bénédiction repose aujourd'hui sur vous, mes fils, et sur votre postérité, car vous m'avez donné du repos, et mon cœur n'est pas peiné au sujet du droit d'aînesse [...] Que le Dieu Très-Haut bénisse l'homme qui pratique la justice, lui et sa postérité pour toujours. »
 
@@ -6840,12 +6840,12 @@
 ### Bénédiction de Térach sur Abram partant pour Canaan
 *Source : Bible éthiopienne — Les Livres Oubliés, Jubilés 12, 29. Usage : bénédiction de départ et de voyage, donnée par un père à son fils.*
 
-> Vas en paix :
+> Va en paix :
 > Que le Dieu éternel aplanisse ton chemin,
 > Et le Seigneur [(soit) avec toi, et] te protège de tout mal,
 > Et accorde-toi grâce, miséricorde et faveur devant ceux qui te voient,
 > Et qu'aucun des enfants des hommes n'ait pouvoir sur toi pour te faire du mal ;
-> Vas en paix.
+> Va en paix.
 
 
 ### Prière d'Esdras pour le peuple pécheur
@@ -6891,7 +6891,7 @@
 > 16. J'ai péché, Seigneur, et je reconnais mes iniquités. C'est pourquoi, Seigneur, je vous conjure par les prières les plus vives de me les remettre et de ne point me perdre en les punissant.
 > 17. Ne me réservez pas à des supplices éternels et ne me reléguez point dans les profondeurs de la terre car vous êtes le Dieu des pécheurs pénitents.
 > 18. Vous ferez éclater sur moi toute votre bonté, en me sauvant par votre miséricorde infinie, tout indigne que j'en suis.
-> 19. Et je vous louerai tous les jours de ma vie, puisque toutes les puissances du ciel font retentir vos louanges, et que la gloire vous appartient dans tous les siècles des siècles. Ainsi-soit-il.
+> 19. Et je vous louerai tous les jours de ma vie, puisque toutes les puissances du ciel font retentir vos louanges, et que la gloire vous appartient dans tous les siècles des siècles. Ainsi soit-il.
 
 
 ### Prière de Tobie dans son épreuve
@@ -7163,7 +7163,7 @@
 ### Grande prière d'Esdras sur la désolation de Sion
 *Source : Bible éthiopienne — Les Livres Oubliés, 4 Esdras 3, 4-36. Usage : première prière d'Esdras à Babylone, la trentième année après la ruine de Jérusalem ; retrace l'histoire du péché depuis Adam et demande pourquoi Sion est punie alors que Babylone prospère.*
 
-> Seigneur, dominateur souverain ; vous avez fait entendre votre voix dès le commencement des temps. Lorsque vous posâtes la terre sur ses fondements, vous fîtes connaître vos volontés à ceux qui l'habitaient. Vous donnâtes à Adam un corps mortel, et il fut l'ouvrage de vos mains : Vous lui inspirâtes un souffle de vie, et il fut animé en votre présence. Vous le mites dans le jardin de délices que vous aviez planté de vos mains avant que la terre eût encore rien produit. Vous lui ordonnâtes de marcher dans vos voies ; mais il les méprisa, et aussitôt vous le condamnâtes à la mort avec tous ses descendants. De ce premier homme sortirent les tribus, les nations, les peuples, et des hommes sans nombre. Ils marchèrent tous selon les désirs de leurs cœurs. Ils firent le mal à vos yeux, et ils méprisèrent vos commandements. Alors vous inondâtes la terre par un déluge, vous les ensevelîtes eux-mêmes sous les eaux, et ils trouvèrent la mort dans ce déluge, comme Adam l'avait trouvée dans sa prévarication. Cependant vous sauvâtes Noé avec sa famille, et de lui sortit la race des justes. Les hommes s'étant insensiblement multipliés, ils se répandirent sur la terre pour y former les peuples et les nations ; mais ils portèrent l'iniquité plus loin que ces premiers hommes qui périrent par le déluge. Et comme ils étaient tous criminels à vos yeux, vous fîtes choix de l'un d'entre eux, qui s'appelait Abraham. Vous l'aimâtes, et il fut le seul dépositaire de vos volontés. Vous fîtes avec lui une alliance éternelle ; et après lui avoir promis de ne jamais abandonner sa race, vous le rendîtes père d'Isaac, et de ce fils sortirent ensuite Ésaü et Jacob. Vous choisîtes Jacob, et vous rejetâtes Ésaü ; et de Jacob naquit un grand peuple. Lorsque vous fîtes sortir sa postérité de l'Égypte, vous la conduisîtes sur le mont Sinaï. Vous abaissâtes les cieux, vous affaissâtes la terre, vous ébranlâtes les fondements du monde, les abîmes tremblèrent, et toute la nature fut troublée. Ce fut alors que, pour donner votre loi à Jacob, et votre alliance à Israël, vous fîtes éclater votre gloire au milieu du feu, des tremblements, du vent et de la grêle. Mais vous n'ôtâtes point la malignité de leurs cœurs, afin que votre loi portât son fruit en eux. Car, le premier Adam l'a transgressée dans la malignité de son cœur, et il a entraîné dans sa chute tous ceux qui sont sortis de lui. La plaie n'a point été refermée ; et, depuis ce temps, l'homme a toujours porté dans son cœur et la loi et son penchant à la violer : car après avoir perdu ce qu'il avait de bon, il ne lui est resté en partage que la méchanceté. Enfin, après plusieurs siècles, vous suscitâtes votre serviteur David. Vous lui ordonnâtes de bâtir une ville où votre nom fût invoqué, et dans laquelle on vous offrit de l'encens et des victimes. Ce qui fut observé pendant plusieurs années ; mais les peuples de cette ville choisie ont enfin commis l'iniquité. Ils ont imité en tout la conduite d'Adam et de ceux qui l'ont suivi : car ils avaient comme eux la malignité dans le cœur. Et vous avez livré la ville sainte entre les mains de vos ennemis. Les peuples de Babylone sont-ils donc moins criminels que nous ? Et qu'ont-ils fait pour mériter d'être les vainqueurs de Sion ? Étant venu à Babylone, et ayant vu en la trentième année de la captivité, les impiétés et les crimes sans nombre qui s'y commettaient, mon cœur fut extrêmement troublé. Lorsque je considérais que vous épargnez les pécheurs et les impies, que les ennemis de votre nom triomphent, et qu'au contraire vous détruisez votre peuple sans que vous m'ayez donné aucune connaissance de ces malheurs. Était-ce donc là ce que vous nous réserviez ? et Babylone a-t-elle commis moins de crimes que Sion ? Quel autre peuple qu'Israël vous a connu, et quelle autre nation que celle de Jacob a fait alliance avec vous ? Sion cependant n'a encore reçu aucune récompense jusqu'ici. Son travail a été sans fruit. Cependant j'ai parcouru toutes les nations ; et quoiqu'elles vivent dans l'oubli de votre nom, elles jouissent néanmoins d'une éclatante prospérité. Maintenant donc, pesez dans une même balance nos iniquités, et celles des habitants du siècle, et vous reconnaîtrez qu'Israël seul a glorifié votre nom. Car quel intervalle ont-ils mis à leurs crimes, et quelle nation a gardé comme nous vos commandements ? Aucun n'y a été fidèle ; et parmi nous, vous en trouverez plusieurs qui les ont observés.
+> Seigneur, dominateur souverain ; vous avez fait entendre votre voix dès le commencement des temps. Lorsque vous posâtes la terre sur ses fondements, vous fîtes connaître vos volontés à ceux qui l'habitaient. Vous donnâtes à Adam un corps mortel, et il fut l'ouvrage de vos mains : Vous lui inspirâtes un souffle de vie, et il fut animé en votre présence. Vous le mîtes dans le jardin de délices que vous aviez planté de vos mains avant que la terre eût encore rien produit. Vous lui ordonnâtes de marcher dans vos voies ; mais il les méprisa, et aussitôt vous le condamnâtes à la mort avec tous ses descendants. De ce premier homme sortirent les tribus, les nations, les peuples, et des hommes sans nombre. Ils marchèrent tous selon les désirs de leurs cœurs. Ils firent le mal à vos yeux, et ils méprisèrent vos commandements. Alors vous inondâtes la terre par un déluge, vous les ensevelîtes eux-mêmes sous les eaux, et ils trouvèrent la mort dans ce déluge, comme Adam l'avait trouvée dans sa prévarication. Cependant vous sauvâtes Noé avec sa famille, et de lui sortit la race des justes. Les hommes s'étant insensiblement multipliés, ils se répandirent sur la terre pour y former les peuples et les nations ; mais ils portèrent l'iniquité plus loin que ces premiers hommes qui périrent par le déluge. Et comme ils étaient tous criminels à vos yeux, vous fîtes choix de l'un d'entre eux, qui s'appelait Abraham. Vous l'aimâtes, et il fut le seul dépositaire de vos volontés. Vous fîtes avec lui une alliance éternelle ; et après lui avoir promis de ne jamais abandonner sa race, vous le rendîtes père d'Isaac, et de ce fils sortirent ensuite Ésaü et Jacob. Vous choisîtes Jacob, et vous rejetâtes Ésaü ; et de Jacob naquit un grand peuple. Lorsque vous fîtes sortir sa postérité de l'Égypte, vous la conduisîtes sur le mont Sinaï. Vous abaissâtes les cieux, vous affaissâtes la terre, vous ébranlâtes les fondements du monde, les abîmes tremblèrent, et toute la nature fut troublée. Ce fut alors que, pour donner votre loi à Jacob, et votre alliance à Israël, vous fîtes éclater votre gloire au milieu du feu, des tremblements, du vent et de la grêle. Mais vous n'ôtâtes point la malignité de leurs cœurs, afin que votre loi portât son fruit en eux. Car, le premier Adam l'a transgressée dans la malignité de son cœur, et il a entraîné dans sa chute tous ceux qui sont sortis de lui. La plaie n'a point été refermée ; et, depuis ce temps, l'homme a toujours porté dans son cœur et la loi et son penchant à la violer : car après avoir perdu ce qu'il avait de bon, il ne lui est resté en partage que la méchanceté. Enfin, après plusieurs siècles, vous suscitâtes votre serviteur David. Vous lui ordonnâtes de bâtir une ville où votre nom fût invoqué, et dans laquelle on vous offrit de l'encens et des victimes. Ce qui fut observé pendant plusieurs années ; mais les peuples de cette ville choisie ont enfin commis l'iniquité. Ils ont imité en tout la conduite d'Adam et de ceux qui l'ont suivi : car ils avaient comme eux la malignité dans le cœur. Et vous avez livré la ville sainte entre les mains de vos ennemis. Les peuples de Babylone sont-ils donc moins criminels que nous ? Et qu'ont-ils fait pour mériter d'être les vainqueurs de Sion ? Étant venu à Babylone, et ayant vu en la trentième année de la captivité, les impiétés et les crimes sans nombre qui s'y commettaient, mon cœur fut extrêmement troublé. Lorsque je considérais que vous épargnez les pécheurs et les impies, que les ennemis de votre nom triomphent, et qu'au contraire vous détruisez votre peuple sans que vous m'ayez donné aucune connaissance de ces malheurs. Était-ce donc là ce que vous nous réserviez ? et Babylone a-t-elle commis moins de crimes que Sion ? Quel autre peuple qu'Israël vous a connu, et quelle autre nation que celle de Jacob a fait alliance avec vous ? Sion cependant n'a encore reçu aucune récompense jusqu'ici. Son travail a été sans fruit. Cependant j'ai parcouru toutes les nations ; et quoiqu'elles vivent dans l'oubli de votre nom, elles jouissent néanmoins d'une éclatante prospérité. Maintenant donc, pesez dans une même balance nos iniquités, et celles des habitants du siècle, et vous reconnaîtrez qu'Israël seul a glorifié votre nom. Car quel intervalle ont-ils mis à leurs crimes, et quelle nation a gardé comme nous vos commandements ? Aucun n'y a été fidèle ; et parmi nous, vous en trouverez plusieurs qui les ont observés.
 
 
 ### Prière d'Esdras — la vigne unique et la fleur de lis
@@ -7181,7 +7181,7 @@
 ### Prière d'Esdras dans le champ d'Ardath — la femme qui pleure
 *Source : Bible éthiopienne — Les Livres Oubliés, 4 Esdras 9, 29-37. Usage : prière prononcée après sept jours passés sans jeûner au milieu des fleurs, se souvenant de la loi donnée à Israël dans le désert et de son fruit perdu.*
 
-> Seigneur, avant de vous montrer à nous, vous vous êtes fait voir à nos pères dans le désert, ce lieu stérile et inhabité, et lorsqu'ils sortirent de l'Égypte, vous leur dites : Israël, écoute-moi ; et toi, maison de Jacob, sois attentive à mes paroles. Car je vais mettre ma loi dans vos cœurs comme une semence ; elle y portera du fruit et elle vous rendra à jamais glorieux sur la terre. Mais vos pères, après avoir reçu ma loi, ne l'ont point gardée ; ils ont violé mon alliance, la loi n'a porté aucun fruit en eux, et elle ne le pouvait ; car c'était de vous qu'il devait sortir. Et ainsi ceux à qui elle avait été donnée ont été rejetés, parce qu'ils n'ont conservé la semence qui avait été dans leurs cœurs. Il arrive ordinairement que quand la terre a reçu la semence, qu'un vaisseau a été mis en mer, qu'on a rempli un vase de quelque nourriture, ces choses dans lesquelles tout cela a été mis venant à être détruites, ce qu'on y a semé ou inséré, ou ce qui y a été reçu, est détruit en même temps et ne subsiste plus alors parmi nous ; mais il n'en est pas de même à notre égard. Car nous avons été rejetés après avoir violé la loi que nous avions reçue, et notre cœur, où elle avait été jetée comme une semence, a eu le même sort. Mais la loi n'a point été anéantie, et elle a conservé toute sa force.
+> Seigneur, avant de vous montrer à nous, vous vous êtes fait voir à nos pères dans le désert, ce lieu stérile et inhabité, et lorsqu'ils sortirent de l'Égypte, vous leur dites : Israël, écoute-moi ; et toi, maison de Jacob, sois attentive à mes paroles. Car je vais mettre ma loi dans vos cœurs comme une semence ; elle y portera du fruit et elle vous rendra à jamais glorieux sur la terre. Mais vos pères, après avoir reçu ma loi, ne l'ont point gardée ; ils ont violé mon alliance, la loi n'a porté aucun fruit en eux, et elle ne le pouvait ; car c'était de vous qu'il devait sortir. Et ainsi ceux à qui elle avait été donnée ont été rejetés, parce qu'ils n'ont pas conservé la semence qui avait été dans leurs cœurs. Il arrive ordinairement que quand la terre a reçu la semence, qu'un vaisseau a été mis en mer, qu'on a rempli un vase de quelque nourriture, ces choses dans lesquelles tout cela a été mis venant à être détruites, ce qu'on y a semé ou inséré, ou ce qui y a été reçu, est détruit en même temps et ne subsiste plus alors parmi nous ; mais il n'en est pas de même à notre égard. Car nous avons été rejetés après avoir violé la loi que nous avions reçue, et notre cœur, où elle avait été jetée comme une semence, a eu le même sort. Mais la loi n'a point été anéantie, et elle a conservé toute sa force.
 
 
 ### Prière d'Esdras pour recevoir la force face à la vision terrible
@@ -7198,13 +7198,13 @@
 > **Promesses de Notre Seigneur pour la récitation des 15 Oraisons**
 > Comme il y avait longtemps qu'elle désirait savoir le nombre de coups que Notre Seigneur reçut en sa Passion, un jour Il lui apparut en disant : « J'ai reçu en mon Corps 5480 coups. Si vous voulez les honorer par quelque vénération, vous direz quinze Pater Noster et quinze Ave Maria avec les oraisons suivantes (qu'il lui enseigna) pendant un an entier : l'année étant achevée, vous aurez salué chacune de mes plaies. »
 >
-> Il ajouta ensuite que quiconque dirait ces Oraisons durant un an « délivrera du Purgatoire quinze âmes de sa lignée, quinze justes de sa même lignée seront confirmés et conservés en état de grâce et quinze pécheurs de sa même lignée seront convertis. La personne qui les dira aura les premiers degrés de perfection et quinze jours avant sa mort, je lui donnerai mon précieux Corps, afin que par celui-ci elle soit délivrée de la faim éternelle ; je lui donnerai mon Précieux Sang à boire de peur qu'elle n'ait soif éternellement ; et, quinze jours avant sa mort, elle aura une amère contrition de tous ses péchés et une parfaite connaissance de ceux-ci. Je mettrai le Signe de ma très victorieuse Croix devant elle, pour son secours et sa défense contre les embûches de ses ennemis. Avant sa mort, Je viendrai avec ma très chère et bien-aimée Mère, et recevrai bénignement son âme et la mènerai aux joies éternelles ; et l'ayant menée jusque là, Je lui donnerai un singulier trait à boire de la fontaine de ma Déité, ce que Je ne ferai point à d'autres ne disant pas mes Oraisons. Celui qui dira ces Oraisons est assuré d'être joint au suprême Chœur des Anges, et, quiconque les enseignera à un autre, sa joie et son mérite ne manqueront jamais, mais seront stables et dureront à perpétuité. Là où sont et où seront dites ces Oraisons, Dieu est présent avec sa Grâce. »
+> Il ajouta ensuite que quiconque dirait ces Oraisons durant un an « délivrera du Purgatoire quinze âmes de sa lignée, quinze justes de sa même lignée seront confirmés et conservés en état de grâce et quinze pécheurs de sa même lignée seront convertis. La personne qui les dira aura les premiers degrés de perfection et quinze jours avant sa mort, je lui donnerai mon précieux Corps, afin que par celui-ci elle soit délivrée de la faim éternelle ; je lui donnerai mon Précieux Sang à boire de peur qu'elle n'ait soif éternellement ; et, quinze jours avant sa mort, elle aura une amère contrition de tous ses péchés et une parfaite connaissance de ceux-ci. Je mettrai le Signe de ma très victorieuse Croix devant elle, pour son secours et sa défense contre les embûches de ses ennemis. Avant sa mort, Je viendrai avec ma très chère et bien-aimée Mère, et recevrai bénignement son âme et la mènerai aux joies éternelles ; et l'ayant menée jusque-là, Je lui donnerai un singulier trait à boire de la fontaine de ma Déité, ce que Je ne ferai point à d'autres ne disant pas mes Oraisons. Celui qui dira ces Oraisons est assuré d'être joint au suprême Chœur des Anges, et, quiconque les enseignera à un autre, sa joie et son mérite ne manqueront jamais, mais seront stables et dureront à perpétuité. Là où sont et où seront dites ces Oraisons, Dieu est présent avec sa Grâce. »
 >
 > **Première Oraison** (Pater, Ave)
 > Ô Jésus-Christ ! douceur éternelle à ceux qui vous aiment, joie qui surpasse toute joie et tout désir, espoir et salut des pécheurs, qui avez témoigné n'avoir de plus grand contentement que d'être parmi les hommes jusqu'à prendre la nature humaine en la plénitude des temps pour l'amour d'eux, souvenez-vous des souffrances que vous avez endurées dès l'instant de votre conception et surtout dans le temps de votre sainte Passion, ainsi qu'il avait été décrété et ordonné de toute éternité dans la pensée divine. Souvenez-vous, Seigneur, que faisant la Cène avec vos disciples, après leur avoir lavé les pieds, vous leur avez donné votre Corps Sacré et votre Précieux Sang, et, tout en les consolant avec douceur, vous leur avez prédit votre prochaine Passion. Souvenez-vous de la tristesse et de l'amertume que vous avez éprouvées en votre âme, comme vous l'avez témoigné vous-même, disant : « Mon âme est triste jusqu'à la mort. » Souvenez-vous, Seigneur, des craintes, angoisses et douleurs que vous avez endurées en votre Corps délicat avant le supplice de la Croix, quand, après avoir prié trois fois en répandant une sueur de Sang, vous avez été trahi par Judas, votre disciple, pris par la nation que vous aviez choisie et élevée, accusé par de faux témoins, injustement jugé par trois juges, en la fleur de votre jeunesse et dans le temps solennel de la Pâque. Souvenez-vous que vous avez été dépouillé de vos propres vêtements et revêtu de ceux de la dérision ; qu'on vous a voilé les yeux et la face, qu'on vous a donné des soufflets, que vous avez été couronné d'épines, qu'on vous a mis un roseau à la main, et qu'attaché à une colonne vous avez été déchiré de coups et accablé d'affronts et d'outrages. En mémoire de ces peines et douleurs que vous avez endurées avant votre Passion sur la Croix, donnez-moi avant la mort une vraie contrition, une pure et entière confession, une digne pénitence et la rémission de tous mes péchés. Ainsi soit-il.
 >
 > **Deuxième Oraison** (Pater, Ave)
-> Ô Jésus ! vraie liberté des anges, paradis de délices, ayez mémoire de l'horreur de tristesse que vous avez endurée lorsque vos ennemis, tels des lions furieux, vous entourèrent, et par mille injures, crachats, soufflets, griffures et autres supplices inouïs, vous tourmentèrent à l'envie. En considération de ces tourments et de ces paroles injurieuses, je vous supplie, ô mon Sauveur, de me délivrer de mes ennemis visibles et invisibles, et de me faire arriver, sous votre protection, à la perfection du salut éternel. Ainsi soit-il.
+> Ô Jésus ! vraie liberté des anges, paradis de délices, ayez mémoire de l'horreur de tristesse que vous avez endurée lorsque vos ennemis, tels des lions furieux, vous entourèrent, et par mille injures, crachats, soufflets, griffures et autres supplices inouïs, vous tourmentèrent à l'envi. En considération de ces tourments et de ces paroles injurieuses, je vous supplie, ô mon Sauveur, de me délivrer de mes ennemis visibles et invisibles, et de me faire arriver, sous votre protection, à la perfection du salut éternel. Ainsi soit-il.
 >
 > **Troisième Oraison** (Pater, Ave)
 > Ô Jésus ! Créateur du Ciel et de la Terre, que nulle chose ne peut borner ni limiter, vous qui enfermez et tenez tout sous votre Puissance, souvenez-vous de la douleur très amère que vous avez endurée lorsque les soldats, attachant vos mains sacrées et vos pieds très délicats à la Croix, les percèrent de part en part avec de gros clous émoussés et, ne vous trouvant pas dans l'état qu'ils voulaient pour contenter leur rage, agrandirent vos plaies, y ajoutèrent douleur sur douleur puis, par une cruauté inouïe, vous allongèrent alors sur la Croix et vous tirèrent de tous côtés en disloquant vos membres. Je vous conjure, par la mémoire de cette très sainte et très aimante douleur de la Croix, de me donner votre crainte et votre amour. Ainsi soit-il.

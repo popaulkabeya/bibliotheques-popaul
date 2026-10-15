@@ -119,7 +119,7 @@ Trois Mères et trois Pères ; et de là procèdent le Feu, l'Air et l'Eau. Troi
 8. Il produisit Nun, prédominant dans l'Odorat ; Il la couronna, la combina et forma avec elle le Scorpion dans l'Univers, Hesvan dans l'Année, et les intestins de l'Homme.
 9. Il produisit Samech, prédominant dans le Sommeil ; Il la couronna, la combina et forma avec elle le Sagittaire dans l'Univers, Kislev dans l'Année, et l'estomac de l'Homme.
 10. Il produisit Aïn, prédominant dans la Colère ; Il la couronna, la combina et forma avec elle le Capricorne dans l'Univers, Tébet dans l'Année, et le foie de l'Homme.
-11. Il produisit Tzaddi, prédominant dans le Goût ; Il la couronna, la combina et forma avec elle le Verseau dans l'Année, et le gosier de l'Homme.
+11. Il produisit Tzaddi, prédominant dans le Goût ; Il la couronna, la combina et forma avec elle le Verseau dans l'Univers, Shevat dans l'Année, et le gosier de l'Homme.
 12. Il produisit Qoph, prédominant dans la Gaieté ; Il la couronna, la combina et forma avec elle les Poissons dans l'Univers, Adar dans l'Année, et la rate de l'Homme.
 
 ## Chapitre VI
