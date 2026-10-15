@@ -2840,8 +2840,75 @@
       ],
       "addedAt": "2026-10-10",
       "bytes": 233337
+    },
+    {
+      "id": "bohme-trois-principes",
+      "category": "doctrine",
+      "order": 0,
+      "title": "Des trois principes de l'essence divine",
+      "subtitle": "ou De l'éternel engendrement sans origine — trad. Louis-Claude de Saint-Martin",
+      "author": "Jacob Böhme",
+      "era": "1619 — trad. 1802",
+      "lang": "fr",
+      "glyph": "☼",
+      "tags": [
+        "théosophie",
+        "mystique",
+        "trois principes",
+        "saint-martin",
+        "philosophe inconnu"
+      ],
+      "summary": "Le grand traité théosophique du cordonnier de Görlitz (1619) : Dieu se manifeste en trois principes — le monde ténébreux du feu et de la colère, le monde lumineux de l'amour, et le monde extérieur visible né de leur mélange —, puis l'homme formé de ces trois mondes, sa chute et sa régénération. Traduction en deux tomes de Louis-Claude de Saint-Martin, le « Philosophe inconnu » (Paris, Laran, 1802), d'après le microfilm de l'université Columbia ; domaine public. En complément, les figures de l'homme intérieur selon les trois principes (éd. Arbre d'Or, 2005, réservée à l'usage personnel).",
+      "volumes": [
+        {
+          "label": "Traduction de Saint-Martin, 1802 — 2 tomes",
+          "type": "pdf",
+          "path": "Trois-Principes-Bohme/Des-Trois-Principes-Essence-Divine-Bohme-Saint-Martin-1802-FR.pdf",
+          "bytes": 43378318
+        },
+        {
+          "label": "Les trois principes et les trois mondes dans l'homme — figures (Arbre d'Or, 2005)",
+          "type": "pdf",
+          "path": "Trois-Principes-Bohme/Trois-Principes-et-Trois-Mondes-Figures-ArbreDOr-FR.pdf",
+          "bytes": 865468
+        }
+      ],
+      "addedAt": "2026-10-16",
+      "bytes": 44243786
+    },
+    {
+      "id": "principe-divin",
+      "category": "doctrine",
+      "order": 7,
+      "title": "Exposé du Principe divin",
+      "subtitle": "Exposition of the Divine Principle — édition anglaise officielle de 1996",
+      "author": "Sun Myung Moon · rédaction Hyo Won Eu",
+      "era": "1966 — trad. anglaise 1996",
+      "lang": "en",
+      "glyph": "❂",
+      "tags": [
+        "unification",
+        "théologie",
+        "révérend moon",
+        "corée",
+        "création",
+        "chute",
+        "restauration",
+        "second avènement"
+      ],
+      "summary": "Le livre de doctrine de l'Église de l'Unification, fondée en Corée par le révérend Sun Myung Moon, rédigé par Hyo Won Eu d'après son enseignement (Wolli Kangron, 1966). Première partie : le principe de la création, la chute, l'eschatologie, le Messie, la résurrection, la prédestination et la christologie ; seconde partie : l'histoire providentielle de la restauration, d'Adam à Moïse et Jésus, jusqu'au second avènement. Traduction anglaise officielle de 1996 (324 pages), telle que la diffuse l'archive tparents.org ; aucune traduction française complète n'existe en ligne. Texte protégé, réservé à l'usage personnel.",
+      "volumes": [
+        {
+          "label": "Exposition of the Divine Principle (1996)",
+          "type": "pdf",
+          "path": "Principe-Divin/Exposition-of-the-Divine-Principle-1996-EN.pdf",
+          "bytes": 627074
+        }
+      ],
+      "addedAt": "2026-10-16",
+      "bytes": 627074
     }
   ],
-  "totalBytes": 4104224150,
-  "generatedAt": "2026-10-14"
+  "totalBytes": 4149095010,
+  "generatedAt": "2026-10-15"
 }
