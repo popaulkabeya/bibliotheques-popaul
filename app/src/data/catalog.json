@@ -75,7 +75,7 @@
           "label": "Édition EPUB",
           "type": "epub",
           "path": "Bible-Ethiopienne/Bible-Ethiopienne-Livres-Oublies-FR.epub",
-          "bytes": 605647
+          "bytes": 605649
         },
         {
           "label": "Édition PDF",
@@ -115,7 +115,7 @@
           ]
         }
       ],
-      "bytes": 358660107,
+      "bytes": 358660109,
       "addedAt": "2026-09-03"
     },
     {
@@ -263,7 +263,7 @@
           "label": "Texte intégral",
           "type": "md",
           "path": "Evangile-de-Thomas-Mattison-FR.md",
-          "bytes": 30502
+          "bytes": 30511
         },
         {
           "label": "Livre audio",
@@ -277,7 +277,7 @@
           ]
         }
       ],
-      "bytes": 10316999,
+      "bytes": 10317008,
       "addedAt": "2026-09-03"
     },
     {
@@ -302,7 +302,7 @@
           "label": "Texte intégral",
           "type": "md",
           "path": "Evangile-de-Philippe-Mattison-FR.md",
-          "bytes": 51968
+          "bytes": 51969
         },
         {
           "label": "Livre audio — 18 pistes",
@@ -350,7 +350,7 @@
           ]
         }
       ],
-      "bytes": 16835163,
+      "bytes": 16835164,
       "addedAt": "2026-09-03"
     },
     {
@@ -423,10 +423,10 @@
           "label": "Texte intégral",
           "type": "md",
           "path": "Apocryphon-de-Jean-Zinner-Mattison-FR.md",
-          "bytes": 51555
+          "bytes": 51554
         }
       ],
-      "bytes": 51555,
+      "bytes": 51554,
       "addedAt": "2026-09-03"
     },
     {
@@ -545,16 +545,16 @@
           "label": "Texte intégral",
           "type": "md",
           "path": "Verite-et-Jacques-Mattison-FR.md",
-          "bytes": 58850
+          "bytes": 58847
         },
         {
           "label": "Édition PDF",
           "type": "pdf",
           "path": "Verite-et-Jacques-Mattison-FR.pdf",
-          "bytes": 1541564
+          "bytes": 1541591
         }
       ],
-      "bytes": 1600414,
+      "bytes": 1600438,
       "addedAt": "2026-09-03"
     },
     {
@@ -616,7 +616,7 @@
           "label": "Texte intégral",
           "type": "md",
           "path": "Sepher-Yetzirah-Westcott-FR.md",
-          "bytes": 26300
+          "bytes": 26323
         },
         {
           "label": "Livre audio — 7 pistes",
@@ -642,7 +642,7 @@
           ]
         }
       ],
-      "bytes": 8813047,
+      "bytes": 8813070,
       "addedAt": "2026-09-03"
     },
     {
@@ -1213,7 +1213,7 @@
           "label": "Texte intégral",
           "type": "md",
           "path": "Septieme-Livres-de-Moise/Sixieme-et-Septieme-Livres-de-Moise-FR.md",
-          "bytes": 435924
+          "bytes": 435925
         },
         {
           "label": "Édition PDF",
@@ -1251,7 +1251,7 @@
           ]
         }
       ],
-      "bytes": 162903700,
+      "bytes": 162903701,
       "addedAt": "2026-09-03"
     },
     {
@@ -1598,7 +1598,7 @@
           "label": "Texte intégral",
           "type": "md",
           "path": "Testament-de-Salomon-Conybeare-FR.md",
-          "bytes": 71627
+          "bytes": 71626
         },
         {
           "label": "Édition PDF",
@@ -1607,7 +1607,7 @@
           "bytes": 1800588
         }
       ],
-      "bytes": 1872215,
+      "bytes": 1872214,
       "addedAt": "2026-09-03"
     },
     {
@@ -1632,7 +1632,7 @@
           "label": "Texte intégral (ch. I-XIII)",
           "type": "md",
           "path": "Grand-Albert-Traite-Generation-FR.md",
-          "bytes": 69021
+          "bytes": 69023
         },
         {
           "label": "Édition PDF — 24 pages",
@@ -1641,7 +1641,7 @@
           "bytes": 1866912
         }
       ],
-      "bytes": 1935933,
+      "bytes": 1935935,
       "addedAt": "2026-09-04"
     },
     {
@@ -1796,7 +1796,7 @@
           "label": "Texte intégral",
           "type": "md",
           "path": "Office-Matin-et-Soir/Office-Matin-et-Soir-FR.md",
-          "bytes": 10977
+          "bytes": 10978
         },
         {
           "label": "Version PDF",
@@ -1822,7 +1822,7 @@
           ]
         }
       ],
-      "bytes": 4019557,
+      "bytes": 4019558,
       "addedAt": "2026-09-03"
     },
     {
@@ -1847,13 +1847,13 @@
           "label": "Texte intégral",
           "type": "md",
           "path": "Recueil-Prieres-et-Invocations/Recueil-Prieres-et-Invocations-FR.md",
-          "bytes": 507405
+          "bytes": 507421
         },
         {
           "label": "Version PDF",
           "type": "pdf",
           "path": "Recueil-Prieres-et-Invocations/Recueil-Prieres-et-Invocations-FR.pdf",
-          "bytes": 888250
+          "bytes": 888197
         },
         {
           "label": "Livre audio — 7 pistes",
@@ -1879,7 +1879,7 @@
           ]
         }
       ],
-      "bytes": 159168505,
+      "bytes": 159168468,
       "addedAt": "2026-09-03"
     },
     {
@@ -2089,16 +2089,16 @@
           "label": "Texte intégral",
           "type": "md",
           "path": "Koran-Kazimirski-FR.md",
-          "bytes": 1630525
+          "bytes": 1630527
         },
         {
-          "label": "Version PDF — 648 pages",
+          "label": "Version PDF — 673 pages",
           "type": "pdf",
           "path": "Koran-Kazimirski-FR.pdf",
-          "bytes": 36246426
+          "bytes": 39004974
         }
       ],
-      "bytes": 37876951,
+      "bytes": 40635501,
       "addedAt": "2026-09-03"
     },
     {
@@ -2273,10 +2273,10 @@
           "label": "Version PDF — 199 pages",
           "type": "pdf",
           "path": "Introduction-Vie-Devote-FR.pdf",
-          "bytes": 17180038
+          "bytes": 17180119
         }
       ],
-      "bytes": 17811391,
+      "bytes": 17811472,
       "addedAt": "2026-09-03"
     },
     {
@@ -2340,16 +2340,16 @@
           "label": "Texte intégral",
           "type": "md",
           "path": "Jean-de-la-Croix-Oeuvres-FR.md",
-          "bytes": 1550624
+          "bytes": 1550627
         },
         {
           "label": "Version PDF — 444 pages",
           "type": "pdf",
           "path": "Jean-de-la-Croix-Oeuvres-FR.pdf",
-          "bytes": 37330881
+          "bytes": 37331051
         }
       ],
-      "bytes": 38881505,
+      "bytes": 38881678,
       "addedAt": "2026-09-03"
     },
     {
@@ -2520,10 +2520,10 @@
           "label": "Texte intégral",
           "type": "md",
           "path": "Livre-des-Secrets-d-Henoch-Morfill-FR.md",
-          "bytes": 91164
+          "bytes": 91169
         }
       ],
-      "bytes": 91164,
+      "bytes": 91169,
       "addedAt": "2026-09-11"
     },
     {
@@ -2580,10 +2580,10 @@
           "label": "Texte intégral",
           "type": "md",
           "path": "Sefer-HaBahir-Livre-de-la-Clarte-FR.md",
-          "bytes": 159356
+          "bytes": 159358
         }
       ],
-      "bytes": 159356,
+      "bytes": 159358,
       "addedAt": "2026-09-14"
     },
     {
@@ -2776,10 +2776,10 @@
           "label": "Full text",
           "type": "md",
           "path": "Arbatel-of-Magic-Turner-EN.md",
-          "bytes": 75597
+          "bytes": 75598
         }
       ],
-      "bytes": 75597,
+      "bytes": 75598,
       "addedAt": "2026-09-26"
     },
     {
@@ -2842,6 +2842,6 @@
       "bytes": 233337
     }
   ],
-  "totalBytes": 4101465314,
-  "generatedAt": "2026-10-13"
+  "totalBytes": 4104224150,
+  "generatedAt": "2026-10-14"
 }

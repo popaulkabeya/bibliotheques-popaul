@@ -3,7 +3,7 @@
  * Deux caches distincts : « shell » (versionné, purgé à chaque mise à jour)
  * et « livres-v1 » (piloté par l'utilisateur, jamais purgé automatiquement).
  */
-const SHELL = 'shell-v83';
+const SHELL = 'shell-v85';
 const BOOKS = 'livres-v1';
 
 const SHELL_FILES = [

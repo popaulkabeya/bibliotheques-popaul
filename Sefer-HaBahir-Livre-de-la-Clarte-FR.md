@@ -260,7 +260,7 @@ Le *Sefer HaBahir*, « Livre de la Clarté » — d'après le mot *bahir*, « é
 
 **125.** Et pourquoi les appelle-t-on *Sefirot* ? Parce qu'il est écrit : « Les cieux racontent [*mesaprim*] la gloire de Dieu » (Psaumes 19:2).
 
-**126.** Et que sont-elles ? Elles sont trois, et en elles sont compris trois armées et trois dominations. La première domination est la lumière, et la lumière de vie des eaux. La deuxième domination, ce sont les Hayyot saintes, les Ofanim, les roues du Char et toutes les légions du Saint, béni soit-Il, qui bénissent, exaltent, glorifient, magnifient et sanctifient le Roi magnifique en sainteté, vénéré dans le grand conseil des saints, le Roi terrible et redoutable ; et ils le couronnent de trois sanctifications.
+**126.** Et que sont-elles ? Elles sont trois, et en elles sont comprises trois armées et trois dominations. La première domination est la lumière, et la lumière de vie des eaux. La deuxième domination, ce sont les Hayyot saintes, les Ofanim, les roues du Char et toutes les légions du Saint, béni soit-Il, qui bénissent, exaltent, glorifient, magnifient et sanctifient le Roi magnifique en sainteté, vénéré dans le grand conseil des saints, le Roi terrible et redoutable ; et ils le couronnent de trois sanctifications.
 
 **127.** Et pourquoi trois sanctifications, et non quatre ? Parce que la sainteté d'en haut va par trois, comme il est écrit : « YHVH règne, YHVH a régné, YHVH régnera à jamais », et : « Que YHVH te bénisse… que YHVH fasse briller… que YHVH lève… » (Nombres 6:24-26), et : « YHVH, YHVH » (Exode 34:6) ; et le reste des attributs relève du troisième YHVH. Qu'est-ce ? « YHVH, Dieu miséricordieux et compatissant… » : les treize attributs.
 

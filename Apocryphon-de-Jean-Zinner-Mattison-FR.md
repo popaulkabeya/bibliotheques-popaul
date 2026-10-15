@@ -462,7 +462,7 @@
 
 **1** La Réflexion de lumière se cacha alors en lui, et l'archonte en chef désira l'extraire de sa côte, mais la Réflexion de lumière est insaisissable.
 
-**2** Bien que les ténèbres la poursuivissent, elles ne purent la saisir ; et il extraya de lui une part de sa puissance, et il fit un autre moule, sous forme de femme, selon la ressemblance de la Réflexion qui lui était apparue, et il mit la part qu'il avait extraite de la puissance de l'homme dans le moule féminin — et non, comme l'a dit Moïse, "sa côte" — ; et il vit la femme auprès de lui.
+**2** Bien que les ténèbres la poursuivissent, elles ne purent la saisir ; et il retira de lui une part de sa puissance, et il fit un autre moule, sous forme de femme, selon la ressemblance de la Réflexion qui lui était apparue, et il mit la part qu'il avait extraite de la puissance de l'homme dans le moule féminin — et non, comme l'a dit Moïse, "sa côte" — ; et il vit la femme auprès de lui.
 
 **3** Au même moment aussi, la Réflexion lumineuse apparut, et elle leva le voile qui avait couvert son intelligence ; et il retrouva sa lucidité après l'ivresse des ténèbres, et il reconnut la réplique de sa propre image, et il dit : "Voici vraiment l'os de mes os, et la chair de ma chair.
 

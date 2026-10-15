@@ -3,7 +3,7 @@
 ## Note du traducteur
 
 Les deux textes de ce volume sont traduits de l'anglais de Mark M. Mattison, lui-même
-traducteur du copte (Codex I de Nag Hammadi, tractats 3 et 2). Mattison a explicitement
+traducteur du copte (Codex I de Nag Hammadi, traités 3 et 2). Mattison a explicitement
 versé ses traductions anglaises au domaine public — mention reproduite en tête de chaque
 texte — ce qui autorise la présente traduction française. Le corps de chaque texte et
 l'apparat critique de Mattison (« Notes de traduction ») sont traduits intégralement ;
@@ -212,7 +212,7 @@ Lorsqu'il fut révélé, il leur enseigna au sujet du Père, l'insaisissable, et
 
 31
 
-vers lui. Car les êtres de matière lui étaient étrangers, eux qui ne voyaient pas sa forme et ne le connaissaient pas. Car il vint sous une forme de chair, et rien ne put barrer son chemin, parce que l'incorruptibilité ne peut être saisie. De plus, il dit des choses nouvelles tandis qu'il parlait de ce qui est dans le cœur du Père et faisait sortir le Verbe accompli. Quand la lumière parla par sa bouche, et que par sa voix elle donna naissance à la vie, il leur donna pensée, sagesse, miséricorde, salut, et l'Esprit de puissance venu de l'infini et de la douceur du Père. Il fit cesser châtiments et tourments, car ils égaraient dans l'Erreur et l'asservissement ceux qui avaient besoin de miséricorde. Il les dissout et les confondit par la connaissance. Il devint :
+vers lui. Car les êtres de matière lui étaient étrangers, eux qui ne voyaient pas sa forme et ne le connaissaient pas. Car il vint sous une forme de chair, et rien ne put barrer son chemin, parce que l'incorruptibilité ne peut être saisie. De plus, il dit des choses nouvelles tandis qu'il parlait de ce qui est dans le cœur du Père et faisait sortir le Verbe accompli. Quand la lumière parla par sa bouche, et que par sa voix elle donna naissance à la vie, il leur donna pensée, sagesse, miséricorde, salut, et l'Esprit de puissance venu de l'infini et de la douceur du Père. Il fit cesser châtiments et tourments, car ils égaraient dans l'Erreur et l'asservissement ceux qui avaient besoin de miséricorde. Il les dissolut et les confondit par la connaissance. Il devint :
 
 une Voie pour ceux qui étaient égarés,
 
@@ -404,7 +404,7 @@ Alors Pierre répondit : « Trois fois tu nous as dit
 
 d'être [remplis, mais] nous sommes remplis. »
 
-En [réponse le Sauveur] dit : « C'est pourquoi je vous [ai dit] [« soyez remplis »] — afin que vous ne [manquiez pas de rien. Ceux qui manquent] ne seront [pas sauvés]. Il est bon d'être rempli [et] mauvais [de manquer]. Ainsi, tout comme il est bon pour vous de manquer et mauvais pour vous d'être remplis, quiconque est rempli manque aussi. Celui qui manque n'est pas rempli de la même façon que celui qui manque est rempli, et quiconque est rempli reçoit tout ce dont il a besoin. Il convient donc de manquer tant qu'il est possible de vous remplir, et d'être rempli tant qu'il est possible de manquer, afin que vous puissiez vous [remplir] davantage. Alors [soyez] pleins de l'Esprit mais manquant de raison, car la raison est de l'âme — en fait, elle est âme. »
+En [réponse le Sauveur] dit : « C'est pourquoi je vous [ai dit] [« soyez remplis »] — afin que vous ne [manquiez de rien. Ceux qui manquent] ne seront [pas sauvés]. Il est bon d'être rempli [et] mauvais [de manquer]. Ainsi, tout comme il est bon pour vous de manquer et mauvais pour vous d'être remplis, quiconque est rempli manque aussi. Celui qui manque n'est pas rempli de la même façon que celui qui manque est rempli, et quiconque est rempli reçoit tout ce dont il a besoin. Il convient donc de manquer tant qu'il est possible de vous remplir, et d'être rempli tant qu'il est possible de manquer, afin que vous puissiez vous [remplir] davantage. Alors [soyez] pleins de l'Esprit mais manquant de raison, car la raison est de l'âme — en fait, elle est âme. »
 
 ### La croix et la mort
 

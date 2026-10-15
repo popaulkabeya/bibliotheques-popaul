@@ -150,7 +150,7 @@ Bienheureux soit le jour, bienheureuse soit cette heure, où tu ne seras plus fr
 
 **Pour une bouche putride.**
 
-Job, Job, voyageait par le pays ; il portait une verge à la main ; alors Dieu, le Seigneur, lui apparut en vision, et parla : Job, Job, pourquoi te lamentes-tu, mon cher ? — Seigneur, pourquoi ne serais-je pas fort triste, puisque sauvage et putride est la langue, et la bouche de mon enfant ? † † † Trois fois.
+Job, Job voyageait par le pays ; il portait une verge à la main ; alors Dieu, le Seigneur, lui apparut en vision, et parla : Job, Job, pourquoi te lamentes-tu, mon cher ? — Seigneur, pourquoi ne serais-je pas fort triste, puisque sauvage et putride est la langue, et la bouche de mon enfant ? † † † Trois fois.
 
 **Lotion pour une bouche putride.**
 
@@ -594,7 +594,7 @@ La mère était en peine, la mère peinait et travaillait ; couchée contre ce m
 
 **Contre les voleurs rusés, si malins soient-ils. Prononcez cette bénédiction chaque matin, trois fois, sur tous vos biens, avec dévotion.**
 
-Notre chère mère vint dans un jardin. Trois anges l'y consolèrent. Le premier se nomme saint Michel ; l'autre, saint Gabriel ; le troisième, saint Pierre. Alors Pierre parla à notre bien-aimée Marie : J'ai vu trois voleurs entrer là. Ils ont dessein de voler ton cher enfant et de le tuer. Mais la bien-aimée mère Marie dit : Pierre, lie ; saint Pierre, lie ; et Pierre les lia de bandes de fer, des propres mains de Dieu, et par ses cinq saintes plaies ; que par cela, avec Gabriel, en ce jour et cette nuit, et cette année entière, et pour toujours et en tout temps, mes biens soient liés. Quiconque tente d'y voler doit rester planté comme un bâton, voir comme une brique, et demeurer immobile. Il doit rester dressé, sans pouvoir partir d'ici jusqu'à ce que je lui permette de s'en aller. C'est de ma propre langue que je dois le lui dire. Tel est mon ordre et la volonté de Gabriel, qui désormais, de jour et de nuit, et toute l'année, pour tous les temps à venir, sera signifié à tout voleur, afin qu'il se repente. Qu'à cela Dieu prête sa bénédiction. Dieu le Père, Dieu le Fils et Dieu le Saint-Esprit. Amen.
+Notre chère mère vint dans un jardin. Trois anges l'y consolèrent. Le premier se nomme saint Michel ; l'autre, saint Gabriel ; le troisième, saint Pierre. Alors Pierre parla à notre bien-aimée Marie : J'ai vu trois voleurs entrer là. Ils ont dessein de voler ton cher enfant et de le tuer. Mais la bien-aimée mère Marie dit : Pierre, lie ; saint Pierre, lie ; et Pierre les lia de bandes de fer, des propres mains de Dieu, et par ses cinq saintes plaies ; que par cela, avec Gabriel, en ce jour et cette nuit, et cette année entière, et pour toujours et en tout temps, mes biens soient liés. Quiconque tente d'y voler doit rester planté comme un bâton, voire comme une brique, et demeurer immobile. Il doit rester dressé, sans pouvoir partir d'ici jusqu'à ce que je lui permette de s'en aller. C'est de ma propre langue que je dois le lui dire. Tel est mon ordre et la volonté de Gabriel, qui désormais, de jour et de nuit, et toute l'année, pour tous les temps à venir, sera signifié à tout voleur, afin qu'il se repente. Qu'à cela Dieu prête sa bénédiction. Dieu le Père, Dieu le Fils et Dieu le Saint-Esprit. Amen.
 
 **Pour protéger le corps des dangers de toutes sortes d'armes, projectiles et fusils, hampes, lancettes, épées, couteaux, rapières, dagues et hallebardes.**
 
@@ -992,7 +992,7 @@ Moi, N. N., je soufflerai sur toi ; trois gouttes de sang je tire de toi : la pr
 
 **Contre les vers dans le corps d'un homme.**
 
-Saint Pierre et Jésus s'en allaient par le champ. Ils creusèrent trois sillons, où ils trouvèrent trois vers. L'un était blanc, l'autre est noir, le troisième est rouge. Désormais, N. N., tous tes vers sont morts. Trois fois.
+Saint Pierre et Jésus s'en allaient par le champ. Ils creusèrent trois sillons, où ils trouvèrent trois vers. L'un était blanc, l'autre était noir, le troisième était rouge. Désormais, N. N., tous tes vers sont morts. Trois fois.
 
 **Bénédiction et grâce pour tous.**
 
@@ -1560,7 +1560,7 @@ Plaies si bonnes, j'arrête votre cuisson avec le propre sang de Dieu, afin que 
 
 **Pour contraindre un voleur à rendre le bien volé.**
 
-Au nom de la Sainte Trinité, je presse et conjure N. N., toi voleur, homme ou femme, au nom de Dieu qui sait tout, par Aaron le grand prêtre, par l'aide duquel je contrains et vaincs tous les diables ; que ceci te soit signifié : Moloch et Lucifer aussi seront envoyés, de même que saint Michel, saint Gabriel, saint Raphaël avec maintes milliers de légions d'esprits obéissants et de saints anges de Dieu ; que ceci soit ta contrainte, ton obéissance, ta rançon, ta plaie, ton obligation : Astaroth, Dieu dans les Dieux et de Dieu, le voleur qui a dérobé N. N., ce voleur, homme ou femme, amène-le ici, chez moi, dans ma maison de N. N., avec les articles volés. Belzébuth soit lié, Lucifer soit lié, Satan soit lié par les rayons qui émanent de la sainte face de Dieu ; le Dieu qui a donné à Moïse les commandements, qu'il m'aide, moi N. N., à sortir de peine, et qu'il vous déshonore ! Mais moi qui garde le commandement et aime la loi, que cette loi soit Dieu, un Dieu puissant, un vainqueur, un consolateur et un sauveur. Moloch, Lucifer, Astaroth, Pemeoth, Fornigator, Anector, Somiator, ne dormez point, éveillez-vous ; que le fort héros Holaha, le puissant Eaton, le grand Tetragramaton, Athe, Alpha et Omega, contraignent le voleur à rendre les objets volés dans la maison de N. N., et que le voleur n'ait ni repos ni paix, par le sable et la terre, par la mer ou l'air, sur la montagne ou le rocher ; toi, diable maudit, ramène le voleur dans ma maison avec tous les biens volés.
+Au nom de la Sainte Trinité, je presse et conjure N. N., toi voleur, homme ou femme, au nom de Dieu qui sait tout, par Aaron le grand prêtre, par l'aide duquel je contrains et vaincs tous les diables ; que ceci te soit signifié : Moloch et Lucifer aussi seront envoyés, de même que saint Michel, saint Gabriel, saint Raphaël avec maints milliers de légions d'esprits obéissants et de saints anges de Dieu ; que ceci soit ta contrainte, ton obéissance, ta rançon, ta plaie, ton obligation : Astaroth, Dieu dans les Dieux et de Dieu, le voleur qui a dérobé N. N., ce voleur, homme ou femme, amène-le ici, chez moi, dans ma maison de N. N., avec les articles volés. Belzébuth soit lié, Lucifer soit lié, Satan soit lié par les rayons qui émanent de la sainte face de Dieu ; le Dieu qui a donné à Moïse les commandements, qu'il m'aide, moi N. N., à sortir de peine, et qu'il vous déshonore ! Mais moi qui garde le commandement et aime la loi, que cette loi soit Dieu, un Dieu puissant, un vainqueur, un consolateur et un sauveur. Moloch, Lucifer, Astaroth, Pemeoth, Fornigator, Anector, Somiator, ne dormez point, éveillez-vous ; que le fort héros Holaha, le puissant Eaton, le grand Tetragramaton, Athe, Alpha et Omega, contraignent le voleur à rendre les objets volés dans la maison de N. N., et que le voleur n'ait ni repos ni paix, par le sable et la terre, par la mer ou l'air, sur la montagne ou le rocher ; toi, diable maudit, ramène le voleur dans ma maison avec tous les biens volés.
 
 Contemple le Dieu puissant. Que saint Zapheel soit ta prière, soit ta contrainte ; que l'arche de Dieu, l'arche de l'alliance de la demeure du Seigneur, m'aide à apporter la corde pour vous, diables ; et pour cela, que Dieu en Dieu soit mon secours dans le besoin et la peine. Jehovah, Saboah, Emanuel, ah Jathos Noio sottjs, Ishiros, Kiriel aios Fius Imago Via veritas Salvator. Oberator Tetragramatum Stoch Nahus tribelasus Spenter omnipotens Venus, Sanitus, Trinus, Imenesus, Virtus, Principitatis, Liberator Manus Erohye, Mediator Imbrator Oulus Prillus, teris Judaea arnes humuisien. Psaume 91. Priez : Satan, diable maudit, as-tu entendu la puissance d'Adonay, notre grand Seigneur ? Alors tu dois, par la puissance de Jehovah, contraindre sur-le-champ le voleur qui a dérobé N. N., et le forcer (ou la forcer) à ce que ces choses volées soient rendues dans ma maison, à moi N. N.
 
@@ -2664,7 +2664,7 @@ Prenez des débris de potier et de la poudre faite d'un vieux soulier, ainsi qu'
 
 **Pour tuer les vers du sabot chez le bétail.**
 
-Le Christ, le Seigneur, cheminait sur le champ, sur le champ de Joseph ; il ouvre trois sillons, il attrapa trois vers ; le premier était blanc, l'autre était noir, et le troisième était mort ; et par là, N. N., tous tes vers sont morts. † † † Trois fois.
+Le Christ, le Seigneur, cheminait sur le champ, sur le champ de Joseph ; il ouvrit trois sillons, il attrapa trois vers ; le premier était blanc, l'autre était noir, et le troisième était mort ; et par là, N. N., tous tes vers sont morts. † † † Trois fois.
 
 **Pour l'érysipèle du bétail.**
 
