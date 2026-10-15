@@ -21,7 +21,7 @@ export async function chercherPageAvecTexteDe(doc, depart, pages) {
     // Double condition : la page doit être globalement vraisemblable, et livrer
     // plus d'un fragment. Un mot isolé rescapé d'une gravure ne justifie pas
     // d'interrompre l'écoute sur une planche muette.
-    if (estLisible(brut) && filtrerPhrases(splitSentences(brut)).length >= 2) return n;
+    if (estLisible(brut) && filtrerPhrases(splitSentences(brut, 240, { ocr: true })).length >= 2) return n;
   }
   return 0;
 }

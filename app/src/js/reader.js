@@ -104,7 +104,7 @@ export async function renderPdfPage(n) {
   const text = tc.items.map((i) => i.str).join(' ').replace(/\s+/g, ' ');
   // Un PDF numérisé rend aussi le bruit des planches et des gravures : on l'écarte
   // avant la lecture vocale. Réservé aux PDF — les textes saisis sont fiables.
-  session.sentences = filtrerPhrases(splitSentences(text));
+  session.sentences = filtrerPhrases(splitSentences(text, 240, { ocr: true }));
   session.spans = [];
 
   const input = $('pageInput'), range = $('pageRange');

@@ -80,22 +80,25 @@ const ABBR = /\b(M|Mme|Mlle|Dr|St|Ste|cf|env|etc|av|ap|J\.-C|c\.-à-d|vol|chap|�
  * Nettoie un texte issu d'un OCR ou d'un PDF avant de le confier à la synthèse vocale :
  * ligatures typographiques, césures de fin de ligne, tirets conditionnels, espaces parasites.
  */
-export function normalizeText(raw) {
-  return String(raw || '')
+export function normalizeText(raw, { ocr = false } = {}) {
+  let s = String(raw || '')
     .normalize('NFKC')                       // ﬁ → fi, ﬂ → fl, ligatures et exposants
     .replace(/\u00AD/g, '')                  // tiret conditionnel
     .replace(/§§[A-Z0-9]+§§/gi, ' ')         // marqueur de fabrication resté dans le PDF
     .replace(/([\p{Ll}])-\s*\n\s*([\p{Ll}])/gu, '$1$2')   // césure de fin de ligne
-    .replace(/\s*\n\s*/g, ' ')
-    // « in fl uence » → « influence » : l'OCR isole la ligature entre deux fragments
-    .replace(/([\p{Ll}])\s+(ffi|ffl|fi|fl|ff)\s*([\p{Ll}])/gu, '$1$2$3')
+    .replace(/\s*\n\s*/g, ' ');
+  // « in fl uence » → « influence » : l'OCR isole la ligature entre deux blancs. Réservé aux
+  // PDF : sur un texte saisi, la règle soudait « le fils » en « lefils », et ce texte normalisé
+  // est aussi celui qu'affiche le lecteur (sentences.js).
+  if (ocr) s = s.replace(/([\p{Ll}])\s+(ffi|ffl|fi|fl|ff)\s+([\p{Ll}])/gu, '$1$2$3');
+  return s
     .replace(/\s+([,.])/g, '$1')             // l'espace avant : ; ! ? » est correct en français
     .replace(/\s{2,}/g, ' ')
     .trim();
 }
 
-export function splitSentences(text, max = 240) {
-  const clean = normalizeText(text);
+export function splitSentences(text, max = 240, opts = {}) {
+  const clean = normalizeText(text, opts);
   if (!clean) return [];
 
   const out = [];
