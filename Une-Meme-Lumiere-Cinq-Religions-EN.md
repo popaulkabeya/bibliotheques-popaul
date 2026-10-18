@@ -623,31 +623,31 @@ To the question “who is my neighbor?”, Jesus answers with the parable of the
 
 ### Islam
 
-All the suras of the Qur'an, save one, open with the same formula, which names a single attribute of God, His mercy:
+All the suras of the Qur’an, save one, open with the same formula, which names a single attribute of God, His mercy:
 
 > *In the name of the gracious and merciful God*.
 
-<p class="ref">— Qur'an 1:1, the basmala · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 1:1, the basmala · after Kazimirski, 1869</p>
 
 > […] my mercy embraces all things; I destine it for those who fear, who give alms and who believe in my signs […].
 
-<p class="ref">— Qur'an 7:156 [Kazimirski VII, 155] · after Kazimirski, 1869 (excerpt)</p>
+<p class="ref">— Qur’an 7:156 [Kazimirski VII, 155] · after Kazimirski, 1869 (excerpt)</p>
 
 > We have sent you, *O Muhammad!* only as a mercy for the universe.
 
-<p class="ref">— Qur'an 21:107 · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 21:107 · after Kazimirski, 1869</p>
 
 And the kindness owed to men extends in circles, from parents to the stranger:
 
 > Worship God and associate nothing with Him. Show kindness to your fathers and mothers, to your kin, to orphans, to the poor, to the clients bound to you by blood and to foreign clients, to your companions, to travelers and to your slaves. God does not love the presumptuous and boastful man.
 
-<p class="ref">— Qur'an 4:36 [Kazimirski IV, 40] · after Kazimirski, 1869. The “clients” are, in Arabic, the neighbors, near or distant.</p>
+<p class="ref">— Qur’an 4:36 [Kazimirski IV, 40] · after Kazimirski, 1869. The “clients” are, in Arabic, the neighbors, near or distant.</p>
 
 <div class="synthese" markdown="1">
 
 #### Where They Converge
 
-All the traditions put compassion at the top of the virtues. The Abrahamic religions contemplate it **in God** and ask man to imitate it: “Be merciful, as your Father is merciful”; the Qur'an opens every sura with divine mercy, and the Hebrew Bible proclaims a God “gracious and merciful” whose “pity extends to all His creatures.” The traditions of India cultivate it as a disposition **toward all beings**, and the Metta Sutta describes it through the universal image of the mother watching over her only child.
+All the traditions put compassion at the top of the virtues. The Abrahamic religions contemplate it **in God** and ask man to imitate it: “Be merciful, as your Father is merciful”; the Qur’an opens every sura with divine mercy, and the Hebrew Bible proclaims a God “gracious and merciful” whose “pity extends to all His creatures.” The traditions of India cultivate it as a disposition **toward all beings**, and the Metta Sutta describes it through the universal image of the mother watching over her only child.
 
 #### Where They Differ
 
@@ -737,33 +737,33 @@ At the moment of his arrest, Jesus refuses to be defended by the sword:
 
 ### Islam
 
-The Qur'an takes up a law that it says was given to the children of Israel, and which makes every life the equal of all humanity:
+The Qur’an takes up a law that it says was given to the children of Israel, and which makes every life the equal of all humanity:
 
 > He who has killed a man, without that man having killed a man or sown disorder in the land, shall be regarded as the murderer of the human race; and he who has restored life to a man shall be regarded as if he had restored life to the whole human race.
 
-<p class="ref">— Qur'an 5:32 [Kazimirski V, 35] · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 5:32 [Kazimirski V, 35] · after Kazimirski, 1869</p>
 
 > No compulsion in religion.
 
-<p class="ref">— Qur'an 2:256 [Kazimirski II, 257] · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 2:256 [Kazimirski II, 257] · after Kazimirski, 1869</p>
 
 > Evil and good cannot walk together. Render good for evil, and you will see your enemy change into a protector and a friend.
 
-<p class="ref">— Qur'an 41:34 · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 41:34 · after Kazimirski, 1869</p>
 
 > If they incline to peace, you shall incline to it also, and you shall put your trust in God, for He hears and knows all.
 
-<p class="ref">— Qur'an 8:61 [Kazimirski VIII, 63] · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 8:61 [Kazimirski VIII, 63] · after Kazimirski, 1869</p>
 
 <div class="synthese" markdown="1">
 
 #### Where They Converge
 
-All affirm the **sacredness of life** and condemn murder. The Mishnah teaches that “he who saves a single human being saves a whole world,” and the Qur'an takes up this law, saying it was given to the children of Israel; the Mahabharata makes abstention from cruelty “the highest Religion”; the first Buddhist precept protects every living being. All exalt peace, and several ask us to **render good for evil**: “Render good for evil” (Qur'an), “overcome evil with good” (Paul); “what makes hatreds cease here below is by no means hatred” (Dhammapada 5).
+All affirm the **sacredness of life** and condemn murder. The Mishnah teaches that “he who saves a single human being saves a whole world,” and the Qur’an takes up this law, saying it was given to the children of Israel; the Mahabharata makes abstention from cruelty “the highest Religion”; the first Buddhist precept protects every living being. All exalt peace, and several ask us to **render good for evil**: “Render good for evil” (Qur’an), “overcome evil with good” (Paul); “what makes hatreds cease here below is by no means hatred” (Dhammapada 5).
 
 #### Where They Differ
 
-The ideal is shared; the relationship to force is not. Buddhism is the most radical. Hinduism makes *ahimsa* a major virtue, yet the Gita is set on a battlefield, where Krishna reminds the warrior of his duty to fight. Jesus commands the love of enemies, but the Churches developed a doctrine of “just war.” The Hebrew Bible knows the wars of Israel alongside the prophetic hope of a universal peace. The Qur'an, finally, authorizes defensive combat and regulates it (2:190; 22:39): its demand for peace is not an absolute pacifism.
+The ideal is shared; the relationship to force is not. Buddhism is the most radical. Hinduism makes *ahimsa* a major virtue, yet the Gita is set on a battlefield, where Krishna reminds the warrior of his duty to fight. Jesus commands the love of enemies, but the Churches developed a doctrine of “just war.” The Hebrew Bible knows the wars of Israel alongside the prophetic hope of a universal peace. The Qur’an, finally, authorizes defensive combat and regulates it (2:190; 22:39): its demand for peace is not an absolute pacifism.
 
 </div>
 
@@ -851,23 +851,23 @@ The Qur’an makes the same appeal to believers who have been wronged, reminding
 
 > […] let them rather forgive them *their faults* and pass over them. Would you not *also* wish that God forgive you? He is indulgent and merciful.
 
-<p class="ref">— Qur'an 24:22 · after Kazimirski, 1869 (excerpt)</p>
+<p class="ref">— Qur’an 24:22 · after Kazimirski, 1869 (excerpt)</p>
 
-The Qur'an recognizes the right to a retaliation equal to the wrong suffered, but it places forgiveness above it:
+The Qur’an recognizes the right to a retaliation equal to the wrong suffered, but it places forgiveness above it:
 
 > And render for evil an equal evil. He however who forgives and is reconciled *with his adversary,* God shall owe him a reward; for He does not love the oppressors.
 
-<p class="ref">— Qur'an 42:40 [Kazimirski XLII, 38] · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 42:40 [Kazimirski XLII, 38] · after Kazimirski, 1869</p>
 
 > It is the wisdom of life to bear with patience and to forgive.
 
-<p class="ref">— Qur'an 42:43 [Kazimirski XLII, 41] · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 42:43 [Kazimirski XLII, 41] · after Kazimirski, 1869</p>
 
 <div class="synthese" markdown="1">
 
 #### Where They Converge
 
-The five traditions see vengeance as an endless cycle and forgiveness as the only way to break it. All of them present forgiveness as **a strength**: “the strength of the strong” (Mahabharata), “the wisdom of life” (Qur'an). Several link the forgiveness one grants to the forgiveness one hopes for: “if you forgive men, your heavenly Father will also forgive you”; “would you not also wish that God forgive you?”
+The five traditions see vengeance as an endless cycle and forgiveness as the only way to break it. All of them present forgiveness as **a strength**: “the strength of the strong” (Mahabharata), “the wisdom of life” (Qur’an). Several link the forgiveness one grants to the forgiveness one hopes for: “if you forgive men, your heavenly Father will also forgive you”; “would you not also wish that God forgive you?”
 
 #### Where They Differ
 
@@ -957,11 +957,11 @@ The “verse of piety” refuses to reduce religion to ritual:
 
 > Piety does not consist in turning your faces toward the east or the west. Pious is he who believes in God and in the last day, in the angels and in the Book, in the prophets; who, for the love of God, gives of his substance to his kin, to orphans, to the poor, to travelers and to those who ask; who ransoms captives, who observes prayer, who gives alms, fulfills the engagements he contracts, who is patient in adversity […].
 
-<p class="ref">— Qur'an 2:177 [Kazimirski II, 172] · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 2:177 [Kazimirski II, 172] · after Kazimirski, 1869</p>
 
 > An honest word, the forgiveness of offenses, are worth more than alms followed by pain caused to the one who receives them. God is rich and clement.
 
-<p class="ref">— Qur'an 2:263 [Kazimirski II, 265] · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 2:263 [Kazimirski II, 265] · after Kazimirski, 1869</p>
 
 A short sura even makes contempt for the orphan and the poor the mark of the one who denies religion:
 
@@ -971,13 +971,13 @@ A short sura even makes contempt for the orphan and the poor the mark of the one
 >
 > Who does not urge others to feed the poor.
 
-<p class="ref">— Qur'an 107:1-3 · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 107:1-3 · after Kazimirski, 1869</p>
 
 <div class="synthese" markdown="1">
 
 #### Where They Converge
 
-The five traditions make giving a religious duty, and name almost the same beneficiaries: **the poor, the orphan, the widow, the stranger, the traveler**. They also agree on the **manner** of giving: in secret, without “your left hand knowing what your right hand is doing” (Gospel); without following alms with reproaches (Qur'an); with joy and modesty (Upanishad); without expecting anything in return (Gita); sharing even the last mouthful (Itivuttaka).
+The five traditions make giving a religious duty, and name almost the same beneficiaries: **the poor, the orphan, the widow, the stranger, the traveler**. They also agree on the **manner** of giving: in secret, without “your left hand knowing what your right hand is doing” (Gospel); without following alms with reproaches (Qur’an); with joy and modesty (Upanishad); without expecting anything in return (Gita); sharing even the last mouthful (Itivuttaka).
 
 #### Where They Differ
 
@@ -987,7 +987,7 @@ The status of the gift differs. In Islam, the legal alms (*zakat*) is an obligat
 
 ## 8. Honoring Father and Mother
 
-Our first neighbors, finally, are those who gave us life. Respect for parents is probably the duty the world’s religions teach most unanimously. In the Bible as in the Qur'an, it follows immediately after the duties toward God; in the texts of India, parents are treated as divinities or as the worthiest of masters.
+Our first neighbors, finally, are those who gave us life. Respect for parents is probably the duty the world’s religions teach most unanimously. In the Bible as in the Qur’an, it follows immediately after the duties toward God; in the texts of India, parents are treated as divinities or as the worthiest of masters.
 
 ### Hinduism
 
@@ -1025,7 +1025,7 @@ The Talmud explains why this commandment touches God himself:
 
 And its model of filial piety is, remarkably, a non-Jew:
 
-> Rav Ulla was once asked: “How far is one bound to honor one's father and mother?” To which he replied: “See what a Gentile of Ashkelon once did, Dammah ben Nethinah by name. The sages once needed goods worth sixty myriads, which they were ready to pay for at the price asked, but the key to the storehouse happened to be under the pillow of his father, who was fast asleep, and Dammah would not disturb him.”
+> Rav Ulla was once asked: “How far is one bound to honor one’s father and mother?” To which he replied: “See what a Gentile of Ashkelon once did, Dammah ben Nethinah by name. The sages once needed goods worth sixty myriads, which they were ready to pay for at the price asked, but the key to the storehouse happened to be under the pillow of his father, who was fast asleep, and Dammah would not disturb him.”
 
 <p class="ref">— Babylonian Talmud, Kiddushin 31a · working translation after Hershon, 1880</p>
 
@@ -1033,7 +1033,7 @@ And its model of filial piety is, remarkably, a non-Jew:
 
 The Buddha, who had left his own family to seek Awakening, teaches that the debt owed to parents is never paid off:
 
-> Monks, there are two persons, I declare, who can never be repaid. Which two? Mother and father. Even if one were to carry one's mother on one shoulder and one's father on the other, and were to live thus a hundred years […], one could not repay one's parents. […] Why is that? Monks, parents do much for their children: they raise them, they feed them, they bring them into this world.
+> Monks, there are two persons, I declare, who can never be repaid. Which two? Mother and father. Even if one were to carry one’s mother on one shoulder and one’s father on the other, and were to live thus a hundred years […], one could not repay one’s parents. […] Why is that? Monks, parents do much for their children: they raise them, they feed them, they bring them into this world.
 
 <p class="ref">— Anguttara Nikaya II, 4, 2 · working translation after Woodward, 1932</p>
 
@@ -1043,7 +1043,7 @@ In the teaching he gives to the young layman Sigala, the Buddha describes recipr
 
 <p class="ref">— Sigalovada Sutta, Digha Nikaya III, 189-190 · working translation after T. W. and C. A. F. Rhys Davids, 1921</p>
 
-> To serve one's mother and father, to protect child and wife, and a peaceful occupation, this is the highest blessing.
+> To serve one’s mother and father, to protect child and wife, and a peaceful occupation, this is the highest blessing.
 
 <p class="ref">— Mahamangala Sutta, Sutta Nipata 261 · working translation after Fausböll, 1881</p>
 
@@ -1069,7 +1069,7 @@ The Qur’an, like the Bible, places parents right after God:
 >
 > Be humble toward them and full of tenderness, and address this prayer to God: Lord, have mercy on them, just as *they had mercy on me*, as they raised me when I was very small.
 
-<p class="ref">— Qur'an 17:23-24 [Kazimirski XVII, 24-25] · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 17:23-24 [Kazimirski XVII, 24-25] · after Kazimirski, 1869</p>
 
 A famous hadith gives the mother a place apart:
 
@@ -1081,11 +1081,11 @@ A famous hadith gives the mother a place apart:
 
 #### Where They Converge
 
-Here the traditions are unanimous. In the Bible as in the Qur'an, honoring one's parents comes **immediately after the duties toward God**; the Upanishad asks that one hold one's mother and father “as a god.” Several traditions give **the mother** a place apart (“Your mother, your mother, your mother,” says the hadith; “a mother is more venerable than a thousand fathers,” say the Laws of Manu), and several say that we can never repay our parents for what we have received from them.
+Here the traditions are unanimous. In the Bible as in the Qur’an, honoring one’s parents comes **immediately after the duties toward God**; the Upanishad asks that one hold one’s mother and father “as a god.” Several traditions give **the mother** a place apart (“Your mother, your mother, your mother,” says the hadith; “a mother is more venerable than a thousand fathers,” say the Laws of Manu), and several say that we can never repay our parents for what we have received from them.
 
 #### Where They Differ
 
-Some traditions insist on **reciprocity**: Paul asks fathers not to provoke their children, the Buddha enumerates the duties of parents toward their child. The Qur'an sets a limit: one does not obey parents who push one toward idolatry, while continuing to treat them with kindness. Hinduism extends this respect to the spiritual master and to the guest, and prolongs it after death through the worship of ancestors.
+Some traditions insist on **reciprocity**: Paul asks fathers not to provoke their children, the Buddha enumerates the duties of parents toward their child. The Qur’an sets a limit: one does not obey parents who push one toward idolatry, while continuing to treat them with kindness. Hinduism extends this respect to the spiritual master and to the guest, and prolongs it after death through the worship of ancestors.
 
 </div>
 
@@ -1173,17 +1173,17 @@ The Qur’an makes upright speech a commandment addressed to all believers:
 
 > O believers! fear the Lord; speak with uprightness.
 
-<p class="ref">— Qur'an 33:70 · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 33:70 · after Kazimirski, 1869</p>
 
 > Do not clothe the truth in the robe of falsehood; Do not hide the truth when you know it.
 
-<p class="ref">— Qur'an 2:42 [Kazimirski II, 39] · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 2:42 [Kazimirski II, 39] · after Kazimirski, 1869</p>
 
-The Qur'an compares backbiting to an act everyone finds monstrous:
+The Qur’an compares backbiting to an act everyone finds monstrous:
 
 > O you who believe! avoid too frequent suspicion; there are suspicions that are sins; do not seek to spy on the steps of others, do not speak ill of one another; which of you would wish to eat the flesh of his dead brother? — Does it disgust you? — Then fear God.
 
-<p class="ref">— Qur'an 49:12 · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 49:12 · after Kazimirski, 1869</p>
 
 > “Truthfulness leads to piety, and piety leads to Paradise; a man keeps speaking the truth until he becomes a truthful one. Lying leads to perversity, and perversity leads to the Fire; a man keeps lying until he is recorded with God as a liar.”
 
@@ -1193,7 +1193,7 @@ The Qur'an compares backbiting to an act everyone finds monstrous:
 
 #### Where They Converge
 
-All the traditions condemn lying, false witness and malicious gossip, and all see in speech a **formidable power**: the tongue “is a fire” (James), gossip amounts to “eating the flesh of one's dead brother” (Qur'an), “right speech” is a limb of the Buddhist Noble Path. All also make truth a **path**: “truth triumphs” (Upanishad), “truthfulness leads to piety” (hadith).
+All the traditions condemn lying, false witness and malicious gossip, and all see in speech a **formidable power**: the tongue “is a fire” (James), gossip amounts to “eating the flesh of one’s dead brother” (Qur’an), “right speech” is a limb of the Buddhist Noble Path. All also make truth a **path**: “truth triumphs” (Upanishad), “truthfulness leads to piety” (hadith).
 
 #### Where They Differ
 
@@ -1203,13 +1203,13 @@ The texts do not set the limit in the same place. The Laws of Manu ask us not to
 
 ## 10. Honesty and Justice
 
-After words, deeds: the truth we owe in our speech we also owe in our dealings. “You shall not steal”: the prohibition appears in the Decalogue, among the five precepts of Buddhism, in the lists of duties of Hinduism. But the texts go beyond armed robbery. They target the merchant's rigged scales, the short measure, the deposit never returned: ordinary dishonesty, the kind anyone can commit without thinking of himself as a thief.
+After words, deeds: the truth we owe in our speech we also owe in our dealings. “You shall not steal”: the prohibition appears in the Decalogue, among the five precepts of Buddhism, in the lists of duties of Hinduism. But the texts go beyond armed robbery. They target the merchant’s rigged scales, the short measure, the deposit never returned: ordinary dishonesty, the kind anyone can commit without thinking of himself as a thief.
 
 ### Hinduism
 
 Beyond the duties proper to each class of society, the Laws of Manu set out a duty common to all:
 
-> To refrain from doing harm, to always speak the truth, to abstain from all theft, to be pure, and to restrain one's organs, this is in sum the duty prescribed by Manu to the four classes.
+> To refrain from doing harm, to always speak the truth, to abstain from all theft, to be pure, and to restrain one’s organs, this is in sum the duty prescribed by Manu to the four classes.
 
 <p class="ref">— Laws of Manu X, 63 · after Loiseleur-Deslongchamps, 1833</p>
 
@@ -1247,7 +1247,7 @@ The second Buddhist precept forbids taking what has not been given, and even app
 
 The Dhammapada gathers in two stanzas the breaches of the five precepts, and states their consequence:
 
-> He who destroys a life, who speaks lying words, who takes in this world what is not given to him, who approaches another's wife,
+> He who destroys a life, who speaks lying words, who takes in this world what is not given to him, who approaches another’s wife,
 >
 > And who gives himself over to strong drink, — that man, in this world, tears up his own roots himself.
 
@@ -1281,21 +1281,21 @@ The Qur’an, born in a city of merchants, curses the rigged scales:
 >
 > And who, when they measure or weigh for others, cheat them!
 
-<p class="ref">— Qur'an 83:1-3 · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 83:1-3 · after Kazimirski, 1869</p>
 
 > When you measure, fill the measure. Weigh with a just balance. This is better, and fairer in the final result.
 
-<p class="ref">— Qur'an 17:35 [Kazimirski XVII, 37] · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 17:35 [Kazimirski XVII, 37] · after Kazimirski, 1869</p>
 
 > God commands you to return the deposit to whom it belongs, and to judge your fellows with equity. It is a fine deed that God recommends to you. He hears and sees all.
 
-<p class="ref">— Qur'an 4:58 [Kazimirski IV, 61] · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 4:58 [Kazimirski IV, 61] · after Kazimirski, 1869</p>
 
 <div class="synthese" markdown="1">
 
 #### Where They Converge
 
-The prohibition of theft appears in all the fundamental lists: the Decalogue, the five Buddhist precepts, the abstentions of yoga, the “duty common to the four classes” of the Laws of Manu. All the traditions also target **ordinary fraud** (the short measure, the rigged scales, the deposit never returned), and the Qur'an, like the Torah, makes honest measure a religious matter.
+The prohibition of theft appears in all the fundamental lists: the Decalogue, the five Buddhist precepts, the abstentions of yoga, the “duty common to the four classes” of the Laws of Manu. All the traditions also target **ordinary fraud** (the short measure, the rigged scales, the deposit never returned), and the Qur’an, like the Torah, makes honest measure a religious matter.
 
 #### Where They Differ
 
@@ -1349,7 +1349,7 @@ The Dhammapada says it with the image of a warrior:
 
 <p class="ref">— Dhammapada 103 · after Hû, 1878</p>
 
-> Let one rid oneself of anger! Let one rid oneself of pride! Let one shake off all one's bonds! […]
+> Let one rid oneself of anger! Let one rid oneself of pride! Let one shake off all one’s bonds! […]
 >
 > He whose anger has been given free rein, but who holds it back like a chariot in motion, — that man I call a charioteer. The rest of men merely hold the reins.
 
@@ -1373,15 +1373,15 @@ Jesus does not abolish fasting; he asks that it remain a secret between the beli
 
 ### Islam
 
-The Qur'an institutes the fast of the month of Ramadan and ties it to the religions that came before:
+The Qur’an institutes the fast of the month of Ramadan and ties it to the religions that came before:
 
 > O believers! fasting is prescribed for you, just as it was prescribed for those who came before you. Fear the Lord.
 
-<p class="ref">— Qur'an 2:183 [Kazimirski II, 179] · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 2:183 [Kazimirski II, 179] · after Kazimirski, 1869</p>
 
 > To those who give alms in ease as in hardship, who know how to master their anger, and who forgive the men *who offend them*. Truly God loves those who act with kindness.
 
-<p class="ref">— Qur'an 3:134 [Kazimirski III, 128] · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 3:134 [Kazimirski III, 128] · after Kazimirski, 1869</p>
 
 > “The strong man is not he who throws others down in wrestling; the strong man is only he who masters himself when he is angry.”
 
@@ -1391,7 +1391,7 @@ The Qur'an institutes the fast of the month of Ramadan and ties it to the religi
 
 #### Where They Converge
 
-For all the traditions, a person ruled by appetite and anger is not free, and several say in the same terms that **victory over oneself is the greatest**: “to vanquish oneself alone is the most glorious of victories” (Dhammapada), “the strong man is he who masters himself when he is angry” (hadith), “he who resists anger prevails over the hero” (Proverbs). All know **fasting**, and the Qur'an expressly says it was “prescribed for those who came before you.” Hinduism and Buddhism recommend the same **middle way**, between indulgence and mortification.
+For all the traditions, a person ruled by appetite and anger is not free, and several say in the same terms that **victory over oneself is the greatest**: “to vanquish oneself alone is the most glorious of victories” (Dhammapada), “the strong man is he who masters himself when he is angry” (hadith), “he who resists anger prevails over the hero” (Proverbs). All know **fasting**, and the Qur’an expressly says it was “prescribed for those who came before you.” Hinduism and Buddhism recommend the same **middle way**, between indulgence and mortification.
 
 #### Where They Differ
 
@@ -1510,7 +1510,7 @@ Christian humility has a unique model: the self-abasement of God himself in Jesu
 
 ## 13. Prayer and Meditation
 
-Humility opens the door to the inner life, and the first of its practices is prayer. In the religions born of Abraham, believers pray to God; in Buddhism, they meditate; in Hinduism, they do both. The gestures and words differ, and the difference is real: prayer is addressed to someone, the meditation described in the early Buddhist canon to no one — the Great Vehicle, for its part, also knows prayers addressed to buddhas. Yet all these practices share a striking aim, to gather a scattered mind, and several texts ask that they be done in secret, away from the eyes of others.
+Humility opens the door to the inner life, and the first of its practices is prayer. In the religions born of Abraham, believers pray to God; in Buddhism, they meditate; in Hinduism, they do both. The gestures and words differ, and the difference is real: prayer is addressed to someone, the meditation described in the early Buddhist canon to no one — the Great Vehicle, for its part, also has prayers addressed to buddhas. Yet all these practices share a striking aim, to gather a scattered mind, and several texts ask that they be done in secret, away from the eyes of others.
 
 ### Hinduism
 
@@ -1948,7 +1948,7 @@ The Qur’an weighs deeds down to the weight of an atom:
 >
 > And he who has committed evil of the weight of an atom shall see it also.
 
-<p class="ref">— Qur'an 99:7-8 · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 99:7-8 · after Kazimirski, 1869</p>
 
 > The soul that bears its own burden shall not bear that of another.
 >
@@ -1958,13 +1958,13 @@ The Qur’an weighs deeds down to the weight of an atom:
 >
 > He shall be rewarded for them with a scrupulous recompense.
 
-<p class="ref">— Qur'an 53:38-41 [Kazimirski LIII, 39-42] · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 53:38-41 [Kazimirski LIII, 39-42] · after Kazimirski, 1869</p>
 
 <div class="synthese" markdown="1">
 
 #### Where They Converge
 
-No deed is lost. “What a man has sown, that he will also reap” (Paul); “whatever deed he performs, he will gather its fruit” (Upanishad); good and evil “of the weight of an atom” shall be seen (Qur'an); there is no place in the world where one may “be rid of the evil one has done” (Dhammapada). All of them also insist on **personal responsibility**: no one bears the burden of another (Qur'an), no one purifies another (Dhammapada).
+No deed is lost. “What a man has sown, that he will also reap” (Paul); “whatever deed he performs, he will gather its fruit” (Upanishad); good and evil “of the weight of an atom” shall be seen (Qur’an); there is no place in the world where one may “be rid of the evil one has done” (Dhammapada). All of them also insist on **personal responsibility**: no one bears the burden of another (Qur’an), no one purifies another (Dhammapada).
 
 #### Where They Differ
 
@@ -2040,7 +2040,7 @@ Before the tomb of his friend Lazarus, Jesus speaks to Martha of the resurrectio
 
 <p class="ref">— John 11:25-26 · after Segond, 1910</p>
 
-> Let not your heart be troubled. Believe in God, and believe in me. There are many dwellings in my Father's house. If it were not so, I would have told you. I am going to prepare a place for you.
+> Let not your heart be troubled. Believe in God, and believe in me. There are many dwellings in my Father’s house. If it were not so, I would have told you. I am going to prepare a place for you.
 
 <p class="ref">— John 14:1-2 · after Segond, 1910</p>
 
@@ -2054,13 +2054,13 @@ The Qur’an recalls that no one escapes death, and places the true reward beyon
 
 > Every soul shall taste the drink of death. You shall receive your rewards on the day of resurrection. He who has escaped the fire and who enters paradise, that one shall be blessed, for the life of this world is but a deceptive enjoyment.
 
-<p class="ref">— Qur'an 3:185 [Kazimirski III, 182] · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 3:185 [Kazimirski III, 182] · after Kazimirski, 1869</p>
 
 The formula every Muslim pronounces on hearing of a death comes from this verse:
 
 > To those who, when a misfortune strikes them, cry out: We belong to God, and to him we shall return.
 
-<p class="ref">— Qur'an 2:156 [Kazimirski II, 151] · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 2:156 [Kazimirski II, 151] · after Kazimirski, 1869</p>
 
 > And as for you, O soul of the faithful! Reassured as to your fate,
 >
@@ -2070,13 +2070,13 @@ The formula every Muslim pronounces on hearing of a death comes from this verse:
 >
 > Enter into my paradise.
 
-<p class="ref">— Qur'an 89:27-30 · after Kazimirski, 1869</p>
+<p class="ref">— Qur’an 89:27-30 · after Kazimirski, 1869</p>
 
 <div class="synthese" markdown="1">
 
 #### Where They Converge
 
-Death is certain and **the same for all**: “every soul shall taste death” (Qur'an); neither children nor kinsmen are “a protection against the assaults of death” (Dhammapada). But no tradition leaves it the last word: “he who believes in me shall live, even though he were dead” (Gospel); the Self “is not killed when the body is killed” (Upanishad); “we belong to God, and to him we shall return” (Qur'an); the sage “no longer sees the kingdom of death” (Dhammapada).
+Death is certain and **the same for all**: “every soul shall taste death” (Qur’an); neither children nor kinsmen are “a protection against the assaults of death” (Dhammapada). But no tradition leaves it the last word: “he who believes in me shall live, even though he were dead” (Gospel); the Self “is not killed when the body is killed” (Upanishad); “we belong to God, and to him we shall return” (Qur’an); the sage “no longer sees the kingdom of death” (Dhammapada).
 
 #### Where They Differ
 
@@ -2196,13 +2196,13 @@ This is the most radical difference, and it lies where people often assume the t
 
 **Judaism** and **Islam** proclaim a single God, personal, creator, absolutely distinct from his creation, whom no image can represent. The Shema of Israel and the sura of Unity say it with the same force: God is one, he has neither equal nor associate.
 
-**Christianity** also proclaims a single God, but it confesses him in three persons, the Father, the Son and the Holy Spirit. This doctrine of the **Trinity**, formulated at the councils of Nicaea (325) and Constantinople (381), is, for Christians, the way the one God has revealed himself. For Judaism, it compromises the unity of God; the Qur'an rejects it explicitly:
+**Christianity** also proclaims a single God, but it confesses him in three persons, the Father, the Son and the Holy Spirit. This doctrine of the **Trinity**, formulated at the councils of Nicaea (325) and Constantinople (381), is, for Christians, the way the one God has revealed himself. For Judaism, it compromises the unity of God; the Qur’an rejects it explicitly:
 
 > O you who have received the Scriptures! Do not go beyond the right measure in your religion; say of God only what is true. The Messiah, Jesus, son of Mary, is the apostle of God and his word, which he cast into Mary; he is a spirit coming from God. Believe then in God and in his apostles, and do not say: There is a trinity. Cease doing so. This will be better for you; for God is one. Glory to him; how could he have a son? […]
 
 <p class="ref">— Qur’an 4:171 [Kazimirski IV, 169] · after Kazimirski, 1869</p>
 
-**Hinduism** holds together what the others separate. It venerates a multitude of deities (Vishnu, Shiva, the Goddess, Ganesh…), but most of its schools understand them as the faces of a single Reality, **Brahman**. Depending on the school, this Reality is seen as impersonal, beyond all attributes, or as a personal God to be loved and served, such as Krishna in the Bhagavad-Gita. In Hinduism, the worship of images, which the Hebrew Bible and the Qur'an forbid, is a legitimate form of devotion. And the Gita welcomes even the worship of other gods, while subordinating it to its own:
+**Hinduism** holds together what the others separate. It venerates a multitude of deities (Vishnu, Shiva, the Goddess, Ganesh…), but most of its schools understand them as the faces of a single Reality, **Brahman**. Depending on the school, this Reality is seen as impersonal, beyond all attributes, or as a personal God to be loved and served, such as Krishna in the Bhagavad-Gita. In Hinduism, the worship of images, which the Hebrew Bible and the Qur’an forbid, is a legitimate form of devotion. And the Gita welcomes even the worship of other gods, while subordinating it to its own:
 
 > Even those who, full of faith, worship other deities honor me too, though outside the ancient rule: for it is I who receive and preside over all Sacrifices; but they do not know me in my essence, and they fall once more.
 
@@ -2222,7 +2222,7 @@ So it is inaccurate to say that “all worship the same God.” It is fairer to 
 
 The five traditions grant their texts different kinds of authority, because they understand their origin differently.
 
-For **Judaism**, the Torah was given by God to Moses; it is the heart of the covenant, and its study is in itself a prayer. For **Islam**, the Qur'an is the uncreated word of God, transmitted word for word in Arabic: a translation is only an interpretation of it, and that is why ritual prayer is performed in Arabic everywhere in the world. For **Christianity**, the supreme revelation is a person before it is a book: Jesus Christ, “the Word made flesh.” The Scriptures are inspired, but written by men, in several languages, and they have been read in translation from the beginning.
+For **Judaism**, the Torah was given by God to Moses; it is the heart of the covenant, and its study is in itself a prayer. For **Islam**, the Qur’an is the uncreated word of God, transmitted word for word in Arabic: a translation is only an interpretation of it, and that is why ritual prayer is performed in Arabic everywhere in the world. For **Christianity**, the supreme revelation is a person before it is a book: Jesus Christ, “the Word made flesh.” The Scriptures are inspired, but written by men, in several languages, and they have been read in translation from the beginning.
 
 For **Hinduism**, the Vedas are not the work of an author, divine or human: they are eternal, and the sages “heard” them. For **Buddhism**, on the other hand, there is no revelation in the proper sense: the Dharma was discovered by a man, through effort and meditation, and the Buddha invites his disciples to accept nothing on his authority alone and to test for themselves the truth of what he teaches.
 
@@ -2244,7 +2244,7 @@ Here Buddhism goes against all the others. It teaches **anatta**, “non-self”
 
 All the traditions offer a path, but each traces its own.
 
-**Judaism** is above all a way of living within the covenant: the observance of the commandments of the Torah (tradition counts 613 of them), the Sabbath, study, prayer, justice toward one's neighbor. It does little to seek converts: the “righteous of the nations” who observe the fundamental laws of morality have a share, according to rabbinic tradition (Tosefta, Sanhedrin 13:2), in the world to come.
+**Judaism** is above all a way of living within the covenant: the observance of the commandments of the Torah (tradition counts 613 of them), the Sabbath, study, prayer, justice toward one’s neighbor. It does little to seek converts: the “righteous of the nations” who observe the fundamental laws of morality have a share, according to rabbinic tradition (Tosefta, Sanhedrin 13:2), in the world to come.
 
 **Christianity** places **grace** at the center: salvation comes through faith in Jesus Christ, who died and rose again, and not through works alone. Good works are the fruit of this faith, not its price. The Churches long disagreed about how faith and works fit together, but all of them hold Christ to be the one way:
 
@@ -2284,7 +2284,7 @@ For **Christians**, Jesus is the Christ, the Son of God made man, crucified and 
 
 <p class="ref">— John 1:14 · after Segond, 1910</p>
 
-For **Judaism**, he is not the awaited Messiah: a Messiah must restore Israel and bring the world the peace that Isaiah announced (“one people shall no longer draw the sword against another people,” Isaiah 2:4, quoted in chapter 5), and the world is not at peace. For **Islam**, Jesus (*'Isa*) is one of the greatest prophets, born of the Virgin Mary by the will of God, a worker of miracles, called “Messiah” and “Word of God” by the Qur'an itself; but he is not the Son of God, and the Qur'an affirms that he was neither killed nor crucified, but raised up by God:
+For **Judaism**, he is not the awaited Messiah: a Messiah must restore Israel and bring the world the peace that Isaiah announced (“one people shall no longer draw the sword against another people,” Isaiah 2:4, quoted in chapter 5), and the world is not at peace. For **Islam**, Jesus (*'Isa*) is one of the greatest prophets, born of the Virgin Mary by the will of God, a worker of miracles, called “Messiah” and “Word of God” by the Qur’an itself; but he is not the Son of God, and the Qur’an affirms that he was neither killed nor crucified, but raised up by God:
 
 > They say: We put to death the Messiah, Jesus son of Mary, the envoy of God. No, they did not kill him, they did not crucify him; a man who resembled him was put in his place […]. They did not really kill him. God raised him up to himself, and God is mighty and wise.
 
@@ -2310,7 +2310,7 @@ The religions also relate differently to other beliefs. Some have sought to be u
 | Origin of the Scriptures | Heard by the sages, eternal | Given by God to Moses and the prophets | Teaching of an awakened man | Inspired; the revelation is Christ | Word of God dictated to the Prophet |
 | The span of life | Successive rebirths | One life, then the world to come | Successive rebirths | One life, then the resurrection | One life, then the resurrection |
 | The self | Eternal atman | Created soul | Non-self (anatta) | Created soul | Created soul |
-| The goal | Deliverance (moksha) | Living the covenant, the world to come | Extinction of suffering (Nirvana) | Salvation, eternal life with God | Paradise, God's good pleasure |
+| The goal | Deliverance (moksha) | Living the covenant, the world to come | Extinction of suffering (Nirvana) | Salvation, eternal life with God | Paradise, God’s good pleasure |
 | The path | Action, knowledge, devotion | Commandments of the Torah | Noble Eightfold Path | Faith, grace, charity | Faith and five pillars |
 | Jesus | Sometimes venerated as a sage | Jewish teacher, not the Messiah | No doctrine | Son of God, Savior | Great prophet, not divine |
 
@@ -2324,7 +2324,7 @@ First, that the convergences are no illusion. This book chose its texts, as ever
 
 Next, that these convergences lie above all on one level: **conduct** and the **inner life**. There the five voices almost overlap. As soon as you reach the ultimate questions (who God is, if he exists; where Scripture comes from; what the soul is; what awaits us after death; how we are saved), the paths part, and each tradition stakes what is most its own. The mystics themselves, so close in their images, part ways when they try to name what they have touched. As Part Seven showed, you cannot make a Buddhist into a monotheist, or a Muslim into a Trinitarian, without betraying both.
 
-None of this is disappointing. It shows that men and women who share neither the same faith, nor the same idea of God, nor the same hope, can still **recognize the same good**. This intuition led the Parliament of the World's Religions, meeting in Chicago in 1993, to adopt a *Declaration Toward a Global Ethic*, drafted on the initiative of the theologian Hans Küng and founded on the Golden Rule shared by all the traditions. Küng had summed up its spirit a few years earlier: no peace among the nations without peace among the religions, and no peace among the religions without dialogue between them.
+None of this is disappointing. It shows that men and women who share neither the same faith, nor the same idea of God, nor the same hope, can still **recognize the same good**. This intuition led the Parliament of the World’s Religions, meeting in Chicago in 1993, to adopt a *Declaration Toward a Global Ethic*, drafted on the initiative of the theologian Hans Küng and founded on the Golden Rule shared by all the traditions. Küng had summed up its spirit a few years earlier: no peace among the nations without peace among the religions, and no peace among the religions without dialogue between them.
 
 There may be a deep reason for this meeting. Each in its own way, these traditions have looked the same human realities in the face: suffering, death, violence, desire that is never satisfied, the temptation to think oneself the center of the world. And all have concluded that serving ourselves brings no peace; peace comes from turning toward something greater than ourselves, whether God, the Absolute or Awakening, and toward our neighbor.
 
@@ -2413,14 +2413,14 @@ Lao-tzu knows neither a creator God nor revelation: his “Way” is the deep or
 - **Mishnah**, Sanhedrin 4:5: translation by Moïse Schwab, *Le Talmud de Jérusalem*, 1878-1890. Schwab often paraphrases; here he follows the universal form of the text (“a single human being”), where the printed editions of the Hebrew and the Babylonian Talmud read “a single soul of Israel.”
 - **Mishnah**, Yoma 8:9, and **Babylonian Talmud**, Shabbat 31a (saying of Rava) and Sanhedrin 106b: working translation after the Hebrew and Aramaic text. In this last passage, the verified text reads “the Holy One, blessed be He, desires the heart,” and not the proverbial form “the Merciful One desires the heart.”
 - **Babylonian Talmud** (Shabbat 31a, Hillel; Berakhot 7a; Arakhin 15b; Sukkah 49b; Eruvin 13b; Kiddushin 31a; Niddah 31a): after P. I. Hershon, *A Talmudic Miscellany*, London, 1880, in a working translation made for this book. Hershon sometimes abridges; the saying of Hillel has been checked against the Aramaic.
-- **Pirkei Avot** (Sayings of the Fathers): working translation after Charles Taylor, *Sayings of the Jewish Fathers*, Cambridge, 1897, checked against the Hebrew. The references follow the current numbering, which sometimes differs from Taylor's.
+- **Pirkei Avot** (Sayings of the Fathers): working translation after Charles Taylor, *Sayings of the Jewish Fathers*, Cambridge, 1897, checked against the Hebrew. The references follow the current numbering, which sometimes differs from Taylor’s.
 - **Book of the Secrets of Enoch** (2 Enoch), 61:1: W. R. Morfill, *The Book of the Secrets of Enoch*, ed. R. H. Charles, Oxford, 1896. An apocryphal writing preserved only in Old Slavonic, dated by many scholars to the 1st century, and received in no canon.
-- **Sefer HaBrit** of Pinchas Eliyahu Horowitz (Brünn, 1797; enlarged ed., Vilna, 1818), part II, ma'amar 13 (“Love of one's neighbor”), chapters 1 and 5: working translation from the Hebrew text on Wikisource.
+- **Sefer HaBrit** of Pinchas Eliyahu Horowitz (Brünn, 1797; enlarged ed., Vilna, 1818), part II, ma’amar 13 (“Love of one’s neighbor”), chapters 1 and 5: working translation from the Hebrew text on Wikisource.
 - **Sefer HaBahir** (Provence, late 12th century), sections 1 and 147: working translation from the Hebrew and Aramaic text of the Torat Emet edition (public domain), numbered in 200 sections.
 
 ### Buddhism
 
-- **Dhammapada**: Fernand Hû, *Le Dhammapada*, Paris, Ernest Leroux, 1878 (Bibliothèque orientale elzévirienne), validated Wikisource transcription. Hû's numbering follows the usual numbering of the 423 stanzas; it has been cross-checked stanza by stanza against the English translation of F. Max Müller (*Sacred Books of the East*, X, 1881). At stanzas 129-130, the sentence “Let one do what one would wish another to do” is an interpretation by Hû; Müller translates “remember that you are like unto them.”
+- **Dhammapada**: Fernand Hû, *Le Dhammapada*, Paris, Ernest Leroux, 1878 (Bibliothèque orientale elzévirienne), validated Wikisource transcription. Hû’s numbering follows the usual numbering of the 423 stanzas; it has been cross-checked stanza by stanza against the English translation of F. Max Müller (*Sacred Books of the East*, X, 1881). At stanzas 129-130, the sentence “Let one do what one would wish another to do” is an interpretation by Hû; Müller translates “remember that you are like unto them.”
 - **Sutta Nipata** (Metta Sutta, Dhammika Sutta, Mahamangala Sutta): working translation after V. Fausböll, *Sacred Books of the East*, X, 1881.
 - **Mahaparinibbana Sutta**: working translation after T. W. Rhys Davids, *Buddhist Suttas*, *Sacred Books of the East*, XI, 1881.
 - **Sermon at Benares** (*Dhammacakkappavattana Sutta*), §§ 2-3: T. W. Rhys Davids, *Buddhist Suttas*, *Sacred Books of the East*, XI, 1881.
@@ -2430,21 +2430,21 @@ Lao-tzu knows neither a creator God nor revelation: his “Way” is the deep or
 - **Udanavarga**: working translation after W. W. Rockhill, *Udânavarga*, London, 1883 (Tibetan version).
 - **Anguttara Nikaya**: working translation after F. L. Woodward, *The Book of the Gradual Sayings*, I, 1932.
 - **Majjhima Nikaya** 63 (Cula-Malunkya Sutta, the poisoned arrow): Henry Clarke Warren, *Buddhism in Translations*, Harvard Oriental Series, III, Cambridge (Mass.), 1896.
-- **Bodhicaryavatara** of Shantideva (8th century): Louis de La Vallée Poussin, *Bodhicaryâvatâra. Introduction à la pratique des futurs Bouddhas*, Paris, Bloud, 1907, reread on the University of Toronto digitization (archive.org). The words in square brackets are the translator's additions.
+- **Bodhicaryavatara** of Shantideva (8th century): Louis de La Vallée Poussin, *Bodhicaryâvatâra. Introduction à la pratique des futurs Bouddhas*, Paris, Bloud, 1907, reread on the University of Toronto digitization (archive.org). The words in square brackets are the translator’s additions.
 
 ### Christianity
 
-- **New Testament**: Louis Segond, *La Sainte Bible*, 1910 revision, reread verse by verse on saintebible.com and, for Matthew 6, 1 John 4 and Ephesians 6, on a second online edition. The ligature “œ,” lost by the digital source (“cœur”), has been restored as in the printed edition; the parentheses of Ephesians 6:2 have been taken from the second edition. The ending of the Lord's Prayer (Matthew 6:13: “For thine is…”) appears in Segond 1910 but is missing from the oldest manuscripts.
+- **New Testament**: Louis Segond, *La Sainte Bible*, 1910 revision, reread verse by verse on saintebible.com and, for Matthew 6, 1 John 4 and Ephesians 6, on a second online edition. The ligature “œ,” lost by the digital source (“cœur”), has been restored as in the printed edition; the parentheses of Ephesians 6:2 have been taken from the second edition. The ending of the Lord’s Prayer (Matthew 6:13: “For thine is…”) appears in Segond 1910 but is missing from the oldest manuscripts.
 - **Matthew 7:3**, in chapter 12: *World English Bible*, a modern English translation dedicated to the public domain.
-- **The Cloud of Unknowing** (anonymous, England, late 14th century), chapters 6 and 7: Evelyn Underhill's modernized edition, *A Book of Contemplation the which is called The Cloud of Unknowing*, London, Watkins, 1922 (2nd ed.).
+- **The Cloud of Unknowing** (anonymous, England, late 14th century), chapters 6 and 7: Evelyn Underhill’s modernized edition, *A Book of Contemplation the which is called The Cloud of Unknowing*, London, Watkins, 1922 (2nd ed.).
 - **John of the Cross**, *The Ascent of Mount Carmel*, book I, chapter 13: translation by Jean Maillard, *Les Œuvres spirituelles du bienheureux Jean de la Croix*, 1834 ed.
-- **Jacob Böhme**, *The Three Principles of the Divine Essence* (1619), chapter 2, § 7: translation by Louis-Claude de Saint-Martin, *Des trois principes de l'essence divine*, Paris, 1802, reread on the facsimile.
+- **Jacob Böhme**, *The Three Principles of the Divine Essence* (1619), chapter 2, § 7: translation by Louis-Claude de Saint-Martin, *Des trois principes de l’essence divine*, Paris, 1802, reread on the facsimile.
 
 ### Islam
 
-- **Qur'an**: *Le Koran*, translation by Albin de Biberstein-Kazimirski, 1869. Kazimirski's verse numbering often differs from the numbering in use today (Cairo edition): the references give first the usual numbering, checked against the Arabic text, then, where it differs, Kazimirski's in square brackets. A few obvious misprints of the digital transcription have been corrected (“Dieu, est,” “Son, trône,” “aux, hommes,” “a un homme” for “à un homme,” “voilà serez” for “vous serez”). The words in italics are those Kazimirski adds for clarity.
+- **Qur’an**: *Le Koran*, translation by Albin de Biberstein-Kazimirski, 1869. Kazimirski’s verse numbering often differs from the numbering in use today (Cairo edition): the references give first the usual numbering, checked against the Arabic text, then, where it differs, Kazimirski’s in square brackets. A few obvious misprints of the digital transcription have been corrected (“Dieu, est,” “Son, trône,” “aux, hommes,” “a un homme” for “à un homme,” “voilà serez” for “vous serez”). The words in italics are those Kazimirski adds for clarity.
 - **Hadiths**: working translation from the Arabic, texts checked in the digital editions of the collections of al-Bukhari (usual numbering) and of Muslim (numbering of M. F. ʿAbd al-Baqi), and of the *Forty Hadiths* of an-Nawawi. In the Golden Rule hadith reported by Muslim (no. 45), the Arabic word is *jar*, “neighbor,” which the transmitter gives alternately with “brother.”
-- **Ghazali**, *Deliverance from Error* (*al-Munqidh min al-dalal*, c. 1108): translation by C. Barbier de Meynard, *Le Préservatif de l'erreur*, *Journal asiatique*, 7th series, IX, January 1877, reread on the digitization of that journal (archive.org).
+- **Ghazali**, *Deliverance from Error* (*al-Munqidh min al-dalal*, c. 1108): translation by C. Barbier de Meynard, *Le Préservatif de l’erreur*, *Journal asiatique*, 7th series, IX, January 1877, reread on the digitization of that journal (archive.org).
 
 ### China
 
@@ -2452,4 +2452,4 @@ Lao-tzu knows neither a creator God nor revelation: his “Way” is the deep or
 
 ## Further Reading
 
-All the translations quoted in this book are in the public domain, and each can be read in full: Burnouf's *La Bhagavad-Gîtâ* (1861), Fernand Hû's *Le Dhammapada* (1878), the French Rabbinate Bible (1899-1906), Louis Segond's Bible (1910), Kazimirski's *Le Koran* (1869) and Hershon's *A Talmudic Miscellany* (1880). The mystics of chapter 18 can also be read in full in old editions: Kabir's *Songs* translated by Tagore (1915), *The Cloud of Unknowing* edited by Evelyn Underhill (1922), the spiritual works of John of the Cross (tr. Maillard; in English, tr. David Lewis, 1864), Böhme's *Three Principles* (tr. Saint-Martin, 1802; in English, tr. John Sparrow, 1648), Shantideva's *Bodhicaryavatara* (tr. La Vallée Poussin, 1907; in English, *The Path of Light*, tr. L. D. Barnett, 1909) and Ghazali's *Deliverance from Error* (tr. Barbier de Meynard, 1877; in English, *The Confessions of Al Ghazzali*, tr. Claud Field, 1909). Readers who prefer to read these Scriptures in English will find them in classic versions that are also in the public domain: the *Sacred Books of the East* edited by F. Max Müller, which include the Upanishads, the Bhagavad-Gita (Telang, 1882), the Dhammapada (Müller, 1881) and the Qur'an (Palmer, 1880); *The Holy Scriptures* of the Jewish Publication Society (1917) for the Hebrew Bible; the King James Version or the World English Bible for the Christian Bible. Readers who wish to go beyond the five traditions can read the whole *Tao Te Ching* of Lao-tzu, from which the appendix quotes a few maxims, in Stanislas Julien's translation (1842) or, in English, in James Legge's (1891).
+All the translations quoted in this book are in the public domain, and each can be read in full: Burnouf’s *La Bhagavad-Gîtâ* (1861), Fernand Hû’s *Le Dhammapada* (1878), the French Rabbinate Bible (1899-1906), Louis Segond’s Bible (1910), Kazimirski’s *Le Koran* (1869) and Hershon’s *A Talmudic Miscellany* (1880). The mystics of chapter 18 can also be read in full in old editions: Kabir’s *Songs* translated by Tagore (1915), *The Cloud of Unknowing* edited by Evelyn Underhill (1922), the spiritual works of John of the Cross (tr. Maillard; in English, tr. David Lewis, 1864), Böhme’s *Three Principles* (tr. Saint-Martin, 1802; in English, tr. John Sparrow, 1648), Shantideva’s *Bodhicaryavatara* (tr. La Vallée Poussin, 1907; in English, *The Path of Light*, tr. L. D. Barnett, 1909) and Ghazali’s *Deliverance from Error* (tr. Barbier de Meynard, 1877; in English, *The Confessions of Al Ghazzali*, tr. Claud Field, 1909). Readers who prefer to read these Scriptures in English will find them in classic versions that are also in the public domain: the *Sacred Books of the East* edited by F. Max Müller, which include the Upanishads, the Bhagavad-Gita (Telang, 1882), the Dhammapada (Müller, 1881) and the Qur’an (Palmer, 1880); *The Holy Scriptures* of the Jewish Publication Society (1917) for the Hebrew Bible; the King James Version or the World English Bible for the Christian Bible. Readers who wish to go beyond the five traditions can read the whole *Tao Te Ching* of Lao-tzu, from which the appendix quotes a few maxims, in Stanislas Julien’s translation (1842) or, in English, in James Legge’s (1891).

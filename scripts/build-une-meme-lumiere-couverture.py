@@ -57,7 +57,7 @@ pour le pasteur, l'enseignant et l'étudiant, et pour quiconque cherche, sous la
 <p class="source">Mahabharata</p>
 <p>The same rule can be read in the Talmud, in the words of the Buddha, in the Gospel and in the hadiths
 of the Prophet. These traditions were born centuries and thousands of miles apart, in worlds that often
-did not know one another. Yet before the same questions — suffering, death, how to treat one's neighbor —
+did not know one another. Yet faced with the same questions — suffering, death, how to treat one’s neighbor —
 they seek the same thing, and say it in almost the same words.
 Mere coincidence, or a common light?</p>
 <p><em>The Same Light</em> sets side by side the Scriptures of the five great religions (the Vedas and the
