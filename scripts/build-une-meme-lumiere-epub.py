@@ -127,7 +127,7 @@ def construire_epub(sections):
 <item id="css" href="style.css" media-type="text/css"/>
 {'<item id="cover" href="couverture.jpg" media-type="image/jpeg" properties="cover-image"/><item id="cp" href="couverture.xhtml" media-type="application/xhtml+xml"/>' if a_couverture else ''}
 {manifest}</manifest>
-<spine>{'<itemref idref="cp"/>' if a_couverture else ''}<itemref idref="nav" linear="no"/>{spine}</spine></package>"""
+<spine>{'<itemref idref="cp"/>' if a_couverture else ''}{spine}</spine></package>"""
     with zipfile.ZipFile(kdp.EPUB_OUT, "w") as z:
         z.writestr("mimetype", "application/epub+zip", compress_type=zipfile.ZIP_STORED)
         z.writestr("META-INF/container.xml", '<?xml version="1.0"?><container version="1.0" '
