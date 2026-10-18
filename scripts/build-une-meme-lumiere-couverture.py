@@ -109,6 +109,14 @@ body { width: %(W)sin; height: %(H)sin; position: relative; overflow: hidden;
 
 /* 1re de couverture : une boîte au format rogné, en unités relatives pour servir aussi à l'e-book */
 .une { position: absolute; container-type: size; overflow: hidden; }
+/* « une même lumière » dans les quatre écritures, en orbite dans les intervalles du cercle des lampes */
+.une .ecrits { position: absolute; inset: 0; }
+.une .ecrits div { position: absolute; white-space: nowrap; transform: translate(-50%%, -50%%);
+  color: #ecd9a8; opacity: 0.26; font-size: 4.2cqw; }
+.une .ecrits .he { font-family: 'Frank Ruhl Libre', serif; left: 32.4cqw; top: 38.8cqh; }
+.une .ecrits .dev { font-family: 'Noto Serif Devanagari', serif; left: 67.6cqw; top: 38.8cqh; }
+.une .ecrits .si { font-family: 'Abhaya Libre', serif; left: 21.5cqw; top: 59.8cqh; }
+.une .ecrits .ar { font-family: 'Amiri', serif; left: 78.5cqw; top: 59.8cqh; font-size: 4.8cqw; }
 .une .rayons { position: absolute; left: -20cqw; top: 18cqh; width: 140cqw; height: 72cqh; }
 .une .auteur { position: absolute; top: 7.5cqh; width: 100%%; text-align: center; font-size: 4.3cqw;
   letter-spacing: 0.32em; text-transform: uppercase; color: #e9d8ad; }
@@ -158,7 +166,7 @@ def une_html():
         a = -math.pi / 2 + 2 * math.pi * k / len(SYMBOLES)
         x, y = 21 * math.cos(a), 21 * math.sin(a)  # en cqw autour du centre
         pos.append(f'<div class="s sym" style="left:{x:.2f}cqw;top:{y:.2f}cqw" title="{nom}">{glyphe}</div>')
-    return f"""{rayons()}
+    return f"""{kdp.ecrits_html()}{rayons()}
 <div class="auteur">{kdp.AUTEUR}</div>
 <div class="titre">{kdp.E["titre_lignes"]}</div>
 <div class="cercle"><div class="centre"></div>{''.join(pos)}</div>
