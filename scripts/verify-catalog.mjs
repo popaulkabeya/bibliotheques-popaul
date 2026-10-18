@@ -17,8 +17,35 @@ const WRITE = process.argv.includes('--write');
 const IGNORE = new Set(['.DS_Store']);
 const SKIP_DIRS = new Set(['app', 'scripts', 'docs', 'node_modules', '.git']);
 
+/**
+ * Fichiers volontairement hors catalogue, groupés par raison : le rapport ne signale
+ * plus comme oubli que ce qui n'est ni catalogué ni déclaré ici. Un chemin finissant
+ * par « / » couvre tout le dossier. Les fichiers des livrets privés se déclarent de même
+ * sous la clé « horsCatalogue » de catalog.prive.json, pour que leur nom reste hors de Git.
+ */
+const HORS_CATALOGUE = [
+  { raison: 'édition texte en cours, à relier à sa fiche', chemins: [
+    'Dogme-Eliphas-Levi-FR.md', 'Rituel-Eliphas-Levi-FR.md', 'La-Clavicule-de-Salomon-FR.md',
+    'Le-Petit-Albert-FR.md', 'Le-Veritable-Dragon-Rouge-FR.md', 'Long-Lost-Friend-FR.md',
+    'Secrets-Egyptiens-Albert-le-Grand-FR.md',
+    'Enchiridion_Oraisons_de_protection.md', 'Enchiridion_Oraisons_voyage_et_saint_Cyprien.md',
+  ] },
+  { raison: 'fascicule à convertir (.docx, illisible par l\'application)', chemins: [
+    'Fascicule_Psaumes_Athanase.docx',
+  ] },
+  { raison: 'source de travail (scan d\'origine, OCR)', chemins: [
+    'Enchiridion_du_pape_Leon.pdf', 'Enchiridion_du_pape_Leon_texte_OCR.txt',
+  ] },
+  { raison: 'édition anglaise en cours', chemins: [
+    'Une-Meme-Lumiere-Cinq-Religions-EN.md', 'Une-Meme-Lumiere-Cinq-Religions-EN.pdf',
+  ] },
+];
+
 const catalog = JSON.parse(readFileSync(CATALOG, 'utf8'));
 const prive = existsSync(PRIVE) ? JSON.parse(readFileSync(PRIVE, 'utf8')) : null;
+const exclusions = [...HORS_CATALOGUE, ...(prive?.horsCatalogue || [])];
+const raisonDe = (rel) => exclusions.find((g) =>
+  g.chemins.some((c) => (c.endsWith('/') ? rel.startsWith(c) : rel === c)))?.raison;
 const referenced = new Set();
 const missing = [];
 let totalBytes = 0;
@@ -56,12 +83,21 @@ const walk = (dir) => {
       walk(full);
     } else {
       const rel = relative(ROOT, full);
-      if (!referenced.has(rel)) orphans.push(rel);
+      if (referenced.has(rel)) continue;
+      const raison = raisonDe(rel);
+      if (raison) horsCatalogue.set(raison, (horsCatalogue.get(raison) || 0) + 1);
+      else orphans.push(rel);
     }
   }
 };
 const orphans = [];
+const horsCatalogue = new Map();
 walk(ROOT);
+
+// Une exclusion qui ne couvre plus rien (fichier supprimé, ou catalogué depuis) est à retirer
+const sansObjet = exclusions.flatMap((g) => g.chemins).filter((c) => c.endsWith('/')
+  ? !existsSync(join(ROOT, c)) || [...referenced].some((r) => r.startsWith(c))
+  : !existsSync(join(ROOT, c)) || referenced.has(c));
 
 const mb = (b) => (b / 1048576).toFixed(1) + ' Mo';
 console.log(`Catalogue : ${catalog.books.length} livres, ${catalog.categories.length} catégories`
@@ -69,7 +105,12 @@ console.log(`Catalogue : ${catalog.books.length} livres, ${catalog.categories.le
 console.log(`Fichiers référencés : ${referenced.size} — ${mb(totalBytes)}`);
 if (missing.length) { console.log(`\n MANQUANTS (${missing.length}) :`); missing.forEach(m => console.log('   - ' + m)); }
 if (orphans.length) { console.log(`\n NON CATALOGUÉS (${orphans.length}) :`); orphans.forEach(o => console.log('   - ' + o)); }
-if (!missing.length && !orphans.length) console.log('\n Catalogue et disque parfaitement alignés.');
+if (sansObjet.length) { console.log(`\n EXCLUSIONS SANS OBJET (${sansObjet.length}) — à retirer de la liste :`); sansObjet.forEach(c => console.log('   - ' + c)); }
+if (horsCatalogue.size) {
+  console.log('\n Hors catalogue, volontairement :');
+  horsCatalogue.forEach((n, raison) => console.log(`   - ${raison} : ${n} fichier${n > 1 ? 's' : ''}`));
+}
+if (!missing.length && !orphans.length && !sansObjet.length) console.log('\n Catalogue et disque parfaitement alignés.');
 
 if (WRITE) {
   catalog.totalBytes = catalog.books.reduce((sum, b) => sum + b.bytes, 0);
