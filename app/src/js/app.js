@@ -105,7 +105,9 @@ function route() {
     // voir goToSection) — on le passe tel quel, sans le forcer en nombre.
     if (book) {
       const locate = pendingLocate; pendingLocate = null;
-      openReader(book, +b || 0, c === undefined ? null : c, locate); return;
+      // Un lien vers un volume disparu (ancien signet, fiche remaniée) ouvre le premier
+      const vIndex = book.volumes[+b] ? +b : 0;
+      openReader(book, vIndex, c === undefined ? null : c, locate); return;
     }
   }
   closeReader(false);
@@ -308,7 +310,8 @@ async function openReader(book, vIndex, section = null, locate = null) {
   document.body.style.overflow = 'hidden';
   await rd.openVolume(book, vIndex, { skipRestore: section !== null, locate });
   $('bookmarkBtn').classList.remove('on');
-  voice.resetVoice(book.lang);
+  // Une édition anglaise rangée dans une fiche française porte sa propre langue
+  voice.resetVoice(book.volumes[vIndex]?.lang || book.lang);
   const depart = section !== null ? goToSection(section) : 0;
   if (pendingVoice) { pendingVoice = false; setTimeout(() => voice.startVoice(depart), 350); }
 }

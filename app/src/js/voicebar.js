@@ -26,7 +26,7 @@ export async function init(onToast) {
 
 export function fillVoices() {
   const sel = $('vbVoice');
-  const voices = rankVoices(rd.session.book?.lang || 'fr');
+  const voices = rankVoices(rd.session.volume?.lang || rd.session.book?.lang || 'fr');
   sel.innerHTML = voices.map((v, i) =>
     `<option value="${v.voiceURI}"${v.voiceURI === settings.voiceURI ? ' selected' : ''}>
       ${v.name} — ${v.lang}${v.localService ? ' · hors-ligne' : ''}</option>`).join('')

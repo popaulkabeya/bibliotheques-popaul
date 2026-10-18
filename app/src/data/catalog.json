@@ -113,9 +113,23 @@
             24999284,
             2090803
           ]
+        },
+        {
+          "label": "Texte intégral (EN)",
+          "type": "md",
+          "path": "Bible-Ethiopienne/Ethiopian-Bible-Forgotten-Books-EN.md",
+          "lang": "en",
+          "bytes": 1092641
+        },
+        {
+          "label": "Édition PDF (EN)",
+          "type": "pdf",
+          "path": "Bible-Ethiopienne/Ethiopian-Bible-Forgotten-Books-EN.pdf",
+          "lang": "en",
+          "bytes": 3989592
         }
       ],
-      "bytes": 358660109,
+      "bytes": 363742342,
       "addedAt": "2026-09-03"
     },
     {
@@ -588,10 +602,25 @@
           "type": "pdf",
           "path": "Pierre-et-Egerton-Mattison-FR.pdf",
           "bytes": 691910
+        },
+        {
+          "label": "Livre audio — 3 pistes",
+          "type": "audio",
+          "path": "Pierre-Egerton-Audio",
+          "tracks": [
+            "Pierre-Egerton-Audio/01 - Note du traducteur.m4a",
+            "Pierre-Egerton-Audio/02 - L'Évangile de Pierre.m4a",
+            "Pierre-Egerton-Audio/03 - L'Évangile inconnu du papyrus Egerton 2.m4a"
+          ],
+          "sizes": [
+            786839,
+            3323050,
+            887959
+          ]
         }
       ],
       "order": 9,
-      "bytes": 706556,
+      "bytes": 5704404,
       "addedAt": "2026-09-04"
     },
     {
@@ -1249,9 +1278,23 @@
             22668768,
             29644416
           ]
+        },
+        {
+          "label": "Texte intégral (EN)",
+          "type": "md",
+          "path": "Septieme-Livres-de-Moise/Sixieme-et-Septieme-Livres-de-Moise-EN.md",
+          "lang": "en",
+          "bytes": 405281
+        },
+        {
+          "label": "Édition PDF (EN)",
+          "type": "pdf",
+          "path": "Septieme-Livres-de-Moise/Sixieme-et-Septieme-Livres-de-Moise-EN.pdf",
+          "lang": "en",
+          "bytes": 24698853
         }
       ],
-      "bytes": 162903701,
+      "bytes": 188007835,
       "addedAt": "2026-09-03"
     },
     {
@@ -2027,9 +2070,40 @@
           "type": "pdf",
           "path": "Sept-Jours-Resistance-Professionnelle/Sept-Jours-Resistance-Professionnelle-FR.pdf",
           "bytes": 141763
+        },
+        {
+          "label": "Livre audio — 11 pistes",
+          "type": "audio",
+          "path": "Sept-Jours-Resistance-Professionnelle/Livre-Audio",
+          "tracks": [
+            "Sept-Jours-Resistance-Professionnelle/Livre-Audio/01 - Sept Jours contre les Attaques au Travail.m4a",
+            "Sept-Jours-Resistance-Professionnelle/Livre-Audio/02 - 1. La règle des sept jours.m4a",
+            "Sept-Jours-Resistance-Professionnelle/Livre-Audio/03 - 2. Jour premier — Se mettre sous garde.m4a",
+            "Sept-Jours-Resistance-Professionnelle/Livre-Audio/04 - 3. Jour deuxième — Voir clair et se tenir droit.m4a",
+            "Sept-Jours-Resistance-Professionnelle/Livre-Audio/05 - 4. Jour troisième — Faire taire les accusateurs.m4a",
+            "Sept-Jours-Resistance-Professionnelle/Livre-Audio/06 - 5. Jour quatrième — Renverser le conseil qui nuit.m4a",
+            "Sept-Jours-Resistance-Professionnelle/Livre-Audio/07 - 6. Jour cinquième — Tourner le cœur des chefs.m4a",
+            "Sept-Jours-Resistance-Professionnelle/Livre-Audio/08 - 7. Jour sixième — Recevoir l'élévation.m4a",
+            "Sept-Jours-Resistance-Professionnelle/Livre-Audio/09 - 8. Jour septième — Sceller et rendre grâce.m4a",
+            "Sept-Jours-Resistance-Professionnelle/Livre-Audio/10 - 9. L'office bref, et la manière de s'en servir.m4a",
+            "Sept-Jours-Resistance-Professionnelle/Livre-Audio/11 - 10. Sources.m4a"
+          ],
+          "sizes": [
+            130846,
+            1011523,
+            1377631,
+            1136893,
+            1304832,
+            1179605,
+            1779823,
+            1692184,
+            1316327,
+            704758,
+            781252
+          ]
         }
       ],
-      "bytes": 176254,
+      "bytes": 12591928,
       "addedAt": "2026-09-03"
     },
     {
@@ -2060,9 +2134,38 @@
           "type": "pdf",
           "path": "Sept-Nuits-de-Priere-Familiale/Sept-Nuits-de-Priere-Familiale-FR.pdf",
           "bytes": 105858
+        },
+        {
+          "label": "Livre audio — 10 pistes",
+          "type": "audio",
+          "path": "Sept-Nuits-de-Priere-Familiale/Livre-Audio",
+          "tracks": [
+            "Sept-Nuits-de-Priere-Familiale/Livre-Audio/01 - Sept Nuits de Prière pour la Famille.m4a",
+            "Sept-Nuits-de-Priere-Familiale/Livre-Audio/02 - 1. Ouverture des sept nuits.m4a",
+            "Sept-Nuits-de-Priere-Familiale/Livre-Audio/03 - 2. Nuit 1 — Unité.m4a",
+            "Sept-Nuits-de-Priere-Familiale/Livre-Audio/04 - 3. Nuit 2 — Protection.m4a",
+            "Sept-Nuits-de-Priere-Familiale/Livre-Audio/05 - 4. Nuit 3 — Guérison.m4a",
+            "Sept-Nuits-de-Priere-Familiale/Livre-Audio/06 - 5. Nuit 4 — Déblocage.m4a",
+            "Sept-Nuits-de-Priere-Familiale/Livre-Audio/07 - 6. Nuit 5 — Prospérité.m4a",
+            "Sept-Nuits-de-Priere-Familiale/Livre-Audio/08 - 7. Nuit 6 — Délivrance des esprits de mort.m4a",
+            "Sept-Nuits-de-Priere-Familiale/Livre-Audio/09 - 8. Nuit 7 — Action de grâce et scellement.m4a",
+            "Sept-Nuits-de-Priere-Familiale/Livre-Audio/10 - 9. Clôture et manière de s'en servir.m4a"
+          ],
+          "sizes": [
+            164793,
+            801853,
+            613452,
+            428545,
+            601379,
+            589356,
+            491057,
+            754692,
+            631212,
+            835666
+          ]
         }
       ],
-      "bytes": 121553,
+      "bytes": 6033558,
       "addedAt": "2026-09-03"
     },
     {
@@ -2387,9 +2490,32 @@
           "type": "pdf",
           "path": "Prieres-Invocations-Exercices/Prieres-Invocations-Exercices-FR.pdf",
           "bytes": 83417
+        },
+        {
+          "label": "Livre audio — 7 pistes",
+          "type": "audio",
+          "path": "Prieres-Invocations-Exercices/Livre-Audio",
+          "tracks": [
+            "Prieres-Invocations-Exercices/Livre-Audio/01 - Prières, Invocations et Exercices.m4a",
+            "Prieres-Invocations-Exercices/Livre-Audio/02 - 1. Se mettre en présence.m4a",
+            "Prieres-Invocations-Exercices/Livre-Audio/03 - 2. Demander la lumière.m4a",
+            "Prieres-Invocations-Exercices/Livre-Audio/04 - 3. Chercher refuge contre l'attaque.m4a",
+            "Prieres-Invocations-Exercices/Livre-Audio/05 - 4. S'abandonner.m4a",
+            "Prieres-Invocations-Exercices/Livre-Audio/06 - 5. Sentences à porter dans la journée.m4a",
+            "Prieres-Invocations-Exercices/Livre-Audio/07 - 6. Sources et manière de s'en servir.m4a"
+          ],
+          "sizes": [
+            175344,
+            866296,
+            642980,
+            1184649,
+            714680,
+            888357,
+            667822
+          ]
         }
       ],
-      "bytes": 97954,
+      "bytes": 5238082,
       "addedAt": "2026-09-03"
     },
     {
@@ -2422,9 +2548,22 @@
           "type": "pdf",
           "path": "Traite-Priere-Evagre-FR.pdf",
           "bytes": 972430
+        },
+        {
+          "label": "Livre audio — 2 pistes",
+          "type": "audio",
+          "path": "Traite-Priere-Audio",
+          "tracks": [
+            "Traite-Priere-Audio/01 - Prologue.m4a",
+            "Traite-Priere-Audio/02 - Notes.m4a"
+          ],
+          "sizes": [
+            11615875,
+            1075308
+          ]
         }
       ],
-      "bytes": 1009514,
+      "bytes": 13700697,
       "addedAt": "2026-09-03"
     },
     {
@@ -2456,9 +2595,20 @@
           "type": "pdf",
           "path": "Litanies-Sacre-Coeur-FR.pdf",
           "bytes": 148068
+        },
+        {
+          "label": "Livre audio — 1 piste",
+          "type": "audio",
+          "path": "Litanies-Sacre-Coeur-Audio",
+          "tracks": [
+            "Litanies-Sacre-Coeur-Audio/01 - Litanies du Sacré-Cœur.m4a"
+          ],
+          "sizes": [
+            1349391
+          ]
         }
       ],
-      "bytes": 151726,
+      "bytes": 1501117,
       "addedAt": "2026-09-04"
     },
     {
@@ -2491,9 +2641,44 @@
           "type": "pdf",
           "path": "Regle-Saint-Augustin-FR.pdf",
           "bytes": 703228
+        },
+        {
+          "label": "Livre audio — 13 pistes",
+          "type": "audio",
+          "path": "Regle-Augustin-Audio",
+          "tracks": [
+            "Regle-Augustin-Audio/01 - I. De l'amour de Dieu et du prochain, de l'union des cœurs et de la communauté des biens.m4a",
+            "Regle-Augustin-Audio/02 - II. De l'humilité.m4a",
+            "Regle-Augustin-Audio/03 - III. De la prière et de l'office divin.m4a",
+            "Regle-Augustin-Audio/04 - IV. Du jeûne et du repas.m4a",
+            "Regle-Augustin-Audio/05 - V. De l'indulgence envers les infirmes.m4a",
+            "Regle-Augustin-Audio/06 - VI. De l'extérieur.m4a",
+            "Regle-Augustin-Audio/07 - VII. Correction fraternelle.m4a",
+            "Regle-Augustin-Audio/08 - VIII. N'avoir rien en propre.m4a",
+            "Regle-Augustin-Audio/09 - IX. Bains et autres soins.m4a",
+            "Regle-Augustin-Audio/10 - X. Excuse et pardon.m4a",
+            "Regle-Augustin-Audio/11 - XI. De l'obéissance au supérieur.m4a",
+            "Regle-Augustin-Audio/12 - XII. Observer la règle et la lire souvent.m4a",
+            "Regle-Augustin-Audio/13 - Notes.m4a"
+          ],
+          "sizes": [
+            450903,
+            437600,
+            198007,
+            170527,
+            599068,
+            680551,
+            798959,
+            660294,
+            534270,
+            599596,
+            423832,
+            338855,
+            226489
+          ]
         }
       ],
-      "bytes": 721847,
+      "bytes": 6840798,
       "addedAt": "2026-09-04"
     },
     {
@@ -2615,7 +2800,8 @@
           "label": "Œuvre complète — trad. Scott Weisman, CC BY-NC-ND (EN)",
           "type": "pdf",
           "path": "Sefer-HaBrit-Horowitz-Weisman-EN.pdf",
-          "bytes": 4216314
+          "bytes": 4216314,
+          "lang": "en"
         },
         {
           "label": "Fac-similé hébreu — édition augmentée, Vilna 1818 (HE)",
@@ -2909,6 +3095,6 @@
       "bytes": 627074
     }
   ],
-  "totalBytes": 4149095010,
-  "generatedAt": "2026-10-15"
+  "totalBytes": 4227906557,
+  "generatedAt": "2026-10-18"
 }
