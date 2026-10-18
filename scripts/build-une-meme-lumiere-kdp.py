@@ -124,8 +124,16 @@ TITRE, SOUS_TITRE, SYMBOLES, EN_TETES = E["titre"], E["sous_titre"], E["symboles
 # de l'API css2 sortent de Chrome en Type 3, mal rendues à l'impression et parfois refusées par KDP.
 FONTS = ("https://fonts.googleapis.com/css?family=EB+Garamond:400,400i,500,500i,600"
          "|Cormorant+Garamond:500,500i,600&subset=latin,latin-ext")
+# « Une même lumière » dans les écritures des traditions, en filigrane de la couverture et du faux-titre :
+# hébreu (אור אחד, « une seule lumière »), hindi (एक ही प्रकाश), cinghalais — l'écriture du canon pali —
+# (එකම ආලෝකය) et arabe (نور واحد). Chaque écriture a sa police. L'API ne sert ces glyphes qu'avec « text= »
+# (sans lui, elle donne des fichiers latins et Chrome sortirait les lettres en Type 3, refusé par KDP) ;
+# la phrase devanagari voyage avec les symboles pour que le ॐ et elle partagent le même fichier.
+ECRITURES = [("dev", "एक ही प्रकाश"), ("he", "אור אחד"), ("si", "එකම ආලෝකය"), ("ar", "نور واحد")]
 SYMBOL_FONTS = ("https://fonts.googleapis.com/css?family=Noto+Sans+Symbols|Noto+Sans+Symbols+2|Noto+Serif+Devanagari:500"
-                "&text=" + urllib.parse.quote("".join(SYMBOLES.values()) + "✦"))
+                "&text=" + urllib.parse.quote("".join(SYMBOLES.values()) + "✦ " + ECRITURES[0][1]))
+ECRITURES_FONTS = ("https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre:500|Amiri:400|Abhaya+Libre:500"
+                   "&text=" + urllib.parse.quote(" ".join(t for c, t in ECRITURES if c != "dev")))
 
 
 def telecharger(url):
@@ -142,7 +150,7 @@ def css_polices():
     if cache.exists():
         return cache.read_text(encoding="utf-8")
     morceaux = []
-    for url in (FONTS, SYMBOL_FONTS):
+    for url in (FONTS, SYMBOL_FONTS, ECRITURES_FONTS):
         css = telecharger(url).decode("utf-8")
 
         def local(m):
@@ -262,6 +270,16 @@ strong { font-weight: 600; }
 sup { font-size: 0.68em; line-height: 0; }
 
 .front { page: front; }
+.ecrits { position: absolute; inset: 0; }
+.ecrits div { position: absolute; width: 100%; text-align: center; color: #c9c9c9; }
+.ecrits .he { font-family: 'Frank Ruhl Libre', serif; }
+.ecrits .ar { font-family: 'Amiri', serif; }
+.ecrits .dev { font-family: 'Noto Serif Devanagari', serif; }
+.ecrits .si { font-family: 'Abhaya Libre', serif; }
+.front .ecrits .dev { top: 0.65in; font-size: 19pt; }
+.front .ecrits .he { top: 1.4in; font-size: 21pt; }
+.front .ecrits .si { top: 4.05in; font-size: 19pt; }
+.front .ecrits .ar { top: 4.8in; font-size: 23pt; }
 .front section { break-after: page; height: 6.96in; box-sizing: border-box; position: relative; overflow: hidden; }
 .faux-titre { text-align: center; padding-top: 2in; font-family: 'Cormorant Garamond', serif;
   font-size: 20pt; letter-spacing: 0.08em; }
@@ -347,13 +365,18 @@ def pages_nommees(sections):
     return "\n".join(regles)
 
 
+def ecrits_html():
+    """« Une même lumière » dans les quatre écritures, pour le filigrane du faux-titre et de la couverture."""
+    return '<div class="ecrits">' + "".join(f'<div class="{c}">{t}</div>' for c, t in ECRITURES) + "</div>"
+
+
 def front_matter(toc_items):
     syms = " ".join(v + VS15 for v in SYMBOLES.values())
     toc = "\n".join(f'<li class="n{n}"><span>{html.escape(t)}</span><span class="l"></span><span>{p}</span></li>'
                     for n, t, p in toc_items)
     return f"""
 <div class="front">
-<section><div class="faux-titre">{TITRE}</div></section>
+<section>{ecrits_html()}<div class="faux-titre">{TITRE}</div></section>
 <section></section>
 <section class="titre">
   <div class="t">{E["titre_lignes"]}</div>
