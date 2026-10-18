@@ -2416,7 +2416,7 @@ Lao-tseu ne connaît ni Dieu créateur ni révélation : sa « Voie » est l'ord
 | V<sup>e</sup> siècle avant notre ère | Siddhârtha Gautama, le Bouddha (ses dates exactes sont discutées) |
 | Entre le V<sup>e</sup> et le II<sup>e</sup> siècle avant notre ère | Composition de la Bhagavad-Gîtâ |
 | I<sup>er</sup> siècle avant notre ère | Le Tipitaka mis par écrit à Ceylan, en pali |
-| I<sup>er</sup> siècle | Jésus de Nazareth ; le Nouveau Testament est écrit entre les années 50 et 100 environ |
+| I<sup>er</sup> siècle de notre ère | Jésus de Nazareth ; le Nouveau Testament est écrit entre les années 50 et 100 environ |
 | Vers 200 | La Mishna met par écrit la Torah orale |
 | 367 | Athanase d'Alexandrie donne la plus ancienne liste des 27 livres du Nouveau Testament |
 | V<sup>e</sup>-VI<sup>e</sup> siècles | Achèvement du Talmud de Babylone |
