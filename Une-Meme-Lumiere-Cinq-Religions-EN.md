@@ -6,7 +6,7 @@ I am a Christian. I did not write this book to say that all religions are equal:
 
 I read the Bible, the Qur’an, the Bhagavad-Gita, the Dhammapada and the Talmud side by side, pencil in hand. What held me most is the secret that lies beneath the light: behind the words that divide, texts which, on forgiveness, on giving or on humility, say almost the same sentence — and, something this book does not hide, differences that remain.
 
-These pages are for the world as it is: for those who lose their lives in wars — in Ukraine, in Yemen, in Gaza, in Iran, in the Democratic Republic of the Congo — and for those whom disease, epidemics and pollution weigh down. If they help a single reader to look at his neighbor with more justice, without yielding anything of his own faith, they will have done their work.
+These pages are for the world as it is: for those who lose their lives in wars — in Ukraine, in Yemen, in Gaza, in Iran, in the Democratic Republic of the Congo — and for those whom disease, epidemics and pollution weigh down. Wars never lack reasons; none of them is worth a human life, and there is always a way to peace. If they help a single reader to look at his neighbor with more justice, without yielding anything of his own faith, they will have done their work.
 
 *Popaul Kabeya*
 

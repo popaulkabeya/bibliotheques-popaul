@@ -6,7 +6,7 @@ Je suis chrétien. Je n'ai pas écrit ce livre pour dire que toutes les religion
 
 J'ai lu la Bible, le Coran, la Bhagavad-Gîtâ, le Dhammapada et le Talmud côte à côte, crayon en main. Ce qui m'a le plus retenu, c'est le secret qui se tient sous la lumière : derrière les mots qui séparent, des textes qui, sur le pardon, le don ou l'humilité, disent presque la même phrase — et, ce que ce livre ne cache pas, des différences qui demeurent.
 
-Ces pages sont pour le monde tel qu'il va : pour ceux qui perdent leur vie dans des guerres — en Ukraine, au Yémen, à Gaza, en Iran, en République démocratique du Congo — et pour ceux que les maladies, les épidémies et la pollution accablent. Si elles aident un seul lecteur à regarder son voisin avec plus de justice, sans rien céder de sa propre foi, elles auront rempli leur office.
+Ces pages sont pour le monde tel qu'il va : pour ceux qui perdent leur vie dans des guerres — en Ukraine, au Yémen, à Gaza, en Iran, en République démocratique du Congo — et pour ceux que les maladies, les épidémies et la pollution accablent. Les guerres ne manquent jamais de raisons ; aucune ne vaut une vie humaine, et il existe toujours un chemin vers la paix. Si elles aident un seul lecteur à regarder son voisin avec plus de justice, sans rien céder de sa propre foi, elles auront rempli leur office.
 
 *Popaul Kabeya*
 
