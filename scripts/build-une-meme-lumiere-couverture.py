@@ -35,7 +35,10 @@ QUATRIEME = {"fr": """
 <p class="exergue">« Qu'on ne fasse jamais à autrui ce que l'on tient pour nuisible à soi-même. »</p>
 <p class="source">Mahâbhârata</p>
 <p>La même règle se lit dans le Talmud, dans les paroles du Bouddha, dans l'Évangile et dans les hadiths
-du Prophète. Simple hasard, ou lumière commune&#8239;?</p>
+du Prophète. Ces traditions sont nées à des siècles et à des milliers de kilomètres de distance, en des mondes
+qui, souvent, ne se connaissaient pas. Et pourtant, devant les mêmes questions — la souffrance, la mort, la manière
+de traiter son prochain —, elles cherchent la même chose, et la disent presque dans les mêmes mots.
+Simple hasard, ou lumière commune&#8239;?</p>
 <p><em>Une même lumière</em> ouvre côte à côte les Écritures des cinq grandes religions — les Veda et la
 Bhagavad-Gîtâ, la Torah et le Talmud, le Dhammapada, l'Évangile, le Coran —, présente leurs fondateurs, et les laisse parler sur dix-huit
 thèmes essentiels&#8239;: Dieu et l'Absolu, la compassion, le pardon, le don, la vérité, la prière, le cœur,
@@ -53,7 +56,10 @@ pour le pasteur, l'enseignant et l'étudiant, et pour quiconque cherche, sous la
 <p class="exergue">“Let one never do to another what one holds to be harmful to oneself.”</p>
 <p class="source">Mahabharata</p>
 <p>The same rule can be read in the Talmud, in the words of the Buddha, in the Gospel and in the hadiths
-of the Prophet. Mere coincidence, or a common light?</p>
+of the Prophet. These traditions were born centuries and thousands of miles apart, in worlds that often
+did not know one another. Yet before the same questions — suffering, death, how to treat one's neighbor —
+they seek the same thing, and say it in almost the same words.
+Mere coincidence, or a common light?</p>
 <p><em>The Same Light</em> sets side by side the Scriptures of the five great religions (the Vedas and the
 Bhagavad-Gita, the Torah and the Talmud, the Dhammapada, the Gospel, the Qur’an), introduces their founders, and lets
 them speak on eighteen essential themes: God and the Absolute, compassion, forgiveness, giving, truth, prayer, the heart, death, and even
