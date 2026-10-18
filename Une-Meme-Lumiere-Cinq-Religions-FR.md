@@ -8,23 +8,27 @@ Ce livre est parti de cette intuition, et il a voulu la vérifier. Non pas en r�
 
 **Les textes d'abord.** Chaque chapitre repose sur des citations, et chaque citation a été relue dans sa source avant d'être retenue. Ce livre ne rapporte pas ce qu'on dit que la Bible, le Coran, les Upanishads ou le Dhammapada affirment : il les cite. Le lecteur peut se reporter à chaque référence.
 
-**Des traductions anciennes.** Les traductions retenues sont celles du domaine public, les mêmes que l'on trouve dans cette bibliothèque : Louis Segond pour la Bible chrétienne, Kazimirski pour le Coran, Burnouf pour la Bhagavad-Gîtâ. Leur français a parfois un siècle et demi. On l'a gardé tel quel, parce qu'une citation retouchée n'est plus une citation. Quand aucune traduction française libre n'existait, le passage a été traduit pour ce livre, et la référence porte la mention *trad. de travail*.
+**Des traductions anciennes.** Les traductions retenues sont celles du domaine public : la Bible du Rabbinat français pour la Bible hébraïque, Louis Segond pour le Nouveau Testament, Kazimirski pour le Coran, Burnouf pour la Bhagavad-Gîtâ, Fernand Hû pour le Dhammapada. Leur français a parfois un siècle et demi. On l'a gardé tel quel, parce qu'une citation retouchée n'est plus une citation. Quand aucune traduction française libre n'existait, le passage a été traduit pour ce livre, et la référence porte la mention *trad. de travail*.
 
 **Un ordre chronologique.** Dans chaque chapitre, les cinq traditions parlent toujours dans le même ordre : l'**hindouisme**, dont les Veda sont les plus anciennes écritures des cinq ; le **judaïsme**, dont la Torah est la racine commune des trois religions abrahamiques ; le **bouddhisme**, né en Inde au V<sup>e</sup> siècle avant notre ère ; le **christianisme**, apparu au I<sup>er</sup> siècle ; l'**islam**, au VII<sup>e</sup>. Cet ordre n'est pas un classement : il suit simplement le fil du temps.
 
-**Ce qui converge, et ce qui nuance.** Chaque thème se termine par un encadré de synthèse. Il dit ce que les textes ont réellement en commun, puis, honnêtement, là où ils ne disent pas la même chose. Car rapprocher n'est pas confondre. Un bouddhiste ne prie pas un Dieu créateur ; un musulman ne tient pas Jésus pour le Fils de Dieu ; un hindou croit revenir dans une autre vie, un juif ou un chrétien ne le croit pas. Gommer ces différences serait manquer de respect à chacun. La dernière partie du livre leur est entièrement consacrée.
+**Ce qui converge, et ce qui nuance.** Chaque thème se termine par un encadré de synthèse. Il dit ce que les textes ont réellement en commun, puis, honnêtement, là où ils ne disent pas la même chose. Car rapprocher n'est pas confondre. Un bouddhiste ne prie pas un Dieu créateur ; un musulman ne tient pas Jésus pour le Fils de Dieu ; un hindou croit revenir dans une autre vie, un juif ou un chrétien ne le croit pas. Gommer ces différences serait manquer de respect à chacun. La septième partie du livre leur est entièrement consacrée.
+
+**Comparer, non pas tout égaliser.** Ce livre ne soutient pas que toutes les religions se valent, ni qu'elles disent au fond la même chose. Il ne demande à personne de quitter sa foi ni de l'affadir. Il montre ce que les textes ont réellement en commun, puis il laisse chaque tradition affirmer, dans ses propres mots, ce qu'elle tient pour vrai et que les autres ne tiennent pas : que Jésus est « le chemin, la vérité, et la vie », que le Coran est la parole de Dieu, que l'Éveil se passe de Dieu créateur. Le croyant y trouvera de quoi comprendre son voisin, non de quoi renoncer à ce qu'il croit.
+
+**Les Écritures d'abord, les mystiques ensuite.** Les dix-sept premiers thèmes s'en tiennent aux Écritures et à leurs premiers commentaires (Talmud, hadiths). Le dix-huitième fait exception : il donne la parole aux mystiques — Kabîr, la Kabbale, Shantideva, le *Nuage d'inconnaissance*, Jean de la Croix, Böhme, Ghazâlî —, qui disent avoir éprouvé ce que les Écritures annoncent. Au chapitre de la Règle d'or, trois textes plus tardifs ou non canoniques prolongent aussi les Écritures ; ils sont signalés comme tels.
 
 ## Comment lire ce livre
 
-La première partie présente les cinq traditions et leurs Écritures : ce qu'est la Torah, ce que contient le Tipitaka, comment s'est formé le Coran. Elle se lit comme une carte avant le voyage.
+La première partie présente les cinq traditions, leurs Écritures et leurs fondateurs : ce qu'est la Torah, ce que contient le Tipitaka, comment s'est formé le Coran, qui furent Abraham et Moïse, le Bouddha, Jésus et Muhammad. Elle se lit comme une carte avant le voyage.
 
-Les cinq parties suivantes explorent dix-sept thèmes, regroupés par grands domaines : le Principe (Dieu, l'Absolu, la lumière), la relation à autrui (la Règle d'or, la compassion, la paix, le pardon, le don, la famille), la conduite (la vérité, l'honnêteté, la maîtrise de soi, l'humilité), la vie intérieure (la prière, le cœur, le détachement) et la destinée (les actes et leurs fruits, la mort et ce qui la suit). Chaque thème tient en quelques pages et peut se lire seul.
+Les cinq parties suivantes explorent dix-huit thèmes, regroupés par grands domaines : le Principe (Dieu, l'Absolu, la lumière), la relation à autrui (la Règle d'or, la compassion, la paix, le pardon, le don, la famille), la conduite (la vérité, l'honnêteté, la maîtrise de soi, l'humilité), la vie intérieure (la prière, le cœur, le détachement) et la destinée (les actes et leurs fruits, la mort et ce qui la suit, l'expérience des mystiques). Chaque thème tient en quelques pages et peut se lire seul.
 
-La septième partie dit ce qui distingue les cinq traditions, la huitième conclut. En annexe, un tableau rassemble les cinq formulations de la Règle d'or, suivi de la liste des sources.
+La septième partie dit ce qui distingue les cinq traditions, et la conclusion fait le bilan du parcours. En annexe, un tableau rassemble les formulations de la Règle d'or ; puis une « sixième lampe », le *Tao Te King* de la Chine ancienne, fait entendre une voix restée hors du champ de ce livre ; la liste des sources clôt le volume.
 
 # Première partie — Les cinq traditions et leurs Écritures
 
-<p class="part-intro">Avant de comparer, il faut savoir de quoi l'on parle. Chaque tradition a sa manière de recevoir, d'écrire et de transmettre ses textes sacrés — et ce n'est pas la même partout.</p>
+<p class="part-intro">Avant de comparer, il faut savoir de quoi l'on parle. Chaque tradition a sa manière de recevoir, d'écrire et de transmettre ses textes sacrés — et ce n'est pas la même partout. Derrière les textes, il y a aussi des visages : ceux des fondateurs et des prophètes.</p>
 
 ## L'hindouisme : les Veda et la Bhagavad-Gîtâ
 
@@ -64,7 +68,7 @@ Le Bouddha n'a rien écrit. Son enseignement, le *Dharma*, fut récité et mémo
 - les **Sutta**, les discours du Bouddha, classés en cinq recueils ;
 - l'**Abhidhamma**, l'analyse systématique de la doctrine.
 
-Dans le cinquième recueil des discours se trouve le **Dhammapada**, « le Chemin de la Loi » : 423 strophes réparties en 26 chapitres, qui résument l'éthique bouddhiste en maximes brèves. C'est le texte bouddhiste le plus traduit au monde. Le bouddhisme du Grand Véhicule (*Mahâyâna*), répandu en Chine, au Tibet, en Corée et au Japon, a ajouté d'autres écritures en sanskrit, en chinois et en tibétain, comme le *Sûtra du Lotus* ou le *Sûtra du Cœur*.
+Dans le cinquième recueil des discours se trouve le **Dhammapada**, « le Chemin de la Loi » : 423 strophes réparties en 26 chapitres, qui résument l'éthique bouddhiste en maximes brèves. C'est l'un des textes bouddhistes les plus traduits au monde. Le bouddhisme du Grand Véhicule (*Mahâyâna*), répandu en Chine, au Tibet, en Corée et au Japon, a ajouté d'autres écritures en sanskrit, en chinois et en tibétain, comme le *Sûtra du Lotus* ou le *Sûtra du Cœur*.
 
 Le bouddhisme ne repose pas sur la foi en un Dieu créateur. Il propose un chemin de libération de la souffrance, que chacun est invité à vérifier par sa propre expérience. Il compte environ **320 millions** de fidèles, surtout en Asie.
 
@@ -91,17 +95,131 @@ Le **Coran** (*al-Qur'ân*, « la Récitation ») est tenu par les musulmans pou
 
 L'islam compte environ **2 milliards** de fidèles, sunnites pour la grande majorité, chiites pour environ un sur huit.
 
+## Fondateurs, prophètes et maîtres
+
+Derrière chaque Écriture, il y a des visages. Le judaïsme se reconnaît dans Abraham et Moïse, le bouddhisme dans le Bouddha, le christianisme dans Jésus, l'islam dans Muhammad ; l'hindouisme n'a pas de fondateur, mais il attend un Dieu qui descend parmi les hommes « d'âge en âge ». Ces figures ne jouent pas le même rôle : on y trouve des messagers, un libérateur, un Éveillé, le Fils de Dieu, une incarnation divine. Écouter comment chaque tradition parle de la sienne, c'est déjà entrer dans ce qui la distingue.
+
+### Hindouisme
+
+L'hindouisme ne remonte à aucun fondateur. Il attribue ses Veda aux *rishis*, les voyants des origines, et tient le sage Vyâsa pour le compilateur des Veda et l'auteur du Mahâbhârata. Mais la Bhagavad-Gîtâ fait entendre une autre voix : celle de Krishna, en qui les hindous reconnaissent un *avatâra*, une « descente » du dieu Vishnou. Il dit lui-même pourquoi il naît parmi les hommes :
+
+> Quand la justice languit, Bhârata, quand l'injustice se relève, alors je me fais moi-même créature, et je nais d'âge en âge. Pour la défense des bons, pour la ruine des méchants, pour le rétablissement de la justice.
+
+<p class="ref">— Bhagavad-Gîtâ IV, 7-8 · trad. Burnouf, 1861</p>
+
+Râma, le héros du Râmâyana, est un autre de ces avatars ; et de grands maîtres, comme Shankara au VIII<sup>e</sup> siècle, ont donné à la tradition ses écoles de pensée sans jamais prétendre la fonder.
+
+### Judaïsme
+
+Avec Abraham, tout commence par un départ. Celui que juifs, chrétiens et musulmans appellent leur père dans la foi quitte sa terre sur un appel :
+
+> L'Éternel avait dit à Abram : Eloigne-toi de ton pays, de ton lieu natal et de la maison paternelle, et va au pays que je t'indiquerai. Je te ferai devenir une grande nation ; je te bénirai, je rendrai ton nom glorieux, et tu seras un type de bénédiction. Je bénirai ceux qui te béniront, et qui t'outragera je le maudirai ; et par toi seront heureuses toutes les races de la terre.
+
+<p class="ref">— Genèse 12, 1-3 · trad. Zadoc Kahn</p>
+
+Moïse, quelques siècles plus tard selon le récit biblique, reçoit une mission de libération. Au buisson ardent, Dieu se présente à lui comme celui qui entend les opprimés :
+
+> L'Éternel poursuivit : « J'ai vu, j'ai vu l'humiliation de mon peuple qui est en Égypte ; j'ai accueilli sa plainte contre ses oppresseurs, car je connais ses souffrances. Je suis donc intervenu pour le délivrer de la puissance égyptienne […]. »
+
+<p class="ref">— Exode 3, 7-8 · trad. Zadoc Kahn</p>
+
+C'est Moïse qui reçoit la Torah au Sinaï, et la Bible le place au-dessus de tous les prophètes qui suivront, d'Élie à Isaïe et Jérémie :
+
+> Mais il n'a plus paru, en Israël, un prophète tel que Moïse, avec qui le Seigneur avait communiqué face à face […].
+
+<p class="ref">— Deutéronome 34, 10 · trad. Zadoc Kahn</p>
+
+### Bouddhisme
+
+Le bouddhisme, lui, est né de l'expérience d'un seul homme, Siddhârtha Gautama. Le Dhammapada a gardé les paroles que la tradition lui prête au moment de l'Éveil, sous l'arbre de Bodh-Gayâ :
+
+> J'ai parcouru, sans rien trouver, un cycle de renaissances nombreuses, à la recherche du Constructeur de l'édifice… Douloureuse est une continuelle reviviscence ! Mais, Constructeur de l'édifice, je te connais à présent ! tu ne le construiras plus. Brisées sont toutes les attaches (de tes chevrons), rompu aussi ton faîtage ! […] ma pensée est arrivée à la totale extinction du désir.
+
+<p class="ref">— Dhammapada 153-154 · trad. Hû, 1878. Pour la tradition, le « constructeur » est la soif (<em>tanhâ</em>), qui rebâtit sans cesse la maison de l'existence ; Hû y voit Mâra.</p>
+
+À Bénarès, il donne ensuite son premier enseignement à cinq ascètes qui avaient partagé ses années de mortification : ni la vie de plaisirs, ni l'ascèse qui torture le corps, mais une voie du milieu.
+
+> Il y a deux extrêmes, ô Bhikkhus, que celui qui a quitté le monde ne doit pas suivre : d'une part, la pratique habituelle des choses dont l'attrait dépend des passions, et surtout de la sensualité — voie basse et vulgaire, indigne et sans profit […] ; d'autre part, la pratique habituelle de l'ascétisme, ou mortification de soi, qui est douloureuse, indigne et sans profit. Il y a une voie du milieu, ô Bhikkhus, qui évite ces deux extrêmes, découverte par le Tathâgata : une voie qui ouvre les yeux et donne l'intelligence, qui conduit à la paix de l'esprit, à la sagesse supérieure, au plein éveil, au Nirvâna.
+
+<p class="ref">— Sermon de Bénarès (Dhammacakkappavattana Sutta) 2-3 · trad. de travail d'après Rhys Davids, 1881</p>
+
+Le Bouddha ne se présente ni comme un dieu ni comme un prophète : il est celui qui a trouvé le chemin, et qui le montre.
+
+### Christianisme
+
+Le christianisme ne se fonde ni sur un livre ni sur une loi, mais sur une personne : Jésus de Nazareth, juif de Galilée, qui enseigna quelques années (trois, selon l'Évangile de Jean) avant d'être crucifié à Jérusalem, vers l'an 30, sous le gouverneur romain Ponce Pilate. Dans la synagogue de Nazareth, il ouvre le livre d'Isaïe et en fait le programme de sa mission :
+
+> L'Esprit du Seigneur est sur moi,
+>
+> Parce qu'il m'a oint pour annoncer une bonne nouvelle aux pauvres;
+>
+> Il m'a envoyé pour guérir ceux qui ont le cœur brisé,
+>
+> Pour proclamer aux captifs la délivrance,
+>
+> Et aux aveugles le recouvrement de la vue,
+>
+> Pour renvoyer libres les opprimés,
+>
+> Pour publier une année de grâce du Seigneur.
+
+<p class="ref">— Luc 4, 18-19 · trad. Segond, 1910</p>
+
+Ses disciples, puis l'apôtre Paul, porteront ce message jusqu'à Rome. Pour eux, Jésus n'est pas seulement un prophète : il est le Christ, le Fils de Dieu, mort et ressuscité.
+
+### Islam
+
+Muhammad naît à La Mecque vers 570. Orphelin très jeune, devenu marchand caravanier et connu pour sa droiture, il a une quarantaine d'années lorsque, selon la tradition, l'ange Gabriel lui apparaît dans une grotte du mont Hira, en 610. Les premiers versets révélés seraient ceux-ci :
+
+> Lis, au nom de ton Seigneur qui a créé tout,
+>
+> Qui a créé l'homme de <span class="sc">sang coagulé</span> ?
+>
+> Lis, car ton Seigneur est le plus généreux,
+>
+> C'est lui qui a appris (à l'homme) à se servir de la plume (de kalem) ;
+>
+> Il a appris à l'homme ce que l'homme ne savait pas.
+
+<p class="ref">— Coran 96, 1-5 · trad. Kazimirski, 1869. « Le sang coagulé » est le titre de la sourate.</p>
+
+Le Coran ne fait pas de lui un être divin. Il est « l'envoyé de Dieu », le dernier d'une longue chaîne de prophètes :
+
+> Mohammed n'est le père d'aucun homme parmi vous. Il est l'envoyé de Dieu et le sceau des prophètes. Dieu connaît tout.
+
+<p class="ref">— Coran 33, 40 · trad. Kazimirski, 1869</p>
+
+Cette chaîne, l'islam la fait remonter à Abraham, et il y inclut Moïse et Jésus :
+
+> Dis : Nous croyons en Dieu, à ce qu'il nous a envoyé, à ce qu'il a révélé à Abraham, Ismaël, Jacob, et aux douze tribus ; nous croyons aux livres saints que Moïse, Jésus et les prophètes ont reçus du ciel ; nous ne mettons aucune différence entre eux, nous sommes résignés à la volonté de Dieu (*nous sommes musulmans*).
+
+<p class="ref">— Coran 3, 84 [Kazimirski III, 78] · trad. Kazimirski, 1869</p>
+
+Muhammad meurt à Médine en 632, après avoir rassemblé l'Arabie autour de la foi nouvelle.
+
+<div class="synthese" markdown="1">
+
+#### Ce qui converge
+
+Chaque tradition rattache son origine à une rencontre décisive : l'appel d'Abraham, le buisson ardent de Moïse, l'Éveil sous l'arbre de Bodh-Gayâ, la lecture d'Isaïe à Nazareth, la grotte du mont Hira, ou, pour l'hindouisme, la parole de Krishna sur le champ de bataille. Et chacune y voit le commencement d'une mission tournée vers les autres : « par toi seront heureuses toutes les races de la terre » (Genèse), « annoncer une bonne nouvelle aux pauvres » (Luc), naître « pour la défense des bons » (Gîtâ), enseigner la voie du milieu à cinq compagnons (sermon de Bénarès). Trois d'entre elles se reconnaissent en outre un même ancêtre : Abraham, que la Bible et le Coran appellent l'ami de Dieu.
+
+#### Ce qui nuance
+
+Le statut de ces figures change tout d'une tradition à l'autre. Moïse et Muhammad sont des prophètes, des hommes à qui Dieu parle, et le Coran y insiste : Muhammad n'est que « l'envoyé de Dieu ». Le Bouddha n'est ni un dieu ni un prophète : il a trouvé seul le chemin. Krishna est un dieu qui se fait créature, dans une tradition qui ne connaît pas de fondateur. Jésus, enfin, est pour les chrétiens bien plus qu'un prophète : le Fils de Dieu fait homme. C'est sur lui que se séparent les trois religions nées d'Abraham, comme le montrera la septième partie.
+
+</div>
+
 ## Tableau des cinq traditions
 
-| Tradition | Origine | Écritures principales | Langue sacrée | Fidèles (2020, env.) |
-|---|---|---|---|---|
-| Hindouisme | Inde, II<sup>e</sup> millénaire av. J.-C. | Veda, Upanishads, Bhagavad-Gîtâ | Sanskrit | 1,2 milliard |
-| Judaïsme | Terre d'Israël, I<sup>er</sup> millénaire av. J.-C. | Tanakh (Torah, Prophètes, Écrits), Talmud | Hébreu, araméen | 15 millions |
-| Bouddhisme | Inde du Nord, V<sup>e</sup> s. av. J.-C. | Tipitaka (dont le Dhammapada), sûtras du Mahâyâna | Pali, sanskrit | 320 millions |
-| Christianisme | Palestine, I<sup>er</sup> s. | Ancien et Nouveau Testament | Hébreu, grec | 2,3 milliards |
-| Islam | Arabie, VII<sup>e</sup> s. | Coran, hadiths | Arabe | 2 milliards |
+| Tradition | Origine | Figures fondatrices | Écritures principales | Langue sacrée | Fidèles (2020, env.) |
+|---|---|---|---|---|---|
+| Hindouisme | Inde, II<sup>e</sup> millénaire avant notre ère | Aucun fondateur ; les <em>rishis</em>, Krishna | Veda, Upanishads, Bhagavad-Gîtâ | Sanskrit | 1,2 milliard |
+| Judaïsme | Terre d'Israël, I<sup>er</sup> millénaire avant notre ère | Abraham, Moïse | Tanakh (Torah, Prophètes, Écrits), Talmud | Hébreu, araméen | 15 millions |
+| Bouddhisme | Inde du Nord, V<sup>e</sup> s. avant notre ère | Siddhârtha Gautama, le Bouddha | Tipitaka (dont le Dhammapada), sûtras du Mahâyâna | Pali, sanskrit | 320 millions |
+| Christianisme | Palestine, I<sup>er</sup> s. | Jésus de Nazareth | Ancien et Nouveau Testament | Hébreu, grec | 2,3 milliards |
+| Islam | Arabie, VII<sup>e</sup> s. | Muhammad | Coran, hadiths | Arabe | 2 milliards |
 
-*Les effectifs sont des ordres de grandeur, d'après les estimations du Pew Research Center pour l'année 2020.*
+*Les effectifs sont des ordres de grandeur, d'après les estimations du Pew Research Center pour l'année 2020 (rapport « How the Global Religious Landscape Changed From 2010 to 2020 », 2025).*
 
 # Deuxième partie — Le Principe
 
@@ -205,19 +323,21 @@ La sourate de l'Unité, l'une des plus courtes du Coran, est tenue par la tradit
 
 #### Ce qui converge
 
-Les cinq traditions orientent l'homme vers une réalité **unique**, qui ne naît ni ne meurt et qui échappe à toute représentation. Le Shema d'Israël, repris par Jésus, et la sourate de l'Unité proclament qu'elle est une ; le Rig-Veda voit « l'être unique » sous tous les noms divins ; le Bouddha affirme un « non-né, non-créé ». Toutes disent aussi qu'elle dépasse les images : « Rien ne lui ressemble », dit le Coran ; « Dieu est Esprit », dit l'Évangile ; le Nirvâna est « non-formé ».
+Les cinq traditions orientent l'homme vers une réalité qui ne naît ni ne meurt et qui échappe à toute représentation. Le Shema d'Israël, repris par Jésus, et la sourate de l'Unité proclament qu'elle est une ; le Rig-Veda voit « l'être unique » sous tous les noms divins ; le Bouddha affirme un « non-né, non-créé ». Toutes disent aussi qu'elle dépasse les images : « Rien ne lui ressemble », dit le Coran ; « Dieu est Esprit », dit l'Évangile ; le Nirvâna est « non-formé ».
 
 #### Ce qui nuance
 
-Les mots se séparent aussitôt. Pour le judaïsme, le christianisme et l'islam, cette réalité est un **Dieu personnel** et créateur — que le christianisme confesse en trois personnes, ce que les deux autres refusent. L'hindouisme la pense tantôt comme un Absolu impersonnel, Brahman, identique au Soi de chacun (« tu es Cela »), tantôt comme un Dieu que l'on aime, Krishna. Le bouddhisme, lui, ne pose **aucun Dieu créateur** : le « non-né » n'est pas quelqu'un que l'on prie, c'est l'issue hors de la souffrance. La septième partie revient sur cette différence, la plus profonde de toutes.
+Les mots se séparent aussitôt. Pour le judaïsme, le christianisme et l'islam, cette réalité est un **Dieu personnel** et créateur — que le christianisme confesse en trois personnes, ce que les deux autres refusent. L'hindouisme la pense tantôt comme un Absolu impersonnel, Brahman, identique au Soi de chacun (« tu es Cela »), tantôt comme un Dieu que l'on aime, Krishna. Le bouddhisme, lui, ne pose **aucun Dieu créateur** : le « non-né » n'est pas quelqu'un que l'on prie, c'est l'issue hors de la souffrance. La septième partie revient sur cette différence, la plus lourde de conséquences.
 
 </div>
 
 ## 2. La lumière
 
-Il n'est pas une tradition qui ne parle de lumière. Le mot désigne tour à tour la divinité elle-même, la parole qui guide, l'éveil de l'esprit, le rayonnement de l'homme juste. C'est l'image la plus universelle du sacré — et c'est elle qui a donné son titre à ce livre.
+Pour dire cette réalité qui dépasse tout, les cinq traditions recourent souvent à la même image. Il n'est pas une tradition qui ne parle de lumière. Le mot désigne tour à tour la divinité elle-même, la parole qui guide, l'éveil de l'esprit, le rayonnement de l'homme juste. C'est l'image la plus universelle du sacré — et c'est elle qui a donné son titre à ce livre.
 
 ### Hindouisme
+
+Les Upanishads placent cette lumière au-delà de toutes les lumières visibles :
 
 > Dans la plus haute enveloppe d'or est le Brahman, sans passions et sans parties. Il est pur, il est la lumière des lumières […]. Là ne brillent ni le soleil, ni la lune et les étoiles, ni ces éclairs, et encore moins ce feu. Quand Il brille, tout brille après lui ; par sa lumière tout ceci est illuminé.
 
@@ -234,6 +354,8 @@ Quand Krishna dévoile sa forme divine, le narrateur ne trouve pas d'autre compa
 <p class="ref">— Bhagavad-Gîtâ XIII, 17 · trad. Burnouf, 1861</p>
 
 ### Judaïsme
+
+Là où l'Inde voit une lumière au-delà du monde, la Bible hébraïque prie un Dieu qui éclaire et protège ceux qui se confient en lui :
 
 > De David. Le Seigneur est ma lumière et mon salut : de qui aurais-je peur ? Le Seigneur est le rempart qui protège ma vie : qui redouterais-je ?
 
@@ -273,6 +395,8 @@ Au soir de sa vie, le Bouddha refuse que ses disciples s'appuient sur une autori
 
 ### Christianisme
 
+Le Nouveau Testament reprend l'image et en fait une définition de Dieu :
+
 > La nouvelle que nous avons apprise de lui, et que nous vous annonçons, c'est que Dieu est lumière, et qu'il n'y a point en lui de ténèbres.
 
 <p class="ref">— 1 Jean 1, 5 · trad. Segond, 1910</p>
@@ -291,7 +415,7 @@ Et la lumière reçue doit à son tour éclairer les autres :
 
 Le « verset de la Lumière » est l'un des textes les plus médités de la mystique musulmane :
 
-> Dieu est la LUMIÈRE des cieux et de la terre. Cette lumière est comme un foyer dans lequel se trouve un flambeau, un flambeau placé dans un cristal, cristal semblable à une étoile brillante ; ce flambeau s'allume avec l'huile d'un arbre béni d'un olivier qui n'est ni de l'Orient ni de l'Occident, et dont l'huile brille quand même le feu ne la touche pas. C'est lumière sur lumière. Dieu conduit vers sa lumière celui qu'il veut, et propose aux hommes des paraboles ; car il connaît tout.
+> Dieu est la <span class="sc">lumière</span> des cieux et de la terre. Cette lumière est comme un foyer dans lequel se trouve un flambeau, un flambeau placé dans un cristal, cristal semblable à une étoile brillante ; ce flambeau s'allume avec l'huile d'un arbre béni d'un olivier qui n'est ni de l'Orient ni de l'Occident, et dont l'huile brille quand même le feu ne la touche pas. C'est lumière sur lumière. Dieu conduit vers sa lumière celui qu'il veut, et propose aux hommes des paraboles ; car il connaît tout.
 
 <p class="ref">— Coran 24, 35 · trad. Kazimirski, 1869</p>
 
@@ -317,7 +441,7 @@ D'où vient la lumière ? Pour les religions nées d'Abraham, elle vient de Dieu
 
 ## 3. La Règle d'or
 
-On appelle « Règle d'or » le principe qui demande de traiter autrui comme on voudrait être traité soi-même. On la trouve sous deux formes : l'une négative (« ne fais pas à autrui ce que tu ne voudrais pas qu'on te fasse »), l'autre positive (« fais pour autrui ce que tu voudrais qu'on fasse pour toi »). Aucune autre maxime morale n'est aussi largement partagée : les cinq traditions la connaissent, et plusieurs la présentent comme le résumé de toute leur Loi.
+Les Écritures ne parlent pas de Dieu pour s'en tenir au ciel : elles en tirent aussitôt une conduite envers autrui, dont la première règle est presque partout la même. On appelle « Règle d'or » le principe qui demande de traiter autrui comme on voudrait être traité soi-même. On la trouve sous deux formes : l'une négative (« ne fais pas à autrui ce que tu ne voudrais pas qu'on te fasse »), l'autre positive (« fais pour autrui ce que tu voudrais qu'on fasse pour toi »). Aucune autre maxime morale n'est aussi largement partagée : les cinq traditions la connaissent, et plusieurs la présentent comme le résumé de toute leur Loi.
 
 ### Hindouisme
 
@@ -326,6 +450,12 @@ Dans le treizième livre du Mahâbhârata, la grande épopée de l'Inde, la Règ
 > Celui qui regarde toutes les créatures comme lui-même, et se conduit envers elles comme envers lui-même […] parvient au bonheur. […] Qu'on ne fasse jamais à autrui ce que l'on tient pour nuisible à soi-même. Voilà, en bref, la règle de la Justice. […] Quand on nuit à autrui, celui qui a subi le tort se retourne et nuit à son tour ; de même, quand on chérit autrui, celui-ci chérit à son tour. Qu'on règle sa conduite là-dessus.
 
 <p class="ref">— Mahâbhârata XIII (Anuśâsana-parva), section 113 · trad. de travail d'après Ganguli, 1883-1896</p>
+
+L'un des recueils de fables les plus populaires de l'Inde, l'*Hitopadésa* (vers le XII<sup>e</sup> siècle), cite à son tour les traités de la Loi. Non sans ironie : il place ces maximes dans la bouche d'un vieux tigre qui veut attirer un voyageur. Mais les maximes, elles, sont sérieuses, et elles disent la règle en ses deux sens :
+
+> Si notre existence nous est chère, les autres êtres ne tiennent pas moins que nous à la vie. C'est en jugeant d'après eux-mêmes que les hommes vertueux éprouvent de la pitié pour le reste des créatures. En fait de refus et de dons, de bonheur et de malheur, de plaisir et de peine, l'homme trouve dans la comparaison qu'il fait entre lui-même et les autres créatures une règle de conduite qui lui indique ce qu'il doit faire.
+
+<p class="ref">— Hitopadésa I, fable du tigre et du voyageur · trad. Lancereau, 1882</p>
 
 ### Judaïsme
 
@@ -345,7 +475,23 @@ Au I<sup>er</sup> siècle avant notre ère, le sage Hillel en fit le résumé de
 
 > Une fois un Gentil vint trouver Shammaï, et dit : « Fais de moi un prosélyte, mais à condition que tu m'enseignes la loi tout entière, oui, tout entière, pendant que je me tiens sur une seule jambe. » Shammaï le chassa avec la règle de maçon qu'il tenait à la main. Lorsqu'il vint trouver Hillel avec le même défi, Hillel le convertit en lui répondant sur-le-champ : « Ce qui t'est odieux à toi-même, ne le fais pas à ton prochain. Ceci est toute la loi, et le reste en est le commentaire » […].
 
-<p class="ref">— Talmud de Babylone, Shabbat 31a · d'après Hershon, *A Talmudic Miscellany*, 1880, trad. de la bibliothèque. L'araméen ajoute : « va, étudie ».</p>
+<p class="ref">— Talmud de Babylone, Shabbat 31a · trad. de travail d'après Hershon, *A Talmudic Miscellany*, 1880. L'araméen ajoute : « va, étudie ».</p>
+
+Un écrit apocryphe conservé seulement en vieux slave, que de nombreux savants datent du I<sup>er</sup> siècle de notre ère et tiennent pour juif, en donne une formule voisine :
+
+> Maintenant donc, mes enfants, gardez vos cœurs de toute injustice, que le Seigneur hait. Comme un homme demande [le bien] pour son âme à Dieu, qu'il fasse de même pour toute âme vivante.
+
+<p class="ref">— Livre des secrets d'Hénoch (2 Hénoch) 61, 1 · trad. de travail d'après Morfill, 1896. Écrit apocryphe, reçu dans aucun canon.</p>
+
+Dix-sept siècles plus tard, un savant de Vilna, Pinchas Eliyahu Horowitz, se demande qui est ce « prochain » du Lévitique. Sa réponse, dans le *Sefer HaBrit* (1797), l'un des livres hébreux les plus lus de son temps, ne laisse dehors aucun peuple :
+
+> L'essence de l'amour du prochain consiste en ceci : que l'homme aime tout le genre humain, de quelque peuple qu'il soit et de quelque langue qu'il soit, parce qu'il est homme, fait à sa ressemblance et à son image comme lui-même […]. Car l'homme n'a pas été créé pour lui seul : chaque homme existe aussi pour un autre homme […].
+
+<p class="ref">— Pinchas Eliyahu Horowitz, *Sefer HaBrit* II, 13, chap. 1 · trad. de travail d'après l'hébreu (Brünn, 1797)</p>
+
+> […] l'intention n'y vise pas Israël seulement, car s'il en était ainsi, il aurait été écrit « Tu aimeras ton frère comme toi-même » […]. Toutes les nations sont comprises, et tout homme est un prochain pour l'homme.
+
+<p class="ref">— *Sefer HaBrit* II, 13, chap. 5 · trad. de travail d'après l'hébreu</p>
 
 ### Bouddhisme
 
@@ -363,6 +509,12 @@ La formule « qu'on fasse ce qu'on voudrait que fît autrui » est une interpré
 
 <p class="ref">— Udânavarga V, 18 · trad. de travail d'après Rockhill, 1883</p>
 
+Au VIII<sup>e</sup> siècle, le moine Shantideva, dans un poème que les bouddhistes du Grand Véhicule méditent encore, en tire la conséquence la plus directe :
+
+> Ce qu'est la joie pour moi, elle l'est pour autrui ; ce qu'est la douleur pour moi, elle l'est pour autrui. Je dois faire pour autrui ce que je fais pour moi. […] Je dois détruire la douleur du prochain, parce qu'elle est douleur, comme est ma propre douleur ; je dois servir le prochain, parce qu'il est un être vivant comme je suis moi-même. Le moi et le prochain aspirent également au bonheur : quel caractère particulier présente le moi pour mettre nos efforts à son seul service ?
+
+<p class="ref">— Shantideva, *Bodhicaryâvatâra* VIII, 90 et 94-95 · trad. La Vallée Poussin, 1907</p>
+
 ### Christianisme
 
 Dans le Sermon sur la montagne, Jésus donne la Règle d'or sous sa forme positive, et en fait le résumé de toute l'Écriture :
@@ -371,7 +523,11 @@ Dans le Sermon sur la montagne, Jésus donne la Règle d'or sous sa forme positi
 
 <p class="ref">— Matthieu 7, 12 · trad. Segond, 1910</p>
 
-L'Évangile de Luc la place au cœur de l'enseignement sur l'amour des ennemis (Luc 6, 31), ce qui l'étend au-delà de la simple réciprocité.
+L'Évangile de Luc la place au cœur de l'enseignement sur l'amour des ennemis, ce qui l'étend au-delà de la simple réciprocité :
+
+> Mais je vous dis, à vous qui m'écoutez: Aimez vos ennemis, faites du bien à ceux qui vous haïssent, bénissez ceux qui vous maudissent, priez pour ceux qui vous maltraitent. […] Ce que vous voulez que les hommes fassent pour vous, faites-le de même pour eux.
+
+<p class="ref">— Luc 6, 27-28 et 31 · trad. Segond, 1910</p>
 
 ### Islam
 
@@ -391,11 +547,11 @@ Dans l'une des versions rapportées par Muslim, le transmetteur hésite entre de
 
 #### Ce qui converge
 
-C'est la convergence la plus nette de tout ce livre. Les cinq traditions connaissent la Règle d'or, et plusieurs en font le **résumé de leur Loi** : « c'est la loi et les prophètes », dit Jésus ; « voilà, en bref, la règle de la Justice », dit le Mahâbhârata ; « aucun de vous ne croit vraiment » sans elle, dit le hadith. La Torah l'avait posée la première : « aime ton prochain comme toi-même » (Lévitique 19, 18) ; le sage Hillel la donnait comme « toute la loi », dont « le reste est le commentaire ». Partout, elle repose sur le même geste : **se mettre à la place de l'autre**.
+C'est la convergence la plus nette de tout ce livre. Les cinq traditions connaissent la Règle d'or, et plusieurs en font le **résumé de leur Loi** : « c'est la loi et les prophètes », dit Jésus ; « voilà, en bref, la règle de la Justice », dit le Mahâbhârata ; « aucun de vous ne croit vraiment » sans elle, dit le hadith ; « je dois faire pour autrui ce que je fais pour moi », écrit Shantideva. La Torah l'avait posée la première : « aime ton prochain comme toi-même » (Lévitique 19, 18) ; le sage Hillel la donnait comme « toute la loi », dont « le reste est le commentaire ». Partout, elle repose sur le même geste : **se mettre à la place de l'autre**.
 
 #### Ce qui nuance
 
-La forme varie : négative (« ne fais pas à autrui… ») dans le Mahâbhârata et l'Udânavarga, positive (« faites pour eux… ») dans l'Évangile et le hadith. Le fondement varie aussi : l'identité d'un même Soi en tous les êtres pour l'hindouisme, l'expérience commune de la peur et de la souffrance pour le bouddhisme, l'amour de Dieu et du prochain pour le judaïsme et le christianisme, la foi pour l'islam. Et le cercle n'a pas partout la même étendue : « toutes les créatures » en Inde, le « prochain » dans la Bible, le « frère » ou le « voisin » dans le hadith.
+La forme varie : négative (« ne fais pas à autrui… ») dans le Mahâbhârata, chez Hillel et dans l'Udânavarga, positive (« faites pour eux… ») dans l'Évangile, le hadith, le Livre des secrets d'Hénoch et chez Shantideva ; l'Hitopadésa, lui, en fait une règle de comparaison valable pour les refus comme pour les dons. Le fondement varie aussi : l'identité d'un même Soi en tous les êtres pour l'hindouisme, l'expérience commune de la peur et de la souffrance pour le bouddhisme, l'amour de Dieu et du prochain pour le judaïsme et le christianisme, la foi pour l'islam. Et le cercle n'a pas partout la même étendue : « toutes les créatures » en Inde, le « prochain » dans la Bible, le « frère » ou le « voisin » dans le hadith. La tradition juive a d'ailleurs débattu de ce « prochain » : en 1797, le Sefer HaBrit y comprend « tout le genre humain », hormis deux sortes d'hommes : ceux qui vivent hors de toute société, et ceux qui détruisent le monde, meurtriers et brigands.
 
 </div>
 
@@ -433,7 +589,7 @@ Le Talmud ose une image saisissante : Dieu lui-même prie pour que sa miséricor
 
 > C'est ainsi qu'Il prie : « Qu'il me plaise que ma miséricorde l'emporte sur ma colère, que tous mes attributs soient revêtus de compassion, et que je traite mes enfants selon l'attribut de bonté, et qu'à cause d'eux je passe outre au jugement. »
 
-<p class="ref">— Talmud de Babylone, Berakhot 7a · d'après Hershon, 1880, trad. de la bibliothèque</p>
+<p class="ref">— Talmud de Babylone, Berakhot 7a · trad. de travail d'après Hershon, 1880</p>
 
 ### Bouddhisme
 
@@ -448,6 +604,8 @@ Le Metta Sutta, l'un des textes les plus récités du bouddhisme ancien, décrit
 <p class="ref">— Dhammapada 223 · trad. Hû, 1878</p>
 
 ### Christianisme
+
+Dans l'Évangile de Matthieu, Jésus lie l'amour de Dieu à celui du prochain, qu'il reprend du Lévitique :
 
 > Jésus lui répondit: Tu aimeras le Seigneur, ton Dieu, de tout ton cœur, de toute ton âme, et de toute ta pensée. C'est le premier et le plus grand commandement. Et voici le second, qui lui est semblable: Tu aimeras ton prochain comme toi-même. De ces deux commandements dépendent toute la loi et les prophètes.
 
@@ -499,11 +657,11 @@ Dans le judaïsme, le christianisme et l'islam, la compassion humaine répond à
 
 ## 5. La non-violence et la paix
 
-Toutes les traditions condamnent le meurtre et exaltent la paix. Elles ne tirent pas toutes la même conséquence de cette condamnation : certaines vont jusqu'au refus de toute violence, d'autres encadrent l'usage de la force. Les textes qui suivent disent l'idéal ; la synthèse dira aussi les limites.
+De la compassion naît le refus de la violence. Toutes les traditions condamnent le meurtre et exaltent la paix. Elles ne tirent pas toutes la même conséquence de cette condamnation : certaines vont jusqu'au refus de toute violence, d'autres encadrent l'usage de la force. Les textes qui suivent disent l'idéal ; la synthèse dira aussi les limites.
 
 ### Hindouisme
 
-La non-violence, *ahimsâ*, est l'une des vertus les plus hautes de l'hindouisme. La Gîtâ la place en tête des qualités de l'homme « né dans une condition divine » ; Burnouf rend le mot par « l'humeur pacifique » :
+La non-violence, *ahimsâ*, est l'une des vertus les plus hautes de l'hindouisme. La Gîtâ la compte parmi les qualités de l'homme « né dans une condition divine » ; Burnouf rend le mot par « l'humeur pacifique » :
 
 > L'humeur pacifique, la véracité, la douceur, le renoncement, le calme intérieur, la bienveillance, la pitié pour les êtres vivants, la paix du cœur, la mansuétude, la pudeur, la gravité ;
 
@@ -520,6 +678,8 @@ Les Yoga-sûtra en décrivent le fruit :
 <p class="ref">— Yoga-sûtra de Patañjali II, 35 · trad. de travail d'après Woods, 1914</p>
 
 ### Judaïsme
+
+Le Décalogue pose l'interdit en une phrase brève :
 
 > Ne commets point d'homicide.
 
@@ -554,6 +714,8 @@ Le premier des cinq préceptes que le Bouddha donne au laïc porte sur la vie de
 <p class="ref">— Dhammapada 201 · trad. Hû, 1878</p>
 
 ### Christianisme
+
+Jésus fait de la paix une béatitude, et va jusqu'à demander l'amour des ennemis :
 
 > Heureux ceux qui procurent la paix, car ils seront appelés fils de Dieu!
 
@@ -597,7 +759,7 @@ Le Coran reprend une loi qu'il dit avoir été donnée aux enfants d'Israël, et
 
 #### Ce qui converge
 
-Toutes affirment le **caractère sacré de la vie** et condamnent le meurtre. La Mishna enseigne que « celui qui sauve un seul être humain sauve un monde entier », et le Coran reprend cette loi en la disant donnée aux enfants d'Israël ; le Mahâbhârata fait de l'abstention de cruauté « la plus haute Religion » ; le premier précepte bouddhiste protège tout être vivant. Toutes exaltent la paix, et plusieurs demandent de **rendre le bien pour le mal** : « Rends le bien pour le mal » (Coran), « surmonte le mal par le bien » (Paul), « ce n'est pas la haine qui fait cesser la haine » (Dhammapada).
+Toutes affirment le **caractère sacré de la vie** et condamnent le meurtre. La Mishna enseigne que « celui qui sauve un seul être humain sauve un monde entier », et le Coran reprend cette loi en la disant donnée aux enfants d'Israël ; le Mahâbhârata fait de l'abstention de cruauté « la plus haute Religion » ; le premier précepte bouddhiste protège tout être vivant. Toutes exaltent la paix, et plusieurs demandent de **rendre le bien pour le mal** : « Rends le bien pour le mal » (Coran), « surmonte le mal par le bien » (Paul) ; « ce qui fait cesser ici-bas les haines, ce n'est aucunement la haine » (Dhammapada 5).
 
 #### Ce qui nuance
 
@@ -607,7 +769,7 @@ L'idéal est commun ; le rapport à la force ne l'est pas. Le bouddhisme est le 
 
 ## 6. Le pardon
 
-Répondre à l'offense par l'offense entretient sans fin le cycle de la haine. Les cinq traditions le savent, et toutes invitent à rompre ce cycle. Mais elles ne donnent pas au pardon la même source : don de Dieu à imiter pour les unes, libération intérieure du ressentiment pour les autres.
+La paix demande plus que l'absence de violence : elle demande de savoir pardonner. Répondre à l'offense par l'offense entretient sans fin le cycle de la haine. Les cinq traditions le savent, et toutes invitent à rompre ce cycle. Mais elles ne donnent pas au pardon la même source : don de Dieu à imiter pour les unes, libération intérieure du ressentiment pour les autres.
 
 ### Hindouisme
 
@@ -667,6 +829,8 @@ Les premières strophes du Dhammapada décrivent le mécanisme même du ressenti
 
 ### Christianisme
 
+Jésus lie le pardon que l'on reçoit de Dieu à celui que l'on accorde : c'est la seule demande du Notre Père qu'il commente aussitôt :
+
 > Si vous pardonnez aux hommes leurs offenses, votre Père céleste vous pardonnera aussi; mais si vous ne pardonnez pas aux hommes, votre Père ne vous pardonnera pas non plus vos offenses.
 
 <p class="ref">— Matthieu 6, 14-15 · trad. Segond, 1910</p>
@@ -682,6 +846,8 @@ Sur la croix, Jésus lui-même intercède pour ceux qui le mettent à mort :
 <p class="ref">— Luc 23, 34 · trad. Segond, 1910</p>
 
 ### Islam
+
+Le Coran adresse la même invitation aux croyants offensés, en leur rappelant qu'eux aussi espèrent le pardon de Dieu :
 
 > […] qu'ils leur pardonnent plutôt *leurs fautes* et passent outre. Vous, ne voudriez-vous pas *aussi* que Dieu vous pardonne ? il est indulgent et miséricordieux.
 
@@ -711,9 +877,11 @@ Le christianisme demande un pardon **sans limite** (« septante fois sept fois �
 
 ## 7. Le don et le soin du pauvre
 
-Aucune religion ne se contente de prier. Toutes demandent de partager, et presque toutes nomment les mêmes bénéficiaires : le pauvre, l'orphelin, la veuve, l'étranger, le voyageur. Plusieurs ajoutent une exigence étonnamment semblable : donner sans ostentation, et sans humilier celui qui reçoit.
+Pardonner, c'est renoncer à ce qu'on vous doit ; donner, c'est offrir ce qu'on ne doit pas. Aucune religion ne se contente de prier. Toutes demandent de partager, et presque toutes nomment les mêmes bénéficiaires : le pauvre, l'orphelin, la veuve, l'étranger, le voyageur. Plusieurs ajoutent une exigence étonnamment semblable : donner sans ostentation, et sans humilier celui qui reçoit.
 
 ### Hindouisme
+
+Dans l'Inde ancienne, le maître qui congédie son élève lui enseigne d'abord la manière de donner :
 
 > Ce que l'on donne, qu'on le donne avec foi, non sans foi ; avec joie, avec modestie, avec crainte, avec bienveillance.
 
@@ -733,6 +901,8 @@ Une Upanishad raconte que le dieu créateur prononça pour les dieux, les hommes
 
 ### Judaïsme
 
+La Torah fait du don une loi, et une loi qui ne s'éteindra pas tant qu'il y aura des pauvres :
+
 > Que s'il y a chez toi un indigent, d'entre tes frères, dans l'une de tes villes […], tu n'endurciras point ton cœur, ni ne fermeras ta main à ton frère nécessiteux. Ouvre-lui plutôt ta main ! […] Or, il y aura toujours des nécessiteux dans le pays ; c'est pourquoi, je te fais cette recommandation : ouvre, ouvre ta main à ton frère, au pauvre, au nécessiteux qui sera dans ton pays !
 
 <p class="ref">— Deutéronome 15, 7-8 et 11 · trad. Zadoc Kahn</p>
@@ -751,9 +921,11 @@ Le Talmud place encore plus haut que l'aumône les actes de bonté personnels :
 
 > En trois points la bienfaisance est supérieure à l'aumône : — l'aumône n'est que le versement d'argent, mais la bienfaisance peut s'exercer aussi par un service personnel. L'aumône ne peut être donnée qu'aux pauvres, mais la bienfaisance peut se montrer non moins envers les riches. L'aumône se limite aux vivants, mais la bienfaisance peut s'étendre tant aux morts qu'aux vivants.
 
-<p class="ref">— Talmud de Babylone, Soukka 49b · d'après Hershon, 1880, trad. de la bibliothèque</p>
+<p class="ref">— Talmud de Babylone, Soukka 49b · trad. de travail d'après Hershon, 1880</p>
 
 ### Bouddhisme
+
+Le Bouddha range le don parmi les vertus les plus simples, à la portée de qui n'a presque rien :
 
 > Dites la vérité ; ne vous mettez point en colère ; donnez, à qui vous implore, du peu que vous avez. À ces trois conditions-là, vous vous approcherez des dieux.
 
@@ -815,7 +987,7 @@ Le statut du don diffère. Dans l'islam, l'aumône légale (*zakât*) est un pil
 
 ## 8. Honorer père et mère
 
-Le respect dû aux parents est sans doute le devoir le plus unanimement enseigné par les religions du monde. Dans la Bible comme dans le Coran, il suit immédiatement les devoirs envers Dieu ; dans les textes de l'Inde, les parents sont traités comme des divinités ou comme les plus dignes des maîtres.
+Le premier prochain, enfin, est celui qui nous a donné la vie. Le respect dû aux parents est sans doute le devoir le plus unanimement enseigné par les religions du monde. Dans la Bible comme dans le Coran, il suit immédiatement les devoirs envers Dieu ; dans les textes de l'Inde, les parents sont traités comme des divinités ou comme les plus dignes des maîtres.
 
 ### Hindouisme
 
@@ -835,6 +1007,8 @@ Au jour où l'élève quitte son maître après l'étude du Veda, celui-ci lui d
 
 ### Judaïsme
 
+Le Décalogue fait du respect des parents le premier des commandements qui regardent les hommes :
+
 > Honore ton père et ta mère, afin que tes jours se prolongent sur la terre que l'Éternel ton Dieu t'accordera.
 
 <p class="ref">— Exode 20, 12 · trad. Zadoc Kahn</p>
@@ -847,15 +1021,17 @@ Le Talmud explique pourquoi ce commandement touche à Dieu lui-même :
 
 > Les rabbins enseignent qu'il y a trois associés à la formation de l'homme : Dieu, le père et la mère.
 
-<p class="ref">— Talmud de Babylone, Nidda 31a · d'après Hershon, 1880, trad. de la bibliothèque (extrait)</p>
+<p class="ref">— Talmud de Babylone, Nidda 31a · trad. de travail d'après Hershon, 1880 (extrait)</p>
 
 Et le modèle de piété filiale qu'il propose est, fait remarquable, un non-juif :
 
 > On demanda un jour à Rav Oulla : « Jusqu'à quel point est-on tenu d'honorer son père et sa mère ? » Ce à quoi il répondit : « Voyez ce que fit un jour un Gentil d'Ascalon, Dammah ben Nethina de son nom. Les sages avaient un jour besoin de marchandises d'une valeur de soixante myriades, qu'ils étaient prêts à payer au prix demandé, mais la clef du magasin se trouvait justement sous l'oreiller de son père, profondément endormi, et Dammah ne voulut pas le déranger. »
 
-<p class="ref">— Talmud de Babylone, Qiddouchin 31a · d'après Hershon, 1880, trad. de la bibliothèque</p>
+<p class="ref">— Talmud de Babylone, Qiddouchin 31a · trad. de travail d'après Hershon, 1880</p>
 
 ### Bouddhisme
+
+Le Bouddha, qui avait pourtant quitté sa famille pour chercher l'Éveil, enseigne que la dette envers les parents ne s'éteint jamais :
 
 > Moines, il est deux personnes, je le déclare, qu'on ne peut jamais payer de retour. Lesquelles ? La mère et le père. Même si l'on portait sa mère sur une épaule et son père sur l'autre, et qu'on vécût ainsi cent ans […], on ne pourrait pas payer de retour ses parents. […] Pourquoi cela ? Moines, les parents font beaucoup pour leurs enfants : ils les élèvent, ils les nourrissent, ils les introduisent dans ce monde.
 
@@ -873,6 +1049,8 @@ Dans l'enseignement qu'il donne au jeune laïc Sigâla, le Bouddha décrit des d
 
 ### Christianisme
 
+L'apôtre Paul reprend le commandement de Moïse et en souligne la promesse :
+
 > Enfants, obéissez à vos parents, selon le Seigneur, car cela est juste. Honore ton père et ta mère (c'est le premier commandement avec une promesse), afin que tu sois heureux et que tu vives longtemps sur la terre. Et vous, pères, n'irritez pas vos enfants, mais élevez-les en les corrigeant et en les instruisant selon le Seigneur.
 
 <p class="ref">— Éphésiens 6, 1-4 · trad. Segond, 1910</p>
@@ -884,6 +1062,8 @@ Jésus reproche à certains de ses contemporains de s'être dispensés, sous pr�
 <p class="ref">— Matthieu 15, 3-4 · trad. Segond, 1910</p>
 
 ### Islam
+
+Le Coran, comme la Bible, place les parents juste après Dieu :
 
 > Dieu a ordonné de n'adorer que lui, de tenir une belle conduite envers vos père et mère, soit que l'un d'eux ait atteint la vieillesse ou qu'ils y soient parvenus tous deux, et qu'ils restent avec vous. Garde-toi de leur montrer du mépris, de leur faire des reproches. Parle-leur avec respect.
 >
@@ -915,7 +1095,7 @@ Certaines traditions insistent sur la **réciprocité** : Paul demande aux père
 
 ## 9. La vérité et la parole juste
 
-Le mensonge, la calomnie et la médisance sont condamnés partout. Mais plusieurs traditions vont plus loin et font de la parole un domaine spirituel à part entière : la langue peut bénir ou détruire, et celui qui la maîtrise se maîtrise tout entier.
+Des devoirs envers les autres, on passe à la discipline de soi, et d'abord à celle de la parole. Le mensonge, la calomnie et la médisance sont condamnés partout. Mais plusieurs traditions vont plus loin et font de la parole un domaine spirituel à part entière : la langue peut bénir ou détruire, et celui qui la maîtrise se maîtrise tout entier.
 
 ### Hindouisme
 
@@ -939,6 +1119,8 @@ La devise de la République indienne est tirée d'une Upanishad :
 
 ### Judaïsme
 
+La Bible hébraïque condamne le mensonge comme une offense faite à Dieu même :
+
 > L'Éternel a horreur des lèvres mensongères ; mais il aime ceux qui agissent avec loyauté.
 
 <p class="ref">— Proverbes 12, 22 · trad. Zadoc Kahn</p>
@@ -955,7 +1137,7 @@ Le Talmud appelle la calomnie « la troisième langue », parce qu'elle fait tro
 
 > La troisième langue (c'est-à-dire la calomnie) blesse trois parties : le calomniateur lui-même, celui qui reçoit la calomnie, et la personne calomniée.
 
-<p class="ref">— Talmud de Babylone, Arakhin 15b · d'après Hershon, 1880, trad. de la bibliothèque</p>
+<p class="ref">— Talmud de Babylone, Arakhin 15b · trad. de travail d'après Hershon, 1880</p>
 
 ### Bouddhisme
 
@@ -971,6 +1153,8 @@ La « parole juste » est le troisième membre du Noble Sentier octuple, et le B
 
 ### Christianisme
 
+Jésus demande une parole si droite qu'elle n'ait plus besoin de serment :
+
 > Que votre parole soit oui, oui, non, non; ce qu'on y ajoute vient du malin.
 
 <p class="ref">— Matthieu 5, 37 · trad. Segond, 1910</p>
@@ -984,6 +1168,8 @@ La « parole juste » est le troisième membre du Noble Sentier octuple, et le B
 <p class="ref">— Jacques 3, 5-6 et 9-10 · trad. Segond, 1910</p>
 
 ### Islam
+
+Le Coran fait de la parole droite un commandement adressé à tous les croyants :
 
 > O croyants ! craignez le Seigneur ; parlez avec droiture.
 
@@ -1017,7 +1203,7 @@ Les textes ne mettent pas la limite au même endroit. Les Lois de Manou demanden
 
 ## 10. L'honnêteté et la justice
 
-« Tu ne voleras point » : l'interdit figure dans le Décalogue, parmi les cinq préceptes du bouddhisme, dans les listes de devoirs de l'hindouisme. Mais les textes ne s'arrêtent pas au vol à main armée. Ils visent la balance faussée du marchand, la mesure rognée, le dépôt non rendu — la malhonnêteté ordinaire, celle que chacun peut commettre sans se croire voleur.
+Après la parole, les actes : la vérité qu'on doit aux mots, on la doit aussi aux choses. « Tu ne voleras point » : l'interdit figure dans le Décalogue, parmi les cinq préceptes du bouddhisme, dans les listes de devoirs de l'hindouisme. Mais les textes ne s'arrêtent pas au vol à main armée. Ils visent la balance faussée du marchand, la mesure rognée, le dépôt non rendu — la malhonnêteté ordinaire, celle que chacun peut commettre sans se croire voleur.
 
 ### Hindouisme
 
@@ -1035,6 +1221,8 @@ Les Yoga-sûtra de Patañjali font de ces mêmes interdits la première marche d
 
 ### Judaïsme
 
+Le Lévitique énumère avec précision les formes du vol, jusqu'aux plus discrètes :
+
 > Vous ne commettrez point de vol, point de dénégation ni de fraude au préjudice de votre prochain.
 
 <p class="ref">— Lévitique 19, 11 · trad. Zadoc Kahn</p>
@@ -1051,6 +1239,8 @@ Selon le Talmud, la première question posée à l'homme devant le tribunal cél
 
 ### Bouddhisme
 
+Le deuxième précepte bouddhiste interdit de prendre ce qui n'a pas été donné, et jusqu'à l'approuver chez autrui :
+
 > Que le disciple s'abstienne de prendre, en quelque lieu que ce soit, quoi que ce soit qui ne lui a pas été donné, sachant (que cela appartient à autrui) ; qu'il ne fasse prendre personne, qu'il n'approuve pas ceux qui prennent ; qu'il évite toute (sorte de) vol.
 
 <p class="ref">— Dhammika Sutta, Sutta Nipâta 394 · trad. de travail d'après Fausböll, 1881</p>
@@ -1064,6 +1254,8 @@ Le Dhammapada rassemble en deux strophes les manquements aux cinq préceptes, et
 <p class="ref">— Dhammapada 246-247 · trad. Hû, 1878</p>
 
 ### Christianisme
+
+Paul change l'interdit en devoir : le voleur repenti doit travailler pour donner à son tour :
 
 > Que celui qui dérobait ne dérobe plus; mais plutôt qu'il travaille, en faisant de ses mains ce qui est bien, pour avoir de quoi donner à celui qui est dans le besoin.
 
@@ -1080,6 +1272,8 @@ Jean-Baptiste, qui prépare la venue de Jésus, donne à chacun une consigne de 
 <p class="ref">— Romains 13, 9-10 · trad. Segond, 1910</p>
 
 ### Islam
+
+Le Coran, né dans une ville de marchands, maudit la balance truquée :
 
 > Malheur à ceux qui faussent la mesure ou le poids,
 >
@@ -1111,7 +1305,7 @@ Les accents diffèrent : le bouddhisme interdit non seulement de prendre, mais d
 
 ## 11. La maîtrise de soi : le jeûne, les désirs, la colère
 
-Toutes les traditions voient dans l'homme livré à ses appétits et à ses colères un être qui n'est pas libre. Toutes proposent une discipline pour reprendre les rênes : le jeûne, la tempérance, la vigilance. Et plusieurs disent, presque dans les mêmes termes, que la victoire sur soi est la plus grande de toutes.
+On ne vole ni ne ment quand on est maître de soi : les Écritures remontent du vice à sa racine, le désir sans frein. Toutes les traditions voient dans l'homme livré à ses appétits et à ses colères un être qui n'est pas libre. Toutes proposent une discipline pour reprendre les rênes : le jeûne, la tempérance, la vigilance. Et plusieurs disent, presque dans les mêmes termes, que la victoire sur soi est la plus grande de toutes.
 
 ### Hindouisme
 
@@ -1149,6 +1343,8 @@ Le seul jeûne prescrit par la Torah est celui du jour des Expiations. Mais le p
 
 ### Bouddhisme
 
+Le Dhammapada le dit par une image de guerrier :
+
 > On aurait beau, dans une rencontre, vaincre des milliers et des milliers d'hommes : se vaincre soi tout seul est la plus glorieuse des victoires.
 
 <p class="ref">— Dhammapada 103 · trad. Hû, 1878</p>
@@ -1160,6 +1356,8 @@ Le seul jeûne prescrit par la Torah est celui du jour des Expiations. Mais le p
 <p class="ref">— Dhammapada 221-222 · trad. Hû, 1878</p>
 
 ### Christianisme
+
+Jésus ne supprime pas le jeûne ; il demande qu'il reste un secret entre l'homme et Dieu :
 
 > Lorsque vous jeûnez, ne prenez pas un air triste, comme les hypocrites, qui se rendent le visage tout défait, pour montrer aux hommes qu'ils jeûnent. […] Mais quand tu jeûnes, parfume ta tête et lave ton visage, afin de ne pas montrer aux hommes que tu jeûnes, mais à ton Père qui est là dans le lieu secret; et ton Père, qui voit dans le secret, te le rendra.
 
@@ -1203,7 +1401,7 @@ Le jeûne est une obligation fixée dans l'islam (le mois de ramadan) et dans le
 
 ## 12. L'humilité
 
-L'orgueil est, dans chacune des cinq traditions, un obstacle majeur : il ferme l'homme à Dieu, aux autres et à la vérité sur lui-même. L'humilité n'y est pas une faiblesse, mais une lucidité — celle de l'homme qui voit la paille dans son œil avant de la chercher dans celui du voisin.
+La maîtrise de soi a un dernier adversaire, plus subtil que la faim ou la colère. L'orgueil est, dans chacune des cinq traditions, un obstacle majeur : il ferme l'homme à Dieu, aux autres et à la vérité sur lui-même. L'humilité n'y est pas une faiblesse, mais une lucidité — celle de l'homme qui voit la poutre dans son œil avant de chercher la paille dans celui du voisin.
 
 ### Hindouisme
 
@@ -1237,9 +1435,11 @@ Le Talmud explique pourquoi, dans les controverses, la loi a suivi l'école de H
 
 > Ses disciples étaient doux et patients, car tout en maintenant leurs propres décisions, ils exposaient aussi celles que soutenait l'école de Chammaï, et souvent même mentionnaient les positions de l'école de Chammaï en premier […]. Ceci nous enseigne que celui qui s'humilie, Dieu l'élèvera ; et celui qui s'élève, Dieu l'abaissera. Quiconque poursuit la grandeur, la grandeur le fuira ; et quiconque fuit la grandeur, la grandeur le poursuivra.
 
-<p class="ref">— Talmud de Babylone, Érouvin 13b · d'après Hershon, 1880, trad. de la bibliothèque (extrait)</p>
+<p class="ref">— Talmud de Babylone, Érouvin 13b · trad. de travail d'après Hershon, 1880 (extrait)</p>
 
 ### Bouddhisme
+
+Le Bouddha enseigne l'humilité par l'ironie :
 
 > Le sot qui sait qu'il est un sot, en cela du moins est un savant. Mais le sot qui se croit un savant, — de celui-là on dit : « c'est un sot. »
 
@@ -1255,9 +1455,15 @@ Le Talmud explique pourquoi, dans les controverses, la loi a suivi l'école de H
 
 ### Christianisme
 
+Les Béatitudes s'ouvrent sur les « pauvres en esprit » :
+
 > Heureux les pauvres en esprit, car le royaume des cieux est à eux!
 
 <p class="ref">— Matthieu 5, 3 · trad. Segond, 1910</p>
+
+> Pourquoi vois-tu la paille qui est dans l'œil de ton frère, et n'aperçois-tu pas la poutre qui est dans ton œil?
+
+<p class="ref">— Matthieu 7, 3 · trad. Segond, 1910</p>
 
 > Car quiconque s'élève sera abaissé, et quiconque s'abaisse sera élevé.
 
@@ -1268,6 +1474,8 @@ Le Talmud explique pourquoi, dans les controverses, la loi a suivi l'école de H
 <p class="ref">— Philippiens 2, 3 · trad. Segond, 1910</p>
 
 ### Islam
+
+Le Coran reconnaît les serviteurs de Dieu à leur démarche :
 
 > Les serviteurs du Miséricordieux sont ceux qui marchent avec modestie sur cette terre, et qui disent : PAIX A VOUS, aux ignorants qui leur adressent la parole.
 
@@ -1293,7 +1501,7 @@ L'orgueil est partout l'ennemi. Toutes les traditions demandent de **marcher ave
 
 #### Ce qui nuance
 
-L'humilité chrétienne a un modèle unique : l'abaissement de Dieu lui-même en Jésus, qui « s'est dépouillé lui-même ». Dans l'hindouisme, l'orgueil est l'*ahankâra*, le sentiment d'être un « moi » séparé, que le sage abandonne. Dans le bouddhisme, il est l'un des liens qui enchaînent au cycle des renaissances, et sa racine est l'illusion d'un soi permanent.
+L'humilité chrétienne a un modèle unique : l'abaissement de Dieu lui-même en Jésus, qui « s'est dépouillé lui-même » (Philippiens 2, 7). Dans l'hindouisme, l'orgueil est l'*ahankâra*, le sentiment d'être un « moi » séparé, que le sage abandonne. Dans le bouddhisme, il est l'un des liens qui enchaînent au cycle des renaissances, et sa racine est l'illusion d'un soi permanent.
 
 </div>
 
@@ -1303,7 +1511,7 @@ L'humilité chrétienne a un modèle unique : l'abaissement de Dieu lui-même en
 
 ## 13. La prière et la méditation
 
-On prie Dieu dans les religions nées d'Abraham, on médite dans le bouddhisme, on fait l'un et l'autre dans l'hindouisme. Les gestes et les mots diffèrent, et la différence est réelle : la prière s'adresse à quelqu'un, la méditation bouddhiste ne s'adresse à personne. Mais tous ces exercices ont un point commun frappant : ils visent à rassembler un esprit dispersé, et plusieurs textes demandent qu'ils se fassent dans le secret, loin du regard des autres.
+L'humilité ouvre la porte de la vie intérieure, et la première de ses pratiques est la prière. On prie Dieu dans les religions nées d'Abraham, on médite dans le bouddhisme, on fait l'un et l'autre dans l'hindouisme. Les gestes et les mots diffèrent, et la différence est réelle : la prière s'adresse à quelqu'un, la méditation que décrit le canon bouddhiste ancien ne s'adresse à personne — le Grand Véhicule, lui, connaît aussi des prières adressées aux bouddhas. Mais tous ces exercices ont un point commun frappant : ils visent à rassembler un esprit dispersé, et plusieurs textes demandent qu'ils se fassent dans le secret, loin du regard des autres.
 
 ### Hindouisme
 
@@ -1347,6 +1555,8 @@ Les sages mettent en garde contre la prière devenue routine :
 
 ### Bouddhisme
 
+Le bouddhisme ne prie pas un Dieu, mais il demande une vigilance de chaque instant :
+
 > La vigilance est le chemin qui mène à l'affranchissement de la mort, la négligence celui qui mène à la mort. Les hommes vigilants ne meurent pas, les négligents sont déjà comme des morts.
 
 <p class="ref">— Dhammapada 21 · trad. Hû, 1878</p>
@@ -1362,6 +1572,8 @@ Le discours sur l'attention présente la méditation comme la voie de la purific
 <p class="ref">— Mahâsatipaṭṭhâna Sutta, Dîgha Nikâya II, 290 · trad. de travail d'après T. W. et C. A. F. Rhys Davids, 1910</p>
 
 ### Christianisme
+
+Jésus enseigne la prière dans le secret, puis donne à ses disciples les mots mêmes de leur prière :
 
 > Lorsque vous priez, ne soyez pas comme les hypocrites, qui aiment à prier debout dans les synagogues et aux coins des rues, pour être vus des hommes. Je vous le dis en vérité, ils reçoivent leur récompense. Mais quand tu pries, entre dans ta chambre, ferme ta porte, et prie ton Père qui est là dans le lieu secret; et ton Père, qui voit dans le secret, te le rendra.
 
@@ -1417,13 +1629,13 @@ Toutes les traditions demandent de **rassembler l'esprit** et de se tourner vers
 
 #### Ce qui nuance
 
-La différence est réelle : la prière s'adresse à **quelqu'un**, la méditation bouddhiste ne s'adresse à personne. L'hindouisme connaît les deux, l'hymne au dieu et la méditation silencieuse sur le Soi. Les formes varient aussi : cinq prières rituelles à heures fixes dans l'islam, trois offices quotidiens dans le judaïsme, « priez sans cesse » chez Paul, établissement de l'attention dans le bouddhisme.
+La différence est réelle : la prière s'adresse à **quelqu'un**, la méditation du canon bouddhiste ancien ne s'adresse à personne. L'hindouisme connaît les deux, l'hymne au dieu et la méditation silencieuse sur le Soi. Les formes varient aussi : cinq prières rituelles à heures fixes dans l'islam, trois offices quotidiens dans le judaïsme, « priez sans cesse » chez Paul, établissement de l'attention dans le bouddhisme.
 
 </div>
 
 ## 14. Le cœur et l'intention
 
-Voici peut-être la convergence la plus profonde. Les cinq traditions refusent de juger l'homme sur l'apparence de ses actes et de ses rites : ce qui compte, disent-elles, c'est le cœur, l'esprit, l'intention d'où ils procèdent. Le geste religieux accompli sans pureté intérieure ne vaut rien ; le plus humble geste offert d'un cœur droit vaut beaucoup.
+Prier ou méditer, c'est se tourner vers le dedans ; c'est là aussi que les Écritures placent la valeur des actes. Les cinq traditions refusent de juger l'homme sur l'apparence de ses actes et de ses rites : ce qui compte, disent-elles, c'est le cœur, l'esprit, l'intention d'où ils procèdent. Le geste religieux accompli sans pureté intérieure ne vaut rien ; le plus humble geste offert d'un cœur droit vaut beaucoup.
 
 ### Hindouisme
 
@@ -1481,6 +1693,8 @@ Le Dhammapada s'ouvre sur cette affirmation, que la tradition tient pour le fond
 
 ### Christianisme
 
+Jésus promet la vision de Dieu au cœur pur, et place dans le cœur la source du bien comme du mal :
+
 > Heureux ceux qui ont le cœur pur, car ils verront Dieu!
 
 <p class="ref">— Matthieu 5, 8 · trad. Segond, 1910</p>
@@ -1531,7 +1745,7 @@ Le judaïsme et l'islam maintiennent une loi rituelle précise, tout en exigeant
 
 ## 15. Le détachement et l'impermanence
 
-Tout passe : la richesse, la santé, la vie même. Les cinq traditions le rappellent avec une insistance qui n'a rien de morbide. Il ne s'agit pas de mépriser le monde, mais de ne pas s'y enchaîner — de placer son « trésor » là où il ne peut être ni volé ni détruit.
+Un cœur pur est aussi un cœur libre de ce qui passe. Or tout passe : la richesse, la santé, la vie même. Les cinq traditions le rappellent avec une insistance qui n'a rien de morbide. Il ne s'agit pas de mépriser le monde, mais de ne pas s'y enchaîner — de placer son « trésor » là où il ne peut être ni volé ni détruit.
 
 ### Hindouisme
 
@@ -1550,6 +1764,8 @@ Le cœur de l'enseignement de la Gîtâ est l'action sans attachement à ses fru
 <p class="ref">— Îśâ Upanishad 1 · trad. de travail d'après Müller, 1879</p>
 
 ### Judaïsme
+
+Le seul psaume que la tradition attribue à Moïse médite sur la brièveté de la vie :
 
 > La durée de notre vie est de soixante-dix ans, et, à la rigueur, de quatre-vingts ans ; et tout leur éclat n'est que peine et misère. Car bien vite le fil en est coupé, et nous nous envolons. […] Apprends-nous donc à compter nos jours, pour que nous acquérions un cœur ouvert à la sagesse.
 
@@ -1589,6 +1805,8 @@ Ce furent aussi les dernières paroles du Bouddha :
 
 ### Christianisme
 
+Jésus oppose les trésors de la terre à ceux du ciel :
+
 > Ne vous amassez pas des trésors sur la terre, où la teigne et la rouille détruisent, et où les voleurs percent et dérobent; mais amassez-vous des trésors dans le ciel, où la teigne et la rouille ne détruisent point, et où les voleurs ne percent ni ne dérobent. Car là où est ton trésor, là aussi sera ton cœur.
 
 <p class="ref">— Matthieu 6, 19-21 · trad. Segond, 1910</p>
@@ -1606,6 +1824,8 @@ Ce furent aussi les dernières paroles du Bouddha :
 <p class="ref">— Jacques 4, 14 · trad. Segond, 1910</p>
 
 ### Islam
+
+Le Coran compare la vie de ce monde à l'herbe que la pluie fait lever et que le vent disperse :
 
 > Propose-leur la parabole de la vie de ce monde. Elle ressemble à l'eau que nous faisons descendre du ciel, les plantes de la terre se mêlent à elle ; le lendemain elles sont sèches ; les vents les dispersent. Car Dieu est tout-puissant.
 >
@@ -1643,11 +1863,11 @@ Le détachement n'est pas la fuite du monde. La Gîtâ exige d'**agir**, en reno
 
 # Sixième partie — La destinée
 
-<p class="part-intro">Que deviennent nos actes, et que devenons-nous ? Sur la loi qui lie l'acte à son fruit, les cinq voix parlent presque ensemble. Sur ce qui attend l'homme au-delà de la mort, elles commencent à se séparer.</p>
+<p class="part-intro">Que deviennent nos actes, et que devenons-nous ? Sur la loi qui lie l'acte à son fruit, les cinq voix parlent presque ensemble. Sur ce qui attend l'homme au-delà de la mort, elles commencent à se séparer. Et dans chacune, des mystiques affirment qu'on peut en goûter quelque chose dès ici-bas.</p>
 
 ## 16. Les actes et leurs fruits
 
-Rien de ce que l'homme fait n'est perdu. Cette conviction traverse les cinq traditions : le bien et le mal portent leurs fruits, et nul ne peut échapper à ce qu'il a semé. L'image agricole revient d'un texte à l'autre. Mais qui fait mûrir la récolte ? Un Dieu qui juge, pour les religions nées d'Abraham ; une loi impersonnelle, le karma, pour celles de l'Inde.
+Si tout passe, nos actes, eux, demeurent : rien de ce que l'homme fait n'est perdu. Cette conviction traverse les cinq traditions : le bien et le mal portent leurs fruits, et nul ne peut échapper à ce qu'il a semé. L'image agricole revient d'un texte à l'autre. Mais qui fait mûrir la récolte ? Un Dieu qui juge, pour les religions nées d'Abraham ; une loi impersonnelle, le karma, pour celles de l'Inde.
 
 ### Hindouisme
 
@@ -1669,6 +1889,8 @@ Et le bien accompli n'est jamais perdu, même par celui qui n'a pas atteint la p
 
 ### Judaïsme
 
+Les prophètes d'Israël rappellent que Dieu voit jusqu'au fond des cœurs, et qu'il rend à chacun selon ses œuvres :
+
 > Moi, l'Éternel, moi je scrute les cœurs, je sonde les reins, je sais payer chacun selon ses voies, selon le fruit de ses œuvres.
 
 <p class="ref">— Jérémie 17, 10 · trad. Zadoc Kahn</p>
@@ -1689,6 +1911,8 @@ Contre un proverbe qui faisait payer aux enfants les fautes des pères, le proph
 
 ### Bouddhisme
 
+Le Dhammapada affirme qu'aucun lieu au monde ne permet d'échapper à ses actes :
+
 > Il n'existe point en ce monde, ni dans l'air, au milieu de l'océan, ni dans les profondeurs des montagnes, d'endroit où l'on puisse se débarrasser du mal qu'on a fait.
 
 <p class="ref">— Dhammapada 127 · trad. Hû, 1878</p>
@@ -1703,6 +1927,8 @@ Contre un proverbe qui faisait payer aux enfants les fautes des pères, le proph
 
 ### Christianisme
 
+Paul reprend l'image du semeur et de la moisson :
+
 > Ne vous y trompez pas: on ne se moque pas de Dieu. Ce qu'un homme aura semé, il le moissonnera aussi. Celui qui sème pour sa chair moissonnera de la chair la corruption; mais celui qui sème pour l'Esprit moissonnera de l'Esprit la vie éternelle.
 
 <p class="ref">— Galates 6, 7-8 · trad. Segond, 1910</p>
@@ -1716,6 +1942,8 @@ Contre un proverbe qui faisait payer aux enfants les fautes des pères, le proph
 <p class="ref">— 2 Corinthiens 5, 10 · trad. Segond, 1910</p>
 
 ### Islam
+
+Le Coran pèse les actes jusqu'au poids d'un atome :
 
 > Celui qui aura fait le bien du poids d'un atome le verra,
 >
@@ -1741,15 +1969,17 @@ Aucun acte n'est perdu. « Ce qu'un homme aura semé, il le moissonnera aussi »
 
 #### Ce qui nuance
 
-Qui fait mûrir la récolte, et quand ? Pour le judaïsme, le christianisme et l'islam, c'est **Dieu qui juge**, au terme d'une vie unique. Pour l'hindouisme et le bouddhisme, c'est une **loi impersonnelle**, le karma, qui agit de vie en vie. Le christianisme tient ce jugement ensemble avec la **grâce**, qui sauve au-delà des mérites ; l'islam, avec la miséricorde de Dieu ; la Gîtâ, avec la dévotion qui délivre « du lien des œuvres ».
+Qui fait mûrir la récolte, et quand ? Pour le judaïsme, le christianisme et l'islam, c'est **Dieu qui juge**, au terme d'une vie unique. Pour l'hindouisme et le bouddhisme, c'est une **loi impersonnelle**, le karma, qui agit de vie en vie. Le christianisme tient ce jugement ensemble avec la **grâce**, qui sauve au-delà des mérites ; l'islam, avec la miséricorde de Dieu ; la Gîtâ, avec la dévotion qui délivre l'homme des liens de ses actes.
 
 </div>
 
 ## 17. La mort et ce qui la suit
 
-Aucune tradition n'élude la mort. Toutes demandent de s'y préparer, et toutes affirment que la mort n'a pas le dernier mot. Mais ce qu'elles espèrent au-delà n'est pas la même chose : la résurrection et la vie avec Dieu pour les unes, la délivrance du cycle des renaissances pour les autres. C'est ici que la convergence des textes touche sa limite, et que commence la dernière partie de ce livre.
+Reste la dernière échéance, celle où les actes trouvent leur fruit. Aucune tradition n'élude la mort. Toutes demandent de s'y préparer, et toutes affirment que la mort n'a pas le dernier mot. Mais ce qu'elles espèrent au-delà n'est pas la même chose : la résurrection et la vie avec Dieu pour les unes, la délivrance du cycle des renaissances pour les autres. C'est ici que la convergence des Écritures touche sa limite ; le chapitre suivant écoute ceux qui ont voulu goûter ce terme dès cette vie.
 
 ### Hindouisme
+
+Sur le champ de bataille, Krishna console Arjuna, qui redoute de donner la mort à ses proches :
 
 > Comme l'on quitte des vêtements usés pour en prendre de nouveaux, ainsi l'Âme quitte les corps usés pour revêtir de nouveaux corps.
 
@@ -1789,6 +2019,8 @@ Les sages de la Mishna invitent à vivre cette vie comme une préparation :
 
 ### Bouddhisme
 
+Le Dhammapada rappelle que personne ne protège de la mort :
+
 > Des enfants, un père, des alliés ne sont point une protection ; des parents ne sont point une protection contre les atteintes de la mort.
 
 <p class="ref">— Dhammapada 288 · trad. Hû, 1878</p>
@@ -1803,6 +2035,8 @@ Les sages de la Mishna invitent à vivre cette vie comme une préparation :
 
 ### Christianisme
 
+Devant le tombeau de son ami Lazare, Jésus parle à Marthe de la résurrection :
+
 > Jésus lui dit: Je suis la résurrection et la vie. Celui qui croit en moi vivra, quand même il serait mort; et quiconque vit et croit en moi ne mourra jamais. Crois-tu cela?
 
 <p class="ref">— Jean 11, 25-26 · trad. Segond, 1910</p>
@@ -1816,6 +2050,8 @@ Les sages de la Mishna invitent à vivre cette vie comme une préparation :
 <p class="ref">— Apocalypse 21, 4 · trad. Segond, 1910</p>
 
 ### Islam
+
+Le Coran rappelle que nul n'échappe à la mort, et place la vraie récompense au-delà :
 
 > Toute âme goûtera le breuvage de la mort. Vous recevrez vos récompenses au jour de la résurrection. Celui qui aura évité le feu et qui entrera dans le paradis, celui-là sera bienheureux, car la vie d'ici-bas n'est qu'une jouissance trompeuse.
 
@@ -1849,21 +2085,135 @@ C'est ici que les chemins se séparent le plus nettement. Le christianisme et l'
 
 </div>
 
+## 18. L'expérience des mystiques : la nuée et la lumière
+
+Les Écritures parlent d'un Dieu qu'on ne voit pas, d'un Absolu qu'aucun nom n'enferme, d'un « non-né » que l'on n'atteint qu'au terme du chemin. Dans chacune des cinq traditions, des hommes ont affirmé qu'on pouvait en goûter quelque chose dès cette vie : on les appelle les mystiques. Leurs livres ne sont pas des Écritures, et leurs propres communautés les ont parfois tenus pour suspects. Mais tous racontent une expérience, et pour la dire, venus de mondes qui s'ignoraient, ils recourent souvent aux mêmes images : la nuée, la lumière, le silence des mots.
+
+### Hindouisme
+
+Kabîr, tisserand de Bénarès au XV<sup>e</sup> siècle, chantait en hindi pour le peuple. Les hindous le tiennent pour un saint de la dévotion (*bhakti*), les musulmans pour l'un des leurs, et ses vers sont entrés dans le livre saint des sikhs. Il cherche Dieu ailleurs que dans les lieux où on l'enferme :
+
+> Ô serviteur, où me cherches-tu ? Vois : je suis à côté de toi. Je ne suis ni dans le temple ni dans la mosquée ; je ne suis ni à la Kaaba ni au Kailash ; je ne suis ni dans les rites et les cérémonies, ni dans le yoga et le renoncement. Si tu es un vrai chercheur, tu me verras aussitôt : tu me rencontreras en un instant. Kabîr dit : « Ô sâdhou ! Dieu est le souffle de tout souffle. »
+
+<p class="ref">— Kabîr, *Chants*, I · trad. de travail d'après Tagore, 1915. Le Kailash est la montagne sacrée de Shiva ; la Kaaba, le sanctuaire de La Mecque.</p>
+
+> Si Dieu est dans la mosquée, à qui donc appartient ce monde ? Si Râm est dans l'image que tu trouves au bout de ton pèlerinage, qui donc sait ce qui se passe au-dehors ? Hari est à l'Orient, Allah est à l'Occident. Regarde dans ton cœur : tu y trouveras et Karîm et Râm. Tous les hommes et toutes les femmes du monde sont ses formes vivantes. Kabîr est l'enfant d'Allah et de Râm : il est mon gourou, il est mon pîr.
+
+<p class="ref">— Kabîr, *Chants*, LXIX · trad. de travail d'après Tagore, 1915. Râm et Hari sont des noms hindous de Dieu, Karîm (« le Généreux ») un nom musulman ; le pîr est le maître spirituel des soufis.</p>
+
+### Judaïsme
+
+À la fin du XII<sup>e</sup> siècle paraît en Provence le premier livre de la Kabbale. Son titre, *Sefer HaBahir*, signifie « le Livre de la Clarté », et il s'ouvre sur l'énigme d'une lumière que l'on ne voit pas :
+
+> Rabbi Nehounia ben HaQana a dit : Un verset dit : « Et maintenant on ne voit pas la lumière ; elle est éclatante [*bahir*] dans les nuées. » Un autre verset dit : « Il a fait des ténèbres sa retraite », et encore : « Nuée et brume l'entourent. » Voilà une contradiction. Vient un troisième verset, qui tranche entre eux : « Même les ténèbres ne sont pas obscures pour toi ; la nuit brille comme le jour, les ténèbres sont comme la lumière. »
+
+<p class="ref">— Sefer HaBahir 1 · trad. de travail d'après l'hébreu. Versets cités : Job 37, 21 ; Psaume 18, 12 ; Psaume 97, 2 ; Psaume 139, 12.</p>
+
+Selon le même livre, la lumière du premier jour n'a pas disparu : Dieu l'a mise en réserve.
+
+> Il y eut deux grandes lumières, car il est dit : « et la lumière fut », et c'est des deux qu'il est dit : « que c'était bon ». Le Saint, béni soit-Il, prit l'une et la mit en réserve pour les justes, dans le temps à venir […]. Cela enseigne que la première lumière, nulle créature ne peut la regarder […].
+
+<p class="ref">— Sefer HaBahir 147 · trad. de travail d'après l'hébreu</p>
+
+### Bouddhisme
+
+Shantideva, moine de la grande université bouddhiste de Nâlandâ au VIII<sup>e</sup> siècle, a laissé un long poème sur la naissance et la croissance de la « pensée d'Éveil ». Il en décrit l'apparition par une image de nuit et d'orage :
+
+> De même qu'un éclair brille un instant dans l'obscurité de la nuit et des nuages, de même, par la grâce du Bouddha, il arrive que la pensée des hommes se tourne un instant vers le bien.
+
+<p class="ref">— Shantideva, *Bodhicaryâvatâra* I, 5 · trad. La Vallée Poussin, 1907</p>
+
+Au terme du chemin, la méditation du vide défait jusqu'aux idées qui servaient à l'atteindre. Selon une tradition que rapporte son traducteur, Shantideva, parvenu à cette stance, s'éleva dans les airs et disparut ; ses disciples n'entendirent plus que sa voix.
+
+> Mais quand on « assume » l'idée du vide, quand on s'en imprègne, l'idée d'existence disparaît ; et, plus tard, par l'habitude de cette pensée que « rien n'existe », l'idée du vide elle-même est éliminée. […] Et lorsque ni existence ni non-existence ne se présentent plus devant l'esprit, alors, n'ayant plus matière [à affirmer ou à nier] […], l'esprit s'apaise.
+
+<p class="ref">— Shantideva, *Bodhicaryâvatâra* IX, 33 et 35 · trad. La Vallée Poussin, 1907</p>
+
+### Christianisme
+
+À la fin du XIV<sup>e</sup> siècle, en Angleterre, un auteur resté anonyme écrit pour un jeune disciple *Le Nuage d'inconnaissance*. Entre Dieu et l'âme, dit-il, s'étend une nuée que la pensée ne perce pas :
+
+> Car de toutes les autres créatures et de leurs œuvres, et même des œuvres de Dieu, l'homme peut, par la grâce, avoir pleine connaissance, et il peut bien y penser ; mais à Dieu lui-même nul homme ne peut penser. C'est pourquoi je veux laisser tout ce à quoi je peux penser, et choisir pour mon amour ce à quoi je ne peux penser. Car il peut bien être aimé, mais non pensé. Par l'amour on peut le saisir et le tenir ; par la pensée, jamais. […] Frappe cette épaisse nuée d'inconnaissance d'un trait aigu d'amour ardent, et ne t'en éloigne pour rien de ce qui peut arriver.
+
+<p class="ref">— *Le Nuage d'inconnaissance*, chap. 6 · trad. de travail d'après l'édition d'Underhill, 1922</p>
+
+Pour percer cette nuée, il conseille une prière réduite à un seul mot :
+
+> Si tu veux avoir cette intention enveloppée et repliée en un seul mot, pour mieux t'y tenir, prends seulement un petit mot d'une syllabe […], car plus il est court, mieux il s'accorde avec l'œuvre de l'Esprit. Un tel mot est le mot *Dieu*, ou le mot *Amour* […]. Et attache ce mot à ton cœur, afin qu'il ne s'en éloigne jamais, quoi qu'il arrive.
+
+<p class="ref">— *Le Nuage d'inconnaissance*, chap. 7 · trad. de travail d'après l'édition d'Underhill, 1922. En anglais, *God* et *love* n'ont qu'une syllabe.</p>
+
+Deux siècles plus tard, en Espagne, Jean de la Croix résume en quelques vers le chemin du dépouillement :
+
+> Pour goûter tout, n'ayez du goût pour aucune chose. Pour savoir tout, désirez de ne rien savoir. Pour posséder tout, souhaitez de ne rien posséder. Pour être tout, ayez la volonté de n'être rien en toutes choses. […] C'est dans ce dénuement que l'esprit trouve son repos ; car, en ne désirant plus rien, il n'est attiré ni aux grandes, ni aux petites choses, parce qu'il est dans le centre de son humilité.
+
+<p class="ref">— Jean de la Croix, *La Montée du Carmel* I, 13 · trad. Maillard, éd. de 1834</p>
+
+Au début du XVII<sup>e</sup> siècle, Jacob Böhme, cordonnier de Görlitz, situe cette lumière au plus intime de l'âme, et la lie à l'amour :
+
+> […] dans l'esprit de l'âme, dans le centre intérieur, c'est la lumière de Dieu, laquelle cette même âme ne possède qu'autant qu'elle est dans l'amour de Dieu, car cette lumière ne peut être allumée et soufflée que par l'Esprit saint.
+
+<p class="ref">— Jacob Böhme, *Des trois principes de l'essence divine* II, 7 · trad. Saint-Martin, 1802</p>
+
+### Islam
+
+Ghazâlî, l'un des plus grands théologiens de l'islam sunnite, enseignait à Bagdad quand, en 1095, il abandonna sa chaire pour suivre la voie des soufis. Il raconte cette crise dans *Le Préservatif de l'erreur*. Le doute l'avait d'abord privé de toute certitude ; il dit en être sorti autrement que par le raisonnement :
+
+> Je dus ma guérison non à un assemblage de preuves et d'arguments, mais à la lumière que Dieu fit pénétrer dans mon cœur, lumière qui éclaire le seuil de toute science. Quiconque s'imagine que la certitude ne repose que sur des arguments amoindrit la miséricorde immense de Dieu.
+
+<p class="ref">— Ghazâlî, *Le Préservatif de l'erreur* · trad. Barbier de Meynard, 1877</p>
+
+Il découvre ensuite que la voie des soufis ne s'apprend pas dans les livres :
+
+> Le but que les Soufis se proposent est celui-ci : arracher l'âme au joug tyrannique des passions, la délivrer de ses penchants coupables et de ses mauvais instincts, afin que dans le cœur purifié il n'y ait place que pour Dieu et pour l'invocation de son saint nom. […] Il me fut démontré que son dernier terme ne pouvait être révélé par l'enseignement, mais seulement par le transport, l'extase et la transformation de l'être moral. Définir la santé et la satiété, en pénétrer les causes et les conditions, est autre chose que d'être bien portant et rassasié. Définir l'ivresse […] est autre chose que d'être ivre.
+
+<p class="ref">— Ghazâlî, *Le Préservatif de l'erreur* · trad. Barbier de Meynard, 1877. L'« invocation du nom » est le *dhikr*.</p>
+
+Mais il met aussitôt en garde contre les mots qui trahissent cette expérience :
+
+> […] ils s'élèvent successivement jusqu'à des degrés que le langage humain ne saurait faire comprendre, qu'il ne pourrait définir sans tomber dans de graves et inévitables erreurs. Le degré de proximité auquel ils parviennent est considéré par les uns comme la fusion de l'être, par les autres comme l'identification, par les autres comme l'union intime. Mais toutes ces expressions sont fausses […].
+
+<p class="ref">— Ghazâlî, *Le Préservatif de l'erreur* · trad. Barbier de Meynard, 1877</p>
+
+<div class="synthese" markdown="1">
+
+#### Ce qui converge
+
+Venus de traditions qui, pour la plupart, s'ignoraient, les mystiques décrivent la même expérience par les mêmes images. Le divin se cache dans la **nuée** et l'**obscurité** : la lumière « éclatante dans les nuées » du Bahir, l'« épaisse nuée d'inconnaissance », l'éclair « dans l'obscurité de la nuit et des nuages » de Shantideva. Il **échappe à la pensée** : « par la pensée, jamais » (le Nuage) ; « définir l'ivresse est autre chose que d'être ivre » (Ghazâlî) ; « ni existence ni non-existence » (Shantideva). Il ne se laisse pas enfermer dans les lieux saints : « ni dans le temple ni dans la mosquée », chante Kabîr. Et partout, c'est une **lumière dans le cœur** : « la lumière que Dieu fit pénétrer dans mon cœur » (Ghazâlî), « regarde dans ton cœur » (Kabîr), « la lumière de Dieu » au « centre intérieur » de l'âme (Böhme). Les chemins se ressemblent aussi : un **seul mot** répété, le mot *Dieu* ou *Amour* du Nuage, l'« invocation du saint nom » des soufis ; et le **dépouillement** : « pour posséder tout, souhaitez de ne rien posséder » (Jean de la Croix).
+
+#### Ce qui nuance
+
+Les mystiques ne disent pas pour autant qu'ils deviennent Dieu. Ghazâlî le refuse expressément : ceux qui parlent de « fusion », d'« identification » ou d'« union » se trompent. Le juif, le chrétien et le musulman restent créatures devant leur Créateur, même au plus près de lui, alors que l'hindouisme non dualiste parle d'identité avec l'Absolu. Le bouddhiste, lui, ne rencontre personne : l'esprit « s'apaise » quand tombent jusqu'aux idées d'existence et de non-existence. Enfin, les mystiques ont souvent inquiété leurs propres communautés : Kabîr moquait les rites des brahmanes comme ceux des docteurs de la Loi musulmans ; Jean de la Croix fut emprisonné par des frères de son propre ordre ; la Kabbale resta longtemps réservée à quelques initiés ; et Ghazâlî consacra une grande part de son œuvre à montrer que la voie des soufis ne dispense pas de la Loi.
+
+</div>
+
 # Septième partie — Ce qui les distingue
 
-<p class="part-intro">Les chapitres précédents ont montré des convergences réelles. Il serait malhonnête de s'arrêter là. Sur des questions essentielles, les cinq traditions ne disent pas la même chose, et chacune tient à ce qui la rend unique.</p>
+<p class="part-intro">Les chapitres précédents ont montré des convergences réelles. Il serait malhonnête de s'arrêter là. Sur des questions essentielles, les cinq traditions ne disent pas la même chose, et chacune tient à ce qui la rend unique. Ici encore, on laissera parler les textes : ceux où chaque tradition affirme ce que les autres n'affirment pas.</p>
 
 ## Un Dieu, plusieurs visages, ou pas de Dieu
 
-C'est la différence la plus profonde, et elle se trouve justement là où l'on croit souvent qu'elles se rejoignent.
+C'est la différence la plus radicale, et elle se trouve justement là où l'on croit souvent qu'elles se rejoignent.
 
 Le **judaïsme** et l'**islam** proclament un Dieu unique, personnel, créateur, absolument distinct de sa création, qu'aucune image ne peut représenter. Le Shema d'Israël et la sourate de l'Unicité le disent avec la même force : Dieu est un, il n'a ni égal ni associé.
 
-Le **christianisme** proclame lui aussi un Dieu unique, mais il le confesse en trois personnes, le Père, le Fils et le Saint-Esprit. Cette doctrine de la **Trinité**, formulée aux conciles de Nicée (325) et de Constantinople (381), est pour les chrétiens la manière même dont le Dieu unique s'est révélé. Pour le judaïsme, elle compromet l'unité de Dieu ; le Coran la rejette explicitement.
+Le **christianisme** proclame lui aussi un Dieu unique, mais il le confesse en trois personnes, le Père, le Fils et le Saint-Esprit. Cette doctrine de la **Trinité**, formulée aux conciles de Nicée (325) et de Constantinople (381), est pour les chrétiens la manière même dont le Dieu unique s'est révélé. Pour le judaïsme, elle compromet l'unité de Dieu ; le Coran la rejette explicitement :
 
-L'**hindouisme** tient ensemble ce que les autres séparent. Il vénère une multitude de divinités (Vishnou, Shiva, la Déesse, Ganesh…), mais la plupart de ses écoles les comprennent comme les visages d'une Réalité unique, **Brahman**. Selon les courants, cette Réalité est pensée comme impersonnelle, au-delà de tout attribut, ou comme un Dieu personnel que l'on aime et que l'on sert, tel Krishna dans la Bhagavad-Gîtâ. Le culte des images, que la Bible et le Coran interdisent, y est une forme légitime de dévotion.
+> Ô vous qui avez reçu les Écritures ! Dans votre religion, ne dépassez pas la juste mesure, ne dites de Dieu que ce qui est vrai. Le Messie, Jésus, fils de Marie, est l'apôtre de Dieu et son verbe qu'il jeta dans Marie ; il est un esprit venant de Dieu. Croyez donc en Dieu et à ses apôtres, et ne dites point : Il y a trinité. Cessez de le faire. Ceci vous sera plus avantageux ; car Dieu est unique. Gloire à lui ; comment aurait-il un fils ? […]
 
-Le **bouddhisme** enfin ne fonde pas sa voie sur un Dieu créateur. Le Bouddha a refusé de spéculer sur l'origine du monde, jugeant ces questions inutiles à la libération. Les dieux existent dans la cosmologie bouddhiste, mais ils sont eux-mêmes des êtres soumis à la naissance et à la mort. Ce que le bouddhisme appelle l'Ultime, le **Nirvâna**, n'est pas une personne que l'on prie : c'est l'extinction de la soif et de la souffrance.
+<p class="ref">— Coran 4, 171 [Kazimirski IV, 169] · trad. Kazimirski, 1869</p>
+
+L'**hindouisme** tient ensemble ce que les autres séparent. Il vénère une multitude de divinités (Vishnou, Shiva, la Déesse, Ganesh…), mais la plupart de ses écoles les comprennent comme les visages d'une Réalité unique, **Brahman**. Selon les courants, cette Réalité est pensée comme impersonnelle, au-delà de tout attribut, ou comme un Dieu personnel que l'on aime et que l'on sert, tel Krishna dans la Bhagavad-Gîtâ. Le culte des images, que la Bible hébraïque et le Coran interdisent, y est une forme légitime de dévotion. Et la Gîtâ accueille jusqu'au culte des autres dieux, mais en le subordonnant au sien :
+
+> Ceux même qui, pleins de foi, adorent d'autres divinités, m'honorent aussi, bien qu'en dehors de la règle antique : car c'est moi qui recueille et qui préside tous les Sacrifices ; mais ils ne me connaissent pas dans mon essence, et ils font une chute nouvelle.
+
+<p class="ref">— Bhagavad-Gîtâ IX, 23-24 · trad. Burnouf, 1861</p>
+
+Le **bouddhisme** enfin ne fonde pas sa voie sur un Dieu créateur. Le Bouddha a refusé de spéculer sur l'origine du monde, jugeant ces questions inutiles à la libération. À un disciple qui exigeait des réponses avant de suivre la voie, il oppose une parabole :
+
+> C'est comme si, Mâlunkyaputta, un homme avait été blessé par une flèche épaissement enduite de poison, et que ses amis et ses compagnons, ses parents et ses proches lui eussent procuré un médecin ou un chirurgien ; et que le blessé dît : « Je ne laisserai pas retirer cette flèche avant d'avoir appris si l'homme qui m'a blessé appartenait à la caste des guerriers, à celle des brahmanes, à celle des cultivateurs ou à celle des serviteurs. » […] Cet homme mourrait, Mâlunkyaputta, sans l'avoir jamais appris.
+
+<p class="ref">— Majjhima Nikâya 63 (Cûla-Mâlunkyâ Sutta) · trad. de travail d'après Warren, 1896</p> Les dieux existent dans la cosmologie bouddhiste, mais ils sont eux-mêmes des êtres soumis à la naissance et à la mort. Ce que le bouddhisme appelle l'Ultime, le **Nirvâna**, n'est pas une personne que l'on prie : c'est l'extinction de la soif et de la souffrance.
 
 Dire que « tous adorent le même Dieu » est donc inexact. On peut dire, plus justement, que tous orientent l'homme vers une réalité qui le dépasse et qui juge sa vie. Mais ils ne la nomment pas, ne la pensent pas et ne s'y rapportent pas de la même manière.
 
@@ -1893,13 +2243,29 @@ Le bouddhisme prend ici le contre-pied de tous les autres. Il enseigne l'**anatt
 
 Toutes les traditions proposent un chemin ; elles ne tracent pas le même.
 
-Le **judaïsme** est d'abord une manière de vivre dans l'alliance : l'observance des commandements de la Torah (la tradition en compte 613), le sabbat, l'étude, la prière, la justice envers le prochain. Il ne se soucie guère de convertir : les « justes des nations » qui observent les lois fondamentales de la morale ont part, selon le Talmud, au monde à venir.
+Le **judaïsme** est d'abord une manière de vivre dans l'alliance : l'observance des commandements de la Torah (la tradition en compte 613), le sabbat, l'étude, la prière, la justice envers le prochain. Il ne se soucie guère de convertir : les « justes des nations » qui observent les lois fondamentales de la morale ont part, selon la tradition rabbinique (Tosefta, Sanhédrin 13, 2), au monde à venir.
 
-Le **christianisme** met au centre la **grâce** : l'homme est sauvé non par ses seules œuvres, mais par la foi en Jésus-Christ, mort et ressuscité pour lui. Les bonnes œuvres sont le fruit de cette foi et non son prix. Les Églises se sont longtemps divisées sur la juste articulation de la foi et des œuvres.
+Le **christianisme** met au centre la **grâce** : l'homme est sauvé non par ses seules œuvres, mais par la foi en Jésus-Christ, mort et ressuscité pour lui. Les bonnes œuvres sont le fruit de cette foi et non son prix. Les Églises se sont longtemps divisées sur la juste articulation de la foi et des œuvres, mais toutes tiennent le Christ pour l'unique chemin :
 
-L'**islam** demande la foi en un Dieu unique et en son Prophète, et la pratique des **cinq piliers** : la profession de foi, la prière cinq fois par jour, l'aumône légale, le jeûne du mois de ramadan et le pèlerinage à La Mecque. Au jour du Jugement, Dieu pèse les actes, mais sa miséricorde surpasse sa colère.
+> Jésus lui dit: Je suis le chemin, la vérité, et la vie. Nul ne vient au Père que par moi.
 
-L'**hindouisme** reconnaît plusieurs voies, que la Bhagavad-Gîtâ rassemble : la voie de l'**action** accomplie sans attachement à ses fruits (*karma-yoga*), la voie de la **connaissance** (*jnâna-yoga*) et la voie de la **dévotion** amoureuse à Dieu (*bhakti-yoga*).
+<p class="ref">— Jean 14, 6 · trad. Segond, 1910</p>
+
+> Il n'y a de salut en aucun autre; car il n'y a sous le ciel aucun autre nom qui ait été donné parmi les hommes, par lequel nous devions être sauvés.
+
+<p class="ref">— Actes 4, 12 · trad. Segond, 1910</p>
+
+L'**islam** demande la foi en un Dieu unique et en son Prophète, et la pratique des **cinq piliers** : la profession de foi, la prière cinq fois par jour, l'aumône légale, le jeûne du mois de ramadan et le pèlerinage à La Mecque. Au jour du Jugement, Dieu pèse les actes, mais sa miséricorde surpasse sa colère. Et le Coran tient l'islam pour la religion que Dieu agrée :
+
+> Quiconque désire un autre culte que la résignation à la volonté de Dieu (*islam*), ce culte ne sera point reçu de lui, et il sera dans l'autre monde du nombre des malheureux.
+
+<p class="ref">— Coran 3, 85 [Kazimirski III, 79] · trad. Kazimirski, 1869</p>
+
+L'**hindouisme** reconnaît plusieurs voies, que la Bhagavad-Gîtâ rassemble : la voie de l'**action** accomplie sans attachement à ses fruits (*karma-yoga*), la voie de la **connaissance** (*jnâna-yoga*) et la voie de la **dévotion** amoureuse à Dieu (*bhakti-yoga*). Elle n'exclut aucun chemin, mais elle les ramène tous à son Dieu :
+
+> Car, selon que les hommes s'inclinent devant moi, de même aussi je les honore. Tous les hommes suivent ma voie, fils de Prithâ […].
+
+<p class="ref">— Bhagavad-Gîtâ IV, 11 · trad. Burnouf, 1861</p>
 
 Le **bouddhisme** enseigne les **Quatre Nobles Vérités** — la souffrance, son origine dans la soif, sa cessation, et le chemin qui y mène — et ce chemin est le **Noble Sentier octuple** : compréhension juste, intention juste, parole juste, action juste, moyens d'existence justes, effort juste, attention juste, concentration juste. Nul ne peut être sauvé par un autre : « Mettez-vous donc à l'œuvre avec ardeur. Les Tathâgatas se contentent de prêcher », dit le Dhammapada (v. 276, trad. Hû) — les Tathâgatas étant les Bouddhas.
 
@@ -1907,7 +2273,21 @@ Le **bouddhisme** enseigne les **Quatre Nobles Vérités** — la souffrance, so
 
 Aucune figure ne montre mieux ce qui relie et ce qui sépare les trois religions abrahamiques.
 
-Pour les **chrétiens**, Jésus est le Christ, le Fils de Dieu fait homme, crucifié et ressuscité. Pour le **judaïsme**, il n'est pas le Messie attendu : un Messie doit rétablir Israël et apporter la paix au monde, et le monde n'est pas en paix. Pour l'**islam**, Jésus (*'Îsâ*) est l'un des plus grands prophètes, né de la Vierge Marie par la volonté de Dieu, auteur de miracles, appelé « Messie » et « Parole de Dieu » par le Coran lui-même ; mais il n'est pas le Fils de Dieu, et le Coran affirme qu'il n'a été ni tué ni crucifié, mais élevé par Dieu (sourate 4, verset 157 de la numérotation usuelle).
+Pour les **chrétiens**, Jésus est le Christ, le Fils de Dieu fait homme, crucifié et ressuscité. C'est la question que l'Évangile pose lui-même :
+
+> Et vous, leur dit-il, qui dites-vous que je suis? Simon Pierre répondit: Tu es le Christ, le Fils du Dieu vivant.
+
+<p class="ref">— Matthieu 16, 15-16 · trad. Segond, 1910</p>
+
+> Et la parole a été faite chair, et elle a habité parmi nous, pleine de grâce et de vérité; et nous avons contemplé sa gloire, une gloire comme la gloire du Fils unique venu du Père.
+
+<p class="ref">— Jean 1, 14 · trad. Segond, 1910</p>
+
+Pour le **judaïsme**, il n'est pas le Messie attendu : un Messie doit rétablir Israël et apporter au monde la paix qu'annonçait Isaïe (« un peuple ne tirera plus l'épée contre un autre peuple », Isaïe 2, 4, cité au chapitre 5), et le monde n'est pas en paix. Pour l'**islam**, Jésus (*'Îsâ*) est l'un des plus grands prophètes, né de la Vierge Marie par la volonté de Dieu, auteur de miracles, appelé « Messie » et « Parole de Dieu » par le Coran lui-même ; mais il n'est pas le Fils de Dieu, et le Coran affirme qu'il n'a été ni tué ni crucifié, mais élevé par Dieu :
+
+> Ils disent : Nous avons mis à mort le Messie, Jésus fils de Marie, l'envoyé de Dieu. Non, ils ne l'ont point tué, ils ne l'ont point crucifié ; un homme qui lui ressemblait fut mis à sa place […]. Ils ne l'ont point tué réellement. Dieu l'a élevé à lui, et Dieu est puissant et sage.
+
+<p class="ref">— Coran 4, 157-158 [Kazimirski IV, 156] · trad. Kazimirski, 1869</p>
 
 Le même homme est ainsi, pour les uns, Dieu incarné, pour les autres un prophète vénéré, pour d'autres encore un maître juif de son temps. L'hindouisme l'a parfois accueilli comme un sage ou une manifestation divine parmi d'autres ; le bouddhisme n'a pas de doctrine le concernant.
 
@@ -1917,7 +2297,7 @@ Les convergences morales ne doivent pas faire oublier que chaque religion est au
 
 Le **judaïsme** et l'**islam** sont des religions de la Loi : ils règlent l'alimentation (la *cacherout*, le *halal*), le temps sacré (le sabbat du samedi, la prière du vendredi), la pureté rituelle, le droit de la famille. Le **christianisme** a très tôt renoncé à imposer la loi rituelle de Moïse aux non-juifs, et ne connaît guère d'interdits alimentaires, mais il a ses sacrements, au premier rang desquels le baptême et l'eucharistie.
 
-L'**hindouisme** a longtemps lié le devoir religieux, le *dharma*, à la naissance et à la caste. Le **bouddhisme**, dès l'origine, a contesté ce lien : le Bouddha accueillait des disciples de toutes conditions et enseignait que l'on n'est pas noble par la naissance, mais par les actes.
+L'**hindouisme** a longtemps lié le devoir religieux, le *dharma*, à la naissance et à la caste. Le **bouddhisme**, dès l'origine, a refusé de mesurer l'homme à sa naissance : le Bouddha accueillait des disciples de toutes conditions et enseignait que l'on n'est pas noble par la naissance, mais par les actes.
 
 Enfin, les religions n'ont pas le même rapport aux autres croyances. Certaines se sont voulues universelles et missionnaires, comme le christianisme et l'islam ; d'autres se transmettent d'abord par la naissance, comme le judaïsme et, pour une large part, l'hindouisme ; le bouddhisme s'est répandu dans toute l'Asie en s'adaptant aux cultures qu'il rencontrait. Leur histoire commune compte des siècles de coexistence paisible, et aussi des guerres. Les textes cités dans ce livre n'ont pas toujours été ceux que l'on a retenus.
 
@@ -1935,15 +2315,15 @@ Enfin, les religions n'ont pas le même rapport aux autres croyances. Certaines 
 
 # Conclusion — Des lampes différentes
 
-<p class="part-intro">Une image, souvent attribuée au poète persan Rûmî, dit que les lampes sont différentes, mais que la lumière est la même.</p>
+<p class="part-intro">Une image, souvent attribuée au poète persan Rûmî, dit que les lampes sont différentes, mais que la lumière est la même. Ce qu'est cette lumière, chaque tradition le dit à sa manière, et ce livre ne prétend pas trancher à sa place.</p>
 
 Au terme de ce parcours, que peut-on dire honnêtement ?
 
-D'abord, que les convergences ne sont pas une illusion. Elles ne relèvent pas d'une lecture complaisante qui aurait trié les textes pour les faire concorder : elles sont au cœur de chacune des cinq traditions, dans leurs textes les plus anciens et les plus lus. Qu'on ouvre le Mahâbhârata, le Lévitique, le Dhammapada, l'Évangile ou les recueils de hadiths, on y trouve la **Règle d'or** : ne pas faire à autrui ce que l'on ne voudrait pas subir, lui vouloir ce que l'on se veut à soi-même. On y trouve l'appel à la **compassion** envers tout être vivant, le devoir de **nourrir le pauvre** et d'accueillir l'étranger, l'exigence de **dire vrai**, le refus du vol, le combat contre la **colère** et l'**orgueil**, le prix du **pardon**. On y trouve l'idée que ce qui compte n'est pas l'apparence de l'acte, mais le **cœur** d'où il procède, et que nos actes nous suivent. On y trouve enfin, partout, la même invitation à ne pas s'attacher à ce qui passe.
+D'abord, que les convergences ne sont pas une illusion. Ce livre a choisi ses textes, comme toute anthologie, et il a laissé de côté bien des pages de guerre ou d'exclusion qui existent aussi dans chacune des cinq traditions. Mais il n'a pas eu à tordre ceux qu'il cite : ils sont au cœur de chaque tradition, parmi ses textes les plus anciens et les plus lus. Qu'on ouvre le Mahâbhârata, le Lévitique, le Dhammapada, l'Évangile ou les recueils de hadiths, on y trouve la **Règle d'or** : ne pas faire à autrui ce que l'on ne voudrait pas subir, lui vouloir ce que l'on se veut à soi-même. On y trouve l'appel à la **compassion** envers tout être vivant, le devoir de **nourrir le pauvre** et d'accueillir l'étranger, l'exigence de **dire vrai**, le refus du vol, le combat contre la **colère** et l'**orgueil**, le prix du **pardon**. On y trouve l'idée que ce qui compte n'est pas l'apparence de l'acte, mais le **cœur** d'où il procède, et que nos actes nous suivent. On y trouve enfin, partout, la même invitation à ne pas s'attacher à ce qui passe.
 
-Ensuite, que ces convergences se situent surtout sur un plan précis : celui de la **conduite** et de la **vie intérieure**. C'est là que les cinq voix se superposent presque. Dès qu'on remonte aux questions dernières — qui est Dieu, s'il existe ; d'où vient l'Écriture ; ce qu'est l'âme ; ce qui attend l'homme après la mort ; comment il est sauvé —, les chemins se séparent, et chacun y engage ce qu'il a de plus propre. La septième partie l'a montré : on ne peut pas faire d'un bouddhiste un monothéiste, ni d'un musulman un trinitaire, sans trahir l'un et l'autre.
+Ensuite, que ces convergences se situent surtout sur un plan précis : celui de la **conduite** et de la **vie intérieure**. C'est là que les cinq voix se superposent presque. Dès qu'on remonte aux questions dernières — qui est Dieu, s'il existe ; d'où vient l'Écriture ; ce qu'est l'âme ; ce qui attend l'homme après la mort ; comment il est sauvé —, les chemins se séparent, et chacun y engage ce qu'il a de plus propre. Les mystiques eux-mêmes, si proches dans leurs images, se séparent au moment de nommer ce qu'ils ont touché. La septième partie l'a montré : on ne peut pas faire d'un bouddhiste un monothéiste, ni d'un musulman un trinitaire, sans trahir l'un et l'autre.
 
-Ce constat n'a rien de décevant. Il dit quelque chose d'important : que des hommes et des femmes qui ne partagent ni la même foi, ni la même idée de Dieu, ni la même espérance, peuvent pourtant **reconnaître le même bien**. C'est cette intuition qui a conduit, en 1993 à Chicago, le Parlement des religions du monde à adopter une *Déclaration pour une éthique planétaire*, rédigée à l'initiative du théologien Hans Küng et fondée précisément sur la Règle d'or commune à toutes les traditions. Le principe en était simple : il n'y aura pas de paix entre les nations sans paix entre les religions, et pas de paix entre les religions sans dialogue.
+Ce constat n'a rien de décevant. Il dit quelque chose d'important : que des hommes et des femmes qui ne partagent ni la même foi, ni la même idée de Dieu, ni la même espérance, peuvent pourtant **reconnaître le même bien**. C'est cette intuition qui a conduit, en 1993 à Chicago, le Parlement des religions du monde à adopter une *Déclaration pour une éthique planétaire*, rédigée à l'initiative du théologien Hans Küng et fondée précisément sur la Règle d'or commune à toutes les traditions. Küng en avait résumé l'esprit quelques années plus tôt : pas de paix entre les nations sans paix entre les religions, et pas de paix entre les religions sans dialogue entre elles.
 
 Il y a peut-être une raison profonde à cette rencontre. Toutes ces traditions, chacune à sa façon, ont regardé en face les mêmes réalités humaines : la souffrance, la mort, la violence, le désir qui ne se rassasie jamais, la tentation de se croire le centre du monde. Et toutes ont conclu que l'homme ne trouve pas la paix en se servant lui-même, mais en se tournant vers plus grand que lui — que ce soit Dieu, l'Absolu ou l'Éveil — et vers son prochain.
 
@@ -1960,10 +2340,56 @@ Le lecteur croyant retrouvera dans ces pages sa propre tradition, et peut-être 
 | Hindouisme | Mahâbhârata XIII, section 113 | « Qu'on ne fasse jamais à autrui ce que l'on tient pour nuisible à soi-même. Voilà, en bref, la règle de la Justice. » | négative |
 | Judaïsme | Lévitique 19, 18 | « Aime ton prochain comme toi-même. » | positive |
 | Judaïsme | Talmud, Shabbat 31a (Hillel) | « Ce qui t'est odieux à toi-même, ne le fais pas à ton prochain. Ceci est toute la loi, et le reste en est le commentaire. » | négative |
+| Judaïsme | Livre des secrets d'Hénoch 61, 1 (apocryphe, I<sup>er</sup> s.) | « Comme un homme demande [le bien] pour son âme à Dieu, qu'il fasse de même pour toute âme vivante. » | positive |
 | Bouddhisme | Udânavarga V, 18 | « Puisque c'est la même chose qui t'est chère et qui est chère aux autres, ne blesse pas les autres par ce qui te fait souffrir toi-même. » | négative |
 | Bouddhisme | Dhammapada 129-130 | « Tout le monde tremble devant la violence, à tout le monde la vie est chère. […] qu'on ne tue point, qu'on ne fasse point tuer. » | négative |
+| Bouddhisme | Shantideva, *Bodhicaryâvatâra* VIII, 90 (VIII<sup>e</sup> s.) | « Ce qu'est la joie pour moi, elle l'est pour autrui ; ce qu'est la douleur pour moi, elle l'est pour autrui. Je dois faire pour autrui ce que je fais pour moi. » | positive |
 | Christianisme | Matthieu 7, 12 | « Tout ce que vous voulez que les hommes fassent pour vous, faites-le de même pour eux, car c'est la loi et les prophètes. » | positive |
 | Islam | Hadith, al-Bukhârî n° 13 | « Aucun de vous ne croit [vraiment] tant qu'il n'aime pas pour son frère ce qu'il aime pour lui-même. » | positive |
+
+## Une sixième lampe : le Tao Te King
+
+<p class="part-intro">Ce livre s'en est tenu à cinq traditions. La Chine ancienne en a porté une autre : le taoïsme, dont le texte fondateur, le <em>Tao Te King</em> ou « Livre de la Voie et de la Vertu », est attribué à Lao-tseu, un sage du VI<sup>e</sup> siècle avant notre ère selon la tradition. Quelques-unes de ses maximes suffisent à montrer que cette sixième lampe éclaire, elle aussi, plusieurs des thèmes de ce livre.</p>
+
+**L'Ultime sans nom.** Comme le « non-né » du Bouddha ou le Dieu que « nul homme ne peut penser » du *Nuage d'inconnaissance*, la Voie échappe aux mots :
+
+> La voie qui peut être exprimée par la parole n'est pas la Voie éternelle ; le nom qui peut être nommé n'est pas le Nom éternel.
+
+<p class="ref">— Tao Te King, chap. I · trad. Stanislas Julien, 1842</p>
+
+**Rendre le bien pour le mal.** Le Coran, Paul et le Dhammapada l'enseignaient au chapitre 5 ; Lao-tseu le dit du Saint :
+
+> Celui qui est vertueux, il le traite comme un homme vertueux ; celui qui n'est pas vertueux, il le traite aussi comme un homme vertueux. C'est là le comble de la vertu.
+
+<p class="ref">— Tao Te King, chap. XLIX · trad. Stanislas Julien, 1842</p>
+
+> Il venge ses injures par des bienfaits.
+
+<p class="ref">— Tao Te King, chap. LXIII · trad. Stanislas Julien, 1842</p>
+
+**L'humilité de l'eau.** Le chapitre 12 montrait les cinq traditions promettant l'élévation à celui qui s'abaisse ; Lao-tseu prend pour modèle l'eau, qui cherche toujours le lieu le plus bas :
+
+> L'homme d'une vertu supérieure est comme l'eau. L'eau excelle à faire du bien aux êtres et ne lutte point. Elle habite les lieux que déteste la foule. C'est pourquoi (le sage) approche du Tao. Il se plaît dans la situation la plus humble.
+
+<p class="ref">— Tao Te King, chap. VIII · trad. Stanislas Julien, 1842</p>
+
+> Je possède trois choses précieuses : je les tiens et les conserve comme un trésor. La première s'appelle l'*affection* ; la seconde s'appelle l'*économie* ; la troisième s'appelle l'*humilité*, qui m'empêche de vouloir être le premier de l'empire.
+
+<p class="ref">— Tao Te King, chap. LXVII · trad. Stanislas Julien, 1842</p>
+
+**La victoire sur soi.** Le Dhammapada, les Proverbes et le hadith le disaient au chapitre 11 :
+
+> Celui qui connaît les hommes est prudent. Celui qui se connaît lui-même est éclairé. Celui qui dompte les hommes est puissant. Celui qui se dompte lui-même est fort. Celui qui sait se suffire est assez riche.
+
+<p class="ref">— Tao Te King, chap. XXXIII · trad. Stanislas Julien, 1842</p>
+
+**Le don qui enrichit.** Enfin, comme les cinq traditions au chapitre 7 :
+
+> Le Saint n'accumule pas (les richesses). Plus il emploie (sa vertu) dans l'intérêt des hommes, et plus elle augmente. Plus il donne aux hommes et plus il s'enrichit.
+
+<p class="ref">— Tao Te King, chap. LXXXI · trad. Stanislas Julien, 1842</p>
+
+Lao-tseu ne connaît ni Dieu créateur ni révélation : sa « Voie » est l'ordre profond du monde, que le sage épouse sans prétendre le nommer. Sa lampe n'en rejoint pas moins les cinq autres sur l'essentiel de la conduite.
 
 ## Sources et traductions
 
@@ -1971,42 +2397,56 @@ Le lecteur croyant retrouvera dans ces pages sa propre tradition, et peut-être 
 
 ### Hindouisme
 
-- **Bhagavad-Gîtâ** : Émile-Louis Burnouf, *La Bhagavad-Gîtâ*, Nancy, 1861, d'après le volume de cette bibliothèque. La numérotation des versets est la numérotation usuelle ; au chant XIII, les éditions qui comptent en tête une question d'Arjuna décalent d'une unité (XIII, 7 y devient XIII, 8). Burnouf rend *yoga* par « Union », *ahimsâ* par « l'humeur pacifique » ou « la mansuétude », *kshamâ* par « la patience ». Au chant XVI, 21, un deux-points manquant dans la transcription a été rétabli.
+- **Bhagavad-Gîtâ** : Émile-Louis Burnouf, *La Bhagavad-Gîtâ*, Nancy, 1861. La numérotation des versets est la numérotation usuelle ; au chant XIII, les éditions qui comptent en tête une question d'Arjuna décalent d'une unité (XIII, 7 y devient XIII, 8). Burnouf rend *yoga* par « Union », *ahimsâ* par « l'humeur pacifique » ou « la mansuétude », *kshamâ* par « la patience ». Au chant XVI, 21, un deux-points manquant dans la transcription a été rétabli ; au chant IX, 23, la transcription porte « pleins de loi », coquille corrigée en « pleins de foi », qui rend le sanskrit *śraddhayânvitâh* et que donnent les citations anciennes du passage.
 - **Rig-Veda** : Alexandre Langlois, *Rig-Véda ou Livre des hymnes*, 1848-1851 (éd. de 1870, Wikisource). Langlois numérote par sections, lectures et hymnes ; les références données ici suivent la numérotation usuelle par livres (I, 164, 46 = Section II, Lecture III, Hymne VII ; III, 62, 10 = Section III, Lecture IV, Hymne VII).
 - **Lois de Manou** : A.-L.-A. Loiseleur-Deslongchamps, *Lois de Manou*, 1833 (exemplaire numérisé sur archive.org), numérotation recoupée avec la traduction anglaise de G. Bühler (*Sacred Books of the East*, XXV, 1886).
 - **Upanishads** (Chândogya, Îśâ, Taittirîya, Brihadâranyaka, Mundaka, Katha) : trad. de travail d'après F. Max Müller, *Sacred Books of the East*, I (1879) et XV (1884).
 - **Mahâbhârata** : trad. de travail d'après Kisari Mohan Ganguli, *The Mahabharata of Krishna-Dwaipayana Vyasa*, Calcutta, 1883-1896. Les numéros de section sont ceux de cette édition, qui diffèrent de ceux de l'édition critique de Poona.
+- **Hitopadésa** : Édouard Lancereau, *Hitopadésa ou l'Instruction utile*, Paris, Maisonneuve, 1882 (1<sup>re</sup> éd. 1855), livre I, fable du tigre et du voyageur, relu sur la numérisation d'archive.org.
 - **Yoga-sûtra** de Patañjali : trad. de travail d'après James Haughton Woods, *The Yoga-System of Patañjali*, Harvard Oriental Series, XVII, 1914.
+- **Kabîr** : trad. de travail d'après Rabindranath Tagore, *Songs of Kabîr*, introduction d'Evelyn Underhill, New York, Macmillan, 1915 ; les chants sont numérotés comme chez Tagore. Kabîr (XV<sup>e</sup> siècle) est revendiqué à la fois par les hindous, les musulmans et les sikhs ; il est placé ici dans la tradition hindoue de la dévotion (*bhakti*), dont il emploie les noms divins.
 
 ### Judaïsme
 
-- **Bible hébraïque** : Bible du Rabbinat français, traduction dirigée par le grand-rabbin Zadoc Kahn, 1899-1906, relue sur la transcription de Wikisource et recoupée avec une seconde copie numérique. Les références suivent la numérotation hébraïque usuelle ; lorsque celle de Louis Segond diffère (certains Psaumes, l'Ecclésiaste), elle est donnée entre crochets. La transcription de Wikisource numérote le Décalogue avec un verset de moins (Exode 20, 12 et 13 y deviennent 20, 11 et 12).
+- **Bible hébraïque** : Bible du Rabbinat français, traduction dirigée par le grand-rabbin Zadoc Kahn, 1899-1906, relue sur la transcription de Wikisource et recoupée avec une seconde copie numérique ; Genèse 12, Exode 3 et Deutéronome 34 ont été relus sur l'édition en ligne de levangile.com. Les références suivent la numérotation hébraïque usuelle ; lorsque celle de Louis Segond diffère (certains Psaumes, l'Ecclésiaste), elle est donnée entre crochets. La transcription de Wikisource numérote le Décalogue avec un verset de moins (Exode 20, 12 et 13 y deviennent 20, 11 et 12).
 - **Mishna**, Sanhédrin 4, 5 : traduction de Moïse Schwab, *Le Talmud de Jérusalem*, 1878-1890. Schwab paraphrase souvent ; il suit ici la forme universelle du texte (« un seul être humain »), là où les éditions imprimées de l'hébreu et le Talmud de Babylone portent « une seule âme d'Israël ».
 - **Mishna**, Yoma 8, 9, et **Talmud de Babylone**, Shabbat 31a (parole de Rava) et Sanhédrin 106b : trad. de travail d'après le texte hébreu et araméen. Dans ce dernier passage, le texte vérifié porte « le Saint, béni soit-Il, veut le cœur », et non la forme proverbiale « le Miséricordieux veut le cœur ».
-- **Talmud de Babylone** (Shabbat 31a, Hillel ; Berakhot 7a ; Arakhin 15b ; Soukka 49b ; Érouvin 13b ; Qiddouchin 31a ; Nidda 31a) : d'après P. I. Hershon, *A Talmudic Miscellany*, Londres, 1880, dans la traduction française de cette bibliothèque. Hershon abrège parfois ; la parole de Hillel a été contrôlée sur l'araméen.
+- **Talmud de Babylone** (Shabbat 31a, Hillel ; Berakhot 7a ; Arakhin 15b ; Soukka 49b ; Érouvin 13b ; Qiddouchin 31a ; Nidda 31a) : d'après P. I. Hershon, *A Talmudic Miscellany*, Londres, 1880, traduit en français pour ce livre. Hershon abrège parfois ; la parole de Hillel a été contrôlée sur l'araméen.
 - **Pirkei Avot** (Maximes des Pères) : trad. de travail d'après Charles Taylor, *Sayings of the Jewish Fathers*, Cambridge, 1897, contrôlée sur l'hébreu. Les références suivent la numérotation courante, qui diffère parfois de celle de Taylor.
+- **Livre des secrets d'Hénoch** (2 Hénoch), 61, 1 : trad. de travail d'après W. R. Morfill, *The Book of the Secrets of Enoch*, éd. R. H. Charles, Oxford, 1896. Écrit apocryphe conservé seulement en vieux slave, daté par de nombreux savants du I<sup>er</sup> siècle, reçu dans aucun canon ; « [le bien] » est un ajout pour la clarté.
+- **Sefer HaBrit** de Pinchas Eliyahu Horowitz (Brünn, 1797 ; éd. augmentée, Vilna, 1818), partie II, ma'amar 13 (« L'amour du prochain »), chapitres 1 et 5 : trad. de travail d'après le texte hébreu de Wikisource.
+- **Sefer HaBahir** (Provence, fin du XII<sup>e</sup> siècle), sections 1 et 147 : trad. de travail d'après le texte hébreu et araméen de l'édition Torat Emet (domaine public), numérotée en 200 sections.
 
 ### Bouddhisme
 
 - **Dhammapada** : Fernand Hû, *Le Dhammapada*, Paris, Ernest Leroux, 1878 (Bibliothèque orientale elzévirienne), transcription validée de Wikisource. La numérotation de Hû suit la numérotation usuelle des 423 strophes ; elle a été recoupée strophe par strophe avec la traduction anglaise de F. Max Müller (*Sacred Books of the East*, X, 1881). Aux strophes 129-130, la phrase « Qu'on fasse ce qu'on voudrait que fît autrui » est une interprétation de Hû ; Müller traduit « souviens-toi que tu es semblable à eux ».
 - **Sutta Nipâta** (Metta Sutta, Dhammika Sutta, Mahâmangala Sutta) : trad. de travail d'après V. Fausböll, *Sacred Books of the East*, X, 1881.
-- **Mahâparinibbâna Sutta** et **premier sermon de Bénarès** : trad. de travail d'après T. W. Rhys Davids, *Buddhist Suttas*, *Sacred Books of the East*, XI, 1881.
+- **Mahâparinibbâna Sutta** et **sermon de Bénarès** (*Dhammacakkappavattana Sutta*) : trad. de travail d'après T. W. Rhys Davids, *Buddhist Suttas*, *Sacred Books of the East*, XI, 1881.
 - **Mahâsatipaṭṭhâna Sutta** et **Sigâlovâda Sutta** : trad. de travail d'après T. W. et C. A. F. Rhys Davids, *Dialogues of the Buddha*, II (1910) et III (1921).
 - **Udâna** : trad. de travail d'après D. M. Strong, *The Udâna*, 1902.
 - **Itivuttaka** : trad. de travail d'après J. H. Moore, *Sayings of Buddha, the Iti-vuttaka*, New York, 1908.
 - **Udânavarga** : trad. de travail d'après W. W. Rockhill, *Udânavarga*, Londres, 1883 (version tibétaine).
 - **Anguttara Nikâya** : trad. de travail d'après F. L. Woodward, *The Book of the Gradual Sayings*, I, 1932.
+- **Majjhima Nikâya** 63 (Cûla-Mâlunkyâ Sutta, la flèche empoisonnée) : trad. de travail d'après Henry Clarke Warren, *Buddhism in Translations*, Harvard Oriental Series, III, 1896.
+- **Bodhicaryâvatâra** de Shantideva (VIII<sup>e</sup> siècle) : Louis de La Vallée Poussin, *Bodhicaryâvatâra. Introduction à la pratique des futurs Bouddhas*, Paris, Bloud, 1907, relu sur la numérisation de l'université de Toronto (archive.org). Les mots entre crochets sont des ajouts du traducteur.
 
 ### Christianisme
 
 - **Nouveau Testament** : Louis Segond, *La Sainte Bible*, révision de 1910, relue verset par verset sur saintebible.com et, pour Matthieu 6, 1 Jean 4 et Éphésiens 6, sur une seconde édition en ligne. La ligature « œ », perdue par la source numérique (« cœur »), a été rétablie comme dans l'imprimé ; les parenthèses d'Éphésiens 6, 2 ont été reprises de la seconde édition. La finale du Notre Père (Matthieu 6, 13 : « Car c'est à toi qu'appartiennent… ») figure dans Segond 1910 mais manque dans les plus anciens manuscrits.
-- **Augustin d'Hippone**, *Les Confessions*, I, 1 : traduction de l'édition Poujoulat et Raulx, *Œuvres complètes de saint Augustin*, Bar-le-Duc, L. Guérin, 1864 (Wikisource).
+- **Le Nuage d'inconnaissance** (anonyme anglais, fin du XIV<sup>e</sup> siècle), chapitres 6 et 7 : trad. de travail d'après l'édition modernisée d'Evelyn Underhill, *A Book of Contemplation the which is called The Cloud of Unknowing*, Londres, Watkins, 1922 (2<sup>e</sup> éd.).
+- **Jean de la Croix**, *La Montée du Carmel*, livre I, chapitre 13 : traduction de Jean Maillard, *Les Œuvres spirituelles du bienheureux Jean de la Croix*, éd. de 1834.
+- **Jacob Böhme**, *Des trois principes de l'essence divine* (1619), chapitre 2, § 7 : traduction de Louis-Claude de Saint-Martin, Paris, 1802, relue sur le fac-similé ; orthographe modernisée.
 
 ### Islam
 
-- **Coran** : *Le Koran*, traduction d'Albin de Biberstein-Kazimirski, 1869, d'après le volume de cette bibliothèque. La numérotation des versets de Kazimirski diffère souvent de la numérotation aujourd'hui en usage (édition du Caire) : les références donnent d'abord la numérotation usuelle, contrôlée sur le texte arabe, puis, lorsqu'elle diffère, celle de Kazimirski entre crochets. Quelques coquilles évidentes de la transcription numérique ont été corrigées (« Dieu, est », « Son, trône », « aux, hommes », « a un homme » pour « à un homme », « voilà serez » pour « vous serez »). Les mots en italique sont ceux que Kazimirski ajoute pour la clarté.
+- **Coran** : *Le Koran*, traduction d'Albin de Biberstein-Kazimirski, 1869. La numérotation des versets de Kazimirski diffère souvent de la numérotation aujourd'hui en usage (édition du Caire) : les références donnent d'abord la numérotation usuelle, contrôlée sur le texte arabe, puis, lorsqu'elle diffère, celle de Kazimirski entre crochets. Quelques coquilles évidentes de la transcription numérique ont été corrigées (« Dieu, est », « Son, trône », « aux, hommes », « a un homme » pour « à un homme », « voilà serez » pour « vous serez »). Les mots en italique sont ceux que Kazimirski ajoute pour la clarté.
 - **Hadiths** : trad. de travail d'après l'arabe, textes contrôlés dans les éditions numériques des recueils d'al-Bukhârî (numérotation usuelle) et de Muslim (numérotation de M. F. ʿAbd al-Bâqî), et des *Quarante Hadiths* d'an-Nawawî. Dans le hadith de la Règle d'or rapporté par Muslim (n° 45), le mot arabe est *jâr*, « voisin », que le transmetteur donne en alternance avec « frère ».
+- **Ghazâlî**, *Le Préservatif de l'erreur* (*al-Munqidh min al-dalâl*, vers 1108) : traduction de C. Barbier de Meynard, *Journal asiatique*, 7<sup>e</sup> série, IX, janvier 1877, relue sur la numérisation de cette revue (archive.org), dont la transcription avait perdu les accents ; ils ont été rétablis.
 
-## Pour aller plus loin dans cette bibliothèque
+### Chine
 
-Plusieurs des textes cités ici se lisent en entier dans la même bibliothèque : *Le Koran* (Kazimirski, 1869), *La Bhagavad-Gîtâ* (Burnouf, 1861), le recueil talmudique de Hershon, *La Bible éthiopienne* et ses livres oubliés, ainsi que *L'Imitation de Jésus-Christ* et *Le Tao Te King* pour la tradition chinoise, restée hors du champ de ce livre.
+- **Tao Te King** de Lao-tseu : Stanislas Julien, *Le Livre de la Voie et de la Vertu*, Paris, Imprimerie royale, 1842. Les mots entre parenthèses sont ceux que Julien ajoute pour la clarté.
+
+## Pour aller plus loin
+
+Toutes les traductions citées dans ce livre sont du domaine public, et chacune se lit en entier : *La Bhagavad-Gîtâ* de Burnouf (1861), *Le Dhammapada* de Fernand Hû (1878), la Bible du Rabbinat français (1899-1906), la Bible de Louis Segond (1910), *Le Koran* de Kazimirski (1869), *A Talmudic Miscellany* de Hershon (1880). Les mystiques du chapitre 18 se lisent aussi en entier dans des éditions anciennes : les *Chants* de Kabîr traduits par Tagore (1915), *Le Nuage d'inconnaissance* édité par Evelyn Underhill (1922), les *Œuvres spirituelles* de Jean de la Croix (trad. Maillard), *Des trois principes de l'essence divine* de Böhme (trad. Saint-Martin, 1802), le *Bodhicaryâvatâra* de Shantideva (trad. La Vallée Poussin, 1907) et *Le Préservatif de l'erreur* de Ghazâlî (trad. Barbier de Meynard, 1877). Et le lecteur qui voudra prolonger le voyage au-delà des cinq traditions lira en entier le *Tao Te King* de Lao-tseu, dont l'annexe donne quelques maximes, dans la traduction de Stanislas Julien (1842).
