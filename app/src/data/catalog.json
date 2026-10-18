@@ -2820,7 +2820,7 @@
       "title": "Une même lumière",
       "subtitle": "Ce que les Écritures des cinq grandes religions ont en commun",
       "author": "Popaul Kabeya",
-      "era": "2026 — textes du XVe s. av. J.-C. au IXe s.",
+      "era": "2026 — textes du XVe s. av. J.-C. au XVIIIe s.",
       "lang": "fr",
       "glyph": "✹",
       "tags": [
@@ -2834,13 +2834,13 @@
         "écritures",
         "dialogue interreligieux"
       ],
-      "summary": "Dix-sept thèmes — Dieu et l'Absolu, la lumière, la Règle d'or, la compassion, la paix, le pardon, le don, les parents, la vérité, la maîtrise de soi, la prière, le cœur, le détachement, les actes, la mort — où les Veda et la Gîtâ, la Torah, le Dhammapada, l'Évangile et le Coran parlent côte à côte, cités dans leurs traductions anciennes et vérifiés dans leurs sources. Chaque thème dit ce qui converge et ce qui nuance ; une partie entière expose ce qui distingue les cinq traditions.",
+      "summary": "Après une présentation des cinq traditions et de leurs fondateurs (Abraham, Moïse, le Bouddha, Jésus, Muhammad), dix-huit thèmes — Dieu et l'Absolu, la lumière, la Règle d'or, la compassion, la paix, le pardon, le don, les parents, la vérité, la maîtrise de soi, la prière, le cœur, le détachement, les actes, la mort, l'expérience des mystiques — où les Veda et la Gîtâ, la Torah, le Dhammapada, l'Évangile et le Coran parlent côte à côte, puis Kabîr, la Kabbale, Shantideva, Jean de la Croix et Ghazâlî, cités dans leurs traductions anciennes et vérifiés dans leurs sources. Chaque thème dit ce qui converge et ce qui nuance ; une partie entière expose ce qui distingue les cinq traditions, et une annexe ouvre une sixième lampe : le Tao Te King.",
       "volumes": [
         {
           "label": "Texte intégral",
           "type": "md",
           "path": "Une-Meme-Lumiere-Cinq-Religions-FR.md",
-          "bytes": 148908
+          "bytes": 192576
         },
         {
           "label": "Version PDF — 74 pages",
@@ -2849,7 +2849,7 @@
           "bytes": 4167536
         }
       ],
-      "bytes": 4316444,
+      "bytes": 4359810,
       "addedAt": "2026-09-12"
     },
     {
@@ -3095,6 +3095,6 @@
       "bytes": 627074
     }
   ],
-  "totalBytes": 4227906557,
+  "totalBytes": 4227949923,
   "generatedAt": "2026-10-18"
 }
