@@ -1,3 +1,15 @@
+# Pourquoi ce livre
+
+J'ai vu, en voyageant, la rue qui ouvre ce livre. Je l'ai traversée en Asie, en Afrique, au Moyen-Orient, en Amérique : partout des hommes et des femmes qui prient, sous des toits différents, un Dieu qu'ils ne nomment pas de la même manière. J'ai voulu savoir ce que disent vraiment leurs livres, au lieu de répéter ce qu'on en dit. C'est ainsi que j'ai étudié, d'un pays à l'autre, les religions, les cultures et les croyances des autres.
+
+Je suis chrétien. Je n'ai pas écrit ce livre pour dire que toutes les religions se valent : je ne le crois pas, et aucune d'elles ne le dit. Je me suis donné pour règle de laisser chaque tradition parler pour elle-même. Et je crois que le Créateur est si grand que vouloir L'enfermer dans nos frontières, c'est réduire sa grandeur.
+
+J'ai lu la Bible, le Coran, la Bhagavad-Gîtâ, le Dhammapada et le Talmud côte à côte, crayon en main. Ce qui m'a le plus retenu, c'est le secret qui se tient sous la lumière : derrière les mots qui séparent, des textes qui, sur le pardon, le don ou l'humilité, disent presque la même phrase — et, ce que ce livre ne cache pas, des différences qui demeurent.
+
+Ces pages sont pour le monde tel qu'il va : pour ceux qui perdent leur vie dans des guerres — en Ukraine, au Yémen, à Gaza, en Iran, en République démocratique du Congo — et pour ceux que les maladies, les épidémies et la pollution accablent. Si elles aident un seul lecteur à regarder son voisin avec plus de justice, sans rien céder de sa propre foi, elles auront rempli leur office.
+
+*Popaul Kabeya*
+
 # Avant-propos
 
 Il y a, dans une petite ville de n'importe quel pays du monde, une rue où se côtoient une église, une mosquée, peut-être une synagogue, un temple hindou ou une pagode. Ceux qui y entrent ne prient pas dans la même langue, ne lisent pas le même livre, ne comptent pas les jours de fête selon le même calendrier. Et pourtant, s'ils sortaient chacun sur le seuil pour dire à voix haute ce que leur livre leur demande de faire envers leur voisin, on serait frappé d'entendre, sous des mots différents, presque la même phrase.
@@ -24,7 +36,7 @@ La première partie présente les cinq traditions, leurs Écritures et leurs fon
 
 Les cinq parties suivantes explorent dix-huit thèmes, regroupés par grands domaines : le Principe (Dieu, l'Absolu, la lumière), la relation à autrui (la Règle d'or, la compassion, la paix, le pardon, le don, la famille), la conduite (la vérité, l'honnêteté, la maîtrise de soi, l'humilité), la vie intérieure (la prière, le cœur, le détachement) et la destinée (les actes et leurs fruits, la mort et ce qui la suit, l'expérience des mystiques). Chaque thème tient en quelques pages et peut se lire seul.
 
-La septième partie dit ce qui distingue les cinq traditions, et la conclusion fait le bilan du parcours. En annexe, un tableau rassemble les formulations de la Règle d'or ; puis une « sixième lampe », le *Tao Te King* de la Chine ancienne, fait entendre une voix restée hors du champ de ce livre ; la liste des sources clôt le volume.
+La septième partie dit ce qui distingue les cinq traditions, et la conclusion fait le bilan du parcours. En annexe, un tableau rassemble les formulations de la Règle d'or ; puis une « sixième lampe », le *Tao Te King* de la Chine ancienne, fait entendre une voix restée hors du champ de ce livre ; une chronologie et un glossaire donnent au lecteur ses repères ; la liste des sources clôt le volume.
 
 # Première partie — Les cinq traditions et leurs Écritures
 
@@ -2390,6 +2402,59 @@ Le lecteur croyant retrouvera dans ces pages sa propre tradition, et peut-être 
 <p class="ref">— Tao Te King, chap. LXXXI · trad. Stanislas Julien, 1842</p>
 
 Lao-tseu ne connaît ni Dieu créateur ni révélation : sa « Voie » est l'ordre profond du monde, que le sage épouse sans prétendre le nommer. Sa lampe n'en rejoint pas moins les cinq autres sur l'essentiel de la conduite.
+
+## Chronologie
+
+<p class="part-intro">Les dates que donne ce livre, des hymnes du Rig-Veda au Sefer HaBrit. Beaucoup sont approximatives : les Écritures anciennes se sont formées sur des siècles, et plusieurs dates restent discutées.</p>
+
+| Date | Texte ou figure |
+|---|---|
+| Vers 1500-1200 avant notre ère | Hymnes du *Rig-Veda*, le plus ancien des quatre Veda |
+| I<sup>er</sup> millénaire avant notre ère | La Bible hébraïque se constitue, sur près d'un millénaire |
+| À partir du VIII<sup>e</sup> siècle avant notre ère | Upanishads, méditations sur le Soi et l'Absolu |
+| VI<sup>e</sup> siècle avant notre ère | Lao-tseu, selon la tradition chinoise (*Tao Te King*) |
+| V<sup>e</sup> siècle avant notre ère | Siddhârtha Gautama, le Bouddha (ses dates exactes sont discutées) |
+| Entre le V<sup>e</sup> et le II<sup>e</sup> siècle avant notre ère | Composition de la Bhagavad-Gîtâ |
+| I<sup>er</sup> siècle avant notre ère | Le Tipitaka mis par écrit à Ceylan, en pali |
+| I<sup>er</sup> siècle | Jésus de Nazareth ; le Nouveau Testament est écrit entre les années 50 et 100 environ |
+| Vers 200 | La Mishna met par écrit la Torah orale |
+| 367 | Athanase d'Alexandrie donne la plus ancienne liste des 27 livres du Nouveau Testament |
+| V<sup>e</sup>-VI<sup>e</sup> siècles | Achèvement du Talmud de Babylone |
+| 610-632 | Révélation du Coran à Muhammad, à La Mecque puis à Médine |
+| Vers 650 | Le Coran rassemblé en un volume unique sous le calife Othman |
+| VIII<sup>e</sup> siècle | Shantideva, *Bodhicaryâvatâra* |
+| IX<sup>e</sup> siècle | Grands recueils de hadiths, dont ceux d'al-Bukhârî et de Muslim |
+| Vers 1108 | Ghazâlî, *Le Préservatif de l'erreur* |
+| Fin du XII<sup>e</sup> siècle | *Sefer HaBahir*, premier livre de la Kabbale |
+| Fin du XIV<sup>e</sup> siècle | *Le Nuage d'inconnaissance* |
+| XV<sup>e</sup> siècle | Kabîr, tisserand de Bénarès |
+| XVI<sup>e</sup> siècle | Jean de la Croix, *La Montée du Carmel* |
+| 1619 | Jacob Böhme, *Des trois principes de l'essence divine* |
+| 1797 | *Sefer HaBrit* de Pinchas Eliyahu Horowitz |
+
+## Glossaire
+
+<p class="part-intro">Les principaux termes que ce livre emploie dans la langue de chaque tradition, expliqués à leur première apparition et rassemblés ici.</p>
+
+- **anattâ** (pali) : le « non-soi ». Il n'y a dans l'être humain aucune entité permanente, mais un courant de phénomènes qui naissent et disparaissent : doctrine propre au bouddhisme.
+- **âtman** (sanskrit) : le Soi profond de chaque être, éternel, que le Vedânta non dualiste déclare identique à Brahman.
+- **avatâra** (sanskrit) : « descente » d'un dieu parmi les hommes ; les hindous reconnaissent en Krishna un avatâra de Vishnou.
+- **bhakti** (sanskrit) : la dévotion amoureuse à Dieu, l'une des voies que rassemble la Bhagavad-Gîtâ ; celle de Kabîr.
+- **bodhi** (pali et sanskrit) : l'Éveil, que Siddhârtha Gautama atteignit à Bodh-Gayâ et qui fit de lui le Bouddha, « l'Éveillé ».
+- **Brahman** (sanskrit) : l'Absolu, la Réalité unique que les Upanishads reconnaissent sous tous les noms divins.
+- **dharma** (sanskrit) : l'ordre juste du monde et le devoir qui en découle ; chez les bouddhistes, le Dharma est l'enseignement du Bouddha.
+- **dhikr** (arabe) : le « souvenir » de Dieu, l'invocation de son nom, que le Coran donne pour ce qui apaise les cœurs.
+- **hadith** (arabe) : récit d'une parole ou d'un acte du prophète Muhammad ; rassemblés en grands recueils au IX<sup>e</sup> siècle, les hadiths font connaître la Sunna.
+- **karma** (sanskrit) : la loi des actes et de leurs fruits : tout acte, bon ou mauvais, porte sa récolte, dans cette vie ou dans une autre.
+- **kavana** (hébreu) : l'intention du cœur, qui doit animer la prière et l'accomplissement du commandement.
+- **moksha** (sanskrit) : la délivrance, la sortie du cycle des renaissances, but ultime de l'hindouisme.
+- **Nirvâna** (sanskrit) : l'extinction de la soif et de la souffrance, le « non-né, non-formé », but ultime du bouddhisme.
+- **niyya** (arabe) : l'intention, qui donne à l'acte sa valeur devant Dieu.
+- **samsâra** (sanskrit) : le cycle des renaissances, où l'être revient d'existence en existence selon le poids de ses actes.
+- **Shema** (hébreu) : « Écoute, Israël » (Deutéronome 6, 4) : la profession de l'unité de Dieu, que le juif récite matin et soir.
+- **sourate** : chapitre du Coran, qui en compte cent quatorze ; la première est la Fâtiha, « l'Ouvrante ».
+- **Sunna** (arabe) : la « tradition » du Prophète, ses paroles et ses actes, connue par les hadiths ; elle guide le musulman à côté du Coran.
+- **Torah orale** : l'enseignement transmis de maître à disciple à côté de la Torah écrite, mis par écrit dans la Mishna puis commenté dans le Talmud.
 
 ## Sources et traductions
 

@@ -43,9 +43,10 @@ EDITIONS = {
         "sous_titre": "Dieu, la mort, le pardon, la prospérité et la puissance — ce que répondent les Écritures des cinq religions",
         "sous_titre_lignes": "Dieu, la mort, le pardon, la prospérité et la puissance —<br>ce que répondent les Écritures des cinq religions",
         "titre_courant": "UNE MÊME LUMIÈRE", "table": "Table des matières",
+        "dedicace": "À ceux qui perdent leur vie dans les guerres, les épidémies et la misère, et qui gardent pourtant la lumière.",
         "symboles": {"Hindouisme": "ॐ", "Judaïsme": "✡", "Bouddhisme": "☸", "Christianisme": "✝", "Islam": "☪"},
         "mot_partie": "partie", "annexes": "Annexes", "sans_chapitres": ("Première partie", "Septième partie"),
-        "en_tetes": {"Avant-propos": "Avant-propos", "Première partie": "Les cinq traditions", "Deuxième partie":
+        "en_tetes": {"Pourquoi ce livre": "Pourquoi ce livre", "Avant-propos": "Avant-propos", "Première partie": "Les cinq traditions", "Deuxième partie":
                      "Le Principe", "Troisième partie": "Autrui", "Quatrième partie": "La conduite", "Cinquième partie":
                      "La vie intérieure", "Sixième partie": "La destinée", "Septième partie": "Ce qui les distingue",
                      "Conclusion": "Conclusion", "Annexes": "Annexes"},
@@ -75,9 +76,10 @@ EDITIONS = {
         "sous_titre": "God, Death, Forgiveness, Prosperity and Power — How the Scriptures of Five Religions Answer",
         "sous_titre_lignes": "God, Death, Forgiveness, Prosperity and Power —<br>How the Scriptures of Five Religions Answer",
         "titre_courant": "THE SAME LIGHT", "table": "Contents",
+        "dedicace": "To those who lose their lives to war, epidemic and poverty, and who still keep the light.",
         "symboles": {"Hinduism": "ॐ", "Judaism": "✡", "Buddhism": "☸", "Christianity": "✝", "Islam": "☪"},
         "mot_partie": "Part", "annexes": "Appendices", "sans_chapitres": ("Part One", "Part Seven"),
-        "en_tetes": {"Foreword": "Foreword", "Part One": "The Five Traditions", "Part Two": "The Principle",
+        "en_tetes": {"Why This Book": "Why This Book", "Foreword": "Foreword", "Part One": "The Five Traditions", "Part Two": "The Principle",
                      "Part Three": "The Other", "Part Four": "Conduct", "Part Five": "The Inner Life",
                      "Part Six": "Destiny", "Part Seven": "What Sets Them Apart", "Conclusion": "Conclusion",
                      "Appendices": "Appendices"},
@@ -273,6 +275,8 @@ sup { font-size: 0.68em; line-height: 0; }
   font-size: 13pt; letter-spacing: 0.9em; color: #444; }
 .copyright { position: absolute; bottom: 0; font-size: 8.4pt; line-height: 1.45; }
 .copyright p { text-align: left; text-indent: 0; margin-bottom: 7pt; hyphens: manual; }
+.dedicace { padding-top: 2.3in; }
+.dedicace p { font-style: italic; text-align: center; text-indent: 0; margin: 0 0.45in; text-wrap: balance; }
 .note { padding-top: 1.1in; }
 .note h2 { font-family: 'Cormorant Garamond', serif; font-weight: 600; font-size: 15pt; text-align: center;
   margin: 0 0 18pt; letter-spacing: 0.06em; }
@@ -362,6 +366,7 @@ def front_matter(toc_items):
   <p><em>{TITRE}</em><br>{SOUS_TITRE}</p>
   {E["copyright"].format(auteur=AUTEUR, annee=ANNEE)}
 </div></section>
+<section class="dedicace"><p>{E["dedicace"]}</p></section>
 <section class="note">
   {E["note"]}
 </section>

@@ -1,3 +1,15 @@
+# Why This Book
+
+While traveling, I have seen the street that opens this book. I crossed it in Asia, in Africa, in the Middle East, in the Americas: everywhere men and women praying, under different roofs, to a God they do not name in the same way. I wanted to know what their books really say, instead of repeating what is said about them. And so, from one country to another, I studied the religions, the cultures and the beliefs of others.
+
+I am a Christian. I did not write this book to say that all religions are equal: I do not believe it, and none of them says it. I made it my rule to let each tradition speak for itself. And I believe the Creator is so great that to try to shut Him within our borders is to diminish His greatness.
+
+I read the Bible, the Qur’an, the Bhagavad-Gita, the Dhammapada and the Talmud side by side, pencil in hand. What held me most is the secret that lies beneath the light: behind the words that divide, texts which, on forgiveness, on giving or on humility, say almost the same sentence — and, something this book does not hide, differences that remain.
+
+These pages are for the world as it is: for those who lose their lives in wars — in Ukraine, in Yemen, in Gaza, in Iran, in the Democratic Republic of the Congo — and for those whom disease, epidemics and pollution weigh down. If they help a single reader to look at his neighbor with more justice, without yielding anything of his own faith, they will have done their work.
+
+*Popaul Kabeya*
+
 # Foreword
 
 In small towns all over the world, you can find a street where a church and a mosque stand side by side, and perhaps a synagogue, a Hindu temple or a pagoda. The people who go in pray in different languages, read different books and keep different calendars of feasts. Yet if each of them stepped onto the threshold and said aloud what their book asks them to do for their neighbor, you would hear, beneath the different words, almost the same sentence.
@@ -24,7 +36,7 @@ Part One presents the five traditions, their Scriptures and their founders: what
 
 The next five parts explore eighteen themes in five areas: the Principle (God, the Absolute, light), the relationship to others (the Golden Rule, compassion, peace, forgiveness, giving, family), conduct (truth, honesty, self-mastery, humility), the inner life (prayer, the heart, detachment) and destiny (deeds and their fruits, death and what follows it, the experience of the mystics). Each theme fits in a few pages and can be read on its own.
 
-Part Seven states what sets the five traditions apart, and the conclusion takes stock of the journey. The appendices set the formulations of the Golden Rule side by side in a table, then give a hearing to a “sixth lamp” from outside the scope of this book, the *Tao Te Ching* of ancient China. The list of sources closes the volume.
+Part Seven states what sets the five traditions apart, and the conclusion takes stock of the journey. The appendices set the formulations of the Golden Rule side by side in a table, then give a hearing to a “sixth lamp” from outside the scope of this book, the *Tao Te Ching* of ancient China; a chronology and a glossary give the reader his bearings. The list of sources closes the volume.
 
 # Part One — The Five Traditions and Their Scriptures
 
@@ -2391,6 +2403,59 @@ Believers will find their own tradition in these pages, and may see it in a new 
 <p class="ref">— Tao Te Ching, chap. LXXXI · after Stanislas Julien, 1842</p>
 
 Lao-tzu knows neither a creator God nor revelation: his “Way” is the deep order of the world, which the sage follows without claiming to name it. Yet on the essentials of conduct, his lamp shines with the other five.
+
+## Chronology
+
+<p class="part-intro">The dates this book gives, from the hymns of the Rig-Veda to the Sefer HaBrit. Many are approximate: the ancient Scriptures took shape over centuries, and several dates remain debated.</p>
+
+| Date | Text or figure |
+|---|---|
+| c. 1500-1200 BCE | Hymns of the *Rig-Veda*, the oldest of the four Vedas |
+| 1st millennium BCE | The Hebrew Bible takes shape, over nearly a thousand years |
+| From the 8th century BCE | The Upanishads, meditations on the Self and the Absolute |
+| 6th century BCE | Lao-tzu, according to Chinese tradition (*Tao Te Ching*) |
+| 5th century BCE | Siddhartha Gautama, the Buddha (his exact dates are debated) |
+| Between the 5th and the 2nd century BCE | Composition of the Bhagavad-Gita |
+| 1st century BCE | The Tipitaka set down in writing in Ceylon, in Pali |
+| 1st century CE | Jesus of Nazareth; the New Testament is written between about 50 and 100 |
+| c. 200 | The Mishnah sets down the Oral Torah in writing |
+| 367 | Athanasius of Alexandria gives the oldest list of the 27 books of the New Testament |
+| 5th-6th centuries | Completion of the Babylonian Talmud |
+| 610-632 | Revelation of the Qur’an to Muhammad, at Mecca and then at Medina |
+| c. 650 | The Qur’an gathered into a single volume under the caliph Uthman |
+| 8th century | Shantideva, *Bodhicaryavatara* |
+| 9th century | The great hadith collections, including those of al-Bukhari and Muslim |
+| c. 1108 | Ghazali, *Deliverance from Error* |
+| Late 12th century | The *Sefer HaBahir*, the first book of the Kabbalah |
+| Late 14th century | *The Cloud of Unknowing* |
+| 15th century | Kabir, the weaver of Benares |
+| 16th century | John of the Cross, *The Ascent of Mount Carmel* |
+| 1619 | Jacob Böhme, *The Three Principles of the Divine Essence* |
+| 1797 | The *Sefer HaBrit* of Pinchas Eliyahu Horowitz |
+
+## Glossary
+
+<p class="part-intro">The principal terms this book uses in the language of each tradition, explained at their first appearance and gathered here.</p>
+
+- **anatta** (Pali): “non-self.” There is in the human being no permanent entity, but a stream of phenomena that arise and pass away: a doctrine proper to Buddhism.
+- **atman** (Sanskrit): the deep Self of every being, eternal, which non-dualist Vedanta declares identical with Brahman.
+- **avatara** (Sanskrit): the “descent” of a god among men; Hindus recognize in Krishna an avatara of Vishnu.
+- **bhakti** (Sanskrit): loving devotion to God, one of the paths the Bhagavad-Gita brings together; the devotion of Kabir.
+- **bodhi** (Pali and Sanskrit): the Awakening, which Siddhartha Gautama attained at Bodh-Gaya and which made him the Buddha, “the Awakened One.”
+- **Brahman** (Sanskrit): the Absolute, the one Reality that the Upanishads recognize under all the divine names.
+- **dharma** (Sanskrit): the right order of the world and the duty that flows from it; for Buddhists, the Dharma is the teaching of the Buddha.
+- **dhikr** (Arabic): the “remembrance” of God, the invocation of his name, which the Qur’an gives as what sets hearts at rest.
+- **hadith** (Arabic): an account of a word or deed of the prophet Muhammad; gathered into great collections in the 9th century, the hadiths make the Sunna known.
+- **karma** (Sanskrit): the law of deeds and their fruits: every act, good or bad, bears its harvest, in this life or in another.
+- **kavana** (Hebrew): the intention of the heart, which must animate prayer and the keeping of the commandment.
+- **moksha** (Sanskrit): deliverance, the exit from the cycle of rebirths, the ultimate goal of Hinduism.
+- **Nirvana** (Sanskrit): the extinction of craving and of suffering, the “unborn, unformed,” the ultimate goal of Buddhism.
+- **niyya** (Arabic): the intention, which gives an act its worth before God.
+- **Oral Torah**: the teaching handed down from master to disciple alongside the written Torah, set down in writing in the Mishnah and commented upon in the Talmud.
+- **samsara** (Sanskrit): the cycle of rebirths, in which the being returns from existence to existence according to the weight of its deeds.
+- **Shema** (Hebrew): “Hear, O Israel” (Deuteronomy 6:4): the profession of the oneness of God, which the Jew recites morning and evening.
+- **Sunna** (Arabic): the “tradition” of the Prophet, his words and deeds, known through the hadiths; it guides the Muslim alongside the Qur’an.
+- **sura**: a chapter of the Qur’an, which has one hundred and fourteen; the first is the Fatiha, “the Opening.”
 
 ## Sources and Translations
 

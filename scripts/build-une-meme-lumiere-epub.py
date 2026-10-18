@@ -24,11 +24,11 @@ kdp = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(kdp)
 
 TEXTES = {
-    "fr": {"page_titre": "Page de titre", "debut": "Début", "droits": "Tous droits réservés.",
+    "fr": {"page_titre": "Page de titre", "dedicace": "Dédicace", "debut": "Début", "droits": "Tous droits réservés.",
            "note": "Les traductions anciennes citées (Bible du Rabbinat français, Louis Segond, Kazimirski, Burnouf, Hû, "
                    "Langlois,\nLoiseleur-Deslongchamps, Schwab) appartiennent au domaine public. Les passages traduits "
                    "pour ce livre portent la\nmention «&#8239;trad. de travail&#8239;»."},
-    "en": {"page_titre": "Title Page", "debut": "Start", "droits": "All rights reserved.",
+    "en": {"page_titre": "Title Page", "dedicace": "Dedication", "debut": "Start", "droits": "All rights reserved.",
            "note": "The older translations and editions quoted, listed in the Sources, and the World English Bible "
                    "are in the public domain; the English renderings of the French ones are the author’s. The passages "
                    "translated for this book from other sources bear the words “working translation.”"},
@@ -56,6 +56,8 @@ table { border-collapse: collapse; width: 100%; font-size: 0.75em; margin: 1em 0
 th, td { border-bottom: 1px solid #aaa; padding: 0.2em; text-align: left; vertical-align: top; }
 .centre { text-align: center; text-indent: 0; }
 .titre h1 { page-break-before: auto; font-size: 2em; margin-top: 3em; }
+.dedicace { margin-top: 5em; }
+.dedicace p { font-style: italic; text-align: center; text-indent: 0; margin: 0 1.5em; }
 .petit p { font-size: 0.8em; text-indent: 0; margin-bottom: 0.7em; text-align: left; }
 nav ol { list-style-type: none; }
 """
@@ -85,6 +87,7 @@ def construire_epub(sections):
 <div class="petit" style="margin-top:4em"><p>© {kdp.AUTEUR}, {kdp.ANNEE}. {TEXTES["droits"]}</p>
 <p>{TEXTES["note"]}</p></div>"""
     docs.append(("titre.xhtml", TEXTES["page_titre"], titre_page))
+    docs.append(("dedicace.xhtml", TEXTES["dedicace"], f'<div class="dedicace"><p>{kdp.E["dedicace"]}</p></div>'))
     for i, s in enumerate(sections):
         k = f'<span class="k">{html.escape(s["kicker"])}</span>' if s["kicker"] else ""
         corps = f'<h1>{k}{html.escape(s["titre"])}</h1>' + kdp.contenu_html(s["contenu"])
