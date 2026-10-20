@@ -34,15 +34,16 @@ if D2D:
     COUV_PDF = COUV_PDF.with_name(COUV_PDF.stem + "-D2D.pdf")
 BLEED, TRIM_W, TRIM_H = 0.125, 5.5, 8.5  # pouces
 # Épaisseur d'une page de papier crème : 0,0025 po chez KDP ; chez D2D, 0,3133 po pour 134 pages,
-# mesurés sur son gabarit (à remesurer si l'intérieur change de longueur).
+# mesurés sur son gabarit (le gabarit de 132 pages, 0,31 po, le confirme).
 PAR_PAGE = 0.3133 / 134 if D2D else 0.0025
 # D2D imprime son code-barres plus haut et plus large que KDP : boîte de 2,27 × 1,37 po, mesurée sur son
-# aperçu (x0, y0, x1, y1 en pouces depuis le coin haut gauche de la 4e rognée). Le texte se resserre au-dessus.
-ZONE_D2D = (2.98, 6.76, 5.25, 8.13)
+# aperçu (x0, y0, x1, y1 en pouces depuis le coin haut gauche de la 4e rognée). Le texte se resserre au-dessus,
+# à au moins MARGE_D2D de la boîte ; la ligne du rayon, plus longue en anglais, serre aussi ses lettres.
+ZONE_D2D, MARGE_D2D = (2.98, 6.76, 5.25, 8.13), 0.1
 CSS_D2D = """
 .dos4 { padding-top: 0.45in; font-size: 10.5pt; line-height: 1.4; }
-.dos4 .rayon { letter-spacing: 0.12em; }
-"""
+.dos4 .rayon { letter-spacing: %s; }
+""" % {"fr": "0.12em", "en": "0.06em"}[kdp.LANGUE]
 
 SYMBOLES = [(glyphe, nom) for nom, glyphe in kdp.SYMBOLES.items()]
 
@@ -232,8 +233,9 @@ def main():
           f"(attendu {W:.3f} × {H:.3f}), dos {dos:.3f} in pour {pages} pages")
     if D2D:
         x0, y0, x1, y1 = ZONE_D2D
+        zone = fitz.Rect(*((v + BLEED) * 72 for v in (x0 - MARGE_D2D, y0 - MARGE_D2D, x1, y1)))
         dans_zone = [ligne for b in d[0].get_text("dict")["blocks"] for ligne in b.get("lines", [])
-                     if fitz.Rect(ligne["bbox"]).intersects(fitz.Rect(*((v + BLEED) * 72 for v in (x0, y0, x1, y1))))]
+                     if fitz.Rect(ligne["bbox"]).intersects(zone)]
         print("Zone du code-barres D2D : " + ("libre" if not dans_zone else
               f"{len(dans_zone)} ligne(s) dedans : " + " | ".join("".join(s["text"] for s in l["spans"])[:40] for l in dans_zone)))
         return  # l'e-book ne dépend pas de l'imprimeur
