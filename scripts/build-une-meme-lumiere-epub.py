@@ -112,6 +112,7 @@ def construire_epub(sections):
         + "</li>" for f, t, sous in nav)
     nav_doc = xhtml(kdp.E["table"], f'<nav epub:type="toc" id="toc"><h1>{kdp.E["table"]}</h1><ol>{nav_li}</ol></nav>'
                     f'<nav epub:type="landmarks" hidden=""><ol><li><a epub:type="bodymatter" href="{nav[0][0]}">{TEXTES["debut"]}</a></li></ol></nav>')
+    ncx = construire_ncx(ident, nav)
     manifest = "".join(f'<item id="d{n}" href="{f}" media-type="application/xhtml+xml"/>' for n, (f, _, _) in enumerate(docs))
     spine = "".join(f'<itemref idref="d{n}"/>' for n in range(len(docs)))
     a_couverture = kdp.COVER_JPG.exists()
@@ -124,10 +125,10 @@ def construire_epub(sections):
 <meta property="dcterms:modified">{kdp.ANNEE}-10-18T00:00:00Z</meta>
 {'<meta name="cover" content="cover"/>' if a_couverture else ''}</metadata>
 <manifest><item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
-<item id="css" href="style.css" media-type="text/css"/>
+<item id="css" href="style.css" media-type="text/css"/><item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
 {'<item id="cover" href="couverture.jpg" media-type="image/jpeg" properties="cover-image"/><item id="cp" href="couverture.xhtml" media-type="application/xhtml+xml"/>' if a_couverture else ''}
 {manifest}</manifest>
-<spine>{'<itemref idref="cp"/>' if a_couverture else ''}{spine}</spine></package>"""
+<spine toc="ncx">{'<itemref idref="cp"/>' if a_couverture else ''}{spine}</spine></package>"""
     with zipfile.ZipFile(kdp.EPUB_OUT, "w") as z:
         z.writestr("mimetype", "application/epub+zip", compress_type=zipfile.ZIP_STORED)
         z.writestr("META-INF/container.xml", '<?xml version="1.0"?><container version="1.0" '
@@ -137,6 +138,7 @@ def construire_epub(sections):
         z.writestr("OEBPS/content.opf", opf, compress_type=zipfile.ZIP_DEFLATED)
         z.writestr("OEBPS/style.css", CSS_EPUB, compress_type=zipfile.ZIP_DEFLATED)
         z.writestr("OEBPS/nav.xhtml", en_xml_doc(nav_doc), compress_type=zipfile.ZIP_DEFLATED)
+        z.writestr("OEBPS/toc.ncx", ncx, compress_type=zipfile.ZIP_DEFLATED)
         if a_couverture:
             z.write(kdp.COVER_JPG, "OEBPS/couverture.jpg", compress_type=zipfile.ZIP_STORED)
             z.writestr("OEBPS/couverture.xhtml", xhtml(kdp.TITRE, f'<div style="text-align:center"><img src="couverture.jpg" alt="{kdp.TITRE}" style="max-width:100%;height:auto"/></div>'),
@@ -144,6 +146,25 @@ def construire_epub(sections):
         for f, t, corps in docs:
             z.writestr(f"OEBPS/{f}", xhtml(t, en_xml(ancrer(corps))), compress_type=zipfile.ZIP_DEFLATED)
     return len(docs), a_couverture
+
+
+def construire_ncx(ident, nav):
+    """Table NCX d'EPUB 2, que Barnes & Noble et Bookshop.org exigent encore à côté de la navigation EPUB 3."""
+    points, ordre = [], 0
+    for f, t, sous in nav:
+        ordre += 1
+        p = f'<navPoint id="n{ordre}" playOrder="{ordre}"><navLabel><text>{html.escape(t)}</text></navLabel><content src="{f}"/>'
+        for a, st in sous:
+            ordre += 1
+            p += (f'<navPoint id="n{ordre}" playOrder="{ordre}"><navLabel><text>{html.escape(st)}</text></navLabel>'
+                  f'<content src="{a}"/></navPoint>')
+        points.append(p + "</navPoint>")
+    profondeur = 2 if any(sous for _, _, sous in nav) else 1
+    return f"""<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="{kdp.LANGUE}">
+<head><meta name="dtb:uid" content="{ident}"/><meta name="dtb:depth" content="{profondeur}"/>
+<meta name="dtb:totalPageCount" content="0"/><meta name="dtb:maxPageNumber" content="0"/></head>
+<docTitle><text>{html.escape(kdp.TITRE)}</text></docTitle><navMap>{"".join(points)}</navMap></ncx>"""
 
 
 def en_xml_doc(doc):
