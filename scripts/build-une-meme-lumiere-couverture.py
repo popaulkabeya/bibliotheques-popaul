@@ -10,11 +10,13 @@ build-une-meme-lumiere-couverture.py — Couvertures de l'édition Amazon d'« U
 Le dessin est vectoriel (SVG et texte), les polices sont incorporées. La zone du code-barres,
 en bas à droite de la 4e de couverture, est laissée libre : KDP y imprime l'ISBN.
 
-Usage : python3 scripts/build-une-meme-lumiere-couverture.py [--lang=en]   (après build-une-meme-lumiere-kdp.py)
+Usage : python3 scripts/build-une-meme-lumiere-couverture.py [--lang=en] [--d2d]   (après build-une-meme-lumiere-kdp.py)
+        --d2d : couverture du broché Draft2Digital Print (…-D2D.pdf), dont le papier est plus fin.
 """
 import importlib.util
 import math
 import subprocess
+import sys
 import tempfile
 from pathlib import Path
 
@@ -26,8 +28,21 @@ _spec = importlib.util.spec_from_file_location("kdp", ROOT / "scripts" / "build-
 kdp = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(kdp)
 
+D2D = "--d2d" in sys.argv  # broché Draft2Digital Print : même dessin, dos à la cote de son gabarit
 COUV_PDF = kdp.OUT / kdp.E["fichiers"]["couverture"]
-BLEED, TRIM_W, TRIM_H, PAR_PAGE = 0.125, 5.5, 8.5, 0.0025  # pouces ; papier crème
+if D2D:
+    COUV_PDF = COUV_PDF.with_name(COUV_PDF.stem + "-D2D.pdf")
+BLEED, TRIM_W, TRIM_H = 0.125, 5.5, 8.5  # pouces
+# Épaisseur d'une page de papier crème : 0,0025 po chez KDP ; chez D2D, 0,3133 po pour 134 pages,
+# mesurés sur son gabarit (à remesurer si l'intérieur change de longueur).
+PAR_PAGE = 0.3133 / 134 if D2D else 0.0025
+# D2D imprime son code-barres plus haut et plus large que KDP : boîte de 2,27 × 1,37 po, mesurée sur son
+# aperçu (x0, y0, x1, y1 en pouces depuis le coin haut gauche de la 4e rognée). Le texte se resserre au-dessus.
+ZONE_D2D = (2.98, 6.76, 5.25, 8.13)
+CSS_D2D = """
+.dos4 { padding-top: 0.45in; font-size: 10.5pt; line-height: 1.4; }
+.dos4 .rayon { letter-spacing: 0.12em; }
+"""
 
 SYMBOLES = [(glyphe, nom) for nom, glyphe in kdp.SYMBOLES.items()]
 
@@ -176,7 +191,7 @@ def une_html():
 
 
 def page(W, H, corps, spine_pt=8):
-    css = CSS % {"W": f"{W:.4f}", "H": f"{H:.4f}", "SF": spine_pt}
+    css = CSS % {"W": f"{W:.4f}", "H": f"{H:.4f}", "SF": spine_pt} + (CSS_D2D if D2D else "")
     return f"""<!doctype html><html lang="{kdp.LANGUE}"><head><meta charset="utf-8">
 <style>{kdp.css_polices()}\n{css}</style></head><body><div class="fond"></div>{corps}</body></html>"""
 
@@ -215,7 +230,13 @@ def main():
     r = d[0].rect
     print(f"Couverture broché : {COUV_PDF.relative_to(ROOT)} — {d.page_count} page, {r.width / 72:.3f} × {r.height / 72:.3f} in "
           f"(attendu {W:.3f} × {H:.3f}), dos {dos:.3f} in pour {pages} pages")
-
+    if D2D:
+        x0, y0, x1, y1 = ZONE_D2D
+        dans_zone = [ligne for b in d[0].get_text("dict")["blocks"] for ligne in b.get("lines", [])
+                     if fitz.Rect(ligne["bbox"]).intersects(fitz.Rect(*((v + BLEED) * 72 for v in (x0, y0, x1, y1))))]
+        print("Zone du code-barres D2D : " + ("libre" if not dans_zone else
+              f"{len(dans_zone)} ligne(s) dedans : " + " | ".join("".join(s["text"] for s in l["spans"])[:40] for l in dans_zone)))
+        return  # l'e-book ne dépend pas de l'imprimeur
     # e-book : la même 1re, au rapport 1,6 ; capture à 1600 × 2560 px
     png = kdp.OUT / "couverture-ebook.png"
     ebook = f'<div class="une" style="left:0;top:0;width:1600px;height:2560px">{une_html()}</div>'
