@@ -8,8 +8,8 @@
 
 > **Note du traducteur.**
 > Ce texte est un grimoire pseudépigraphique du XIXᵉ siècle : il n’est pas d’origine mosaïque ni biblique. La présente traduction est fournie à titre documentaire et historique.
-> — Les « Sceaux » et « Tables » sont dans l’original des **planches gravées** (fig. 1 à 23) : sceaux circulaires mêlant caractères hébraïques et noms divins. Elles ne peuvent pas être restituées en texte ; seuls les numéros de figures sont indiqués.
-> — Le scan OCR de 1880 comporte des passages illisibles ; ils sont signalés par **[…]**. Les noms d’esprits et noms divins (Adonaï, Agla, Tetragrammaton, etc.) sont laissés tels quels, l’orthographe de 1880 étant elle-même flottante. Les passages en latin (souvent corrompus dans l’original même) sont conservés en italique.
+> — Les « Sceaux », « Tables » et planches de caractères de l’original (fig. 1 à 29, fig. A, et les planches des Parties I et II) sont **reproduits en images** dans la présente édition, d’après le scan haute résolution de l’exemplaire de 1880 (Internet Archive). Chaque gravure figure à sa place dans le texte.
+> — Le texte a été relu en entier sur ce scan (octobre 2026) : la quasi-totalité des passages autrefois illisibles a été restituée. Les rares mots encore couverts par des tampons d’encre dans l’exemplaire même restent signalés par **[…]**, et les lectures douteuses par (?). Les noms d’esprits et noms divins (Adonaï, Agla, Tetragrammaton, etc.) sont laissés tels quels, l’orthographe de 1880 étant elle-même flottante. Les passages en latin (souvent corrompus dans l’original même) sont conservés en italique.
 > — « N. N. » signifie *nomen nescio* : l’opérateur y insère son propre nom. « F. f. f. » abrège *Fiat, fiat, fiat* (« qu’il en soit ainsi », trois fois).
 
 ---
@@ -27,6 +27,8 @@ De la présente édition on ne peut dire que ceci : les livres dits Sixième et 
 ---
 
 # LE SIXIÈME LIVRE DE MOÏSE
+
+![Vignette de la page de titre du Sixième Livre (édition de 1880)](../Septieme-Livres-de-Moise/Gravures/fig-01.jpg)
 
 ## Magia Alba et Nigra Universalis seu Necromantia
 
@@ -68,6 +70,8 @@ Aclon, Ysheye, Channanyah, Yeschayah, EEl, Elijon, Rachmiel, Ariel, Eheye, Aysch
 
 ### Le Sceau *(voir fig. 2)*
 
+![Fig. 2 — Sceau du Chœur des Archanges ministrants](../Septieme-Livres-de-Moise/Gravures/fig-02.jpg)
+
 Les archanges ministrants les plus utiles de ce sceau sont les suivants, avec leur citation hébraïque *verbis revelatis divinitus coactivis* : Uriel, Arael, Zacharael, Gabriel, Raphael, Theoska, Zywolech, Hemohon, Yhahel, Tuwahel, Donahau, Sywaro, Samohayl, Zowanus, Ruweno, Ymoeioh, Hahowel, Tywael.
 
 **Le Mystère de tous les Mystères.** Le grand secret particulier et l’usage spécial de ce sceau, également *ex Bibliis arcanorum Thora I* : si ce Sceau est enterré là où gisent des trésors, ceux-ci remonteront d’eux-mêmes à la surface, sans qu’aucune présence soit nécessaire, *in plena lunio* [à la pleine lune].
@@ -83,6 +87,8 @@ Les archanges ministrants les plus utiles de ce sceau sont les suivants, avec le
 « Moi, N. N., serviteur de Dieu, je requiers, j’appelle et je te conjure, Esprit Phuel, par les saints Messagers et tous les Disciples du Seigneur, par les quatre saints Évangélistes et les trois saints Hommes de Dieu, et par les paroles les plus terribles et les plus saintes : Abriel, Fibriel, Zada, Zaday, Zarabo, Laragola, Lavaterium, Laroyol, Zay, Zagin, Labir, Lya, Adeo, Deus, Alon, Abay, Alos, Pieus, Ehos, Mibi, Uini, Mora, Zorad — et par ces saintes paroles : que tu viennes et paraisses devant moi, N. N., sous une belle forme humaine, et m’apportes ce que je désire. » *(Ce que le conjurateur doit nommer.)*
 
 ### Le Sceau *(voir fig. 3)*
+
+![Fig. 3 — Sceau du Chœur des Dominations](../Septieme-Livres-de-Moise/Gravures/fig-03.jpg)
 
 De ce Sceau du Chœur des Dominations, ou Armées, les plus utiles sont les suivants : Aha, Roah, Habu, Aromicha, Lemar, Patteny, Hamaya, Azoth, Hayozer, Karohel, Wezynna, Patecha, Tehom.
 
@@ -100,6 +106,8 @@ Sceau des Anges ministrants du Trône, *ex Thora III Bibliis Arcanorum*.
 
 ### Le Sceau *(voir fig. 4)*
 
+![Fig. 4 — Sceau des Anges du Trône](../Septieme-Livres-de-Moise/Gravures/fig-04.jpg)
+
 Les Anges du Trône ministrants de ce Sceau sont les suivants : Tehom, Haseha, Amarzyora, Schawayt, Chuscha, Zawar, Yahel, Labebor, Adoyahel, Schimuel, Achusaton, Schaddyl, Chamyel, Parymel, Chayo.
 
 Le secret spécial de ce Trône est aussi *ex Thora III Bibliis arcanorum script.* : porter ce Sceau sur soi vous rendra très agréable et très aimé, et défera de surcroît tous vos ennemis.
@@ -115,6 +123,8 @@ Avec leurs caractères.
 « Moi, N. N., serviteur de Dieu, je t’appelle, te requiers et te conjure, ô Esprit Anoch, par la sagesse de Salomon, par l’obéissance d’Isaac, par la bénédiction d’Abraham, par la piété de Jacob et de Noé, qui ne pécha point devant Dieu, par les serpents de Moïse, et par les douze tribus, et par les paroles les plus terribles : Dallia, Dollia, Dollion, Corfuselas, Jazy, Agzy, Ahub, Tilli, Stago, Adoth, Sima, Eotath, Aloe, Jaoth, Dilu — et par toutes les paroles par lesquelles tu peux être contraint : que tu paraisses devant moi sous une belle forme humaine, et me donnes ce que je désire. » *(Ce que le conjurateur doit nommer.)*
 
 ### Le Sceau *(voir fig. 5)*
+
+![Fig. 5 — Sceau des Chérubins et Séraphins](../Septieme-Livres-de-Moise/Gravures/fig-05.jpg)
 
 Les Chérubins et Séraphins ministrants les plus obligeants de ce Sceau sont les suivants, avec leur appel hébraïque : Anoch, Sewachar, Chaylon, Esor, Yaron, Oseny, Yagelor, Ehym, Maakyel, Echad, Yalyon, Yagar, Ragat, Ymmat, Chabalym, Schadym.
 
@@ -132,6 +142,8 @@ Sceau des Anges de la Puissance.
 
 ### Le Sceau *(voir fig. 6)*
 
+![Fig. 6 — Sceau des Anges de la Puissance](../Septieme-Livres-de-Moise/Gravures/fig-06.jpg)
+
 Les Anges de Puissance les plus secourables, avec leurs *verbis hebraicis citationes divinae ex Thora Vta*, sont les suivants : Schoel, Hael, Sephiroth, Thamy, Schamayl, Yeschah, Holyl, Yomelo, Hadiam, Mazbaz, Elohaym.
 
 Le secret spécial de ce Sceau est le suivant, *ex Thora V. D. B. A.* : si ce Sceau est posé sur un malade, en pleine et vraie foi, il le rétablira — si, *nota bene*, il n’a pas vécu le plein nombre de ses jours. C’est pourquoi on l’appelle le **Sceau de la Puissance**.
@@ -147,6 +159,8 @@ Le Sceau des Anges de Pouvoir, *seu Potestatum, ex Thora VI Bibliis arcanorum*, 
 « Moi, N. N., serviteur de Dieu, je requiers, j’appelle et je te conjure, Esprit Alymon, par les paroles les plus redoutables : Sather, Ehomo, Geno, Poro, Jehovah, Elohim, Volnah, Deoach, Aloulam, Ophiel, Zophiel, Sophiel, Habriel, Eloha, Alesimus, Dileth, Melohim — et par toutes les plus saintes paroles par lesquelles tu peux être vaincu : que tu paraisses devant moi sous une douce et belle forme humaine, et accomplisses ce que je te commande, aussi sûrement que Dieu viendra juger les vivants et les morts. Fiat, Fiat, Fiat. »
 
 ### Le Sceau *(voir fig. 7)*
+
+![Fig. 7 — Sceau des Puissances (Sixième Mystère)](../Septieme-Livres-de-Moise/Gravures/fig-07.jpg)
 
 Les Anges de Pouvoir les plus obéissants, *seu Potestates*, avec leurs citations divines en paroles hébraïques, sont, pour les quatre éléments, les suivants : Schummyel, Alymon, Mupiel, Symnay, Semanglaf, Taftyah, Melech, Seolam, Waed, Sezah, Safyn, Kyptip, Taftyarohel, Aeburatiel, Anyam, Bymnam. Tel est le mystère, ou Sceau, des Anges de la Force.
 
@@ -164,6 +178,8 @@ Des Anges les plus obéissants, *Coeli Coelorum Legionum*, sur les Anges des Sep
 
 ### Le Sceau *(voir fig. 8)*
 
+![Fig. 8 — Le Septième Sceau secret, des Sept Planètes](../Septieme-Livres-de-Moise/Gravures/fig-08.jpg)
+
 Les Anges et Esprits les plus obéissants de ce Sceau des Sept Planètes sont les suivants : Ahaeb, Baneh, Yeschnath, Hoschiah, Betodah, Leykof, Yamdus, Zarenar, Sahon.
 
 Ce Sceau, posé sur la terre au trésor, ou placé dans les ouvrages d’une mine, révélera tout le précieux contenu de la mine. *Ex Thora VII Arcanorum.*
@@ -178,11 +194,15 @@ Ce Sceau, posé sur la terre au trésor, ou placé dans les ouvrages d’une min
 
 # LE SEPTIÈME LIVRE DE MOÏSE
 
+![Fig. 9 — Sceau de la page de titre du Septième Livre](../Septieme-Livres-de-Moise/Gravures/fig-09.jpg)
+
 ## La Première Table — les Esprits de l’Air
 
 *(voir fig. 10)*
 
-Texte inscrit dans le sceau : *Jehovah — Père — Deus — … — Adonay — Je te conjure — Eloha, je te cite — par Adonay — par Jehovah.*
+![Fig. 10 — Première Table : les Esprits de l’Air](../Septieme-Livres-de-Moise/Gravures/fig-10.jpg)
+
+Texte inscrit dans le sceau : *Jehovah, Père — Deus Schadday — Deus Adonay, Elohe, je te cite par Jehovah — Eead, je te conjure par Adonay.*
 
 Porter sur soi la Première Table des Esprits de l’Air — esprits aussi prompts à secourir que la pensée — délivre celui qui la porte de toute nécessité.
 
@@ -190,13 +210,17 @@ Porter sur soi la Première Table des Esprits de l’Air — esprits aussi promp
 
 *(voir fig. 11)*
 
+![Fig. 11 — Deuxième Table : les Esprits du Feu](../Septieme-Livres-de-Moise/Gravures/fig-11.jpg)
+
 « Aha, je te conjure, Aha, par Eheye ; par Ihros, Eheye ; par Agla, Aysch, Jehovah, je te conjure : que tu m’apparaisses. »
 
-Autour du sceau : *Eheyeh — Aha — … — Schvwym — Asmlh — Chartye — Jehovah — Veloheij — … — Schadey — […]*
+Autour du sceau : *Sursamor — Dehschyfa* (en haut), *Zywah* et *Thoayl* (sur les montants), *Yehoel — Saruyel — Eryhon* (en bas) ; au centre, les cercles *Yae Eheye*, *Aysh* et *Aha Eheye*.
 
 ## La Troisième Table — les Esprits de l’Eau
 
 *(voir fig. 12)*
+
+![Fig. 12 — Troisième Table : les Esprits de l’Eau](../Septieme-Livres-de-Moise/Gravures/fig-12.jpg)
 
 « J’appelle et je te commande, Chananya ; je te conjure, Yeschayah ; par Dieu Tetragrammaton, par Alpha et Oméga, Eloh — et te voilà contraint par Adonaï. »
 
@@ -206,7 +230,9 @@ La Troisième Table apporte une grande fortune par l’eau, et ses esprits fourn
 
 *(voir fig. 13)*
 
-« Moi, N. N., je te commande, Aziel ; moi, N. N., serviteur de Dieu, je te conjure par Otheos, Athanatos, Agios, et par les noms par lesquels Aaron fut cité et appelé […] Agios. Zebaoth. »
+![Fig. 13 — Quatrième Table : les Esprits de la Terre](../Septieme-Livres-de-Moise/Gravures/fig-13.jpg)
+
+« Moi, N. N., je te commande, Awijel, par Otheos comme aussi par Elmez, par Agios. — Moi, N. N., serviteur de Dieu, je te conjure, Ahenatos Elijon, comme aussi Adon fut cité et appelé Zebaoth. »
 
 Cette Quatrième Table donnera les trésors de la terre si on la dépose dans la terre. Ses esprits livrent les trésors terrestres en tout temps.
 
@@ -214,21 +240,27 @@ Cette Quatrième Table donnera les trésors de la terre si on la dépose dans la
 
 *(voir fig. 14)*
 
-« Moi, N. N., j’ordonne, je commande et je te conjure, Sadol, par Hother ; Vednij, par Sabaoth ; […] par Helioren ; Jaho, par la Vérité Jehovah ; Rawa, Alha : que vous paraissiez devant moi sous forme humaine, aussi vrai que Daniel vainquit et confondit Baal. F. f. f. »
+![Fig. 14 — Cinquième Table : Saturne](../Septieme-Livres-de-Moise/Gravures/fig-14.jpg)
 
-[…] de la Cinquième Table de Saturne servira en toute chose.
+« Moi, N. N., j’ordonne, je commande et je te conjure, Saalij, par Agios ; Scdul, par Sother ; Vednij, par Sabaot ; Sove, Amonzion, Adoij, par Heloim ; Jaho, par la Vérité Jehovah ; Kawa, Alha : que vous paraissiez devant moi sous forme humaine, aussi vrai que Daniel vainquit et confondit Baal. F. f. f. »
+
+Les Esprits de la Cinquième Table de Saturne serviront en toute chose selon le souhait ; leur Table apporte la chance au jeu.
 
 ## La Sixième Table — Jupiter
 
 *(voir fig. 15)*
 
-« Je te conjure […] par l’Alphabet céleste […] et Tetragrammaton ; Zeno, par le Paraclet ; Obel, par Orlenius ; Lima, par Agla : que vous obéissiez, que vous paraissiez devant moi et accomplissiez mon désir — ainsi, dans et par le nom Elion […]. F. f. f. »
+![Fig. 15 — Sixième Table : Jupiter](../Septieme-Livres-de-Moise/Gravures/fig-15.jpg)
+
+« Je te conjure, Esprit Ofel, par Alpha et Oméga ; Lezo et Yschirios, Ohin, Ission, Niva, par Tetragramaton ; Zeno, par le Paraclet ; Ohel, par Orlenius ; Lima, par Agla : que vous obéissiez, que vous paraissiez devant moi et accomplissiez mon désir — ainsi, dans et par le nom Elion, que Moïse nomma. F. f. f. »
 
 La Sixième Table de Jupiter aide à gagner les procès et à surmonter les querelles et les litiges ; ses esprits sont en tout temps prêts à porter assistance.
 
 ## La Septième Table — les Esprits de Mars
 
 *(voir fig. 16)*
+
+![Fig. 16 — Septième Table : les Esprits de Mars](../Septieme-Livres-de-Moise/Gravures/fig-16.jpg)
 
 « N. N., je te cite, Esprit Emol, par Deus Sachnaton ; Luil, par Acumea ; Ltriji, par Ambriel ; Tijlaij, par Ehos ; par Jeha, par Zora ; Ajreh, par Awoth : que vous paraissiez devant moi sous une belle forme humaine et accomplissiez mon désir — ainsi, en vérité, dans et par le nom qu'Aaron entendit et qui fut préparé pour lui. F. f. f. »
 
@@ -238,6 +270,8 @@ Le Septième Sceau de Mars porte bonheur en cas de querelles. Les Esprits de Mar
 
 *(voir fig. 17)*
 
+![Fig. 17 — Huitième Table : les Esprits du Soleil](../Septieme-Livres-de-Moise/Gravures/fig-17.jpg)
+
 « Moi, N. N., je te conjure, Wijch, par Dalia ; Jka, par Doluth ; Auet, par Dilu ; Veal, par Anub ; Meho, par Igfa ; Ymij, par Elon : que vous paraissiez devant moi — aussi vrai que Zebaoth, que Moïse nomma, et tous les fleuves d’Égypte furent changés en sang. »
 
 La Huitième Table des Esprits du Soleil aide à atteindre les places d’honneur et la richesse ; ses esprits donnent aussi l’or et les trésors.
@@ -245,6 +279,8 @@ La Huitième Table des Esprits du Soleil aide à atteindre les places d’honneu
 ## La Neuvième Table — les Esprits de Vénus
 
 *(voir fig. 18)*
+
+![Fig. 18 — Neuvième Table : les Esprits de Vénus](../Septieme-Livres-de-Moise/Gravures/fig-18.jpg)
 
 « Beta, Kijmah, Yamb, Yheloruvesopijhael — je t’appelle, Esprit Awel, par Dieu Tetragrammaton ; Uhal, par Pomamiach : que vous obéissiez à mes ordres et accomplissiez mes désirs — ainsi, en vérité, dans et par le nom Esercheije, que Moïse nomma, et sur quoi tomba une grêle telle qu’on n’en avait pas connue depuis le commencement du monde. F. f. f. »
 
@@ -254,6 +290,8 @@ La Neuvième Table des Esprits de Vénus rend aimé à tous égards et fait conn
 
 *(voir fig. 19)*
 
+![Fig. 19 — Dixième Table : les Esprits de Mercure](../Septieme-Livres-de-Moise/Gravures/fig-19.jpg)
+
 « Petasa. Abor. Havaashar. N. N. te cite, Esprit Yloij, par Dieu, Dieu Adonaij ; Ymah, par Dieu Tetragrammaton ; Rawa, par Dieu Emmanuel ; Ahaij, par Athanatos : que tu paraisses devant moi — aussi vrai que dans et par le nom d’Adonaï, que Moïse prononça, et les sauterelles parurent. Fiat, fiat, fiat. »
 
 La Dixième Table des Esprits de Mercure donne la richesse dans la chimie [l’alchimie]. Ces esprits procurent les trésors de la mine.
@@ -262,6 +300,8 @@ La Dixième Table des Esprits de Mercure donne la richesse dans la chimie [l’a
 
 *(voir fig. 20)*
 
+![Fig. 20 — Onzième Table](../Septieme-Livres-de-Moise/Gravures/fig-20.jpg)
+
 « Moi, N. N., je te cite, Esprit Yhaij, par El ; Yvaij, par Elohim ; Ileh, par Elho ; Kijlij, par Zebaoth ; Taijn, Iseij, par Tetragrammaton ; Jeha, par Zadaij ; Ahel, par Agla : que vous obéissiez à mes ordres — aussi vrai que dans et par le nom Schemesumatie, qu’invoqua Josué, et le soleil s’arrêta dans sa course. Fiat, f. f. f. »
 
 La Onzième Table donne chance et fortune ; ses esprits donnent les trésors de la mer.
@@ -269,6 +309,8 @@ La Onzième Table donne chance et fortune ; ses esprits donnent les trésors de 
 ## La Douzième Table — du Schemhamforasch
 
 *Sur tous les Esprits de la Magia Alba et Nigra.* *(voir fig. 21)*
+
+![Fig. 21 — Douzième Table : du Schemhamforasch](../Septieme-Livres-de-Moise/Gravures/fig-21.jpg)
 
 « Moi, N. N., je te cite et te conjure, Esprit du Schemhamforasch, par les soixante-douze saints noms de Dieu : que tu paraisses devant moi et accomplisses mon désir — aussi vrai que dans et par le nom Emmanuel, que chantèrent les trois jeunes gens, Schadrach, Meschach et Abed-Nego, dans la fournaise ardente d’où ils furent délivrés. F. f. f. »
 
@@ -279,6 +321,8 @@ Cette Douzième Table, posée sur la Table ou le Sceau des Esprits, les contrain
 ## La Citation générale
 
 *Nigromantia, seu Magia Alba et Nigra — traduit ex Thora XXta Biol. Arcan.* *(voir fig. 22)*
+
+![Fig. 22 — Cercle de la Citation générale](../Septieme-Livres-de-Moise/Gravures/fig-22.jpg)
 
 « Aba, Jehovah, Agla, Aschaij, Chad, Yah, Saddaij, Yedreh, Aschre, Noosedu, Zawa, Agla. » — *Prononcer ici les noms des Anges du Sceau ou de la Table, et leurs noms propres.*
 
@@ -308,6 +352,8 @@ Ceux-ci doivent être cités au moyen de la Douzième Table, au moment d’une �
 
 Aux Esprits ministrants de **Moloch** (*familiarum Ammonitarum*) correspond le Sceau de génération suivant, pour tous services, *caracteristico obedientiale*. *(voir fig. 23)*
 
+![Fig. 23 — Sceau de génération des esprits de Moloch](../Septieme-Livres-de-Moise/Gravures/fig-23.jpg)
+
 Ce Sceau, au moment de la Citation, doit être écrit sur parchemin et tenu dans la main droite. Mais il ne doit pas être lu.
 
 ---
@@ -332,15 +378,15 @@ Les songes rapportés dans la Bible sont nombreux et remarquables. La voix par l
 
 Les visions des anciens, selon le témoignage de Moïse, étaient presque toujours des songes. Nombres 12, 6 : « Et il dit : Écoutez maintenant mes paroles : S’il y a parmi vous un prophète, moi, l’Éternel, je me ferai connaître à lui dans une vision, et je lui parlerai dans un songe. » Job 33, 15-16 : « Dans un songe, dans une vision de la nuit, quand un profond sommeil tombe sur les hommes, dans les assoupissements sur la couche ; alors il ouvre l’oreille des hommes et scelle leur instruction. » 1 Rois 3, 5 : « À Gabaon, l’Éternel apparut à Salomon dans un songe pendant la nuit : et Dieu dit : Demande ce que je dois te donner. Et Salomon dit : Tu as témoigné à ton serviteur David, mon père, une grande miséricorde, selon qu’il a marché devant toi dans la vérité, dans la justice et dans la droiture de cœur envers toi ; et tu lui as conservé cette grande bienveillance, etc. ; donne donc à ton serviteur un cœur intelligent pour juger ton peuple, afin que je discerne le bien du mal : car qui pourrait juger ton peuple, ce peuple si nombreux ? » Genèse 20, 3 : « Mais Dieu vint vers Abimélec dans un songe pendant la nuit, et lui dit : Voici, tu n’es qu’un homme mort, à cause de la femme que tu as prise ; car elle est la femme d’un homme ; et Dieu lui dit dans un songe : Oui, je sais que tu as fait cela dans l’intégrité de ton cœur ; aussi t’ai-je retenu de pécher contre moi. » Genèse 31, 24 : « Et Dieu vint vers Laban le Syrien dans un songe pendant la nuit, et lui dit : Garde-toi de parler à Jacob ni en bien ni en mal. » Les songes de Joseph concernant ses frères sont également remarquables. Genèse 37, 6 : « Et Joseph eut un songe, et il le raconta à ses frères : et ils le haïrent encore davantage ; et il leur dit : Écoutez, je vous prie, ce songe que j’ai eu : Car voici, nous étions à lier des gerbes dans le champ, et voici, ma gerbe se leva et se tint debout : et voici, vos gerbes se tenaient tout autour et se prosternaient devant ma gerbe. Et ses frères lui dirent : Régnerais-tu donc sur nous ? ou dominerais-tu donc sur nous ? » Et il eut encore un autre songe, et il le raconta aux siens et dit : « Voici, j’ai eu encore un songe ; et voici, le soleil et la lune et les étoiles se prosternaient devant moi. Et son père le réprimanda, et lui dit : Qu’est-ce que ce songe que tu as eu ? Faudra-t-il que moi et ta mère et tes frères, nous venions nous prosterner à terre devant toi ? »
 
-L’histoire sacrée prouve qu’après que Joseph eut été vendu par ses frères aux marchands égyptiens, il parvint effectivement […] à la cour de Pharaon. Le pouvoir de Joseph d’interpréter les songes se manifesta d’abord par l’interprétation des songes de l’échanson et du panetier pendant qu’il était en prison, Genèse 40 ; de même aussi par celle des songes du roi Pharaon, des sept vaches grasses et maigres qui sortaient de l’eau, et des sept épis pleins et beaux et des sept épis maigres et flétris, Genèse 41, 1. Dans le Nouveau Testament sont mentionnés d’autres songes par lesquels Dieu voulut parler à ses fidèles. C’est de cette manière que Joseph, l’époux de Marie, fut averti par un ange (Matthieu 1, 20) qu’elle concevrait du Saint-Esprit et enfanterait un fils qui deviendrait le Sauveur du monde ; puis de nouveau, qu’il devait prendre l’enfant et fuir en Égypte pour échapper au dessein meurtrier d’Hérode ; et après la mort d’Hérode, qu’il devait retourner à Nazareth (Matthieu 2, 12-19). De la même manière, les trois mages d’Orient furent avertis en songe de ne pas retourner vers Hérode, mais de regagner leur pays par un autre chemin. Les Apôtres eurent fréquemment des visions pendant la nuit. Ainsi, par exemple, il fut commandé à Paul d’aller en Macédoine (Actes 16, 9). Et dans le même livre du Nouveau Testament (18, 9), nous lisons : « Alors le Seigneur parla à Paul, la nuit, par une vision : Ne crains point, mais parle, et ne te tais point. » Beaucoup de passages semblables pourraient être cités, par exemple 23, 11 ; 27, 23, etc., etc.
+L’histoire sacrée prouve qu’après que Joseph eut été vendu par ses frères aux marchands égyptiens, il devint effectivement leur roi à la cour de Pharaon. Le pouvoir de Joseph d’interpréter les songes se manifesta d’abord par l’interprétation des songes de l’échanson et du panetier pendant qu’il était en prison, Genèse 40 ; de même aussi par celle des songes du roi Pharaon, des sept vaches grasses et maigres qui sortaient de l’eau, et des sept épis pleins et beaux et des sept épis maigres et flétris, Genèse 41, 1. Dans le Nouveau Testament sont mentionnés d’autres songes par lesquels Dieu voulut parler à ses fidèles. C’est de cette manière que Joseph, l’époux de Marie, fut averti par un ange (Matthieu 1, 20) qu’elle concevrait du Saint-Esprit et enfanterait un fils qui deviendrait le Sauveur du monde ; puis de nouveau, qu’il devait prendre l’enfant et fuir en Égypte pour échapper au dessein meurtrier d’Hérode ; et après la mort d’Hérode, qu’il devait retourner à Nazareth (Matthieu 2, 12-19). De la même manière, les trois mages d’Orient furent avertis en songe de ne pas retourner vers Hérode, mais de regagner leur pays par un autre chemin. Les Apôtres eurent fréquemment des visions pendant la nuit. Ainsi, par exemple, il fut commandé à Paul d’aller en Macédoine (Actes 16, 9). Et dans le même livre du Nouveau Testament (18, 9), nous lisons : « Alors le Seigneur parla à Paul, la nuit, par une vision : Ne crains point, mais parle, et ne te tais point. » Beaucoup de passages semblables pourraient être cités, par exemple 23, 11 ; 27, 23, etc., etc.
 
 ## Le récit de la création
 
 Commençons par l’histoire de la création, telle que Moïse l’a consignée. « Au commencement, Dieu créa le ciel et la terre. »
 
-Là réside la grande cause première. Dieu est un être incréé — le ciel et la terre sont les premières choses créées ; le monde est la première chose qui fut faite de Dieu. Quant à une seconde antithèse, Moïse parle de la lumière et des ténèbres : « Et les ténèbres étaient sur la face de la terre, et Dieu dit : Que la lumière soit, et la lumière fut. » Ici encore, il s’agit de la lumière en tant que création, laquelle toutefois avait pour opposé les ténèbres ; c’est pourquoi les anciens Égyptiens regardaient les ténèbres comme le commencement de toutes choses. Même selon les écrits de Moïse, telle était la doctrine égyptienne, car il dit : « Les ténèbres étaient sur la face de l’abîme. » Mais si la doctrine égyptienne, en sa première conception, peut être regardée comme une bonne autorité, leur erreur prit naissance en ceci, qu’ils admirent les ténèbres avant la lumière ; de même l’erreur semblable des Perses, en ce qu’ils admirent que la lumière fut créée avant les ténèbres, l’une avant l’autre. […], comme Moïse le dit clairement : « Et Dieu sépara la lumière d’avec les ténèbres ; et Dieu appela la lumière jour, et il appela les ténèbres nuit. »
+Là réside la grande cause première. Dieu est un être incréé — le ciel et la terre sont les premières choses créées ; le monde est la première chose qui fut faite de Dieu. Quant à une seconde antithèse, Moïse parle de la lumière et des ténèbres : « Et les ténèbres étaient sur la face de la terre, et Dieu dit : Que la lumière soit, et la lumière fut. » Ici encore, il s’agit de la lumière en tant que création, laquelle toutefois avait pour opposé les ténèbres ; c’est pourquoi les anciens Égyptiens regardaient les ténèbres comme le commencement de toutes choses. Même selon les écrits de Moïse, telle était la doctrine égyptienne, car il dit : « Les ténèbres étaient sur la face de l’abîme. » Mais si la doctrine égyptienne, en sa première conception, peut être regardée comme une bonne autorité, leur erreur prit naissance en ceci, qu’ils admirent les ténèbres avant la lumière ; de même l’erreur semblable des Perses, en ce qu’ils admirent que la lumière fut créée avant les ténèbres, l’une avant l’autre. La lumière se tient auprès des ténèbres comme son opposé naturel, créée et présente, comme Moïse le dit clairement : « Et Dieu sépara la lumière d’avec les ténèbres ; et Dieu appela la lumière jour, et il appela les ténèbres nuit. »
 
-La Bible signale aussi une autre antithèse dans les premiers germes et figures de la terre, à savoir l’eau et l’esprit — l’eau comme matière et germe du figuratif, et l’esprit, l’Elohim, comme principe actif et fécondant : « Et l’esprit de Dieu se mouvait sur la face des eaux. » Des vues unilatérales entraînèrent les premiers philosophes dans de nombreuses erreurs. C’est ainsi que Thalès fit tout sortir de l’eau et méconnut le tout spirituel et actif, en quoi il fut imité par les champions ultérieurs du matérialisme. L’autre vue unilatérale consiste à tenir toute chose pour spirituelle et à ne regarder la matière que comme une vaine abstraction (*caput mortuum* [tête morte]), ce qui fut le cas, dès la plus ancienne période des temps, chez les spiritualistes et les défenseurs du spiritualisme. Moïse montre donc sa supériorité sur tous les disciples des anciens enseignements […], aussi bien que sur les sectes plus modernes, en ce qu’il fut éclairé par la sagesse divine et représenta chaque sujet non d’une manière partielle, mais dans sa vraie portée et sa vraie signification : il attribua à la matière sa juste valeur et plaça le spirituel à côté d’elle. De plus, Moïse a donné le récit de la création dans un langage beau et captivant ; comme par exemple au sujet des eaux : la différence entre l’humide et le sec, et comment la terre sèche sortit de l’eau ; comment l’herbe et les plantes portant semence, et les arbres fruitiers, crûrent sur la terre ; comment l’immense abîme fut rempli d’animaux vivants et mouvants, ainsi que les oiseaux qui volent dans le firmament du ciel ; comment la terre enfin produisit des animaux vivants, chacun selon son espèce, et en dernier lieu, comment Dieu fit l’homme « à son image », à qui il donna « domination sur les poissons de la mer, sur les oiseaux du ciel, sur le bétail, et sur tout reptile qui rampe sur la terre ».
+La Bible signale aussi une autre antithèse dans les premiers germes et figures de la terre, à savoir l’eau et l’esprit — l’eau comme matière et germe du figuratif, et l’esprit, l’Elohim, comme principe actif et fécondant : « Et l’esprit de Dieu se mouvait sur la face des eaux. » Des vues unilatérales entraînèrent les premiers philosophes dans de nombreuses erreurs. C’est ainsi que Thalès fit tout sortir de l’eau et méconnut le tout spirituel et actif, en quoi il fut imité par les champions ultérieurs du matérialisme. L’autre vue unilatérale consiste à tenir toute chose pour spirituelle et à ne regarder la matière que comme une vaine abstraction (*caput mortuum* [tête morte]), ce qui fut le cas, dès la plus ancienne période des temps, chez les spiritualistes et les défenseurs du spiritualisme. Moïse montre donc sa supériorité sur tous les disciples de la sagesse des temples égyptiens, aussi bien que sur les sectes plus modernes, en ce qu’il fut éclairé par la sagesse divine et représenta chaque sujet non d’une manière partielle, mais dans sa vraie portée et sa vraie signification : il attribua à la matière sa juste valeur et plaça le spirituel à côté d’elle. De plus, Moïse a donné le récit de la création dans un langage beau et captivant ; comme par exemple au sujet des eaux : la différence entre l’humide et le sec, et comment la terre sèche sortit de l’eau ; comment l’herbe et les plantes portant semence, et les arbres fruitiers, crûrent sur la terre ; comment l’immense abîme fut rempli d’animaux vivants et mouvants, ainsi que les oiseaux qui volent dans le firmament du ciel ; comment la terre enfin produisit des animaux vivants, chacun selon son espèce, et en dernier lieu, comment Dieu fit l’homme « à son image », à qui il donna « domination sur les poissons de la mer, sur les oiseaux du ciel, sur le bétail, et sur tout reptile qui rampe sur la terre ».
 
 ## L’Adam céleste et la chute — extrait du MAGIKON
 
@@ -616,6 +662,8 @@ Les formules de citation contenues dans ce livre ne doivent être prononcées qu
 
 *(caractères hébraïques — voir fig.)*
 
+![Pectoral de Moïse](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-01.jpg)
+
 Ces mots hébreux se prononcent comme suit :
 
 **Jehova, aser Ebeje Cether Eleion Eheje.**
@@ -628,17 +676,23 @@ Ce Pectoral et ce Casque, prononcés, signifient la Sainteté.
 
 **Bietol mare aotitas hame donene ariaeroh.**
 
+![Casque de Moïse et d’Aaron](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-02.jpg)
+
 Ce sont là les noms dont les anciens Égyptiens usaient au lieu du nom ineffable d’Asser Oriel ; on les appelle « le Feu de Dieu » et « Fort Rocher de la Foi ». Quiconque les porte sur soi, gravés sur une plaque d’or, ne mourra pas de mort subite.
 
 ### Pectoral d’Aaron
 
 **Sadajai amara elon hejiana vananel phenatori ebeoel tottfal.**
 
+![Pectoral d’Aaron](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-03.jpg)
+
 C’est-à-dire : un Prince de Miens, l’autre conduit à Jehova *[sic — texte corrompu dans l’original]*. Ainsi ce Dieu parla à Moïse.
 
 ### Loi magique de Moïse
 
 *(caractères hébraïques — voir fig.)*
+
+![Loi magique de Moïse](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-04.jpg)
 
 **Aila himel adonay amara Zebaoth cadas yeseraije haralios.**
 
@@ -647,6 +701,8 @@ Ces paroles sont terribles ; elles assembleront les démons ou les esprits, ou b
 ### Inscription
 
 *(planche de caractères magiques — voir fig.)*
+
+![L’Inscription sur le Calice de sainteté](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-05.jpg)
 
 ### Calice de sainteté
 
@@ -658,11 +714,15 @@ Ces paroles sont grandes et puissantes. Ce sont les noms du Créateur et les car
 
 *(caractères hébraïques — voir fig.)*
 
+![Conjuration d’Éléazar](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-06.jpg)
+
 **Uniel dilatan Sadai paneim usamigaras caliphos sasna panoi soim.**
 
 Ces noms, si quelqu’un désire accomplir quelque chose par les quatre éléments ou par toute autre chose qui s’y rattache, se montreront efficaces ; mais ils ne peuvent être traduits en langue vulgaire.
 
 ### Renvoi d’Éléazar, fils d’Aaron
+
+![Renvoi d’Éléazar, fils d’Aaron](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-07.jpg)
 
 **Leay yli Ziarite zelobabe et negoramy Zien latebm damn mecha timeti ozira.**
 
@@ -672,11 +732,15 @@ Par ce renvoi, toutes choses se dissolvent en néant.
 
 *(caractères hébraïques — voir fig.)*
 
+![Citation de Germuthsai, ou Léviathan](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-08.jpg)
+
 **Lagumen Emanuel therefori mechelag laigel yazi Zazael.**
 
 Par ces noms, Éléazar liait et déliait les esprits de l’air.
 
 ### Renvoi du Léviathan
+
+![Renvoi du Léviathan](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-09.jpg)
 
 **Malcoh, Sadaij, cubor Damabiah menkie lejabel maniah ijejavai.**
 
@@ -684,17 +748,23 @@ C’est-à-dire : Esprit fort et puissant de l’enfer, retourne dans tes œuvre
 
 ### Sorcellerie de Balaam
 
+![Sorcellerie de Balaam](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-10.jpg)
+
 **Meloch, hel alokim tiphret hod jesath.**
 
 Ceci attire la vengeance sur les ennemis, et ne doit pas être tenu pour peu de chose, car il contient les noms des Sept Tables de l’Arche d’Alliance.
 
 ### Égypte
 
+![Égypte](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-11.jpg)
+
 **Tanabtain ainaten pagnij aijolo asnia hicbaifale matae habonr hijcero.**
 
 Par ces paroles, Moïse parla aux sorciers en Égypte. Elles signifient : « le Seigneur apparut à son serviteur dans le feu, pour sceller la terre en ses quatre quartiers, et la terre inférieure. »
 
 ### Conjuration des Lois de Moïse
+
+![Conjuration des Lois de Moïse](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-12.jpg)
 
 **Aijcon dunsanas pethanir thrijgnir ijon cijna naterlavis pistoin.**
 
@@ -704,15 +774,21 @@ Si vous voulez prononcer ces paroles, vous devez jeûner trois jours, et vous po
 
 *(caractères hébraïques — voir fig.)*
 
+![Citation générale de Moïse sur tous les esprits](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-13.jpg)
+
 **Ellon goeua adonaij cadus ebreel, eloijela ngiel, aijoni sachadon, essuselas Elohim, delion jau elijula, delia jsiri Zazael Palielmad, Umiel, onala dilatum Sadaij, alma Jod Jael Thama.**
 
 Cette citation est grande et puissante : ce sont les noms du Créateur, et les noms des deux Chérubins du Propitiatoire, Zarall et Jael.
 
 ### Renvoi de Moïse
 
+![Renvoi de Moïse](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-14.jpg)
+
 **Wattedim bachaqda nesahbad Jehod Elohim asser eheje Zallm.**
 
 ### Seconde citation générale de Moïse sur tous les esprits
+
+![Seconde citation générale de Moïse](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-15.jpg)
 
 **Ahezeraije comitejon Sede leji thomos Sasmagata bij ol ycos Joaa Eloij Zawaijm.**
 
@@ -722,19 +798,27 @@ Telles sont les hautes et puissantes paroles que Moïse employa pour l’éveil 
 
 *(planche de caractères — voir fig.)*
 
+![Caractères sur le côté gauche de l’Arche d’Alliance](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-16.jpg)
+
 ### Caractères sur le côté droit
 
 Écoute, ô Israël, le Seigneur notre Dieu est le seul Dieu.
 
+![Caractères sur le côté droit de l’Arche d’Alliance](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-17.jpg)
+
 ### L’esprit conjuré apparaît dans une colonne de feu
 
 **Mqa affabij Zien, Jeramije Latabi damajesano noij lijoij Leaij giy ijro Eyloij liecle loate Eli Eli mecharamethy rijbisassa fu azira reacha.**
+
+![L’esprit conjuré apparaît dans une colonne de feu](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-18.jpg)
 
 Cette citation nomme les douze mauvais esprits de l’homme, par le secours du Père, ou de l’Eli hébreu ; elle est terrible.
 
 ### L’esprit apparaît dans une colonne de nuée
 
 **Kahai couor anuhec Zelohae zoie hebei ede nego raneij hahabe gizaon.**
+
+![L’esprit apparaît dans une colonne de nuée](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-19.jpg)
 
 ### Appendice à la Citation générale de Moïse sur tous les esprits
 
@@ -744,13 +828,19 @@ Nous, N. N., dans ce cercle, conjurons et citons cet esprit Fatenovenia, avec to
 
 **Ablan, ageistan, Zoratan, Juran, nondieras portaephias pognij aizamai.**
 
+![Trois nouveaux signes : grenouilles, poux et pestilence](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-20.jpg)
+
 ### Trois nouveaux signes : peste du bétail, variole noire et grêle
 
 **Ararita Zaijn thanain, miorato raepi saihonik pethanit castas lucias calbera natur sigaim.**
 
+![Trois nouveaux signes : peste du bétail, variole noire et grêle](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-21.jpg)
+
 ### Sauterelles et ténèbres
 
 *(caractères hébraïques — voir fig.)*
+
+![Sauterelles et ténèbres](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-22.jpg)
 
 **Hassaday hayloes, Lucasim elayh jaoihaga, yoinino, nepactitas barne lud casty.**
 
@@ -758,15 +848,21 @@ Nous, N. N., dans ce cercle, conjurons et citons cet esprit Fatenovenia, avec to
 
 **Baba cuci hiebu ziadhi elenebet na vena vie achya salna.**
 
+![L’esprit apparaît dans le buisson ardent](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-23.jpg)
+
 L’esprit qui apparaît ici est Dieu lui-même.
 
 ### Moïse change le bâton en serpent
 
 **Micrata raepi Sathonik pethanisch, pistan ijttingelhijga tign ijghizian temgarousalm castas Lacias astas ijecon cijna caltera Caphas.**
 
+![Moïse change le bâton en serpent](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-24.jpg)
+
 ### Moïse change l’eau en sang
 
 **Atonragl manadel slopeiebas malin bafath hajadosch ijberasr ebreel amphia, demisrael maelle leagijas amanita.**
+
+![Moïse change l’eau en sang](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-25.jpg)
 
 ## Citation principale sur tous les esprits ministrants de l’air et de la terre
 
@@ -784,11 +880,15 @@ Sur quoi un halo de lumière vous environnera, et lorsque vous percevrez cette l
 
 *(caractères hébraïques — voir fig.)*
 
+![Grande citation de la Clavicule de Salomon](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-26.jpg)
+
 **Eliam yoena adonai cadus ebreel eloyela agiel, ayom sachadon oeraselas eloym de liomar elynla lelia yazi zazall Unnel ovela dilatam Saday alma panaim alym canal densy usami yasas calipi calfas sasna saffa sadoja aglata pantomel amriel azien phanaton sarze penerion ya Emanuel Jod jalaph amphia than domirael alowin.**
 
 ### Caractères
 
 **Bamn lazies ala phonfin agaloyes pyol paerteon theserym. basimel Jael barionia. apiolet cenet.**
+
+![Caractères de la Clavicule](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-27.jpg)
 
 *FINIS.* [Fin.]
 
@@ -802,59 +902,115 @@ Sur quoi un halo de lumière vous environnera, et lorsque vous percevrez cette l
 
 **BIBLIA, Arcana Magica Alexander, selon la Tradition des Sixième et Septième Livres de Moïse, outre les LOIS MAGIQUES.**
 
+![Biblia Arcana Magica Alexander — le serpent sur le bâton](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-28.jpg)
+
 ## Traité du Sixième Livre de Moïse
 
 *(Les chapitres qui suivent consistent en planches de caractères hébraïques et magiques, dont seuls les titres sont donnés.)*
 
 **Chap. I.** — L’esprit apparaît à Moïse dans un buisson ardent. *(voir fig.)*
 
+![Traité du VIe Livre, chap. I — le buisson ardent](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-29.jpg)
+
 **Chap. II.** — Moïse change le bâton en serpent.
+
+![Traité du VIe Livre, chap. II — le bâton en serpent](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-30.jpg)
 
 **Chap. III.** — Moïse change l’eau en sang. *(voir fig.)*
 
+![Traité du VIe Livre, chap. III — l’eau en sang](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-31.jpg)
+
 **Chap. IV.** — Trois nouveaux signes : grenouilles, poux et pestilence.
+
+![Traité du VIe Livre, chap. IV — grenouilles, poux, pestilence](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-32.jpg)
 
 **Chap. V.** — Trois signes sur le bétail : pestilence, variole noire et grêle.
 
+![Traité du VIe Livre, chap. V — bétail, variole, grêle](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-33.jpg)
+
 **Chap. VI.** — Trois signes des sauterelles et des ténèbres. *(voir fig.)*
+
+![Traité du VIe Livre, chap. VI — sauterelles et ténèbres](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-34.jpg)
 
 **Chap. VII.** — Citation générale de Moïse sur tous les esprits.
 
+![Traité du VIe Livre, chap. VII — citation générale](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-35.jpg)
+
 *Fin du Sixième Livre de Moïse.*
+
+![Pentacle Elohim (fin du Sixième Livre)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-36.jpg)
 
 ## Traité de Sion — Le Septième Livre de Moïse
 
 **Chap. I.** — L’esprit apparaît dans une colonne de feu, de nuit. *(voir fig.)*
 
+![Traité de Sion, chap. I — colonne de feu](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-37.jpg)
+
 **Chap. II.** — L’esprit apparaît dans une colonne de nuée, de jour.
+
+![Traité de Sion, chap. II — colonne de nuée](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-38.jpg)
 
 **Chap. III.** — Sorcellerie de Balaam.
 
+![Traité de Sion, chap. III — sorcellerie de Balaam](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-39.jpg)
+
 **Chap. IV.** — Égypte. *(voir fig.)*
+
+![Traité de Sion, chap. IV — Égypte](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-40.jpg)
 
 **Chap. V.** — Conjuration de la Loi de Moïse.
 
+![Traité de Sion, chap. V — conjuration de la Loi](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-41.jpg)
+
 **Chap. VI.** — Citation générale de Moïse. *(voir fig.)*
+
+![Traité de Sion, chap. VI — citation générale](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-42.jpg)
 
 **Chap. VII.** — Citation générale de Moïse sur tous les esprits. — Renvoi. *(voir fig.)*
 
+![Traité de Sion, chap. VII — citation générale sur tous les esprits](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-43.jpg)
+
+![Traité de Sion — Renvoi](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-44.jpg)
+
 **Chap. VII [sic].** — Conjuration d’Éléazar. — Renvoi.
+
+![Conjuration d’Éléazar (chap. VII)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-45.jpg)
+
+![Renvoi d’Éléazar](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-46.jpg)
 
 **Chap. VIII.** — Citation de Quernithay, ou Léviathan. — Renvoi.
 
+![Citation de Quernithay, ou Léviathan](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-47.jpg)
+
+![Renvoi de Quernithay](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-48.jpg)
+
 **Chap. IX.** — Lois magiques de Moïse.
+
+![Lois magiques de Moïse (chap. IX)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-49.jpg)
 
 **Chap. X.** — Casque de Moïse et d’Aaron.
 
+![Casque de Moïse et d’Aaron (chap. X)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-50.jpg)
+
 **Chap. XI.** — Pectoral de Moïse.
+
+![Pectoral de Moïse (chap. XI)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-51.jpg)
 
 **Chap. XII.** — Pectoral d’Aaron.
 
+![Pectoral d’Aaron (chap. XII)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-52.jpg)
+
 **Chap. XIII.** — Le Calice de sainteté.
+
+![Le Calice de sainteté (chap. XIII)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-53.jpg)
 
 **Pour la main gauche.** *(voir fig.)*
 
+![Pour la main gauche](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-54.jpg)
+
 **Pour la main droite.** *(voir fig.)*
+
+![Pour la main droite](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-55.jpg)
 
 ## Extrait de la Kabbale magique des Sixième et Septième Livres de Moïse (seconde version)
 
@@ -992,9 +1148,13 @@ Douze appels de la voix et douze de la corne, pour chaque nom.
 
 Ces signes étaient employés au temps de l’holocauste dans le saint temple. *(voir fig.)*
 
+![Pour la main gauche (seconde version)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-56.jpg)
+
 ### Pour la main droite
 
 Ceux-ci sont aussi les symboles des plaies de Pharaon en Égypte. *(voir fig.)*
+
+![Pour la main droite (seconde version)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-57.jpg)
 
 *Schema Israel Adonai Elhoejno, Ekat.* — Écoute, ô Israël, le Seigneur notre Dieu est le seul Dieu.
 
@@ -1027,6 +1187,8 @@ Appels de la voix et de la corne comme il est déjà connu.
 ### Le Pentagone, ou les Cinq-Coins omnipotents
 
 Ici suit le Pentagone, ou les Cinq-Coins omnipotents. *(voir fig.)*
+
+![Le Pentagone, ou les Cinq-Coins omnipotents](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-58.jpg)
 
 Cette figure mystérieuse doit être tracée avant l’exorcisme, en plein air, et sur le sol, avec de la craie consacrée ou avec l’index de la main droite trempé dans la sainte eau des trois rois, telle qu’elle est tracée sur le papier, mais chaque ligne doit avoir treize pieds de longueur. Le conjurateur s’agenouille alors au centre de l’étoile, tête découverte et le visage tourné vers Sion, et appelle d’abord d’une voix forte, venant du cœur, les noms de Caspar, Melchior et Balthasar, treize fois ; et après les avoir appelés treize fois, il doit aussi appeler le haut et sacré nom d’Elohim 375 fois, avec une égale ferveur et une égale foi. Mais seulement, comme il a déjà été dit dans les Lois d’entrée, n° 10, dans les trois premiers jours ou nuits de la nouvelle lune, ou de la pleine lune, ou lorsque Saturne, Mars et Jupiter paraissent dans les cieux.
 
@@ -1110,11 +1272,21 @@ Au revers de l’image de Moïse, ou plutôt sur le premier feuillet selon le co
 
 *MCCCLXXXIII* [?].
 
+![Pectoral de Moïse (Biblia Arcana)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-59.jpg)
+
+![Casque de Moïse et d’Aaron (Biblia Arcana)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-60.jpg)
+
 ### Pectoral d’Aaron
 
 *(planche de caractères — voir fig.)*
 
+![Pectoral d’Aaron (Biblia Arcana)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-61.jpg)
+
 Écoute, ô Israël, le Seigneur notre Dieu est le seul Dieu. Amen.
+
+![Pour la main gauche (Biblia Arcana)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-62.jpg)
+
+![Pour la main droite (Biblia Arcana)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-63.jpg)
 
 ## Tradition du Sixième Livre de Moïse
 
@@ -1122,53 +1294,99 @@ Au revers de l’image de Moïse, ou plutôt sur le premier feuillet selon le co
 
 **Chap. I.** — L’esprit apparaît dans un buisson ardent. Citation de Moïse. *(voir fig.)*
 
+![Tradition du VIe Livre, chap. I — le buisson ardent](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-64.jpg)
+
 **Chap. II.** — Moïse change le bâton en serpent. *(voir fig.)*
+
+![Tradition du VIe Livre, chap. II — le bâton en serpent](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-65.jpg)
 
 **Chap. III.** — Moïse change l’eau en sang.
 
+![Tradition du VIe Livre, chap. III — l’eau en sang](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-66.jpg)
+
 **Chap. IV.** — Trois nouveaux signes : grenouilles, poux et vermine semblable.
+
+![Tradition du VIe Livre, chap. IV — grenouilles et vermine](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-67.jpg)
 
 **Chap. V.** — Trois signes sur le bétail : variole noire et grêle.
 
+![Tradition du VIe Livre, chap. V — bétail, variole, grêle](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-68.jpg)
+
+![Tradition du VIe Livre, chap. VI — sauterelles et ténèbres](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-69.jpg)
+
 *Fin du Sixième Livre de Moïse.*
+
+![Tradition du VIe Livre, chap. VII — citation générale](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-70.jpg)
+
+![Pentacle Elohim (fin de la Tradition du VIe Livre)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-71.jpg)
 
 ## Tradition du Septième Livre de Moïse
 
 **Chap. I.** — L’esprit apparaît dans une colonne de feu, de nuit. *(voir fig.)*
 
+![Tradition du VIIe Livre, chap. I — colonne de feu](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-72.jpg)
+
 **Chap. II.** — L’esprit apparaît dans une colonne de nuée, de jour.
+
+![Tradition du VIIe Livre, chap. II — colonne de nuée](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-73.jpg)
 
 **Chap. III.** — Sorcellerie de Balaam. *(voir fig.)*
 
+![Tradition du VIIe Livre, chap. III — sorcellerie de Balaam](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-74.jpg)
+
 **Chap. IV.** — Egitgim.
+
+![Tradition du VIIe Livre, chap. IV — Egitgim](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-75.jpg)
 
 **Chap. VI.** — Citation générale de Moïse sur tous les esprits.
 
+![Tradition du VIIe Livre, chap. V — conjuration des Lois](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-76.jpg)
+
+![Tradition du VIIe Livre, chap. VI — citation générale](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-77.jpg)
+
 **Renvoi de Moïse.** *(voir fig.)*
 
+![Renvoi de Moïse](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-78.jpg)
+
 **Lois magiques de Moïse.** *(voir fig.)*
+
+![Lois magiques de Moïse](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-79.jpg)
+
+![Lois magiques de Moïse — grande planche](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-80.jpg)
 
 ### Diagramme
 
 Diagramme illustrant les symboles employés par les Israélites dans leurs Lois de Magie. *(voir fig.)*
 
+![Diagramme des symboles des Lois de Magie](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-81.jpg)
+
 **Symbole du serpent couronné — hiéroglyphes magiques.** *(voir fig.)*
+
+![Symbole du serpent couronné](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-82.jpg)
 
 ### Conjuration d’Éléazar
 
 *(planche de caractères — voir fig.)*
 
+![Conjuration d’Éléazar (Tradition)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-83.jpg)
+
 ### Renvoi d’Éléazar
 
 *(voir fig.)*
+
+![Renvoi d’Éléazar (Tradition)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-84.jpg)
 
 ## Citation de Quermillam, ou Léviathan
 
 *(planche de caractères — voir fig.)*
 
+![Citation de Quermillam, ou Léviathan](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-85.jpg)
+
 ### Renvoi de Quermillay, ou Léviathan
 
 *(planche de caractères — voir fig.)*
+
+![Renvoi de Quermillay, ou Léviathan](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-86.jpg)
 
 ---
 
@@ -1189,9 +1407,9 @@ Diagramme illustrant les symboles employés par les Israélites dans leurs Lois 
 
 ### APPROBATIO [Approbation]
 
-*[…] instructio Vaticana Sapienti paucis maxima ; praeterea […] curator a sua Sanctitate desuper facta Consecratio Canonica.*
+*Numuiet instructio Vaticana Sapienti paucis maxima ; praeterea assecuratur a sua Sanctitate desuper facto Consecratio Canonica.*
 
-[Traduction approximative, le passage étant très altéré : « … instruction vaticane — au sage, peu de mots suffisent, mais ils sont de la plus haute portée ; en outre, … la Consécration canonique faite à ce sujet par Sa Sainteté. »]
+[Traduction approximative, le latin étant corrompu dans l'impression même : « L'instruction vaticane l'enseigne — au sage, peu de mots suffisent, mais ils sont de la plus haute portée ; en outre, elle est garantie par la Consécration canonique faite à ce sujet par Sa Sainteté. »]
 
 ### LECTOR [Au lecteur]
 
@@ -1239,6 +1457,8 @@ Si tu veux citer les esprits et les contraindre à paraître visiblement devant 
 
 *(voir ce cercle, fig. 24)*
 
+![Fig. 24 — Cercle écrit sur parchemin avec le sang de jeunes colombes blanches](../Septieme-Livres-de-Moise/Gravures/fig-24.jpg)
+
 *Ego N. N., consecro et benedico istum Circulum per Nomina Dei Altissimi in eo Scripta, ut sit mihi et omnibus Scutum et Protectio Dei Fortissimi Elohim Invincibilis contra omnes malignos Spiritus eorumque Potestates. In Nomine Dei Patris, Dei Filii, Dei Spiritus Sancti. Amen.*
 
 [Traduction : Moi, N. N., je consacre et bénis ce cercle par les Noms du Dieu Très-Haut qui y sont écrits, afin qu’il soit, pour moi et pour tous, bouclier et protection du Dieu très fort, Elohim l’Invincible, contre tous les esprits malins et leurs puissances. Au Nom de Dieu le Père, de Dieu le Fils, de Dieu le Saint-Esprit. Amen.]
@@ -1259,15 +1479,15 @@ Agla, Cadelo, Sambit, Caclem, Awenhatocoro, Aziel, Zorwoth, Yzewoth, Xoro, Quotw
 
 ### CITATIO ARIELIS [Citation d’Ariel]
 
-Yschyros, Theor, Zebaoth, Wyzeth, Yzathos, Xyzo, Xywethorowdy, Xantho, Wiros, Rurawey, Ymowe, Noswathosway, Wirvnethowesy, Zebaoth, Yvmo, Zvswethonowe, Yschyrioskay, Ulathos, Wytoy, Yrsawo, Xyzeth, Durobij, Chaos, Wudowelhus, Yzweoy, Zaday, Zywaye, […], Yachyros, Imas, Tetragrammaton, **Ariel**.
+Yschyros, Theor, Zebaoth, Wyzeth, Yzathos, Xyzo, Xywethorowdy, Xantho, Wiros, Rurawey, Ymowe, Noswathosway, Wirvnethowesy, Zebaoth, Yvmo, Zvswethonowe, Yschyrioskay, Ulathos, Wytoy, Yrsawo, Xyzeth, Durobij, Chaos, Wudowelhus, Yzweoy, Zaday, Zywaye, Hagathorwos, Yachyros, Imas, Tetragrammaton, **Ariel**.
 
 ### CITATIO MARBUELIS [Citation de Marbuel]
 
-Adonay, Jehova, Zebaoth, Theos, Yzhathoroswe, Wehozymathos, […]yghoroy, Vegorym, Abaij, Wogos, Gijghym, Zewoij, Ycosowe, Wothym, Kijzwe, Uijwoth, Omegros, Hehgewe, Zebaoij, Wezator, Zibuo, Sijbetho, Ythos, Zeatijm, Wovoe, Sijwoijmwethij, Pharvoij, Zewor, Wefgos, Ruben, Hvbathoroos, Stawows, Zijen, Zijwowij, Ham, Worse, Yzwet, Zebaoth, Agla, **Marbuel**.
+Adonay, Jehova, Zebaoth, Theos, Yzhathoroswe, Wehozymathos, Zesim, Yghoroy, Vegorym, Abaij, Wogos, Gijghijm, Zewoij, Ykosowe, Wothym, Kijzwe, Uijwoth, Omegros, Hehgewe, Zebaoij, Wezator, Zibuo, Sijbetho, Ythos, Zeatijm, Wovoe, Sijwoijmwethij, Pharvoij, Zewor, Wefgos, Ruhen, Hvbathoroos, Stawows, Zijen, Zijwowij, Haros, Worse, Yzwet, Zebaoth, Agla, **Marbuel**.
 
 ### CITATIO MEPHISTOPHILES [Citation de Méphistophilès]
 
-Messias, Adonaij, Weforus, Xathor, Yxewe, Soraweijs, Yxaron, Wegharb, Zijbalor, Wegbaij, Wesorou, Xoxywe, Zykohwowetho, R[…]atho, Zebaoth, Adonaij, Zijwetho, Aglaij, W[…]daij, Zijebo, Xosthoy, Athlato, Zsewey, Zyxyzet, Ysche, Sarsewu, Zyzyrn, Deworonhathbo, Xyxewe, Syzwe, Theos, Yschaos, Worsoubefgosy, Gefgowe, Hegor, Quaratho, Zywe, Messias, Abarabi, **Mephistophiles**.
+Messias, Adonaij, Weforus, Xathor, Yxewe, Soraweijs, Yxaron, Wegharb, Zijbalor, Wegbaij, Wesorou, Xoxijwe, Zijwohwawetho, Ragthoswatho, Zebaoth, Adonaij, Zijwetho, Aglaij, Wijzathe, Zadaij, Zijebo, Xosthoy, Athlato, Zsewey, Zyxyzet, Ysche, Sarsewu, Zyzyrn, Deworonhathbo, Xyxewe, Syzwe, Theos, Yschaos, Worsoubefgosy, Gefgowe, Hegor, Quaratho, Zywe, Messias, Abarabi, **Mephistophiles**.
 
 ### CITATIO BARBUELIS [Citation de Barbuel]
 
@@ -1287,11 +1507,32 @@ Theos, Aba, Aaba, Aba, Agathoswaij, Yzorog, Ywetho, Quardos, Quasoat, Uschijros,
 
 - **Cercle écrit sur parchemin avec le sang de jeunes colombes blanches** *(voir fig. 24)* — le cercle porte notamment les inscriptions ORIENS [Orient] et OCCIDENS [Occident].
 - ✠ ✠ ✠ **AZIELIS** — Sceau ou caractère pour la coercition et l’obéissance *(voir fig. 25)*.
+
+![Fig. 25 — Sceau d’Aziel](../Septieme-Livres-de-Moise/Gravures/fig-25-azielis.jpg)
+
 - ✠ ✠ ✠ **ARIELIS** — Sceau ou caractère pour la coercition et l’obéissance *(voir fig. 25)*.
-- ✠ ✠ ✠ **MARBUELIS** — Sceau ou caractère pour la coercition et l’obéissance.
+
+![Fig. 25 — Sceau d’Ariel](../Septieme-Livres-de-Moise/Gravures/fig-25-arielis.jpg)
+
+- ✠ ✠ ✠ **MARBUELIS** — Sceau ou caractère pour la coercition et l’obéissance *(voir fig. 26)*.
+
+![Fig. 26 — Sceau de Marbuel](../Septieme-Livres-de-Moise/Gravures/fig-26-marbuelis.jpg)
+
 - ✠ ✠ ✠ **MEPHISTOPHILIS** — Sceau ou caractère pour la coercition et l’obéissance *(voir fig. 26)*.
+
+![Fig. 26 — Sceau de Méphistophilès](../Septieme-Livres-de-Moise/Gravures/fig-26-mephistophilis.jpg)
+
 - ✠ ✠ ✠ **BARBUELIS** — Sceau ou caractère pour la coercition et l’obéissance *(voir fig. 27)*.
-- ✠ ✠ ✠ **A[…]ELIS** *(nom altéré dans les deux exemplaires — vraisemblablement l’un des deux derniers princes)* — Sceau ou caractère pour la coercition et l’obéissance.
+
+![Fig. 27 — Sceau de Barbuel](../Septieme-Livres-de-Moise/Gravures/fig-27-barbuelis.jpg)
+
+- ✠ ✠ ✠ **AZIABELIS** — Sceau ou caractère pour la coercition et l’obéissance *(voir fig. 27)*.
+
+![Fig. 27 — Sceau d’Aziabel](../Septieme-Livres-de-Moise/Gravures/fig-27-aziabelis.jpg)
+
+- ✠ ✠ ✠ **ANTQUELIS** [Aniquel] — Sceau ou caractère pour la coercition et l’obéissance *(voir fig. 28)*.
+
+![Fig. 28 — Sceau d’Aniquel (ANTQUELIS)](../Septieme-Livres-de-Moise/Gravures/fig-28-antquelis.jpg)
 
 ## NOTE — De l’usage des sceaux
 
@@ -1335,14 +1576,13 @@ Puisque les esprits paraîtront maintenant promptement, présente tes désirs ho
 
 - **ANITUEL** paraît sous la forme d’un serpent du Paradis. Il confère de grandes richesses et de grands honneurs, selon le souhait.
 
-Les sceaux ou caractères […] des Sept Grands Princes des esprits doivent être écrits sur parchemin vierge, avec du sang de papillons, au temps de la pleine lune. Sache en outre que les Sept Grands Princes des esprits comptent parmi eux certaines des légions d’esprits couronnés qui furent chassés du Ciel — *ita ex Revelatione Traditio VI. et VII. libri Mosis* [ainsi, d’après la Révélation, le rapporte la tradition des VIe et VIIe Livres de Moïse] […].
+Les sceaux ou caractères généraux des Sept Grands Princes des esprits doivent être écrits sur parchemin vierge, avec du sang de papillons, au temps de la pleine lune. Sache en outre que les Sept Grands Princes des esprits comptent parmi eux certaines des légions d’esprits couronnés qui furent chassés du Ciel — *ita ex Revelatione Traditio VI. et VII. libri Mosis* [ainsi, d’après la Révélation, le rapporte la tradition des VIe et VIIe Livres de Moïse]. Amen. †††
 
-> *[Quatrain latin en grande partie illisible dans les deux exemplaires :]*
-> *[…] atur ca[…]is*
-> *Me p[…] dicit habere,*
+> *Mundus ater cum illis*
+> *Me pactum dicit habere,*
 > *Sed me teque Deus*
-> *[…] illo custodiat omnes.*
-> [« … Mais que Dieu nous garde tous, toi et moi… »]
+> *Te illo custodiat omnes.*
+> [« Le monde noir prétend que j'ai un pacte avec lui ; mais que Dieu nous garde tous, toi et moi, de lui. »]
 
 D. I. F.
 
@@ -1358,115 +1598,140 @@ Et maintenant, partez au nom de Dieu ; louez, vivez et remerciez Dieu, jusqu’�
 
 ---
 
-## TABELLAE RABELLINAE — SPIRITUS COMMANDO
+## [Table des Apôtres]
 
-*Id est :* […] *et Nigarae Citatio generalis et celeberrima* […] [c’est-à-dire : citation générale et très célèbre…]
+> Pierre. Jacques. Jean. André. Philippe. Thomas.
+>
+> **I. N. R. I.**
+> **Jehova**
+> **Messias. Urim. Thummim.**
+> **A — Ω —**
+>
+> Barthélemy. Matthieu. Jacques. Alphée. Simon le Cananéen. Jude Thaddée. Matthias.
 
-*ROMAE, Vaticano ad Arcanum Pontificatus*, sous Alexandre VI ; imprimé […].
+*Cette Table appartient au chapitre des Lois.*
 
-*(Cette page est très gravement endommagée dans les deux exemplaires consultés ; les lacunes sont signalées par […].)*
+## II. — TABELLAE RABELLINAE — SPIRITI-COMMANDO
 
-### CITATIO GENERALIS […] ET SALOMONIS, CANONIZATA AB ALEXANDRO VI. [Citation générale (de Moïse ?) et de Salomon, canonisée par Alexandre VI]
+*Id est : Magiae Albae et Nigarae Citatio ✠ Generalis* — sur tous les esprits, bons et mauvais [c’est-à-dire : citation générale ✠ de la magie blanche et noire].
 
-Aba, A[…], […]gowosyroloss[…], […], Monhato, Queo, Zuweset, Rumoy, Ruwoteo, Quinos, Dby, Xet[…]matru, Xosto, X[…]Kawewe, Z[…], Agtay, Tetragrammaton, Theos, Yschyroroseth, Zurequros, My[…], […], H[…], We[…], Wagha[…], […], Ysgest[…], […], Zuy, Zywethorosto, B[…], X[…]care, K[…]se, W[…], Zywest, […].
+*ROMAE, Vaticano ad Arcanum Pontificatus*, sous le pape Alexandre VI ; imprimé en l’an 1501.
+
+*(Cette page est fortement tamponnée d’encre dans l’exemplaire de 1880 ; les mots restés illisibles sont signalés par […].)*
+
+### CITATIO GENERALIS MOSIS, AARONIS ET SALOMONIS, CANONIZATA AB ALEXANDRO VI. [Citation générale de Moïse, d’Aaron et de Salomon, canonisée par Alexandre VI]
+
+Aba, Alpha, Omega, Hewozywetony, Xewerator, Menhatoy, Queo, Zuwezet, Rumoy, Ruwetze, Quano, Duzy, Xenthono-Rohmatru, Xono, Xode[…], Zebaoth, Aglay, Tetragrammaton, Adonay, Theos, Ysehyroroseth, Zumquvos, Ny[…], Athanatos, Theos, Quyhet, Honor, Wethotith, Yarus, Vegeboth, Otay, Zywe, Ysgestot, Zartafegos, Zuy, Zywethorosto, Butrom, Xuwye, Xunewe, Kebas, Weesta, Zyweso, Tetragrammaton.
 
 Prononce distinctement le nom du bon ou du mauvais ✠✠✠ esprit, et il paraîtra très soudainement ; tu devras alors t’adresser à lui.
 
-### COACTIO […] [Contrainte générale (?) des esprits]
+### COARCTIO, ou le lien des esprits
 
-*[Formule presque entièrement illisible :]* […] Amen.
+*[Formule en grande partie tamponnée :]* Theohat[…], […] Grigone, […] Messias. Amen.
 
-### […] LES FAMILIERS
+### MONARCHIE DES BONS ESPRITS FAMILIERS
 
-[…]
+Préposés à tout le ministère auprès des hommes, savoir :
 
-*Archangelus Anael, Angelus Ph[…]g* [l’archange Anael, l’ange Ph…g].
+*Seraphim : Uriel ; Cherubim : Raphael ; Throni : Oriphiel ; Dominatio : Zachariel ; Potestas : […] ; Virtus : […] ; Principatus : Requel ; Archangelus Anael, Angelus Phalag.*
 
-[…] ils ont […] sans fin […]
+Ceux-ci sont les Princes du (IXe) Chœur des Anges. Ils ont parmi eux mille fois mille sans fin — *Millia Millium sine Fine Dicentium* [des milliers de milliers qui disent sans fin] :
 
 *Sanctus, Sanctus, Sanctus* [Saint, Saint, Saint].
 
-*[…] per angelica […]* […]
+Ces princes des anges viennent très volontiers en aide aux hommes, pour les servir en toutes choses, aussi bien que les suivants :
 
-[…] les servir en toutes choses, aussi bien que les suivants : […] Gaspares(?).
+#### BONI SPIRITUS, ou BONS ESPRITS
 
-Phynehy, Aebeor, Tassel, Xomoy, Asmdy, Media, Kaftor, Arfose, […], Stewij, […], Vtitar, B[…], Cforboa, Woreth, Hagy, Welur.
+Chymchy, Asbeor, Yzazel, Xomoy, Asmoy, Diema, Bethor, Arfose, Zenay, Corowe, Orower, Xener, Quiheth, Quato, Wewer, Gafowe, Gorhon, Woreth, Hagyr, Welor.
 
 ✠✠✠
 
-### […] LES ESPRITS […]
+### ACHARON[…]A — LES ESPRITS
 
-Quoique mauvais, ils demeurent néanmoins […] et prêts à servir.
+Quoique mauvais, ils demeurent néanmoins des esprits familiers ou ministrants, et prêts à servir.
+
+Thebot, Wethor, Quorthenn, Tywete(?), Uman(?), Xysorym, Zuwoy, Puchon, Tulef, Legioh, Xexer, Woryon.
 
 ### INSTRUCTION
 
-Concernant la *Magia Alba* [la magie blanche], […] : tous les bons esprits doivent être cités quand la lune […] le (IXe) chœur des anges […] demander soit aux bons […].
+Concernant la *Magia Alba* [la magie blanche], prends garde : tous les bons esprits doivent être cités quand la lune est pleine — les Princes du (IXe) chœur des anges aussi bien que les autres bons esprits angéliques.
 
-[…] dans l’art magique, prends garde : les VII. Princes de […] doivent être cités […], ainsi que sont cités les […], décrits dans […] de l’enfer.
-
-[…] leurs esprits.
+Concernant la *Magia Nigra* [la magie noire], prends garde : les VII. Princes des démons doivent être cités à la nouvelle lune ; les autres mauvais esprits se citent le plus volontiers dans l’obscurité de la lune, ou au temps d’une éclipse de soleil ou de lune. Le cercle déjà décrit, comme coercitif de l’enfer, vaut pour tous les esprits.
 
 ### VALEDICTIO, ou RENVOI
 
-*[Formule très altérée :]* […] par le […] et […]
+De tous les bons et mauvais esprits, selon la tradition des *Tabellae Rabellinae*, tirées des Sixième et Septième Livres de Moïse :
 
-[…] Yweth, oros, Tsheto, Thyym, Quo[…]ton.
+Theos, Zebaoth, Adonay, Ischiros, Zaday, Messias, Salom[…], Yweth, Thoros, Yzheto, Thyym, Quowe, […], […], Tetragrammaton.
 
-Prononce maintenant le nom […], et ils partiront en paix.
+Prononce maintenant le nom de l’esprit, et il partira en paix.
 
 *Deus Principium et Finis* [Dieu, principe et fin].
 
 ---
 
-## TRÉSOR — RÉDEMPTION SPIRITUELLE
+## ÉLÉVATION DE TRÉSOR ET RÉDEMPTION SPIRITUELLE
 
-*(D’après la fig. […])*
+*(Recto du feuillet — fig. 29.)*
 
-**TRÉSOR** […] **RÉDEMPTION SPIRITUELLE**, […] trouvée(?) […] et communiquée(?) au haut chapitre cathédral (*Domstift*) de **BAMBERG**.
+![Fig. 29 — Élévation de trésor et rédemption spirituelle (Bamberg)](../Septieme-Livres-de-Moise/Gravures/planche-29-tresor-bamberg.jpg)
 
-J. […] S. […] S.
+**ÉLÉVATION DE TRÉSOR** et **RÉDEMPTION SPIRITUELLE**, autorisées, dédiées et consacrées au haut chapitre cathédral (*Domstift*) de **BAMBERG**.
+
+**J. E. S. U. S.**
 
 IN
 
-**MADGYAH** *(l’autre exemplaire porte : ADOYAH)*
-**Ohananyah.**
+**ADOYAH** *(précédé d’une grande initiale N ; un autre exemplaire porte : MADGYAH)*
+**Chananyah.**
 **Ahmen** ✠
 
-[…]
+**DE DIEU.**
 
 > Le Père ✠ Dieu, le Fils ✠, ✠ Dieu le Saint-Esprit ✠
 >
-> **YSS CHAYA HSTH RACHMYEL AYSCHEB.**
+> **YES CHAYA HETH RACHMYEL AYSCHER.**
 >
-> Que le sang innocent et saint de Jésus-Christ, le Fils de Dieu, nous purifie de tout péché, et qu’il vous donne, ô esprits, le repos et la paix éternels, par *Jesum Christum* ✠, le Fils de Dieu. **AWEL** […] **SHEYE**.
+> Que le sang innocent et saint de Jésus-Christ, le Fils de Dieu, nous purifie de tout péché, et qu’il vous donne, ô esprits, le repos et la paix éternels, par *Jesum Christum* ✠, le Fils de Dieu. **AWEL** ………… **YHEYE**.
 >
 > C’est pourquoi, que les esprits de Jésus-Christ vous rachètent de toute peine et de toute souffrance, et qu’ils nous donnent les trésors qui sont ici, par le sang répandu de **I. N. R. I.**, **El Elyon**, *Jesu Christo* **Bheyoba**. Amen.
 
-*Optimo Successu Rem[…]* [« Avec le meilleur succès… » — fin du mot illisible.]
+*Optimo Successu Remissum.* [« Envoyé avec le meilleur succès. »]
 
 ---
 
 ## [Page de titre finale]
 
-*[Haut de page presque entièrement illisible :]* […] **SCHA[…]E V[…]** […]
+**LE SCHEMHAMFORAS**
+
+*Qui mettra sûrement au jour les trésors de la terre, s’il est enterré dans la terre au trésor.*
+
+*(Grande planche : sceau en étoile portant au centre le mot SCHAIDE.)*
+
+![Le Schemhamforas — sceau en étoile, mot central SCHAIDE](../Septieme-Livres-de-Moise/Gravures/planche-schemhamforas.jpg)
 
 Tiré de la Bible arcane de Moïse,
 
 de **P. Hoffman**, jésuite.
 
-Composé *ad proxim.* […]
+Composé *ad proxim.*
 
-**L. MISCHINSKY**, à Ba[…], **MDCCXLVI** [1746].
+**L. MISCHINSKY**, à **RAOL**, **MDCCXLVI** [1746].
 
 ---
 
 # SCHEMHAMPHORAS ET LES SEPT SEMIPHORAS
 
-*[L’original s’ouvre sur une épigraphe latine, corrompue dans les deux scans, dont le sens est à peu près : les noms divins en langue hébraïque, qu’ils se lisent depuis le commencement ou depuis la fin, à droite comme à gauche, sont d’une immense vertu.]*
+![Schemhamphoras n° 1 — les soixante-douze noms divins autour du triangle sacré](../Septieme-Livres-de-Moise/Gravures/planche-schemhamphoras-1.jpg)
+
+![Schemhamphoras n° 2](../Septieme-Livres-de-Moise/Gravures/planche-schemhamphoras-2.jpg)
+
+*L’original ouvre la section sur deux grandes planches circulaires, « Schemhamphoras No. 1 » et « Schemhamphoras No. 2 » ; sous la première se lit cette épigraphe latine, corrompue dans l’impression même : « Seu septuaginta duo Divina Nomina in lingua Hebraic, denotant semper Nomen, deisive legantur a principio fine veladextrisant sonistris suntque ingentis virtutis » — c’est-à-dire : les soixante-douze noms divins en langue hébraïque, désignant toujours le Nom, qu’on les lise depuis le commencement ou depuis la fin, à droite comme à gauche, sont d’une immense vertu.*
 
 ## Semiphoras et Schemhamphoras du roi Salomon
 
-*Wesel, Duisburg et Francfort : imprimé et publié par un libraire patenté desdites villes.*
+*Wesel, Duisburg et Francfort : imprimé et publié par Andrew Luppius, libraire patenté desdites villes, 1686.*
 
 ### Humble prière pour l’obtention de la sagesse et de l’entendement
 
@@ -1482,25 +1747,27 @@ Au nom du très haut et tout-puissant Créateur, moi, le roi Salomon, je m’en 
 
 Premièrement, il faut savoir que les noms de Dieu ne peuvent être enseignés et compris que dans la seule langue hébraïque, et que nous ne pouvons pas non plus les prononcer dans un autre dialecte, tels qu’ils nous ont été révélés par la grâce de Dieu. Car ils sont le sacrement et l’émanation de la toute-puissance divine — non de l’homme, ni des anges —, institués et consacrés par Dieu pour instiller l’harmonie divine d’une certaine manière, selon les caractères de son nombre et de sa figure immuables, et devant lesquels tremblent ceux qui sont préposés aux cieux. Les anges et toutes les créatures les honorent et s’en servent pour louer leur Créateur et pour Le bénir avec la plus grande révérence dans Ses œuvres divines ; et quiconque les appliquera comme il convient, avec crainte et tremblement et avec prière, sera puissamment éclairé par l’esprit de Dieu, sera joint à l’unité divine, et sera puissant selon la volonté de Dieu.
 
-*[Suit un passage très corrompu dans les deux scans, dont voici la substance reconstituée :]* L’homme qui veut opérer par ces noms doit savoir que rien ne s’accomplit sans la crainte de Dieu et l’amour du prochain ; quiconque s’élève et améliore son entendement connaît et opère de grandes choses. Celui qui prononce les noms de Dieu avec une âme pure et non par légèreté […]. D’autre part, le nom de Dieu ne doit jamais être employé en vain : le vrai nom de Dieu […] Il l’a réservé et ne veut pas qu’il soit prononcé sans nécessité, jusqu’à ce que son dessein soit accompli et parfait. Après cela, les anges ont leurs propres noms […] qu’il ne nous est pas nécessaire d’énumérer.
+Il pourra accomplir des choses surnaturelles : commander aux anges et aux démons, lier et délier les choses des éléments, au-dessus desquelles il peut s’élever par la puissance de Dieu. C’est pourquoi celui qui a purifié et amélioré son entendement et ses mœurs, et qui par la foi a purifié ses oreilles, en sorte qu’il puisse invoquer le nom divin de Dieu sans altérations fautives, deviendra une maison et une demeure de Dieu, et aura part aux influences divines, etc.
 
-En troisième lieu, tous les noms de Dieu sont tirés de la Thora par trois méthodes, au moyen de l’art kabbalistique : *Gematria, Notariacon* et *Geometria* [la troisième méthode est habituellement appelée *Temurah*].
+D’autre part, il faut connaître l’ordre établi par Dieu : Dieu se sert d’autres paroles parmi les anges, et d’autres encore parmi les hommes ; mais le vrai nom de Dieu n’est connu ni des hommes ni des anges : Il se l’est réservé, et ne le révélera pas avant que son ordre et sa manifestation ne soient accomplis et parfaits. Après cela, les anges auront leurs propres langues et leur propre parole, dont nous n’avons pas à nous inquiéter, car il ne nous est pas nécessaire de les examiner.
+
+En troisième lieu, tous les noms de Dieu sont tirés par nous de Ses œuvres, comme indiquant une communication avec Dieu, ou sont extraits des divines Écritures par l’art *Cabalisticam, Calculatoriam, Notariacam et Geometriam*.
 
 ### Des parties du monde
 
-*[Passage dégradé ; substance :]* Jéhovah, l’ineffable Créateur du monde, a créé […] par sa Providence. Il y a quatre parties du monde, dont la plus subtile est le monde supracéleste : là sont les Chœurs des anges — Chérubins et Séraphins, *Potestates et Virtutes*, Archanges et Anges, esprits qui se tiennent devant le trône du Très-Haut ; et les quatre anges qui se tiennent aux quatre coins du ciel — Michael, Raphael, Gabriel, Uriel ; quatre anges président aux éléments : Cherub [pour l’air], Tharsis [pour l’eau], Ariel [pour la terre], Seraph [pour le feu]. Les hommes hautement éclairés reçoivent tous la lumière de Dieu.
+Le commencement du nom et mot **Semiphoras**, que Dieu le Créateur Jéhovah donna dans le Paradis, embrasse trois lettres hébraïques : Jéhovah, l’insondable Créateur du monde, Providence toute-puissante, Déité forte et toute-puissante.
 
-La seconde lumière, ou partie du monde, est le ciel de tous les astres, avec les Triplicités des douze signes, sous lesquels le soleil accomplit chaque année sa course, produisant le changement des saisons — le printemps, l’été, l’automne et l’hiver —, principe de la naissance et de la corruption, et changeant […].
+Après cela, il y a quatre parties de la terre, qui sont la plus subtile lumière du monde spirituel : les quatre Hiérarchies — *Cherubim et Seraphim, Potestates et Virtutes, Archangelos et Angelos, Spiritus et Animus Hominum* —, qui se tiennent devant Dieu. Cette partie du monde a aussi quatre anges qui se tiennent aux quatre coins du ciel : Michael, Raphael, Gabriel, Uriel ; quatre anges président aux éléments : Seraph, Cherub, Tharsis, Ariel ; et quatre hommes hautement éclairés, remplis de la lumière de Dieu.
+
+La seconde lumière, ou partie du monde, est le ciel de tous les astres, avec les Triplicités des douze signes, sous lesquels le soleil accomplit chaque année sa course, produisant le changement des saisons — le printemps, l’été, l’automne et l’hiver —, principe de la naissance et de la corruption, et change le quatrième élément.
 
 Dans la troisième partie de l’œuvre sont les éléments et tout ce qui leur est subordonné : c’est le petit monde, l’homme, qui porte à son tour les quatre éléments en lui-même. *Anima* [l’âme] est dans la tête, par la pensée ; *Spiritus* [l’esprit] dans le cœur, et opère par les artères ; *Corpus* [le corps] est le corps entier avec les veines ; *Genius*, étincelle de feu, est dans les reins et engendre la naissance. L’homme a quatre facultés spirituelles et agissantes, ou *spiritus* : *Animalis, Vitalis, Naturalis, Genitivus*. L’âme a des sens intérieurs : le *sensus communis*, dans lequel elle garde les formes (*ideae*) et les autres perceptions, *intelligens* dans le cerveau ;
 
 2° l’*imaginatrix*, la haute raison, autrement dite *phantasia*, qui tire un tableau du pouvoir et accomplit toutes choses ;
 
-3° l’*aestimatio*, qui rappelle à l’esprit les espèces de toutes choses […] ;
+3° l’*aestimatio* [« Rativtanatio » dans l’impression — mot corrompu, pour la *ratiocinatio*], qui rappelle à l’esprit les espèces, avec toutes les causes et tous les jugements (*Scientia*) ; si l’âme se tourne alors vers la raison véritable, elle obtient la connaissance de toute la sagesse du monde ;
 
-4° la *ratio*, connaissance de toutes choses […] ;
-
-5° la *memoria*, la mémoire, qui retient toutes les choses appartenant aux facultés et opérations de l’esprit, pour porter l’expérience […] par l’agitation des sens accroître l’humain […] par Dieu. L’esprit vivant du cœur embrasse en lui-même quatre vertus : *Justitia, Temperantia, Prudentia, Fortitudo* [justice, tempérance, prudence, force], et celles-ci, par les artères et le sang, animent l’âme avec le corps. L’appétit des sens […] l’action et la puissance spirituelles résident dans le foie […] nutrition et attraction, soutien et subsistance ; l’esprit propre de la force et de la sève réside dans les reins, pour multiplier par la perfection divine.
+4° la *memoria* [« Memoratrix »], la mémoire, qui retient toutes les choses appartenant aux facultés et opérations de l’esprit, pour porter l’*experimentum et sensus* ; par l’agitation des nerfs, l’accroissement du genre humain est opéré par Dieu. L’esprit vivant du cœur embrasse en lui-même quatre vertus : *Justitia, Temperantia, Prudentia, Fortitudo* [justice, tempérance, prudence, force], et celles-ci sont dans le sang artériel et unissent l’âme au corps. L’*Appetitus Sensitivus* [l’appétit sensitif] : l’action et la puissance spirituelles naturelles résident dans le foie et les artères, et opèrent le mouvement et l’attraction, le soutien et la subsistance ; l’esprit propre de la force et de la sève réside dans les reins… pour multiplier par la perfection divine *(les points de suspension sont dans l’impression même)*.
 
 L’homme a en lui les éléments : à savoir esprit, fruit [sang ?], chair et os — quatre natures ou tempéraments : chaud, froid, humide, sec. L’attraction est produite par la chaleur et la sécheresse ; la rétention par le froid et la sécheresse ; la digestion (*coctio*) par la chaleur et l’humidité ; l’expulsion par le froid et l’humidité : bile, sang, mucus et mélancolie [les quatre humeurs].
 
@@ -1522,7 +1789,7 @@ Le sixième, lorsqu’il parla avec les vents.
 
 Le septième, lorsqu’il parla avec le soleil, la lune et les étoiles.
 
-Par la puissance des sept Semiphoras, il pouvait créer et détruire […].
+Par la puissance des sept Semiphoras, il pouvait créer et détruire tout ce qu’il désirait.
 
 **Le premier Semiphoras** fut reconnu par Adam lorsque Dieu le fit et le plaça dans le Paradis, où il ne lui fut permis de demeurer que sept heures. Le nom est **Jove**, lequel ne doit être prononcé que dans la plus grande nécessité, et alors seulement avec les sentiments les plus dévots envers le Créateur. En ce cas, tu trouveras grâce et secours.
 
@@ -1558,9 +1825,9 @@ Le sixième, lorsqu’il fit un serpent d’airain et brûla le veau d’or, pou
 
 Le septième, lorsque la manne tomba dans le désert et que l’eau jaillit du rocher.
 
-**Dans le premier** sont les paroles que Moïse prononça en montant sur la montagne, lorsqu’il parla aux flammes du feu : **Maya, Affaby, Zien, Jaramye, yne Latebni damaa yrsano, noy lyloo Lhay yly yre Kylo Zya Lyelee, Loate, lideloy eyloy, mecha ramethy rybifassa fu azyry scihin rite Zelohabe vete hebe ede neyo ramy rahabe conbec** […]. Si tu adresses dévotement cette parole à Dieu, ton entreprise s’accomplira sans aucun doute.
+**Dans le premier** sont les paroles que Moïse prononça en montant sur la montagne, lorsqu’il parla aux flammes du feu : **Maya, Affaby, Zien, Jaramye, yne Latebni damaa yrsano, noy lyloo Lhay yly yre Eylvi Zya Lyelee, Loate, lideloy eyloy, mecha ramethy rybifassa fu aziry scihin rite Zelohabe vete hebe ede neyo ramy rahabe (conoq anubec)** *(les deux mots entre parenthèses, ainsi imprimés, sont d’une lecture incertaine)*. Si tu adresses dévotement cette parole à Dieu, ton entreprise s’accomplira sans aucun doute.
 
-**Dans le deuxième** sont les paroles que Dieu adressa à Moïse lorsqu’il monta sur la montagne : **Abtan, Abynistan, Zoratan Juran nondiesip otarte fays alapeina pognij podaij sacrificium.** Par ces paroles, le prophète parla aux anges dont sont remplis les quatre quartiers de la terre, et par lesquels fut fondé le temple […]. Si tu veux les prononcer, tu dois jeûner trois jours, être chaste et pur ; alors tu pourras accomplir bien des merveilles.
+**Dans le deuxième** sont les paroles que Dieu adressa à Moïse lorsqu’il monta sur la montagne : **Abtan, Abynistan, Zoratan Juran nondiesip otarte fays alapeina pognij podaij sacrificium.** Par ces paroles, le prophète parla aux anges par lesquels les quatre quartiers de la terre sont scellés, et par lesquels fut fondé le temple Bosale. Si tu veux les prononcer, tu dois jeûner trois jours, être chaste et pur ; alors tu pourras accomplir bien des merveilles.
 
 **Dans le troisième** sont les paroles que Moïse prononça pour diviser la mer Rouge : **Qua claie saijec holowomaatl ; bekahu aijclo mare asnia baene hicha ijfale malieha arnija aremeholona queleij, Lineno, feijano, ijoije nfalao flaboira nethee hijcere.** Si tu as perdu la faveur de ton maître, ou si tu veux gagner la bienveillance de quelqu’un, prononce ces paroles avec ferveur et humilité.
 
@@ -1586,7 +1853,7 @@ Ces noms se composent du commencement des chapitres d’**Adonay**, dont les Hé
 
 Les sept noms puissants, qui peuvent être obtenus à une heure et en un lieu favorables : **Comitejon, sedeaij, throtomas, sasmagata bilil ijcos.**
 
-Les quatre noms du Créateur : **Jva, Jona, Eloij, Jena**. Celui qui […] *mepherias phaton* : celui qui porte ce nom sur lui est invincible.
+Les quatre noms du Créateur : **Jva, Jona, Eloij, Jena**. Celui qui invoque souvent Dieu avec foi et avec crainte, et porte sur lui les lettres d’or, ne manquera jamais d’une subsistance honorable ni de bons vêtements. Le nom qu’Adam prononça à l’entrée de l’enfer est *mephenaij phaton* : celui qui porte ce nom sur lui est invincible.
 
 Le nom que Dieu communiqua à Moïse sur le mont Sinaï, **El Cedjon**, écarte toutes les causes de chagrin.
 
@@ -1596,23 +1863,29 @@ Les dix noms de **Sephiroth** que Salomon prononça — « je priai vers eux, et
 
 Suivent maintenant les dix noms de Dieu : **Eheie, Jod Tetragrammaton, Tetragrammaton Elohim, El, Elohim Gibor, Eloha, Tetragrammaton Sabaoth, Elohim Sabaoth, Sadai, Adonay Melech** — [Elohim Sabaoth] a dix lettres ; Tetragrammaton Vedaath a huit lettres ; **Eheje**, l’existence par soi de Dieu ; *Aser He Aser, eheie*, noms de Dieu de sept lettres.
 
-**Eseh**, employé par Moïse comme le feu de Dieu […] ; ce sont tous des caractères hébreux.
+**Eseh**, employé par Moïse comme le feu de Dieu. **Elion** a cinq lettres, et ce sont tous des caractères hébreux.
 
 **Emeth**, le Dieu vrai — c’est le sceau de Dieu. L’explication des dix noms de Dieu et des dix Sephiroth est donnée dans Corneille Agrippa, *De occulta philosophia*, livre 3, chap. 10.
 
 **Hacaba**, le Dieu saint et adoré. — **Hu**, lui-même : la puissance de la Déité. — **Hod**, l’Éternel [?], un être divin. — **Jah**, un Dieu juste, qui se compare avec l’homme. — **Jesuba**, le Messie, qui viendra dans l’âge d’or. — **Jaht**, celui qui créa la lumière. — **Isala**, qui avec le nom **El** correspond au nom transposé (chacun formant 31).
 
-**Mettatron** [Metatron] […] et **Masfrag** : les deux noms dérivent d’une transposition […]. **Meudib**, dérivé de la transposition des lettres […] le nom de Dieu, doit être employé dans la tribulation et l’oppression. — **Oromasim, Mitrim, Araminon** signifient Dieu et l’Esprit : ce sont trois princes du monde. — **Pele**, celui qui opère des merveilles.
+**Mettatron** [Metatron], pour **Sadaï** : chaque nom composé de 314. — **Icuru Maspas** *(lecture incertaine)* : les deux noms dérivent d’une transposition du nom **Jehova**. — **Messiah** dérive d’une transposition des lettres de **Jisma Macom** *(lecture incertaine)*. — **Na**, nom de Dieu, doit être employé dans la tribulation et l’oppression. — **Oromasim, Mitrim, Araminon** signifient Dieu et l’Esprit : ce sont trois princes du monde. — **Pele**, celui qui opère des merveilles.
 
-Ces noms doivent être choisis [lettre à lettre] selon l’œuvre entreprise, pour l’accomplissement de laquelle le secours de Dieu doit être imploré — semblablement à un certain texte de l’Exode, consistant en trois versets : *[l’un se lit] en une ligne, de gauche à droite ; [le deuxième] de droite à gauche, en ordre inverse ; [le troisième de nouveau de gauche à droite,] ce qui constitue les soixante-douze lettres dont est composé le **Schemhamphoras***. C’est ainsi que sont créés les noms divins […] : le nom propre de Dieu, dont chacun des [soixante-douze] noms […].
+Ces noms doivent être choisis lettre à lettre selon l’œuvre entreprise, pour l’accomplissement de laquelle le secours de Dieu doit être imploré — semblablement à un certain texte de l’Exode, chapitre 14, consistant en trois versets toujours écrits avec soixante-douze lettres, commençant par les trois mots **Vaijsa, Vaiduo, Vaiot** ; lesquels, placés en une ligne — le premier et le troisième de gauche à droite, celui du milieu transposé de droite à gauche, comme en ordre inverse —, constituent un seul nom, dont les soixante-douze lettres sont nommées **Schemhamphoras**.
 
-*[Suit dans l’original la liste des soixante-douze anges du Schemhamphoras. Cette liste est presque entièrement détruite dans les deux scans — seuls quelques fragments sont lisibles (…Bariel, …Michael, …Jeliel, …Sitael, Elemiah…, …Behael, …Induel, …Rochel, …Jabamiah…) ; par fidélité à la règle de ne rien inventer, elle n’est pas reconstituée ici. On la trouve dans les éditions imprimées du texte.]*
+Si l’on y ajoute maintenant les noms divins El ou Jah, il y aura soixante-douze noms de Dieu [chacun de trois syllabes], car il est écrit : « Mon ange ira devant moi ; contemple-le, car mon nom est en lui. » Ces noms sont au nombre de soixante-douze : descentes des cinq départements du ciel ; autant il y a de nations et de langues, autant de fonctions du corps ; et ils concordent avec les soixante-douze disciples du Christ. Telle est l’une des méthodes dont les kabbalistes se servent pour composer ces noms.
 
-*[Passage dégradé ; substance :]* Celui qui prie ces noms d’une âme droite et fervente […] : ce sont les louanges de la langue sacrée, et quiconque s’offre à Dieu avec ces noms […] telle est notre méthode pour former les noms divins […]. L’autre méthode pour faire le Schemhamphoras consiste à disposer les trois versets avec leurs lettres, écrits l’un sous l’autre, le premier de droite à gauche, [le second de gauche à droite, le troisième de droite à gauche] […].
+L’autre méthode pour faire le **Schemhamphoras** : lorsque les trois versets sont écrits en ordre régulier, de droite à gauche [« unbaleinatim », mot corrompu dans l’impression], sans choisir cette méthode d’après les tables de Ziruph, ou selon qu’elle se tire de la table des Commutations (*Commutationum*).
 
-On lit dans le cinquième livre […] que Dieu créa le monde par lui, et qu’il pénètre dans les douze signes et par eux dans tous les serviteurs et instruments de Dieu […]. Celui qui craint Dieu et garde ses commandements […] recevra la bénédiction […].
+*Suit la liste des soixante-douze anges du Schemhamphoras. Le scan retrouvé (Internet Archive, 1880) la rend en partie lisible malgré un fort encrage ; les noms douteux sont marqués (?) :* Vehuiah, Jeliel, Sitael, Elemiah, Mahasia, Lehahel, Achaiah, Cahetel, Hasiel (?), Aladiah, Laviah, Caliel, Leuviah, Pahaliah, Nelchael, Leiaiel (?), Melahel, Hahaiah, Mittaiah (?), Haniah (?), Jemthel (?), Scehia, Räuel (?), Guisel (?), Lecabel, Vasarias, Jehujah, Lahahiah (?), Chavakiah (?), Mahadiel (?), Aniel, Haamiah, Rihael (?), Jeiasel (?), Hahel (?), Michael, Vehuel, Daniel, Hahasias, Imamiah, Nahuel (?), Nitael, Bebahia (?), Poiel, Nemamiah, Selalel (?), Harael, Mitzrael (?), Sahiel (?), Anauel (?), Mehnel (?), Damebiah (?), Menhiel (?), Eliapel (?), Habuiah, Rochel, Jabamiah, Haiauel, Maniah. *(La liste imprimée, elle-même défectueuse, ne donne pas soixante-douze noms distincts lisibles ; elle correspond à la liste traditionnelle des soixante-douze anges du Schem ha-mephorasch.)*
 
-*[Pages 63–64, dégradées puis lisibles :]* […] L’homme est créé à l’image et à la ressemblance de Dieu […] ; sous la faveur de Dieu, il obtiendra son désir par la foi et la sagesse : premièrement, des étoiles et des cieux, par les réflexions rationnelles de son esprit ; deuxièmement, du règne animal, par ses sens ; troisièmement, des éléments, par son corps quadruple.
+Dans la première période, celle de la nature, Dieu était invoqué sous le nom de **Sadai Tetragrammaton** *(lecture incertaine)*. Dans la seconde période, celle de la Loi, il porta le nom ineffable de **Tetragrammaton**, qui se prononce **Adonaij**. Dans la période de grâce, il fut invoqué comme **Pentagrammaton**, qui s’écrit aussi **Jesu**, de quatre lettres, et **IHS**, de trois lettres.
+
+Le Père a donné tout pouvoir au Fils ; les anges reçurent le ciel, mais au nom de Dieu et de Jésus, qui est la première puissance en Dieu. Ensuite ce pouvoir se répand dans les douze et les sept anges, par lesquels il est communiqué aux douze signes et aux sept planètes, et par conséquent dans tous les serviteurs et instruments de Dieu, jusqu’au plus humble. C’est pourquoi Jésus a dit : « Tout ce que vous demanderez au Père en mon nom, il vous le donnera » — si vous le priez d’un cœur pur et d’un esprit fervent ; car il n’est donné aux hommes aucun autre nom par lequel ils puissent être sauvés, que le nom de Jésus. Amen.
+
+## Du bénéfice et de l’usage des Semiphoras
+
+L’homme qui s’attache avec une foi et une confiance fortes au premier Créateur doit d’abord implorer le secours et la bénédiction de Dieu — non seulement des lèvres, mais aussi par de saints gestes et d’un cœur humble —, priant avec ferveur et continuellement, afin que Dieu éclaire son esprit et retire de son âme toutes les ténèbres du corps. Car de même que, lorsque notre âme est mue par quelque cause ordinaire, elle meut tous les membres du corps pour qu’ils contribuent à l’accomplissement de l’œuvre projetée, de même le grand Créateur, lorsqu’il est adoré en esprit et en vérité, qu’on ne lui demande rien d’inutile et que la prière lui est présentée avec dévotion, fera que l’ordre inférieur des créatures obéisse aux vœux de l’homme, selon son état, son ordre et sa vocation ; car l’homme a été fait à l’image et à la ressemblance de Dieu, et doué de raison ; et sous la faveur de Dieu, il obtiendra son désir par la foi et la sagesse : premièrement, des étoiles et des cieux, par les réflexions rationnelles de son esprit ; deuxièmement, du règne animal, par ses sens ; troisièmement, des éléments, par son corps quadruple.
 
 C’est pourquoi l’homme lie toutes les créatures par comparaison, en invoquant la puissance supérieure, par le nom et la puissance qui gouvernent une chose, puis par les choses inférieures elles-mêmes.
 
@@ -1666,7 +1939,7 @@ Dans la **première hiérarchie** sont les Séraphins, Chérubins et Trônes. Ce
 
 Dans la **hiérarchie du milieu** sont les Dominations, Puissances et Vertus, comme esprits d’intelligence [qui gouvernent] le monde entier. Les premiers commandent et [distribuent] ce que les autres exécutent ; les deuxièmes [écartent les obstacles et repoussent] les ennemis de Dieu ; les troisièmes opèrent les merveilles et accomplissent constamment de grands prodiges. [C’est de ces trois] ordres d’esprits [que descendent les miracles].
 
-Dans la **hiérarchie inférieure** sont les Principautés, Archanges et Anges, qui sont des esprits ministrants pour veiller aux affaires terrestres. Les premiers, en général, veillent sur les princes et les magistrats et prennent soin des royaumes et des pays, chacun dans sa propre sphère, comme Moïse le déclare dans son cantique : « Quand le Très-Haut partagea le monde et son héritage, quand il sépara les fils d’Adam, il fixa les bornes des peuples selon le nombre des enfants d’Israël. » Et Daniel dit (chap. 10) : « Mais le prince du royaume de Perse m’a résisté vingt et un jours. » Et Jésus Sirach témoigne que chaque nation a son directeur attitré ; c’est pourquoi les Israélites invoquaient l’ange de leur pays. Ceux-ci sont établis pour instituer et régler le culte de Dieu parmi les hommes, et prennent soin des prières, des offrandes et de la piété des mortels. Le [deuxième et le troisième] ordre se chargent des secours moindres, et chacun a son office assigné […].
+Dans la **hiérarchie inférieure** sont les Principautés, Archanges et Anges, qui sont des esprits ministrants pour veiller aux affaires terrestres. Les premiers, en général, veillent sur les princes et les magistrats et prennent soin des royaumes et des pays, chacun dans sa propre sphère, comme Moïse le déclare dans son cantique (Deutéronome XXXII, 8) : « Quand le Très-Haut partagea aux nations leur héritage, quand il sépara les fils d’Adam, il fixa les limites des peuples selon le nombre des enfants d’Israël. » Et Daniel dit (chap. X, 13) : « Le prince du royaume de Perse m’a résisté vingt et un jours. » Et Jésus Sirach témoigne que chaque nation a son ange pour directeur ; c’est pourquoi les Romains invitaient en tout temps les anges de leur pays. 2° Les seconds s’occupent des affaires divines : ils instituent et règlent le culte de Dieu parmi tous les hommes, et présentent à Dieu les prières, les offrandes et la piété des hommes. 3° Les troisièmes ordonnent toutes les choses de moindre importance, et chacun d’eux est donné comme protecteur à chaque homme.
 
 C’est pour cette raison que la quatrième hiérarchie [des âmes] est ajoutée aux précédentes, comme âmes des corps célestes : d’abord [les âmes] qui reçoivent la lumière des degrés supérieurs [héros, vertueux et martyrs ?]. Les premiers contrôlent la lumière et l’influence des astres, afin que leur pouvoir procède de Dieu vers les régions inférieures. Les deuxièmes sont les saints élus du Rédempteur. Les troisièmes sont les âmes des innocents et des martyrs, et des hommes de Dieu qui rendirent l’esprit au milieu des peines et des souffrances, par amour pour Dieu.
 
@@ -1678,7 +1951,7 @@ Sans le nom de Jésus, les vieux kabbalistes hébreux ne peuvent de nos jours ri
 
 Le premier cours dans le *Mundo coelesti* veille jour et nuit — *Primum Mobile*, [en hébreu] *Reschit ha-Galgalim* ; il se poursuit du matin jusqu’au soir. De là, les païens divisèrent les anges en trente-trois ordres. La première grande lumière communique lumière, vie et condition à partir du premier cours, et [en] oppose d’autres dans la sphère du Zodiaque ; elle cause l’été et l’hiver, le printemps de toutes les choses des éléments — en hébreu *Masloth* ; elle va du soir au matin selon les douze signes des cieux.
 
-Mais quand même toutes choses tiennent leur existence de Dieu, la grande Cause première, nous ne devons pas mépriser les autres causes, selon les changements du temps, de l’année, du mois, du jour et de l’heure ; ni non plus considérer ces causes exclusivement et oublier Dieu — car c’est de cette manière que fut instituée l’idolâtrie païenne. […] Les païens éprouvèrent que les esprits célestes n’étaient pas unis à leurs corps comme nos âmes sont unies aux nôtres, mais qu’ils pouvaient se réjouir en la présence de Dieu et préparer leurs corps sans grand labeur pour œuvrer avec les créatures inférieures de Dieu. Ils regardèrent les esprits célestes comme des dieux et leur conférèrent les honneurs divins. Bien souvent, les Juifs se détournèrent de Dieu et adorèrent les armées du ciel, et la colère de Dieu s’embrasa contre eux. Mais en raison de l’ordre de toutes choses, Dieu les a placés devant nous comme ses instruments, que nous devons regarder, à cause de leur office honorable, comme la plus noble création de Dieu, et honorer, après Dieu, selon leur rang — non comme des dieux, mais comme des créatures qu’il a établies comme douze princes sur les douze portes du ciel, afin qu’ils admettent ce qu’ils ont reçu du nom divin, transposé douze fois.
+Mais quand même toutes choses tiennent leur existence de Dieu, la grande Cause première, nous ne devons pas mépriser les autres causes, selon les changements du temps, de l’année, du mois, du jour et de l’heure ; ni non plus considérer ces causes exclusivement et oublier Dieu — car c’est de cette manière que fut instituée l’idolâtrie païenne. Pour cette raison, Dieu ne regarde pas le temps, parce que celui-ci le prive de son honneur. Les païens éprouvèrent que les esprits célestes n’étaient pas unis à leurs corps comme nos âmes sont unies aux nôtres, mais qu’ils pouvaient se réjouir en la présence de Dieu et préparer leurs corps sans grand labeur pour œuvrer avec les créatures inférieures de Dieu. Ils regardèrent les esprits célestes comme des dieux et leur conférèrent les honneurs divins. Bien souvent, les Juifs se détournèrent de Dieu et adorèrent les armées du ciel, et la colère de Dieu s’embrasa contre eux. Mais en raison de l’ordre de toutes choses, Dieu les a placés devant nous comme ses instruments, que nous devons regarder, à cause de leur office honorable, comme la plus noble création de Dieu, et honorer, après Dieu, selon leur rang — non comme des dieux, mais comme des créatures qu’il a établies comme douze princes sur les douze portes du ciel, afin qu’ils admettent ce qu’ils ont reçu du nom divin, transposé douze fois.
 
 Ézéchiel écrit : « Les lois des douze tribus d’Israël furent ainsi écrites, et Dieu Tetragrammaton régna sur elles. » De même il est écrit dans l’Apocalypse que les pierres de notre cité céleste sont plantées dans le sol, ou que l’Église du Christ est représentée par les douze noms des Apôtres, y compris douze anges, et parmi eux le nom de Jésus, qui a reçu tout le pouvoir du Père — en sorte que les cieux recevront ce que les anges leur donnent, selon la volonté de Dieu. Si donc une *Intelligentia* est attribuée à chaque ciel, chaque étoile et chaque département du ciel doit avoir un pouvoir et une influence distincts et séparés, et par conséquent une *Intelligentia* distincte. Il y a donc douze princes des anges, qui représentent les douze signes du Zodiaque ; trente-six, qui représentent autant de *Decuriae* ; et soixante-douze anges, qui représentent autant de *Quinariae* du ciel, des soixante-douze nations et langues des hommes. De même sept anges des armées pour les sept cieux des sept planètes, pour gouverner le monde ; et quatre anges qui représentent les *Triplicitates* des douze signes du Zodiaque et les quatre éléments.
 
@@ -1686,11 +1959,11 @@ Tous ont leurs noms et leurs signes, dont les philosophes usaient dans leurs œu
 
 En troisième lieu, ils désignèrent les anges les plus bas comme serviteurs. Ils les distribuèrent sur le monde et les nommèrent d’après les sept planètes ; ceux-ci ont leur cours spécial selon les quatre éléments et les quatre parties de l’air et de la terre — plusieurs *Diurni* pour le jour, plusieurs *Nocturni*, plusieurs *Meridiani* — non qu’ils soient subordonnés à l’influence des astres comme le corps qu’ils représentent, mais parce qu’ils sont plus apparentés que d’autres à la nature de ce corps astral ; autrement ils pourraient être partout.
 
-Chaque être humain a trois anges. Car Dieu a ordonné que chaque être humain ait son bon ange pour protecteur, qui fortifie aussi l’esprit et nous pousse et exhorte à ce qui est bon et louable, afin que nous fuyions ce qui est mauvais. Et de même, chaque homme a aussi un esprit mauvais, qui commande aux désirs de la chair et éveille les convoitises du cœur ; entre ces deux anges il y a une lutte constante pour la suprématie, et celui auquel l’homme donne la préférence remportera la victoire : si l’ange mauvais triomphe, l’homme devient son serviteur ; si le bon ange se montre le plus fort, il purifiera l’âme et sauvera l’homme de la destruction. L’ange et ses impulsions viennent des astres. En troisième lieu viennent les *Genii* de l’homme, qui gouvernent la naissance et sont joints à chaque perfection dans l’homme. On les reconnaît à l’astre qui est le Seigneur de la naissance. Les Chaldéens cherchent ce *Genium* dans le soleil et la lune ; les astronomes veulent tirer le bon *Genium* de la onzième maison, qu’ils appellent pour cette raison *bonum Genium*, et le mauvais de la sixième maison. Mais chacun apprendra à le connaître par l’inclination naturelle vers laquelle il fut porté dès sa jeunesse. C’est pourquoi on l’appelle l’ange de la naissance, envoyé dans le monde par Dieu. Le Psalmiste en dit : « Tu as fait de l’esprit de l’homme une flamme de feu. » Car l’expérience nous enseigne que la flamme de feu et l’esprit de naissance peuvent être séparés sans dommage pour l’homme, et que nous pouvons apprendre de lui des choses cachées, s’il est bon et vrai. […]
+Chaque être humain a trois anges. Car Dieu a ordonné que chaque être humain ait son bon ange pour protecteur, qui fortifie aussi l’esprit et nous pousse et exhorte à ce qui est bon et louable, afin que nous fuyions ce qui est mauvais. Et de même, chaque homme a aussi un esprit mauvais, qui commande aux désirs de la chair et éveille les convoitises du cœur ; entre ces deux anges il y a une lutte constante pour la suprématie, et celui auquel l’homme donne la préférence remportera la victoire : si l’ange mauvais triomphe, l’homme devient son serviteur ; si le bon ange se montre le plus fort, il purifiera l’âme et sauvera l’homme de la destruction. L’ange et ses impulsions viennent des astres. En troisième lieu viennent les *Genii* de l’homme, qui gouvernent la naissance et sont joints à chaque perfection dans l’homme. On les reconnaît à l’astre qui est le Seigneur de la naissance. Les Chaldéens cherchent ce *Genium* dans le soleil et la lune ; les astronomes veulent tirer le bon *Genium* de la onzième maison, qu’ils appellent pour cette raison *bonum Genium*, et le mauvais de la sixième maison. Mais chacun apprendra à le connaître par l’inclination naturelle vers laquelle il fut porté dès sa jeunesse. C’est pourquoi on l’appelle l’ange de la naissance, envoyé dans le monde par Dieu. Le Psalmiste en dit : « Tu as fait de l’esprit de l’homme une flamme de feu. » Car l’expérience nous enseigne que la flamme de feu et l’esprit de naissance peuvent être séparés sans dommage pour l’homme, et que nous pouvons apprendre de lui des choses cachées, s’il est bon et vrai. Mais il est sans pouvoir sur les membres de la naissance. Si toutefois une vierge ou une compagne devient nubile, il peut être délivré du verre [sic], et notre temps de vie sera prolongé.
 
 En outre, Dieu a doué l’homme d’un caractère divin par le nombre **Pachad** — le glaive de la main gauche de Dieu, par lequel l’homme devient une malédiction pour toutes les créatures ; et d’autre part il a un autre caractère dans le nombre de Dieu **Hesed** — la droite et le sceptre de Dieu, par lequel il trouve faveur aux yeux de Dieu et de toutes ses créatures. Une conscience mauvaise est le juge de l’homme, mais une bonne conscience est son bonheur. Ainsi, par les autres nombres divins, et par les anges et les astres, l’homme se trouve marqué de signes et de caractères de conscience, qui le rendent heureux à un moment et malheureux à un autre.
 
-Pour cette raison, si un homme a commis un meurtre, un vol, ou tout autre acte que sa conscience condamne, on peut l’amener à confesser sa faute par l’invocation persistante du nom de Dieu, car sa conscience ne lui laissera aucun repos jusqu’à ce qu’il rende ce qu’il a volé, ou qu’il ait subi le châtiment dû à son crime. À cette fin : au nom du Père, du Fils et du Saint-Esprit, prends trois petits morceaux de bois du seuil de la porte par laquelle le voleur est passé en quittant le lieu où il a commis le vol ; place-les dans une roue de chariot, et dis à travers le moyeu de la roue les paroles suivantes : « Je te prie, sainte Trinité, de faire que celui qui m’a volé […] n’ait ni repos ni paix jusqu’à ce qu’il m’ait rendu ce qu’il a dérobé. » Fais tourner la roue trois fois et replace-la sur le chariot. — Néanmoins, tous les pieux chrétiens qui ont quelque souci de leur bonheur à venir doivent soigneusement éviter toutes matières superstitieuses, et se garder d’employer indignement le saint nom de Dieu, le tenant dans la plus grande révérence, de peur d’attirer sur eux le châtiment éternel.
+Pour cette raison, si un homme a commis un meurtre, un vol, ou tout autre acte que sa conscience condamne, on peut l’amener à confesser sa faute par l’invocation persistante du nom de Dieu, car sa conscience ne lui laissera aucun repos jusqu’à ce qu’il rende ce qu’il a volé, ou qu’il ait subi le châtiment dû à son crime. À cette fin : au nom du Père, du Fils et du Saint-Esprit, prends trois petits morceaux de bois du seuil de la porte par laquelle le voleur est passé en quittant le lieu où il a commis le vol ; place-les dans une roue de chariot, et dis à travers le moyeu de la roue les paroles suivantes : « Je te prie, sainte Trinité, de faire que A., qui m’a volé B., C., n’ait ni repos ni paix jusqu’à ce qu’il m’ait rendu ce qu’il a dérobé. » Fais tourner la roue trois fois et replace-la sur le chariot. — Néanmoins, tous les pieux chrétiens qui ont quelque souci de leur bonheur à venir doivent soigneusement éviter toutes matières superstitieuses, et se garder d’employer indignement le saint nom de Dieu, le tenant dans la plus grande révérence, de peur d’attirer sur eux le châtiment éternel.
 
 Si un homme se connaît lui-même et comprend qu’il est créé à l’image et à la ressemblance de Dieu, il reconnaîtra Dieu le Créateur avant toutes choses, et ensuite le monde et toutes ses créatures. Des esprits supérieurs, des anges et des cieux il tient sa part ; et des éléments, des animaux, de la végétation et des pierres, il possède en lui-même tout ce qu’il désire obtenir.
 
@@ -2020,7 +2293,7 @@ Selon la tradition, ce psaume est aussi un bon remède contre les maladies des y
 
 Quiconque prie ce psaume avec une foi d’enfant, se confiant dans le très saint nom d’Eel Emmet — c’est-à-dire le Dieu vrai, ou Dieu de vérité —, et récite chaque jour la prière qui lui appartient, trouvera faveur auprès de tous les hommes et sera à l’abri de la calomnie et de la défiance. La prière est la suivante : « Qu’il te plaise, ô Eel Emmet, de m’accorder grâce, amour et faveur auprès de tous les hommes dont j’ai besoin du secours. Accorde que tous croient mes paroles, et qu’aucune calomnie ne puisse rien contre moi pour m’ôter la confiance des hommes. Tu le peux, car tu tournes le cœur des hommes selon ta sainte volonté, et les menteurs et les calomniateurs te sont en abomination. Exauce-moi pour l’amour de ton nom. Amen. — Selah ! »
 
-Les lettres qui composent ce saint nom se trouvent dans les mots : Elohim, verset 1 ; Maskil, verset 2 ; […], verset 3 ; Ammi, verset 4 ; et […], verset 5.
+Les lettres qui composent ce saint nom se trouvent dans les mots : Elohim, verset 1 ; Maskiel, verset 2 ; Echad, verset 3 ; Ammi, verset 4 ; et Azat (?), verset 6.
 
 ### Psaume 15
 
@@ -2389,9 +2662,11 @@ Et maintenant, quiconque observera ponctuellement les instructions qui précède
 
 Les kabbalistes, et particulièrement le célèbre Rabbi Isaac Loria, nous ont assuré qu’en temps de peste ou de calamité générale, la prière Vihi Noam doit être priée sept fois par jour, en y associant en esprit la figure du chandelier d’or, lorsqu’elle est composée des quarante et un saints et importants mots et noms de ce psaume, parmi lesquels nous devons particulièrement considérer les saints noms dans leur ordre. En voici les noms :
 
-Yean, Aim, Bich, Iba, Wich, Ika, Aan, Beni, Mil, Tmol, Veal, Ktaz, Ilu, Mehoh, Imi, Becha, Im, Retak, Betu, Lir, Uma, Ima, Mix, Mehi, Aki, Lakad, Mili, Ibak, Rul, Leta, Akham, Pesch, Aab, Schin, Aki, Acchu, Kuck, Yetat, Raasch, Jaub, Ana.
+Vean, Alm, Bich, Iba, Wich, Ika, Aan, Beni, Mii, Tmol, Veal, Ktaz, Ilu, Mehoh, Imi, Becha, Im, Retak, Betu, Lir, Uma, Ima, Miz, Mehi, Aki, Lakad, Mili, Ibak, Rul, Leta, Afcham, Pesch, Aab, Schin, Aki, Acchu, Kuck, Vetat, Raasch, Jaub, Ana.
 
 *(voir fig. A)*
+
+![Fig. A — le chandelier d’or composé des lettres hébraïques du psaume 91](../Septieme-Livres-de-Moise/Gravures/fig-A.jpg)
 
 Après cela doivent être prononcés les versets 21 à 28 du chapitre XII de l’Exode, en gardant à l’esprit les noms contenus dans les 23e et 28e versets, dans l’ordre suivant :
 
@@ -2882,4 +3157,4 @@ Les voyages rapides affaiblissent la vue ; mais elle peut être rétablie en pro
 
 ---
 
-*Source : « The Sixth and Seventh Books of Moses », édition New York, 1880 — Internet Archive, identifiant `1880TheSixthAndSeventhBooksOfMoses` (domaine public). Traduction française : juillet 2026.*
+*Source : « The Sixth and Seventh Books of Moses », édition New York, 1880 — Internet Archive, identifiant `1880TheSixthAndSeventhBooksOfMoses` (domaine public). Traduction française : juillet 2026. Édition revue sur le scan haute résolution — gravures reproduites et passages illisibles restitués : octobre 2026.*

@@ -8,8 +8,8 @@
 
 > **Translator's note.**
 > This text is a pseudepigraphic grimoire of the 19th century: it is neither of Mosaic nor of biblical origin. The present translation is provided for documentary and historical purposes.
-> — The “Seals” and “Tables” are, in the original, **engraved plates** (fig. 1 to 23): circular seals mingling Hebrew characters and divine names. They cannot be rendered in text; only the figure numbers are indicated.
-> — The 1880 OCR scan contains illegible passages; they are marked by **[…]**. The names of spirits and divine names (Adonaï, Agla, Tetragrammaton, etc.) are left as they stand, the spelling of 1880 being itself unsettled. The passages in Latin (often corrupt in the original itself) are kept in italics.
+> — The “Seals,” “Tables” and character plates of the original (fig. 1 to 29, fig. A, and the plates of Parts I and II) are **reproduced as images** in the present edition, from the high-resolution scan of the 1880 copy (Internet Archive). Each engraving stands in its place in the text.
+> — The whole text has been re-read against that scan (October 2026): nearly all the formerly illegible passages have been restored. The few words still covered by ink stamps in the copy itself remain marked by **[…]**, and doubtful readings by (?). The names of spirits and divine names (Adonaï, Agla, Tetragrammaton, etc.) are left as they stand, the spelling of 1880 being itself unsettled. The passages in Latin (often corrupt in the original itself) are kept in italics.
 > — “N. N.” means *nomen nescio*: the operator inserts his own name there. “F. f. f.” abbreviates *Fiat, fiat, fiat* (“so be it,” three times).
 
 ---
@@ -27,6 +27,8 @@ Of the present edition only this can be said: the books called the Sixth and Sev
 ---
 
 # THE SIXTH BOOK OF MOSES
+
+![Title-page vignette of the Sixth Book (1880 edition)](../Septieme-Livres-de-Moise/Gravures/fig-01.jpg)
 
 ## Magia Alba et Nigra Universalis seu Necromantia
 
@@ -68,6 +70,8 @@ Aclon, Ysheye, Channanyah, Yeschayah, EEl, Elijon, Rachmiel, Ariel, Eheye, Aysch
 
 ### The Seal *(see fig. 2)*
 
+![Fig. 2 — Seal of the Choir of Ministering Archangels](../Septieme-Livres-de-Moise/Gravures/fig-02.jpg)
+
 The most useful ministering archangels of this seal are the following, with their Hebrew citation *verbis revelatis divinitus coactivis*: Uriel, Arael, Zacharael, Gabriel, Raphael, Theoska, Zywolech, Hemohon, Yhahel, Tuwahel, Donahau, Sywaro, Samohayl, Zowanus, Ruweno, Ymoeioh, Hahowel, Tywael.
 
 **The Mystery of all Mysteries.** The great particular secret and the special use of this seal, likewise *ex Bibliis arcanorum Thora I*: if this Seal is buried where treasures lie, they will rise of themselves to the surface, without any presence being necessary, *in plena lunio* [at the full moon].
@@ -83,6 +87,8 @@ The most useful ministering archangels of this seal are the following, with thei
 “I, N. N., a servant of God, require, call upon and conjure thee, Spirit Phuel, by the holy Messengers and all the Disciples of the Lord, by the four holy Evangelists and the three holy Men of God, and by the most terrible and most holy words: Abriel, Fibriel, Zada, Zaday, Zarabo, Laragola, Lavaterium, Laroyol, Zay, Zagin, Labir, Lya, Adeo, Deus, Alon, Abay, Alos, Pieus, Ehos, Mibi, Uini, Mora, Zorad — and by these holy words: that thou come and appear before me, N. N., in a beautiful human form, and bring me what I desire.” *(Which the conjurer must name.)*
 
 ### The Seal *(see fig. 3)*
+
+![Fig. 3 — Seal of the Choir of Dominions](../Septieme-Livres-de-Moise/Gravures/fig-03.jpg)
 
 Of this Seal of the Choir of Dominations, or Hosts, the most useful are the following: Aha, Roah, Habu, Aromicha, Lemar, Patteny, Hamaya, Azoth, Hayozer, Karohel, Wezynna, Patecha, Tehom.
 
@@ -100,6 +106,8 @@ Seal of the ministering Angels of the Throne, *ex Thora III Bibliis Arcanorum*.
 
 ### The Seal *(see fig. 4)*
 
+![Fig. 4 — Seal of the Throne Angels](../Septieme-Livres-de-Moise/Gravures/fig-04.jpg)
+
 The ministering Angels of the Throne of this Seal are the following: Tehom, Haseha, Amarzyora, Schawayt, Chuscha, Zawar, Yahel, Labebor, Adoyahel, Schimuel, Achusaton, Schaddyl, Chamyel, Parymel, Chayo.
 
 The special secret of this Throne is likewise *ex Thora III Bibliis arcanorum script.*: to carry this Seal upon oneself will make you very agreeable and much beloved, and will moreover undo all your enemies.
@@ -115,6 +123,8 @@ With their characters.
 “I, N. N., a servant of God, call upon thee, require and conjure thee, O Spirit Anoch, by the wisdom of Solomon, by the obedience of Isaac, by the blessing of Abraham, by the piety of Jacob and of Noah, who sinned not before God, by the serpents of Moses, and by the twelve tribes, and by the most terrible words: Dallia, Dollia, Dollion, Corfuselas, Jazy, Agzy, Ahub, Tilli, Stago, Adoth, Sima, Eotath, Aloe, Jaoth, Dilu — and by all the words by which thou mayest be compelled: that thou appear before me in a beautiful human form, and give me what I desire.” *(Which the conjurer must name.)*
 
 ### The Seal *(see fig. 5)*
+
+![Fig. 5 — Seal of the Cherubim and Seraphim](../Septieme-Livres-de-Moise/Gravures/fig-05.jpg)
 
 The most obliging ministering Cherubim and Seraphim of this Seal are the following, with their Hebrew call: Anoch, Sewachar, Chaylon, Esor, Yaron, Oseny, Yagelor, Ehym, Maakyel, Echad, Yalyon, Yagar, Ragat, Ymmat, Chabalym, Schadym.
 
@@ -132,6 +142,8 @@ Seal of the Angels of Power.
 
 ### The Seal *(see fig. 6)*
 
+![Fig. 6 — Seal of the Power-Angels](../Septieme-Livres-de-Moise/Gravures/fig-06.jpg)
+
 The most helpful Angels of Power, with their *verbis hebraicis citationes divinae ex Thora Vta*, are the following: Schoel, Hael, Sephiroth, Thamy, Schamayl, Yeschah, Holyl, Yomelo, Hadiam, Mazbaz, Elohaym.
 
 The special secret of this Seal is the following, *ex Thora V. D. B. A.*: if this Seal is laid upon a sick person, in full and true faith, it will restore him — if, *nota bene*, he has not lived out the full number of his days. Wherefore it is called the **Seal of Power**.
@@ -147,6 +159,8 @@ The Seal of the Angels of Might, *seu Potestatum, ex Thora VI Bibliis arcanorum*
 “I, N. N., a servant of God, require, call upon and conjure thee, Spirit Alymon, by the most dreadful words: Sather, Ehomo, Geno, Poro, Jehovah, Elohim, Volnah, Deoach, Aloulam, Ophiel, Zophiel, Sophiel, Habriel, Eloha, Alesimus, Dileth, Melohim — and by all the most holy words by which thou mayest be overcome: that thou appear before me in a mild and beautiful human form, and accomplish what I command thee, as surely as God shall come to judge the living and the dead. Fiat, Fiat, Fiat.”
 
 ### The Seal *(see fig. 7)*
+
+![Fig. 7 — Seal of the Powers (Sixth Mystery)](../Septieme-Livres-de-Moise/Gravures/fig-07.jpg)
 
 The most obedient Angels of Might, *seu Potestates*, with their divine citations in Hebrew words, are, for the four elements, the following: Schummyel, Alymon, Mupiel, Symnay, Semanglaf, Taftyah, Melech, Seolam, Waed, Sezah, Safyn, Kyptip, Taftyarohel, Aeburatiel, Anyam, Bymnam. Such is the mystery, or Seal, of the Angels of Strength.
 
@@ -164,6 +178,8 @@ Of the most obedient Angels, *Coeli Coelorum Legionum*, over the Angels of the S
 
 ### The Seal *(see fig. 8)*
 
+![Fig. 8 — The secret Seventh Seal, of the Seven Planets](../Septieme-Livres-de-Moise/Gravures/fig-08.jpg)
+
 The most obedient Angels and Spirits of this Seal of the Seven Planets are the following: Ahaeb, Baneh, Yeschnath, Hoschiah, Betodah, Leykof, Yamdus, Zarenar, Sahon.
 
 This Seal, laid upon the earth over treasure, or placed in the workings of a mine, will reveal all the precious contents of the mine. *Ex Thora VII Arcanorum.*
@@ -178,11 +194,15 @@ This Seal, laid upon the earth over treasure, or placed in the workings of a min
 
 # THE SEVENTH BOOK OF MOSES
 
+![Fig. 9 — Seal of the title page of the Seventh Book](../Septieme-Livres-de-Moise/Gravures/fig-09.jpg)
+
 ## The First Table — the Spirits of the Air
 
 *(see fig. 10)*
 
-Text inscribed in the seal: *Jehovah — Father — Deus — … — Adonay — I conjure thee — Eloha, I cite thee — by Adonay — by Jehovah.*
+![Fig. 10 — First Table: the Spirits of the Air](../Septieme-Livres-de-Moise/Gravures/fig-10.jpg)
+
+Text inscribed in the seal: *Jehovah, Father — Deus Schadday — Deus Adonay, Elohe, I cite Thee through Jehovah — Eead, I conjure thee through Adonay.*
 
 To carry upon oneself the First Table of the Spirits of the Air — spirits as swift to help as thought — delivers the bearer from all necessity.
 
@@ -190,13 +210,17 @@ To carry upon oneself the First Table of the Spirits of the Air — spirits as s
 
 *(see fig. 11)*
 
+![Fig. 11 — Second Table: the Spirits of Fire](../Septieme-Livres-de-Moise/Gravures/fig-11.jpg)
+
 “Aha, I conjure thee, Aha, by Eheye; by Ihros, Eheye; by Agla, Aysch, Jehovah, I conjure thee: that thou appear unto me.”
 
-Around the seal: *Eheyeh — Aha — … — Schvwym — Asmlh — Chartye — Jehovah — Veloheij — … — Schadey — […]*
+Around the seal: *Sursamor — Dehschyfa* (above), *Zywah* and *Thoayl* (on the uprights), *Yehoel — Saruyel — Eryhon* (below); in the centre, the circles *Yae Eheye*, *Aysh* and *Aha Eheye*.
 
 ## The Third Table — the Spirits of Water
 
 *(see fig. 12)*
+
+![Fig. 12 — Third Table: the Spirits of Water](../Septieme-Livres-de-Moise/Gravures/fig-12.jpg)
 
 “I call upon and command thee, Chananya; I conjure thee, Yeschayah; by God Tetragrammaton, by Alpha and Omega, Eloh — and thou art thereby compelled by Adonaï.”
 
@@ -206,7 +230,9 @@ The Third Table brings great fortune by water, and its spirits furnish in abunda
 
 *(see fig. 13)*
 
-“I, N. N., command thee, Aziel; I, N. N., a servant of God, conjure thee by Otheos, Athanatos, Agios, and by the names by which Aaron was cited and called […] Agios. Zebaoth.”
+![Fig. 13 — Fourth Table: the Spirits of the Earth](../Septieme-Livres-de-Moise/Gravures/fig-13.jpg)
+
+“I, N. N., command Thee, Awijel, by Otheos as also by Elmez through Agios. — I, N. N., a servant of God, conjure Thee, Ahenatos Elijon, as also Adon was cited and called Zebaoth.”
 
 This Fourth Table will give the treasures of the earth if it is laid in the earth. Its spirits deliver the treasures of the earth at all times.
 
@@ -214,21 +240,27 @@ This Fourth Table will give the treasures of the earth if it is laid in the eart
 
 *(see fig. 14)*
 
-“I, N. N., order, command and conjure thee, Sadol, by Hother; Vednij, by Sabaoth; […] by Helioren; Jaho, by the Truth Jehovah; Rawa, Alha: that ye appear before me in human form, as truly as Daniel overcame and confounded Baal. F. f. f.”
+![Fig. 14 — Fifth Table: Saturn](../Septieme-Livres-de-Moise/Gravures/fig-14.jpg)
 
-[…] of the Fifth Table of Saturn will serve in all things.
+“I, N. N., order, command and conjure Thee, Saalij, by Agios; Scdul, by Sother; Vednij, by Sabaot; Sove, Amonzion, Adoij, by Heloim; Jaho, by the Veritas Jehovah; Kawa, Alha: that ye appear before me in a human form, so truly as Daniel overcame and conquered Baal. F. f. f.”
+
+The Spirits of the Fifth Table of Saturn will serve in everything according to wish; their Table will bring good luck in play.
 
 ## The Sixth Table — Jupiter
 
 *(see fig. 15)*
 
-“I conjure thee […] by the celestial Alphabet […] and Tetragrammaton; Zeno, by the Paraclete; Obel, by Orlenius; Lima, by Agla: that ye obey, that ye appear before me and accomplish my desire — thus, in and through the name Elion […]. F. f. f.”
+![Fig. 15 — Sixth Table: Jupiter](../Septieme-Livres-de-Moise/Gravures/fig-15.jpg)
+
+“I conjure thee, Spirit Ofel, by Alpha et Omega; Lezo and Yschirios, Ohin, Ission, Niva, by Tetragramaton; Zeno, by Peraclitus; Ohel, by Orlenius; Lima, by Agla: that ye will obey and appear before me and fulfil my desire — thus in and through the name Elion, which Moses named. F. f. f.”
 
 The Sixth Table of Jupiter helps to win lawsuits and to overcome quarrels and disputes; its spirits are at all times ready to lend assistance.
 
 ## The Seventh Table — the Spirits of Mars
 
 *(see fig. 16)*
+
+![Fig. 16 — Seventh Table: the Spirits of Mars](../Septieme-Livres-de-Moise/Gravures/fig-16.jpg)
 
 “N. N., I cite thee, Spirit Emol, by Deus Sachnaton; Luil, by Acumea; Ltriji, by Ambriel; Tijlaij, by Ehos; by Jeha, by Zora; Ajreh, by Awoth: that ye appear before me in a beautiful human form and accomplish my desire — thus, in truth, in and through the name which Aaron heard and which was prepared for him. F. f. f.”
 
@@ -238,6 +270,8 @@ The Seventh Seal of Mars brings good fortune in case of quarrels. The Spirits of
 
 *(see fig. 17)*
 
+![Fig. 17 — Eighth Table: the Spirits of the Sun](../Septieme-Livres-de-Moise/Gravures/fig-17.jpg)
+
 “I, N. N., conjure thee, Wijch, by Dalia; Jka, by Doluth; Auet, by Dilu; Veal, by Anub; Meho, by Igfa; Ymij, by Elon: that ye appear before me — as truly as Zebaoth, whom Moses named, and all the rivers of Egypt were turned into blood.”
 
 The Eighth Table of the Spirits of the Sun helps to attain places of honor and wealth; its spirits also give gold and treasures.
@@ -245,6 +279,8 @@ The Eighth Table of the Spirits of the Sun helps to attain places of honor and w
 ## The Ninth Table — the Spirits of Venus
 
 *(see fig. 18)*
+
+![Fig. 18 — Ninth Table: the Spirits of Venus](../Septieme-Livres-de-Moise/Gravures/fig-18.jpg)
 
 “Beta, Kijmah, Yamb, Yheloruvesopijhael — I call upon thee, Spirit Awel, by God Tetragrammaton; Uhal, by Pomamiach: that ye obey my orders and accomplish my desires — thus, in truth, in and through the name Esercheije, which Moses named, and whereupon there fell such a hail as had not been known since the beginning of the world. F. f. f.”
 
@@ -254,6 +290,8 @@ The Ninth Table of the Spirits of Venus makes one beloved in every respect and m
 
 *(see fig. 19)*
 
+![Fig. 19 — Tenth Table: the Spirits of Mercury](../Septieme-Livres-de-Moise/Gravures/fig-19.jpg)
+
 “Petasa. Abor. Havaashar. N. N. cites thee, Spirit Yloij, by God, God Adonaij; Ymah, by God Tetragrammaton; Rawa, by God Emmanuel; Ahaij, by Athanatos: that thou appear before me — as truly as in and through the name of Adonaï, which Moses pronounced, and the locusts appeared. Fiat, fiat, fiat.”
 
 The Tenth Table of the Spirits of Mercury gives wealth in chemistry [alchemy]. These spirits procure the treasures of the mine.
@@ -262,6 +300,8 @@ The Tenth Table of the Spirits of Mercury gives wealth in chemistry [alchemy]. T
 
 *(see fig. 20)*
 
+![Fig. 20 — Eleventh Table](../Septieme-Livres-de-Moise/Gravures/fig-20.jpg)
+
 “I, N. N., cite thee, Spirit Yhaij, by El; Yvaij, by Elohim; Ileh, by Elho; Kijlij, by Zebaoth; Taijn, Iseij, by Tetragrammaton; Jeha, by Zadaij; Ahel, by Agla: that ye obey my orders — as truly as in and through the name Schemesumatie, which Joshua invoked, and the sun stood still in its course. Fiat, f. f. f.”
 
 The Eleventh Table gives luck and fortune; its spirits give the treasures of the sea.
@@ -269,6 +309,8 @@ The Eleventh Table gives luck and fortune; its spirits give the treasures of the
 ## The Twelfth Table — of the Schemhamforasch
 
 *Over all the Spirits of the Magia Alba et Nigra.* *(see fig. 21)*
+
+![Fig. 21 — Twelfth Table: of the Schemhamforasch](../Septieme-Livres-de-Moise/Gravures/fig-21.jpg)
 
 “I, N. N., cite and conjure thee, Spirit of the Schemhamforasch, by the seventy-two holy names of God: that thou appear before me and accomplish my desire — as truly as in and through the name Emmanuel, which the three young men, Schadrach, Meschach and Abed-Nego, sang in the fiery furnace from which they were delivered. F. f. f.”
 
@@ -279,6 +321,8 @@ This Twelfth Table, laid upon the Table or the Seal of the Spirits, compels them
 ## The General Citation
 
 *Nigromantia, seu Magia Alba et Nigra — translated ex Thora XXta Biol. Arcan.* *(see fig. 22)*
+
+![Fig. 22 — Circle of the General Citation](../Septieme-Livres-de-Moise/Gravures/fig-22.jpg)
 
 “Aba, Jehovah, Agla, Aschaij, Chad, Yah, Saddaij, Yedreh, Aschre, Noosedu, Zawa, Agla.” — *Here pronounce the names of the Angels of the Seal or of the Table, and their proper names.*
 
@@ -308,6 +352,8 @@ These must be cited by means of the Twelfth Table, at the time of an eclipse of 
 
 To the ministering Spirits of **Moloch** (*familiarum Ammonitarum*) corresponds the following Seal of generation, for all services, *caracteristico obedientiale*. *(see fig. 23)*
 
+![Fig. 23 — Generation Seal of the spirits of Moloch](../Septieme-Livres-de-Moise/Gravures/fig-23.jpg)
+
 This Seal, at the time of the Citation, must be written upon parchment and held in the right hand. But it must not be read.
 
 ---
@@ -332,14 +378,14 @@ The dreams related in the Bible are numerous and remarkable. The voice by which 
 
 The visions of the ancients, according to the testimony of Moses, were almost always dreams. Numbers 12:6: “And he said, Hear now my words: If there be a prophet among you, I the LORD will make myself known unto him in a vision, and will speak unto him in a dream.” Job 33:15-16: “In a dream, in a vision of the night, when deep sleep falleth upon men, in slumberings upon the bed; then he openeth the ears of men, and sealeth their instruction.” 1 Kings 3:5: “In Gibeon the LORD appeared to Solomon in a dream by night: and God said, Ask what I shall give thee. And Solomon said, Thou hast shewed unto thy servant David my father great mercy, according as he walked before thee in truth, and in righteousness, and in uprightness of heart with thee; and thou hast kept for him this great kindness, etc.; give therefore thy servant an understanding heart to judge thy people, that I may discern between good and bad: for who is able to judge this thy so great a people?” Genesis 20:3: “But God came to Abimelech in a dream by night, and said to him, Behold, thou art but a dead man, for the woman which thou hast taken; for she is a man’s wife; and God said unto him in a dream, Yea, I know that thou didst this in the integrity of thy heart; for I also withheld thee from sinning against me.” Genesis 31:24: “And God came to Laban the Syrian in a dream by night, and said unto him, Take heed that thou speak not to Jacob either good or bad.” The dreams of Joseph concerning his brethren are likewise remarkable. Genesis 37:6: “And Joseph dreamed a dream, and he told it his brethren: and they hated him yet the more; and he said unto them, Hear, I pray you, this dream which I have dreamed: For, behold, we were binding sheaves in the field, and, lo, my sheaf arose, and also stood upright: and, behold, your sheaves stood round about, and made obeisance to my sheaf. And his brethren said to him, Shalt thou indeed reign over us? or shalt thou indeed have dominion over us?” And he dreamed yet another dream, and told it to his own and said: “Behold, I have dreamed a dream more; and, behold, the sun and the moon and the stars made obeisance to me. And his father rebuked him, and said unto him, What is this dream that thou hast dreamed? Shall I and thy mother and thy brethren indeed come to bow down ourselves to thee to the earth?”
 
-Sacred history proves that after Joseph had been sold by his brethren to the Egyptian merchants, he did indeed attain […] to the court of Pharaoh. Joseph’s power of interpreting dreams was first manifested by the interpretation of the dreams of the butler and the baker while he was in prison, Genesis 40; likewise also by that of the dreams of King Pharaoh, of the seven fat and lean kine which came up out of the water, and of the seven full and good ears and the seven thin and withered ears, Genesis 41:1. In the New Testament other dreams are mentioned by which God willed to speak to his faithful. It was in this manner that Joseph, the husband of Mary, was warned by an angel (Matthew 1:20) that she would conceive of the Holy Ghost and bring forth a son who would become the Savior of the world; then again, that he should take the child and flee into Egypt to escape the murderous design of Herod; and after the death of Herod, that he should return to Nazareth (Matthew 2:12-19). In the same manner, the three wise men from the East were warned in a dream not to return to Herod, but to go back to their own country by another way. The Apostles frequently had visions in the night. Thus, for example, Paul was commanded to go into Macedonia (Acts 16:9). And in the same book of the New Testament (18:9), we read: “Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace.” Many similar passages could be cited, for example 23:11; 27:23, etc., etc.
+Sacred history proves that after Joseph had been sold by his brethren to the Egyptian merchants, he actually became their king in the court of Pharaoh. Joseph’s power of interpreting dreams was first manifested by the interpretation of the dreams of the butler and the baker while he was in prison, Genesis 40; likewise also by that of the dreams of King Pharaoh, of the seven fat and lean kine which came up out of the water, and of the seven full and good ears and the seven thin and withered ears, Genesis 41:1. In the New Testament other dreams are mentioned by which God willed to speak to his faithful. It was in this manner that Joseph, the husband of Mary, was warned by an angel (Matthew 1:20) that she would conceive of the Holy Ghost and bring forth a son who would become the Savior of the world; then again, that he should take the child and flee into Egypt to escape the murderous design of Herod; and after the death of Herod, that he should return to Nazareth (Matthew 2:12-19). In the same manner, the three wise men from the East were warned in a dream not to return to Herod, but to go back to their own country by another way. The Apostles frequently had visions in the night. Thus, for example, Paul was commanded to go into Macedonia (Acts 16:9). And in the same book of the New Testament (18:9), we read: “Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace.” Many similar passages could be cited, for example 23:11; 27:23, etc., etc.
 ## The Account of the Creation
 
 Let us begin with the history of the creation, as Moses recorded it. “In the beginning God created the heaven and the earth.”
 
-Therein lies the great first cause. God is an uncreated being — heaven and earth are the first created things; the world is the first thing that was made of God. As to a second antithesis, Moses speaks of light and darkness: “And darkness was upon the face of the earth, and God said, Let there be light: and there was light.” Here again it is a question of light as a creation, which nevertheless had darkness for its opposite; for this reason the ancient Egyptians regarded darkness as the beginning of all things. Even according to the writings of Moses, such was the Egyptian doctrine, for he says: “Darkness was upon the face of the deep.” But if the Egyptian doctrine, in its first conception, may be regarded as good authority, their error arose in this, that they admitted darkness before light; likewise the similar error of the Persians, in that they admitted that light was created before darkness, the one before the other. […], as Moses clearly says: “And God divided the light from the darkness; and God called the light Day, and the darkness he called Night.”
+Therein lies the great first cause. God is an uncreated being — heaven and earth are the first created things; the world is the first thing that was made of God. As to a second antithesis, Moses speaks of light and darkness: “And darkness was upon the face of the earth, and God said, Let there be light: and there was light.” Here again it is a question of light as a creation, which nevertheless had darkness for its opposite; for this reason the ancient Egyptians regarded darkness as the beginning of all things. Even according to the writings of Moses, such was the Egyptian doctrine, for he says: “Darkness was upon the face of the deep.” But if the Egyptian doctrine, in its first conception, may be regarded as good authority, their error arose in this, that they admitted darkness before light; likewise the similar error of the Persians, in that they admitted that light was created before darkness, the one before the other. The light stands beside darkness as its natural opposite, created and present, as Moses clearly says: “And God divided the light from the darkness; and God called the light Day, and the darkness he called Night.”
 
-The Bible points out also another antithesis in the first germs and figures of the earth, namely water and spirit — water as the matter and germ of the figurative, and the spirit, the Elohim, as the active and fructifying principle: “And the Spirit of God moved upon the face of the waters.” One-sided views led the first philosophers into many errors. Thus Thales made everything proceed from water and failed to recognize the spiritual and active whole, in which he was imitated by the later champions of materialism. The other one-sided view consists in holding everything to be spiritual and in regarding matter only as a vain abstraction (*caput mortuum* [dead head]), which was the case, from the most ancient period of time, among the spiritualists and the defenders of spiritualism. Moses therefore shows his superiority over all the disciples of the ancient teachings […], as well as over the more modern sects, in that he was enlightened by divine wisdom and represented each subject not in a partial manner, but in its true scope and its true significance: he assigned to matter its just value and placed the spiritual beside it. Moreover, Moses gave the account of the creation in beautiful and captivating language; as for example concerning the waters: the difference between the moist and the dry, and how the dry land came forth from the water; how the grass and the herb yielding seed, and the fruit trees, grew upon the earth; how the immense deep was filled with living and moving creatures, together with the fowl that fly in the firmament of heaven; how the earth at last brought forth living creatures, each after its kind, and lastly, how God made man “in his own image,” to whom he gave “dominion over the fish of the sea, over the fowl of the air, over the cattle, and over every creeping thing that creepeth upon the earth.”
+The Bible points out also another antithesis in the first germs and figures of the earth, namely water and spirit — water as the matter and germ of the figurative, and the spirit, the Elohim, as the active and fructifying principle: “And the Spirit of God moved upon the face of the waters.” One-sided views led the first philosophers into many errors. Thus Thales made everything proceed from water and failed to recognize the spiritual and active whole, in which he was imitated by the later champions of materialism. The other one-sided view consists in holding everything to be spiritual and in regarding matter only as a vain abstraction (*caput mortuum* [dead head]), which was the case, from the most ancient period of time, among the spiritualists and the defenders of spiritualism. Moses therefore shows his superiority over all the disciples of Egyptian temple-wisdom, as well as over the more modern sects, in that he was enlightened by divine wisdom and represented each subject not in a partial manner, but in its true scope and its true significance: he assigned to matter its just value and placed the spiritual beside it. Moreover, Moses gave the account of the creation in beautiful and captivating language; as for example concerning the waters: the difference between the moist and the dry, and how the dry land came forth from the water; how the grass and the herb yielding seed, and the fruit trees, grew upon the earth; how the immense deep was filled with living and moving creatures, together with the fowl that fly in the firmament of heaven; how the earth at last brought forth living creatures, each after its kind, and lastly, how God made man “in his own image,” to whom he gave “dominion over the fish of the sea, over the fowl of the air, over the cattle, and over every creeping thing that creepeth upon the earth.”
 
 ## The Celestial Adam and the Fall — Extract from the MAGIKON
 
@@ -614,6 +660,8 @@ The formulas of citation contained in this book must be pronounced only in the H
 
 *(Hebrew characters — see fig.)*
 
+![Breastplate of Moses](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-01.jpg)
+
 These Hebrew words are pronounced as follows:
 
 **Jehova, aser Ebeje Cether Eleion Eheje.**
@@ -626,17 +674,23 @@ This Breastplate and this Helmet, when pronounced, signify Holiness.
 
 **Bietol mare aotitas hame donene ariaeroh.**
 
+![Helmet of Moses and Aaron](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-02.jpg)
+
 These are the names which the ancient Egyptians used in place of the ineffable name of Asser Oriel; they are called “the Fire of God” and “Strong Rock of Faith.” Whoever carries them upon his person, engraved upon a plate of gold, shall not die a sudden death.
 
 ### Breastplate of Aaron
 
 **Sadajai amara elon hejiana vananel phenatori ebeoel tottfal.**
 
+![Breastplate of Aaron](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-03.jpg)
+
 That is to say: one a Prince of Mine, the other leads to Jehova *[sic — text corrupt in the original]*. Thus this God spoke to Moses.
 
 ### Magical Law of Moses
 
 *(Hebrew characters — see fig.)*
+
+![Magical Law of Moses](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-04.jpg)
 
 **Aila himel adonay amara Zebaoth cadas yeseraije haralios.**
 
@@ -645,6 +699,8 @@ These words are terrible; they will assemble the demons or the spirits, or else 
 ### Inscription
 
 *(plate of magical characters — see fig.)*
+
+![The Inscription upon the Chalice of Holiness](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-05.jpg)
 
 ### Chalice of Holiness
 
@@ -656,11 +712,15 @@ These words are great and mighty. They are the names of the Creator and the char
 
 *(Hebrew characters — see fig.)*
 
+![Conjuration of Eleazar](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-06.jpg)
+
 **Uniel dilatan Sadai paneim usamigaras caliphos sasna panoi soim.**
 
 These names, if anyone desires to accomplish something by the four elements or by anything else pertaining thereto, will prove efficacious; but they cannot be translated into the vulgar tongue.
 
 ### Dismissal of Eleazar, Son of Aaron
+
+![Dismissal of Eleazar, son of Aaron](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-07.jpg)
 
 **Leay yli Ziarite zelobabe et negoramy Zien latebm damn mecha timeti ozira.**
 
@@ -670,11 +730,15 @@ By this dismissal, all things dissolve into nothing.
 
 *(Hebrew characters — see fig.)*
 
+![Citation of Germuthsai, or Leviathan](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-08.jpg)
+
 **Lagumen Emanuel therefori mechelag laigel yazi Zazael.**
 
 By these names Eleazar bound and loosed the spirits of the air.
 
 ### Dismissal of Leviathan
+
+![Dismissal of the Leviathan](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-09.jpg)
 
 **Malcoh, Sadaij, cubor Damabiah menkie lejabel maniah ijejavai.**
 
@@ -682,17 +746,23 @@ That is to say: Strong and mighty Spirit of hell, return into thy works, in the 
 
 ### Sorcery of Balaam
 
+![Balaam’s sorcery](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-10.jpg)
+
 **Meloch, hel alokim tiphret hod jesath.**
 
 This draws down vengeance upon enemies, and must not be held a small thing, for it contains the names of the Seven Tables of the Ark of the Covenant.
 
 ### Egypt
 
+![Egypt](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-11.jpg)
+
 **Tanabtain ainaten pagnij aijolo asnia hicbaifale matae habonr hijcero.**
 
 By these words Moses spoke to the sorcerers in Egypt. They signify: “the Lord appeared to his servant in the fire, to seal the earth in its four quarters, and the lower earth.”
 
 ### Conjuration of the Laws of Moses
+
+![Conjuration of the Laws of Moses](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-12.jpg)
 
 **Aijcon dunsanas pethanir thrijgnir ijon cijna naterlavis pistoin.**
 
@@ -702,15 +772,21 @@ If you would pronounce these words, you must fast three days, and by them you wi
 
 *(Hebrew characters — see fig.)*
 
+![General citation of Moses upon all spirits](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-13.jpg)
+
 **Ellon goeua adonaij cadus ebreel, eloijela ngiel, aijoni sachadon, essuselas Elohim, delion jau elijula, delia jsiri Zazael Palielmad, Umiel, onala dilatum Sadaij, alma Jod Jael Thama.**
 
 This citation is great and mighty: these are the names of the Creator, and the names of the two Cherubim of the Mercy-Seat, Zarall and Jael.
 
 ### Dismissal of Moses
 
+![Dismissal of Moses](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-14.jpg)
+
 **Wattedim bachaqda nesahbad Jehod Elohim asser eheje Zallm.**
 
 ### Second General Citation of Moses upon All Spirits
+
+![Second general citation of Moses](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-15.jpg)
 
 **Ahezeraije comitejon Sede leji thomos Sasmagata bij ol ycos Joaa Eloij Zawaijm.**
 
@@ -720,19 +796,27 @@ Such are the high and mighty words which Moses employed for the awakening of Lev
 
 *(plate of characters — see fig.)*
 
+![Characters upon the left side of the Ark of the Covenant](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-16.jpg)
+
 ### Characters on the Right Side
 
 Hear, O Israel, the Lord our God is the only God.
 
+![Characters upon the right side of the Ark of the Covenant](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-17.jpg)
+
 ### The Conjured Spirit Appears in a Pillar of Fire
 
 **Mqa affabij Zien, Jeramije Latabi damajesano noij lijoij Leaij giy ijro Eyloij liecle loate Eli Eli mecharamethy rijbisassa fu azira reacha.**
+
+![The conjured spirit appears in a pillar of fire](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-18.jpg)
 
 This citation names the twelve evil spirits of man, by the help of the Father, or of the Hebrew Eli; it is terrible.
 
 ### The Spirit Appears in a Pillar of Cloud
 
 **Kahai couor anuhec Zelohae zoie hebei ede nego raneij hahabe gizaon.**
+
+![The spirit appears in a pillar of cloud](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-19.jpg)
 
 ### Appendix to the General Citation of Moses upon All Spirits
 
@@ -742,13 +826,19 @@ We, N. N., in this circle, conjure and cite this spirit Fatenovenia, with all hi
 
 **Ablan, ageistan, Zoratan, Juran, nondieras portaephias pognij aizamai.**
 
+![Three new signs: frogs, lice and pestilence](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-20.jpg)
+
 ### Three New Signs: Cattle Plague, Black Smallpox and Hail
 
 **Ararita Zaijn thanain, miorato raepi saihonik pethanit castas lucias calbera natur sigaim.**
 
+![Three new signs: cattle plague, black smallpox and hail](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-21.jpg)
+
 ### Locusts and Darkness
 
 *(Hebrew characters — see fig.)*
+
+![Locusts and darkness](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-22.jpg)
 
 **Hassaday hayloes, Lucasim elayh jaoihaga, yoinino, nepactitas barne lud casty.**
 
@@ -756,15 +846,21 @@ We, N. N., in this circle, conjure and cite this spirit Fatenovenia, with all hi
 
 **Baba cuci hiebu ziadhi elenebet na vena vie achya salna.**
 
+![The spirit appears in the burning bush](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-23.jpg)
+
 The spirit that appears here is God Himself.
 
 ### Moses Changes the Rod into a Serpent
 
 **Micrata raepi Sathonik pethanisch, pistan ijttingelhijga tign ijghizian temgarousalm castas Lacias astas ijecon cijna caltera Caphas.**
 
+![Moses changes the rod into a serpent](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-24.jpg)
+
 ### Moses Changes the Water into Blood
 
 **Atonragl manadel slopeiebas malin bafath hajadosch ijberasr ebreel amphia, demisrael maelle leagijas amanita.**
+
+![Moses changes the water into blood](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-25.jpg)
 
 ## Principal Citation upon All the Ministering Spirits of the Air and of the Earth
 
@@ -782,11 +878,15 @@ Whereupon a halo of light will surround you, and when you perceive this light, f
 
 *(Hebrew characters — see fig.)*
 
+![Great citation of the Key of Solomon](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-26.jpg)
+
 **Eliam yoena adonai cadus ebreel eloyela agiel, ayom sachadon oeraselas eloym de liomar elynla lelia yazi zazall Unnel ovela dilatam Saday alma panaim alym canal densy usami yasas calipi calfas sasna saffa sadoja aglata pantomel amriel azien phanaton sarze penerion ya Emanuel Jod jalaph amphia than domirael alowin.**
 
 ### Characters
 
 **Bamn lazies ala phonfin agaloyes pyol paerteon theserym. basimel Jael barionia. apiolet cenet.**
+
+![Characters of the Key](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-27.jpg)
 
 *FINIS.* [The End.]
 
@@ -800,59 +900,115 @@ Whereupon a halo of light will surround you, and when you perceive this light, f
 
 **BIBLIA, Arcana Magica Alexander, according to the Tradition of the Sixth and Seventh Books of Moses, besides the MAGICAL LAWS.**
 
+![Biblia Arcana Magica Alexander — the serpent upon the rod](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-28.jpg)
+
 ## Treatise of the Sixth Book of Moses
 
 *(The chapters that follow consist of plates of Hebrew and magical characters, of which only the titles are given.)*
 
 **Chap. I.** — The spirit appears to Moses in a burning bush. *(see fig.)*
 
+![Treatise of the Sixth Book, Chap. I — the burning bush](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-29.jpg)
+
 **Chap. II.** — Moses changes the rod into a serpent.
+
+![Treatise of the Sixth Book, Chap. II — the rod into a serpent](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-30.jpg)
 
 **Chap. III.** — Moses changes the water into blood. *(see fig.)*
 
+![Treatise of the Sixth Book, Chap. III — the water into blood](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-31.jpg)
+
 **Chap. IV.** — Three new signs: frogs, lice and pestilence.
+
+![Treatise of the Sixth Book, Chap. IV — frogs, lice, pestilence](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-32.jpg)
 
 **Chap. V.** — Three signs upon the cattle: pestilence, black smallpox and hail.
 
+![Treatise of the Sixth Book, Chap. V — cattle, pox, hail](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-33.jpg)
+
 **Chap. VI.** — Three signs of the locusts and of the darkness. *(see fig.)*
+
+![Treatise of the Sixth Book, Chap. VI — locusts and darkness](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-34.jpg)
 
 **Chap. VII.** — General Citation of Moses upon all spirits.
 
+![Treatise of the Sixth Book, Chap. VII — general citation](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-35.jpg)
+
 *End of the Sixth Book of Moses.*
+
+![Elohim pentacle (end of the Sixth Book)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-36.jpg)
 
 ## Treatise of Zion — The Seventh Book of Moses
 
 **Chap. I.** — The spirit appears in a pillar of fire, by night. *(see fig.)*
 
+![Treatise of Zion, Chap. I — pillar of fire](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-37.jpg)
+
 **Chap. II.** — The spirit appears in a pillar of cloud, by day.
+
+![Treatise of Zion, Chap. II — pillar of cloud](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-38.jpg)
 
 **Chap. III.** — Sorcery of Balaam.
 
+![Treatise of Zion, Chap. III — Balaam’s sorcery](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-39.jpg)
+
 **Chap. IV.** — Egypt. *(see fig.)*
+
+![Treatise of Zion, Chap. IV — Egypt](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-40.jpg)
 
 **Chap. V.** — Conjuration of the Law of Moses.
 
+![Treatise of Zion, Chap. V — conjuration of the Law](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-41.jpg)
+
 **Chap. VI.** — General Citation of Moses. *(see fig.)*
+
+![Treatise of Zion, Chap. VI — general citation](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-42.jpg)
 
 **Chap. VII.** — General Citation of Moses upon all spirits. — Dismissal. *(see fig.)*
 
+![Treatise of Zion, Chap. VII — general citation upon all spirits](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-43.jpg)
+
+![Treatise of Zion — Dismissal](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-44.jpg)
+
 **Chap. VII [sic].** — Conjuration of Eleazar. — Dismissal.
+
+![Conjuration of Eleazar (Chap. VII)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-45.jpg)
+
+![Dismissal of Eleazar](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-46.jpg)
 
 **Chap. VIII.** — Citation of Quernithay, or Leviathan. — Dismissal.
 
+![Citation of Quernithay, or Leviathan](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-47.jpg)
+
+![Dismissal of Quernithay](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-48.jpg)
+
 **Chap. IX.** — Magical Laws of Moses.
+
+![Magical Laws of Moses (Chap. IX)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-49.jpg)
 
 **Chap. X.** — Helmet of Moses and Aaron.
 
+![Helmet of Moses and Aaron (Chap. X)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-50.jpg)
+
 **Chap. XI.** — Breastplate of Moses.
+
+![Breastplate of Moses (Chap. XI)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-51.jpg)
 
 **Chap. XII.** — Breastplate of Aaron.
 
+![Breastplate of Aaron (Chap. XII)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-52.jpg)
+
 **Chap. XIII.** — The Chalice of Holiness.
+
+![The Chalice of Holiness (Chap. XIII)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-53.jpg)
 
 **For the left hand.** *(see fig.)*
 
+![For the left hand](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-54.jpg)
+
 **For the right hand.** *(see fig.)*
+
+![For the right hand](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-55.jpg)
 
 ## Extract from the Magical Kabbalah of the Sixth and Seventh Books of Moses (Second Version)
 
@@ -990,9 +1146,13 @@ Twelve calls of the voice and twelve of the horn, for each name.
 
 These signs were employed at the time of the burnt offering in the holy temple. *(see fig.)*
 
+![For the left hand (second version)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-56.jpg)
+
 ### For the Right Hand
 
 These are also the symbols of the plagues of Pharaoh in Egypt. *(see fig.)*
+
+![For the right hand (second version)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-57.jpg)
 
 *Schema Israel Adonai Elhoejno, Ekat.* — Hear, O Israel, the Lord our God is the only God.
 
@@ -1025,6 +1185,8 @@ Calls of the voice and of the horn as is already known.
 ### The Pentagon, or the Omnipotent Five-Corners
 
 Here follows the Pentagon, or the omnipotent Five-Corners. *(see fig.)*
+
+![The Pentagon, or omnipotent Five-Corners](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-58.jpg)
 
 This mysterious figure must be drawn before the exorcism, in the open air, and upon the ground, with consecrated chalk or with the forefinger of the right hand dipped in the holy water of the three kings, just as it is drawn upon the paper, but each line must be thirteen feet in length. The conjurer then kneels in the centre of the star, with head uncovered and face turned toward Zion, and first calls in a loud voice, coming from the heart, the names of Caspar, Melchior and Balthasar, thirteen times; and after having called them thirteen times, he must also call the high and sacred name of Elohim 375 times, with equal fervour and equal faith. But only, as has already been said in the Laws of Entrance, No. 10, in the first three days or nights of the new moon, or of the full moon, or when Saturn, Mars and Jupiter appear in the heavens.
 
@@ -1108,11 +1270,21 @@ On the reverse of the image of Moses, or rather upon the first leaf according to
 
 *MCCCLXXXIII* [?].
 
+![Breastplate of Moses (Biblia Arcana)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-59.jpg)
+
+![Helmet of Moses and Aaron (Biblia Arcana)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-60.jpg)
+
 ### Breastplate of Aaron
 
 *(plate of characters — see fig.)*
 
+![Breastplate of Aaron (Biblia Arcana)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-61.jpg)
+
 Hear, O Israel, the Lord our God is the only God. Amen.
+
+![For the left hand (Biblia Arcana)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-62.jpg)
+
+![For the right hand (Biblia Arcana)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-63.jpg)
 
 ## Tradition of the Sixth Book of Moses
 
@@ -1120,52 +1292,99 @@ Hear, O Israel, the Lord our God is the only God. Amen.
 
 **Chap. I.** — The spirit appears in a burning bush. Citation of Moses. *(see fig.)*
 
+![Tradition of the Sixth Book, Chap. I — the burning bush](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-64.jpg)
+
 **Chap. II.** — Moses changes the rod into a serpent. *(see fig.)*
+
+![Tradition of the Sixth Book, Chap. II — the rod into a serpent](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-65.jpg)
 
 **Chap. III.** — Moses changes the water into blood.
 
+![Tradition of the Sixth Book, Chap. III — the water into blood](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-66.jpg)
+
 **Chap. IV.** — Three new signs: frogs, lice and similar vermin.
+
+![Tradition of the Sixth Book, Chap. IV — frogs and vermin](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-67.jpg)
 
 **Chap. V.** — Three signs upon the cattle: black smallpox and hail.
 
+![Tradition of the Sixth Book, Chap. V — cattle, pox, hail](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-68.jpg)
+
+![Tradition of the Sixth Book, Chap. VI — locusts and darkness](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-69.jpg)
+
 *End of the Sixth Book of Moses.*
+
+![Tradition of the Sixth Book, Chap. VII — general citation](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-70.jpg)
+
+![Elohim pentacle (end of the Tradition of the Sixth Book)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-71.jpg)
+
 ## Tradition of the Seventh Book of Moses
 
 **Chap. I.** — The spirit appears in a pillar of fire, by night. *(see fig.)*
 
+![Tradition of the Seventh Book, Chap. I — pillar of fire](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-72.jpg)
+
 **Chap. II.** — The spirit appears in a pillar of cloud, by day.
+
+![Tradition of the Seventh Book, Chap. II — pillar of cloud](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-73.jpg)
 
 **Chap. III.** — Sorcery of Balaam. *(see fig.)*
 
+![Tradition of the Seventh Book, Chap. III — Balaam’s sorcery](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-74.jpg)
+
 **Chap. IV.** — Egitgim.
+
+![Tradition of the Seventh Book, Chap. IV — Egitgim](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-75.jpg)
 
 **Chap. VI.** — General Citation of Moses upon all spirits.
 
+![Tradition of the Seventh Book, Chap. V — conjuration of the Laws](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-76.jpg)
+
+![Tradition of the Seventh Book, Chap. VI — general citation](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-77.jpg)
+
 **Dismissal of Moses.** *(see fig.)*
 
+![Dismissal of Moses](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-78.jpg)
+
 **Magical Laws of Moses.** *(see fig.)*
+
+![Magical Laws of Moses](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-79.jpg)
+
+![Magical Laws of Moses — large plate](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-80.jpg)
 
 ### Diagram
 
 Diagram illustrating the symbols employed by the Israelites in their Laws of Magic. *(see fig.)*
 
+![Diagram of the symbols of the Laws of Magic](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-81.jpg)
+
 **Symbol of the crowned serpent — magical hieroglyphs.** *(see fig.)*
+
+![Symbol of the crowned serpent](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-82.jpg)
 
 ### Conjuration of Eleazar
 
 *(plate of characters — see fig.)*
 
+![Conjuration of Eleazar (Tradition)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-83.jpg)
+
 ### Dismissal of Eleazar
 
 *(see fig.)*
+
+![Dismissal of Eleazar (Tradition)](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-84.jpg)
 
 ## Citation of Quermillam, or Leviathan
 
 *(plate of characters — see fig.)*
 
+![Citation of Quermillam, or Leviathan](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-85.jpg)
+
 ### Dismissal of Quermillay, or Leviathan
 
 *(plate of characters — see fig.)*
+
+![Dismissal of Quermillay, or Leviathan](../Septieme-Livres-de-Moise/Gravures/planche-kabbale-86.jpg)
 
 ---
 
@@ -1186,9 +1405,9 @@ Diagram illustrating the symbols employed by the Israelites in their Laws of Mag
 
 ### APPROBATIO [Approbation]
 
-*[…] instructio Vaticana Sapienti paucis maxima ; praeterea […] curator a sua Sanctitate desuper facta Consecratio Canonica.*
+*Numuiet instructio Vaticana Sapienti paucis maxima ; praeterea assecuratur a sua Sanctitate desuper facto Consecratio Canonica.*
 
-[Approximate translation, the passage being much corrupted: “… Vatican instruction — to the wise, few words suffice, yet they are of the highest import; moreover, … the canonical Consecration made thereupon by His Holiness.”]
+[Approximate translation, the Latin being corrupt in the print itself: “The Vatican instruction so teaches — to the wise, few words suffice, yet they are of the highest import; moreover, it is warranted by the canonical Consecration made thereupon by His Holiness.”]
 
 ### LECTOR [To the Reader]
 
@@ -1236,6 +1455,8 @@ If thou wilt cite the spirits and compel them to appear visibly before thee and 
 
 *(see this circle, fig. 24)*
 
+![Fig. 24 — Circle written upon parchment with the blood of young white doves](../Septieme-Livres-de-Moise/Gravures/fig-24.jpg)
+
 *Ego N. N., consecro et benedico istum Circulum per Nomina Dei Altissimi in eo Scripta, ut sit mihi et omnibus Scutum et Protectio Dei Fortissimi Elohim Invincibilis contra omnes malignos Spiritus eorumque Potestates. In Nomine Dei Patris, Dei Filii, Dei Spiritus Sancti. Amen.*
 
 [Translation: I, N. N., consecrate and bless this circle by the Names of the Most High God written therein, that it may be, for me and for all, the shield and protection of the most mighty God, Elohim the Invincible, against all evil spirits and their powers. In the Name of God the Father, of God the Son, of God the Holy Ghost. Amen.]
@@ -1256,15 +1477,15 @@ Agla, Cadelo, Sambit, Caclem, Awenhatocoro, Aziel, Zorwoth, Yzewoth, Xoro, Quotw
 
 ### CITATIO ARIELIS [Citation of Ariel]
 
-Yschyros, Theor, Zebaoth, Wyzeth, Yzathos, Xyzo, Xywethorowdy, Xantho, Wiros, Rurawey, Ymowe, Noswathosway, Wirvnethowesy, Zebaoth, Yvmo, Zvswethonowe, Yschyrioskay, Ulathos, Wytoy, Yrsawo, Xyzeth, Durobij, Chaos, Wudowelhus, Yzweoy, Zaday, Zywaye, […], Yachyros, Imas, Tetragrammaton, **Ariel**.
+Yschyros, Theor, Zebaoth, Wyzeth, Yzathos, Xyzo, Xywethorowdy, Xantho, Wiros, Rurawey, Ymowe, Noswathosway, Wirvnethowesy, Zebaoth, Yvmo, Zvswethonowe, Yschyrioskay, Ulathos, Wytoy, Yrsawo, Xyzeth, Durobij, Chaos, Wudowelhus, Yzweoy, Zaday, Zywaye, Hagathorwos, Yachyros, Imas, Tetragrammaton, **Ariel**.
 
 ### CITATIO MARBUELIS [Citation of Marbuel]
 
-Adonay, Jehova, Zebaoth, Theos, Yzhathoroswe, Wehozymathos, […]yghoroy, Vegorym, Abaij, Wogos, Gijghym, Zewoij, Ycosowe, Wothym, Kijzwe, Uijwoth, Omegros, Hehgewe, Zebaoij, Wezator, Zibuo, Sijbetho, Ythos, Zeatijm, Wovoe, Sijwoijmwethij, Pharvoij, Zewor, Wefgos, Ruben, Hvbathoroos, Stawows, Zijen, Zijwowij, Ham, Worse, Yzwet, Zebaoth, Agla, **Marbuel**.
+Adonay, Jehova, Zebaoth, Theos, Yzhathoroswe, Wehozymathos, Zesim, Yghoroy, Vegorym, Abaij, Wogos, Gijghijm, Zewoij, Ykosowe, Wothym, Kijzwe, Uijwoth, Omegros, Hehgewe, Zebaoij, Wezator, Zibuo, Sijbetho, Ythos, Zeatijm, Wovoe, Sijwoijmwethij, Pharvoij, Zewor, Wefgos, Ruhen, Hvbathoroos, Stawows, Zijen, Zijwowij, Haros, Worse, Yzwet, Zebaoth, Agla, **Marbuel**.
 
 ### CITATIO MEPHISTOPHILES [Citation of Mephistophiles]
 
-Messias, Adonaij, Weforus, Xathor, Yxewe, Soraweijs, Yxaron, Wegharb, Zijbalor, Wegbaij, Wesorou, Xoxywe, Zykohwowetho, R[…]atho, Zebaoth, Adonaij, Zijwetho, Aglaij, W[…]daij, Zijebo, Xosthoy, Athlato, Zsewey, Zyxyzet, Ysche, Sarsewu, Zyzyrn, Deworonhathbo, Xyxewe, Syzwe, Theos, Yschaos, Worsoubefgosy, Gefgowe, Hegor, Quaratho, Zywe, Messias, Abarabi, **Mephistophiles**.
+Messias, Adonaij, Weforus, Xathor, Yxewe, Soraweijs, Yxaron, Wegharb, Zijbalor, Wegbaij, Wesorou, Xoxijwe, Zijwohwawetho, Ragthoswatho, Zebaoth, Adonaij, Zijwetho, Aglaij, Wijzathe, Zadaij, Zijebo, Xosthoy, Athlato, Zsewey, Zyxyzet, Ysche, Sarsewu, Zyzyrn, Deworonhathbo, Xyxewe, Syzwe, Theos, Yschaos, Worsoubefgosy, Gefgowe, Hegor, Quaratho, Zywe, Messias, Abarabi, **Mephistophiles**.
 
 ### CITATIO BARBUELIS [Citation of Barbuel]
 
@@ -1284,11 +1505,32 @@ Theos, Aba, Aaba, Aba, Agathoswaij, Yzorog, Ywetho, Quardos, Quasoat, Uschijros,
 
 - **Circle written upon parchment with the blood of young white doves** *(see fig. 24)* — the circle bears, among others, the inscriptions ORIENS [East] and OCCIDENS [West].
 - ✠ ✠ ✠ **AZIELIS** — Seal or character for coercion and obedience *(see fig. 25)*.
+
+![Fig. 25 — Seal of Aziel](../Septieme-Livres-de-Moise/Gravures/fig-25-azielis.jpg)
+
 - ✠ ✠ ✠ **ARIELIS** — Seal or character for coercion and obedience *(see fig. 25)*.
-- ✠ ✠ ✠ **MARBUELIS** — Seal or character for coercion and obedience.
+
+![Fig. 25 — Seal of Ariel](../Septieme-Livres-de-Moise/Gravures/fig-25-arielis.jpg)
+
+- ✠ ✠ ✠ **MARBUELIS** — Seal or character for coercion and obedience *(see fig. 26)*.
+
+![Fig. 26 — Seal of Marbuel](../Septieme-Livres-de-Moise/Gravures/fig-26-marbuelis.jpg)
+
 - ✠ ✠ ✠ **MEPHISTOPHILIS** — Seal or character for coercion and obedience *(see fig. 26)*.
+
+![Fig. 26 — Seal of Mephistophiles](../Septieme-Livres-de-Moise/Gravures/fig-26-mephistophilis.jpg)
+
 - ✠ ✠ ✠ **BARBUELIS** — Seal or character for coercion and obedience *(see fig. 27)*.
-- ✠ ✠ ✠ **A[…]ELIS** *(name corrupted in both copies — most probably one of the two last princes)* — Seal or character for coercion and obedience.
+
+![Fig. 27 — Seal of Barbuel](../Septieme-Livres-de-Moise/Gravures/fig-27-barbuelis.jpg)
+
+- ✠ ✠ ✠ **AZIABELIS** — Seal or character for coercion and obedience *(see fig. 27)*.
+
+![Fig. 27 — Seal of Aziabel](../Septieme-Livres-de-Moise/Gravures/fig-27-aziabelis.jpg)
+
+- ✠ ✠ ✠ **ANTQUELIS** [Aniquel] — Seal or character for coercion and obedience *(see fig. 28)*.
+
+![Fig. 28 — Seal of Aniquel (ANTQUELIS)](../Septieme-Livres-de-Moise/Gravures/fig-28-antquelis.jpg)
 
 ## NOTE — Of the Use of the Seals
 
@@ -1332,14 +1574,13 @@ Since the spirits will now appear promptly, present thy desires honestly, as bef
 
 - **ANITUEL** appears in the form of a serpent of Paradise. He confers great riches and great honours, according to the wish.
 
-The seals or characters […] of the Seven Great Princes of the spirits must be written upon virgin parchment, with the blood of butterflies, at the time of the full moon. Know moreover that the Seven Great Princes of the spirits count among their number certain of the legions of crowned spirits who were cast out of Heaven — *ita ex Revelatione Traditio VI. et VII. libri Mosis* [thus, according to the Revelation, the tradition of the Sixth and Seventh Books of Moses relates it] […].
+The seals or general characters of the Seven Great Princes of the spirits must be written upon virgin parchment, with the blood of butterflies, at the time of the full moon. Know moreover that the Seven Great Princes of the spirits count among their number certain of the legions of crowned spirits who were cast out of Heaven — *ita ex Revelatione Traditio VI. et VII. libri Mosis* [thus, according to the Revelation, the tradition of the Sixth and Seventh Books of Moses relates it]. Amen. †††
 
-> *[Latin quatrain for the most part illegible in both copies:]*
-> *[…] atur ca[…]is*
-> *Me p[…] dicit habere,*
+> *Mundus ater cum illis*
+> *Me pactum dicit habere,*
 > *Sed me teque Deus*
-> *[…] illo custodiat omnes.*
-> [“… But may God keep us all, thee and me…”]
+> *Te illo custodiat omnes.*
+> [“The black world claims that I have a pact with it; but may God keep us all, thee and me, from it.”]
 
 D. I. F.
 
@@ -1355,115 +1596,140 @@ And now depart in the name of God; praise, live and thank God, until the
 
 ---
 
-## TABELLAE RABELLINAE — SPIRITUS COMMANDO
+## [Table of the Apostles]
 
-*Id est :* […] *et Nigarae Citatio generalis et celeberrima* […] [that is to say: general and most celebrated citation…]
+> Peter. James. John. Andrew. Philip. Thomas.
+>
+> **I. N. R. I.**
+> **Jehova**
+> **Messias. Urim. Thummim.**
+> **A — Ω —**
+>
+> Bartholomew. Matthew. James. Alpheus. Simon the Canaanite. Judas Thaddeus. Matthias.
 
-*ROMAE, Vaticano ad Arcanum Pontificatus*, under Alexander VI; printed […].
+*This Table belongs to the Chapter of the Laws.*
 
-*(This page is very gravely damaged in both copies consulted; the gaps are indicated by […].)*
+## II. — TABELLAE RABELLINAE — SPIRITI-COMMANDO
 
-### CITATIO GENERALIS […] ET SALOMONIS, CANONIZATA AB ALEXANDRO VI. [General Citation (of Moses?) and of Solomon, canonized by Alexander VI]
+*Id est: Magiae Albae et Nigarae Citatio ✠ Generalis* — upon all Spirits, Good and Evil.
 
-Aba, A[…], […]gowosyroloss[…], […], Monhato, Queo, Zuweset, Rumoy, Ruwoteo, Quinos, Dby, Xet[…]matru, Xosto, X[…]Kawewe, Z[…], Agtay, Tetragrammaton, Theos, Yschyroroseth, Zurequros, My[…], […], H[…], We[…], Wagha[…], […], Ysgest[…], […], Zuy, Zywethorosto, B[…], X[…]care, K[…]se, W[…], Zywest, […].
+*ROMAE, Vaticano ad Arcanum Pontificatus*, under Pope Alexander VI; printed in the year 1501.
+
+*(This page is heavily over-stamped with ink in the 1880 copy; the words that remain illegible are indicated by […].)*
+
+### CITATIO GENERALIS MOSIS, AARONIS ET SALOMONIS, CANONIZATA AB ALEXANDRO VI. [General Citation of Moses, Aaron and Solomon, canonized by Alexander VI]
+
+Aba, Alpha, Omega, Hewozywetony, Xewerator, Menhatoy, Queo, Zuwezet, Rumoy, Ruwetze, Quano, Duzy, Xenthono-Rohmatru, Xono, Xode[…], Zebaoth, Aglay, Tetragrammaton, Adonay, Theos, Ysehyroroseth, Zumquvos, Ny[…], Athanatos, Theos, Quyhet, Honor, Wethotith, Yarus, Vegeboth, Otay, Zywe, Ysgestot, Zartafegos, Zuy, Zywethorosto, Butrom, Xuwye, Xunewe, Kebas, Weesta, Zyweso, Tetragrammaton.
 
 Pronounce distinctly the name of the good or of the evil ✠✠✠ spirit, and he will appear very suddenly; thou must then address thyself to him.
 
-### COACTIO […] [General Constraint (?) of the Spirits]
+### COARCTIO, or the Binding of Spirits
 
-*[Formula almost entirely illegible:]* […] Amen.
+*[Formula largely over-stamped:]* Theohat[…], […] Grigone, […] Messias. Amen.
 
-### […] THE FAMILIARS
+### MONARCHIA OF THE GOOD SPIRITS FAMILIARES
 
-[…]
+Appointed to all human ministration, namely:
 
-*Archangelus Anael, Angelus Ph[…]g* [the archangel Anael, the angel Ph…g].
+*Seraphim: Uriel; Cherubim: Raphael; Throni: Oriphiel; Dominatio: Zachariel; Potestas: […]; Virtus: […]; Principatus: Requel; Archangelus Anael, Angelus Phalag.*
 
-[…] they have […] without end […]
+These are the Princes of the (IX.) Choir of Angels. They have among them 1000 times 1000 without end — *Millia Millium sine Fine Dicentium*:
 
 *Sanctus, Sanctus, Sanctus* [Holy, Holy, Holy].
 
-*[…] per angelica […]* […]
+These angel-princes come very willingly to human beings, to help and serve them in all things, as well as the following:
 
-[…] to serve them in all things, as well as the following: […] Gaspares(?).
+#### BONI SPIRITUS, or GOOD SPIRITS
 
-Phynehy, Aebeor, Tassel, Xomoy, Asmdy, Media, Kaftor, Arfose, […], Stewij, […], Vtitar, B[…], Cforboa, Woreth, Hagy, Welur.
+Chymchy, Asbeor, Yzazel, Xomoy, Asmoy, Diema, Bethor, Arfose, Zenay, Corowe, Orower, Xener, Quiheth, Quato, Wewer, Gafowe, Gorhon, Woreth, Hagyr, Welor.
 
 ✠✠✠
 
-### […] THE SPIRITS […]
+### ACHARON[…]A — THE SPIRITS
 
-Though evil, they nevertheless remain […] and ready to serve.
+Though evil, they nevertheless remain familiar or ministering spirits, and ready to serve.
+
+Thebot, Wethor, Quorthenn, Tywete(?), Uman(?), Xysorym, Zuwoy, Puchon, Tulef, Legioh, Xexer, Woryon.
 
 ### INSTRUCTION
 
-Concerning the *Magia Alba* [white magic], […]: all the good spirits must be cited when the moon […] the (IXth) choir of angels […] to ask either of the good […].
+Concerning the *Magia Alba* [white magic], take notice: all the good spirits must be cited when the moon is full — the Princes of the (IX.) Choir of angels as well as the other good angel-spirits.
 
-[…] in the magical art, take heed: the VII. Princes of […] must be cited […], as are cited the […], described in […] of hell.
-
-[…] their spirits.
+Concerning the *Magia Nigra* [black magic], take notice: the VII. Princes of Devils must be cited at the new moon; the other evil spirits are cited the most readily in the dark of the moon, or at the time of an eclipse of the sun or of the moon. The circle already described, as coercive of hell, is for all spirits.
 
 ### VALEDICTIO, or DISMISSAL
 
-*[Formula much corrupted:]* […] by the […] and […]
+Of all good and bad spirits, according to the tradition of the *Tabellae Rabellinae*, out of the Sixth and Seventh Books of Moses:
 
-[…] Yweth, oros, Tsheto, Thyym, Quo[…]ton.
+Theos, Zebaoth, Adonay, Ischiros, Zaday, Messias, Salom[…], Yweth, Thoros, Yzheto, Thyym, Quowe, […], […], Tetragrammaton.
 
-Now pronounce the name […], and they will depart in peace.
+Now pronounce the name of the spirit, and let him depart in peace.
 
 *Deus Principium et Finis* [God, beginning and end].
 
 ---
 
-## TREASURE — SPIRITUAL REDEMPTION
+## TREASURE ELEVATION AND SPIRITUAL REDEMPTION
 
-*(After fig. […])*
+*(Front side — fig. 29.)*
 
-**TREASURE** […] **SPIRITUAL REDEMPTION**, […] found(?) […] and communicated(?) to the high cathedral chapter (*Domstift*) of **BAMBERG**.
+![Fig. 29 — Treasure Elevation and Spiritual Redemption (Bamberg)](../Septieme-Livres-de-Moise/Gravures/planche-29-tresor-bamberg.jpg)
 
-J. […] S. […] S.
+**TREASURE ELEVATION** and **SPIRITUAL REDEMPTION**, authorized, dedicated and consecrated in the high cathedral chapter (*Domstift*) at **BAMBERG**.
+
+**J. E. S. U. S.**
 
 IN
 
-**MADGYAH** *(the other copy reads: ADOYAH)*
-**Ohananyah.**
+**ADOYAH** *(preceded by a large initial N; another copy reads: MADGYAH)*
+**Chananyah.**
 **Ahmen** ✠
 
-[…]
+**OF GOD.**
 
 > The Father ✠ God, the Son ✠, ✠ God the Holy Ghost ✠
 >
-> **YSS CHAYA HSTH RACHMYEL AYSCHEB.**
+> **YES CHAYA HETH RACHMYEL AYSCHER.**
 >
-> May the innocent and holy blood of Jesus Christ, the Son of God, cleanse us from all sin, and give unto you, O spirits, eternal rest and peace, through *Jesum Christum* ✠, the Son of God. **AWEL** […] **SHEYE**.
+> May the innocent and holy blood of Jesus Christ, the Son of God, cleanse us from all sin, and give unto you, O spirits, eternal rest and peace, through *Jesum Christum* ✠, the Son of God. **AWEL** ………… **YHEYE**.
 >
 > Wherefore, may the spirits of Jesus Christ redeem you from all pain and all suffering, and may they give us the treasures that are here, through the shed blood of **I. N. R. I.**, **El Elyon**, *Jesu Christo* **Bheyoba**. Amen.
 
-*Optimo Successu Rem[…]* [“With the best success…” — end of the word illegible.]
+*Optimo Successu Remissum.* [“Sent forth with the best success.”]
 
 ---
 
 ## [Final Title Page]
 
-*[Top of page almost entirely illegible:]* […] **SCHA[…]E V[…]** […]
+**THE SCHEMHAMFORAS**
 
-Taken from the Arcane Bible of Moses,
+*Which will certainly bring to light the Treasures of Earth, if buried in the Treasure-Earth.*
 
-by **P. Hoffman**, Jesuit.
+*(Large plate: star-shaped seal bearing the word SCHAIDE at its centre.)*
 
-Composed *ad proxim.* […]
+![The Schemhamforas — star-shaped seal, central word SCHAIDE](../Septieme-Livres-de-Moise/Gravures/planche-schemhamforas.jpg)
 
-**L. MISCHINSKY**, at Ba[…], **MDCCXLVI** [1746].
+From the Arcan Bible of Moses,
+
+from **P. HOFFMAN**, Jesuit.
+
+Composed *ad Proxim.*
+
+**L. MISCHINSKY**, at **RAOL**, **MDCCXLVI** [1746].
 
 ---
 
 # SCHEMHAMPHORAS AND THE SEVEN SEMIPHORAS
 
-*[The original opens with a Latin epigraph, corrupted in both scans, whose sense is approximately: the divine names in the Hebrew tongue, whether they be read from the beginning or from the end, from the right as from the left, are of immense virtue.]*
+![Schemhamphoras No. 1 — the seventy-two divine names around the sacred triangle](../Septieme-Livres-de-Moise/Gravures/planche-schemhamphoras-1.jpg)
+
+![Schemhamphoras No. 2](../Septieme-Livres-de-Moise/Gravures/planche-schemhamphoras-2.jpg)
+
+*The original opens the section with two large circular plates, “Schemhamphoras No. 1” and “Schemhamphoras No. 2”; beneath the first stands this Latin epigraph, corrupt in the print itself: “Seu septuaginta duo Divina Nomina in lingua Hebraic, denotant semper Nomen, deisive legantur a principio fine veladextrisant sonistris suntque ingentis virtutis” — that is: the seventy-two divine names in the Hebrew tongue, ever denoting the Name, whether read from the beginning or from the end, from the right or from the left, are of immense virtue.*
 
 ## Semiphoras and Schemhamphoras of King Solomon
 
-*Wesel, Duisburg and Frankfurt: printed and published by a licensed bookseller of the said cities.*
+*Wesel, Duisburg and Frankfort: printed and published by Andrew Luppius, licensed bookseller in the above cities, 1686.*
 
 ### Humble Prayer for Obtaining Wisdom and Understanding
 
@@ -1479,25 +1745,27 @@ In the name of the most high and almighty Creator, I, King Solomon, hold to the 
 
 First, it must be known that the names of God can be taught and understood in the Hebrew tongue alone, and that neither can we pronounce them in another dialect, as they have been revealed to us by the grace of God. For they are the sacrament and the emanation of the divine omnipotence — not of man, nor of the angels —, instituted and consecrated by God to instil the divine harmony in a certain manner, according to the characters of His immutable number and figure, and before which those who are set over the heavens tremble. The angels and all creatures honour them and make use of them to praise their Creator and to bless Him with the greatest reverence in His divine works; and whosoever shall apply them as is fitting, with fear and trembling and with prayer, shall be mightily enlightened by the spirit of God, shall be joined to the divine unity, and shall be powerful according to the will of God.
 
-*[There follows a passage much corrupted in both scans, of which here is the reconstructed substance:]* The man who would operate by these names must know that nothing is accomplished without the fear of God and the love of one’s neighbour; whosoever raises and improves his understanding knows and works great things. He who pronounces the names of God with a pure soul and not out of levity […]. On the other hand, the name of God must never be employed in vain: the true name of God […] He has reserved it and wills not that it be pronounced without necessity, until His design be accomplished and perfect. After this, the angels have their own names […] which it is not necessary for us to enumerate.
+He can perform supernatural things: command angels and devils, bind and unbind the things of the elements, over which he may elevate himself through the power of God. Therefore, he who has purified and improved his understanding and morals, and who through faith has purified his ears, so that he may without spurious alterations call upon the divine name of God, will become a house and a dwelling-place of God, and will be a partaker of divine influences, etc.
 
-In the third place, all the names of God are drawn from the Torah by three methods, by means of the kabbalistic art: *Gematria, Notariacon* and *Geometria* [the third method is usually called *Temurah*].
+On the other hand, the order of God should be known: God makes use of other words among angels, and also others among men; but the true name of God is known neither to men nor to angels, for He has reserved it, and will not reveal it until His order and exhibition are fulfilled and perfected. After that the angels will have their own tongues and speech, about which we need not concern ourselves, because it is not necessary for us to examine them.
+
+In the third place, all the names of God are taken by us from His works, as indicating a communication with God, or are extracted out of the divine scriptures through the art of *Cabalisticam, Calculatoriam, Notariacam and Geometriam*.
 
 ### Of the Parts of the World
 
-*[Degraded passage; substance:]* Jehovah, the ineffable Creator of the world, created […] by His Providence. There are four parts of the world, of which the most subtle is the supercelestial world: there are the Choirs of the angels — Cherubim and Seraphim, *Potestates et Virtutes*, Archangels and Angels, spirits who stand before the throne of the Most High; and the four angels who stand at the four corners of heaven — Michael, Raphael, Gabriel, Uriel; four angels preside over the elements: Cherub [for the air], Tharsis [for the water], Ariel [for the earth], Seraph [for the fire]. Highly enlightened men all receive the light of God.
+The beginning of the name and word **Semiphoras**, which God the Creator Jehovah gave in Paradise, embraces three Hebrew letters: Jehovah, the inscrutable Creator of the world, almighty Providence, and all-powerful strong Deity.
 
-The second light, or part of the world, is the heaven of all the stars, with the Triplicities of the twelve signs, under which the sun accomplishes its course each year, producing the change of the seasons — spring, summer, autumn and winter —, the principle of birth and of corruption, and changing […].
+After this there are four parts of the earth, which are the most subtle light of the spiritual world: the four Hierarchies — *Cherubim et Seraphim, Potestates et Virtutes, Archangelos et Angelos, Spiritus et Animus Hominum* — which come before God. This part of the world has also four angels that stand upon the four corners of heaven: Michael, Raphael, Gabriel, Uriel; four angels stand for the elements, namely Seraph, Cherub, Tharsis, Ariel; and four highly enlightened men, full of the light of God.
+
+The second light, or part of the world, is the heaven of all the stars, with the Triplicities of the twelve signs, under which the sun accomplishes its course each year, producing the change of the seasons — spring, summer, autumn and winter —, the principle of birth and of corruption, and changes the fourth element.
 
 In the third part of the work are the elements and all that is subordinate to them: this is the little world, man, who in his turn bears the four elements within himself. *Anima* [the soul] is in the head, by thought; *Spiritus* [the spirit] in the heart, and operates through the arteries; *Corpus* [the body] is the whole body with the veins; *Genius*, a spark of fire, is in the kidneys and engenders birth. Man has four spiritual and active faculties, or *spiritus*: *Animalis, Vitalis, Naturalis, Genitivus*. The soul has inner senses: the *sensus communis*, in which it keeps the forms (*ideae*) and the other perceptions, *intelligens* in the brain;
 
 2ndly the *imaginatrix*, the higher reason, otherwise called *phantasia*, which draws a picture from the power and accomplishes all things;
 
-3rdly the *aestimatio*, which recalls to the mind the species of all things […];
+3rdly the *aestimatio* [“Rativtanatio” in the print — a corrupt word, for *ratiocinatio*], which repeats the species in the mind, with all causes and judgments (*Scientia*); if the soul then turns to real reason, it will obtain a knowledge of all worldly wisdom;
 
-4thly the *ratio*, knowledge of all things […];
-
-5thly the *memoria*, the memory, which retains all things belonging to the faculties and operations of the mind, to carry experience […] by the agitation of the senses increase the human […] by God. The living spirit of the heart embraces within itself four virtues: *Justitia, Temperantia, Prudentia, Fortitudo* [justice, temperance, prudence, fortitude], and these, through the arteries and the blood, animate the soul with the body. The appetite of the senses […] the spiritual action and power reside in the liver […] nutrition and attraction, support and sustenance; the proper spirit of strength and of sap resides in the kidneys, to multiply by the divine perfection.
+4thly the *memoria* [“Memoratrix”], the memory, which retains all things belonging to the faculties and operations of the mind, to bring an *experimentum et sensus*; through agitation of the nerves the increase of the human race is effected by God. The living spirit of the heart embraces within itself four virtues: *Justitia, Temperantia, Prudentia, Fortitudo*, and these lie in the arterial blood and connect the soul with the body. The *Appetitus Sensitivus*: the natural spiritual action and power lies in the liver and arteries, and effects motion and attraction, support and subsistence; the proper spirit of strength and sap lies in the kidneys… to multiply through divine perfection *(the ellipsis stands in the print itself)*.
 
 Man has within him the elements: namely spirit, fruit [blood?], flesh and bone — four natures or temperaments: hot, cold, moist, dry. Attraction is produced by heat and dryness; retention by cold and dryness; digestion (*coctio*) by heat and moisture; expulsion by cold and moisture: bile, blood, phlegm and melancholy [the four humours].
 
@@ -1518,7 +1786,7 @@ The sixth, when he spoke with the winds.
 
 The seventh, when he spoke with the sun, the moon and the stars.
 
-By the power of the seven Semiphoras he could create and destroy […].
+By the power of the seven Semiphoras he could create and destroy all he desired.
 
 **The first Semiphoras** was recognized by Adam when God made him and placed him in Paradise, where he was permitted to remain only seven hours. The name is **Jove**, which must be pronounced only in the greatest necessity, and then only with the most devout feelings toward the Creator. In that case thou shalt find grace and succor.
 
@@ -1554,9 +1822,9 @@ The sixth, when he made a brazen serpent and burned the golden calf, to turn the
 
 The seventh, when the manna fell in the wilderness and the water gushed forth from the rock.
 
-**In the first** are the words which Moses pronounced as he went up the mountain, when he spoke to the flames of the fire: **Maya, Affaby, Zien, Jaramye, yne Latebni damaa yrsano, noy lyloo Lhay yly yre Kylo Zya Lyelee, Loate, lideloy eyloy, mecha ramethy rybifassa fu azyry scihin rite Zelohabe vete hebe ede neyo ramy rahabe conbec** […]. If thou devoutly addressest this word to God, thine undertaking shall be accomplished without any doubt.
+**In the first** are the words which Moses pronounced as he went up the mountain, when he spoke to the flames of the fire: **Maya, Affaby, Zien, Jaramye, yne Latebni damaa yrsano, noy lyloo Lhay yly yre Eylvi Zya Lyelee, Loate, lideloy eyloy, mecha ramethy rybifassa fu aziry scihin rite Zelohabe vete hebe ede neyo ramy rahabe (conoq anubec)** *(the two words in parentheses, so printed, are of uncertain reading)*. If you pray this word to God devoutly, your undertaking will be fulfilled without a doubt.
 
-**In the second** are the words which God addressed to Moses when he went up the mountain: **Abtan, Abynistan, Zoratan Juran nondiesip otarte fays alapeina pognij podaij sacrificium.** By these words the prophet spoke to the angels with whom the four quarters of the earth are filled, and by whom the temple was founded […]. If thou wishest to pronounce them, thou must fast three days, be chaste and pure; then thou shalt be able to accomplish many wonders.
+**In the second** are the words which God addressed to Moses when he went up the mountain: **Abtan, Abynistan, Zoratan Juran nondiesip otarte fays alapeina pognij podaij sacrificium.** In these words the prophet spoke to the angels by whom the four quarters of the earth are sealed, and through which the temple was founded Bosale. If you wish to pronounce these, you should fast three days, be chaste and pure; then you can perform many wonders.
 
 **In the third** are the words which Moses pronounced to divide the Red Sea: **Qua claie saijec holowomaatl; bekahu aijclo mare asnia baene hicha ijfale malieha arnija aremeholona queleij, Lineno, feijano, ijoije nfalao flaboira nethee hijcere.** If thou hast lost the favor of thy master, or if thou wishest to win the good will of someone, pronounce these words with fervor and humility.
 
@@ -1582,7 +1850,7 @@ These names are composed from the beginning of the chapters of **Adonay**, which
 
 The seven mighty names, which may be obtained at a favorable hour and in a favorable place: **Comitejon, sedeaij, throtomas, sasmagata bilil ijcos.**
 
-The four names of the Creator: **Jva, Jona, Eloij, Jena**. He who […] *mepherias phaton*: he who carries this name upon him is invincible.
+The four names of the Creator: **Jva, Jona, Eloij, Jena**. He who calls often upon God in faith and with fear, and carries with him the golden letters, will never want for an honorable subsistence and good clothing. The name which Adam uttered at the entrance to hell is *mephenaij phaton*: he who bears this name upon him is unconquerable.
 
 The name which God communicated to Moses on Mount Sinai, **El Cedjon**, drives away all causes of sorrow.
 
@@ -1592,23 +1860,29 @@ The ten names of **Sephiroth** which Solomon pronounced — “I prayed toward t
 
 Now follow the ten names of God: **Eheie, Jod Tetragrammaton, Tetragrammaton Elohim, El, Elohim Gibor, Eloha, Tetragrammaton Sabaoth, Elohim Sabaoth, Sadai, Adonay Melech** — [Elohim Sabaoth] has ten letters; Tetragrammaton Vedaath has eight letters; **Eheje**, the self-existence of God; *Aser He Aser, eheie*, names of God of seven letters.
 
-**Eseh**, employed by Moses as the fire of God […]; these are all Hebrew characters.
+**Eseh**, used by Moses as the fire of God. **Elion** has five letters, and they are all Hebrew characters.
 
 **Emeth**, the true God — this is the seal of God. The explanation of the ten names of God and of the ten Sephiroth is given in Cornelius Agrippa, *De occulta philosophia*, book 3, chap. 10.
 
 **Hacaba**, the holy and adored God. — **Hu**, himself: the power of the Deity. — **Hod**, the Eternal [?], a divine being. — **Jah**, a just God, who compares himself with man. — **Jesuba**, the Messiah, who shall come in the golden age. — **Jaht**, he who created the light. — **Isala**, which with the name **El** corresponds to the transposed name (each making 31).
 
-**Mettatron** [Metatron] […] and **Masfrag**: the two names derive from a transposition […]. **Meudib**, derived from the transposition of the letters […] the name of God, must be employed in tribulation and oppression. — **Oromasim, Mitrim, Araminon** signify God and the Spirit: these are three princes of the world. — **Pele**, he who works wonders.
+**Mettatron** [Metatron], for **Sadai**: each name composed of 314. — **Icuru Maspas** *(uncertain reading)*: both names are derived from a transposition of the name **Jehova**. — **Messiah** is derived from a transposition of the letters in **Jisma Macom** *(uncertain reading)*. — **Na**, the name of God, should be used in tribulation and oppression. — **Oromasim, Mitrim, Araminon** signify God and the Spirit: these are three princes of the world. — **Pele**, he who worketh wonders.
 
-These names must be chosen [letter by letter] according to the work undertaken, for the accomplishment of which the help of God must be implored — in like manner to a certain text of Exodus, consisting of three verses: *[one is read] in one line, from left to right; [the second] from right to left, in reverse order; [the third again from left to right,] which constitutes the seventy-two letters of which the **Schemhamphoras** is composed*. Thus are the divine names created […]: the proper name of God, of which each of the [seventy-two] names […].
+These names must be selected letter by letter according to the work undertaken, for the accomplishment of which the help of God should be implored — similar to a certain text in Exodus, chapter 14, consisting of three verses which are always written with seventy-two letters, beginning with the three words **Vaijsa, Vaiduo, Vaiot**; which, when placed in a line — the first and third from left to right, the middle one transposed from the right to the left, as in a reverse order — constitute one name, the seventy-two letters of which are named **Schemhamphoras**.
 
-*[Here follows in the original the list of the seventy-two angels of the Schemhamphoras. This list is almost entirely destroyed in both scans — only a few fragments are legible (…Bariel, …Michael, …Jeliel, …Sitael, Elemiah…, …Behael, …Induel, …Rochel, …Jabamiah…); out of fidelity to the rule of inventing nothing, it is not reconstructed here. It may be found in the printed editions of the text.]*
+If now the divine names El or Jah are added, there will be seventy-two names of God [each of three syllables], for it is written: “My angel goeth before me; behold him, for my name is in him.” These names are seventy-two: descents of the five departments of heaven; there are as many nations and tongues, and as many bodily functions; and they agree with the seventy-two disciples of Christ. And this is one method which Cabalists use in making up these names.
 
-*[Degraded passage; substance:]* He who prays these names with an upright and fervent soul […]: these are the praises of the sacred tongue, and whoever offers himself to God with these names […] such is our method of forming the divine names […]. The other method of making the Schemhamphoras consists in arranging the three verses with their letters, written one beneath the other, the first from right to left, [the second from left to right, the third from right to left] […].
+Another method to make the **Schemhamphoras** is when the three verses are written in regular order, from right to left [“unbaleinatim,” a word corrupt in the print], without selecting this method from the tables of Ziruph, or as it is selected from the table of Commutations (*Commutationum*).
 
-One reads in the fifth book […] that God created the world by him, and that he penetrates into the twelve signs and through them into all the servants and instruments of God […]. He who fears God and keeps his commandments […] shall receive the blessing […].
+*Here follows the list of the seventy-two angels of the Schemhamphoras. The recovered scan (Internet Archive, 1880) makes it partly legible despite heavy inking; doubtful names are marked (?):* Vehuiah, Jeliel, Sitael, Elemiah, Mahasia, Lehahel, Achaiah, Cahetel, Hasiel (?), Aladiah, Laviah, Caliel, Leuviah, Pahaliah, Nelchael, Leiaiel (?), Melahel, Hahaiah, Mittaiah (?), Haniah (?), Jemthel (?), Scehia, Räuel (?), Guisel (?), Lecabel, Vasarias, Jehujah, Lahahiah (?), Chavakiah (?), Mahadiel (?), Aniel, Haamiah, Rihael (?), Jeiasel (?), Hahel (?), Michael, Vehuel, Daniel, Hahasias, Imamiah, Nahuel (?), Nitael, Bebahia (?), Poiel, Nemamiah, Selalel (?), Harael, Mitzrael (?), Sahiel (?), Anauel (?), Mehnel (?), Damebiah (?), Menhiel (?), Eliapel (?), Habuiah, Rochel, Jabamiah, Haiauel, Maniah. *(The printed list, itself defective, does not give seventy-two distinct legible names; it corresponds to the traditional list of the seventy-two angels of the Shem ha-mephorash.)*
 
-*[Pages 63–64, degraded and then legible:]* […] Man is created in the image and likeness of God […]; under the favor of God, he shall obtain his desire through faith and wisdom: first, from the stars and the heavens, through the rational reflections of his mind; second, from the animal kingdom, through his senses; third, from the elements, through his fourfold body.
+In the first period, that of nature, God was addressed by the name of **Sadai Tetragrammaton** *(uncertain reading)*. In the second period, that of the law, he bore the unutterable name of **Tetragrammaton**, which is spoken **Adonaij**. In the period of grace he was called upon as **Pentagrammaton**, which is also written **Jesu**, with four letters, and **IHS** with three letters.
+
+The Father gave all power to the Son; the angels received heaven, but in the name of God and Jesus, which is the first power in God. Afterward it spreads into the twelve and seven angels, through which it was communicated to the twelve signs and seven planets, and consequently into all the servants and instruments of God, even to the humblest. Therefore said Jesus: “Everything which ye ask of the Father in my name, that will he give unto you,” if ye pray unto him with a pure heart and a fervent spirit, for there is no other name given to man whereby he can be saved but the name of Jesus. Amen.
+
+## Of the benefit and use of the Semiphoras
+
+That man who lays hold in strong faith and trust in the first Creator must first implore the divine help and blessing, not only with the lips, but also with holy gestures and humble heart, praying fervently and continually, that he may enlighten the mind and take away from the soul all darkness of the body. For precisely as, when our souls are moved by some ordinary cause, the soul moves all the members of the body to contribute something toward the accomplishment of a contemplated work, therefore the great Creator, when he is worshipped in spirit and in truth, and when no unnecessary things are asked of Him, when the prayer is devoutly preferred, will cause the lower order of creatures to yield obedience to the wishes of man, according to their state, order and calling; for man was made in the image and likeness of God, and endowed with reason; and under the favor of God, he will obtain his desire through faith and wisdom: first, from the stars and from the heavens, by the rational reflections of his spirit; second, by the animal kingdom, through his senses; third, by the elements, through his fourfold body.
 
 Therefore man binds all creatures by comparison, by invoking the higher power, through the name and the power which govern a thing, and then through the inferior things themselves.
 
@@ -1662,7 +1936,7 @@ In the **first hierarchy** are the Seraphim, Cherubim and Thrones. These more th
 
 In the **middle hierarchy** are the Dominations, Powers and Virtues, as spirits of intelligence [which govern] the whole world. The first command and [distribute] what the others execute; the second [remove obstacles and repel] the enemies of God; the third work wonders and constantly accomplish great prodigies. [It is from these three] orders of spirits [that miracles descend].
 
-In the **lower hierarchy** are the Principalities, Archangels and Angels, who are ministering spirits to watch over earthly affairs. The first, in general, watch over princes and magistrates and take care of kingdoms and countries, each in its own sphere, as Moses declares in his song: “When the Most High divided the world and its inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the children of Israel.” And Daniel says (chap. 10): “But the prince of the kingdom of Persia withstood me one and twenty days.” And Jesus Sirach testifies that every nation has its appointed director; therefore the Israelites called upon the angel of their country. These are established to institute and regulate the worship of God among men, and take care of the prayers, the offerings and the piety of mortals. The [second and third] orders take charge of lesser aids, and each has its assigned office […].
+In the **lower hierarchy** are the Principalities, Archangels and Angels, which are ministering spirits to oversee earthly affairs. The first, in general, provide for princes and magistrates, and care for kingdoms and countries, each in his own especial sphere, as Moses declares in his song (Deut. xxxii, 8): “When the Most High divided to the nations their inheritance, when he separated the sons of Adam, he set the bounds of the people according to the number of the children of Israel.” And Daniel says (chap. x, 13): “But the prince of the kingdom of Persia withstood me twenty-one days.” And Jesus Sirach bears witness that each nation has its angel as a director; therefore did the Romans at all times invite the angels of their country. 2. The second are engaged in divine affairs; they institute and regulate the worship of God among all men, and present the prayers, offerings and piety of men to God. 3. The third order all things of minor importance, and each one is appointed as a protector to every man.
 
 It is for this reason that the fourth hierarchy [of souls] is added to the preceding ones, as souls of the celestial bodies: first [the souls] which receive the light from the higher degrees [heroes, virtuous men and martyrs?]. The first control the light and the influence of the stars, so that their power proceeds from God toward the lower regions. The second are the holy elect of the Redeemer. The third are the souls of the innocents and of the martyrs, and of the men of God who gave up the spirit amid pains and sufferings, for the love of God.
 
@@ -1674,7 +1948,7 @@ Without the name of Jesus, the old Hebrew kabbalists can in our days accomplish 
 
 The first course in the *Mundo coelesti* watches day and night — *Primum Mobile*, [in Hebrew] *Reschit ha-Galgalim*; it continues from morning until evening. From this the heathen divided the angels into thirty-three orders. The first great light communicates light, life and condition from the first course, and opposes others [to it] in the sphere of the Zodiac; it causes summer and winter, the spring of all things of the elements — in Hebrew *Masloth*; it goes from evening to morning according to the twelve signs of the heavens.
 
-But even though all things hold their existence from God, the great First Cause, we must not despise the other causes, according to the changes of the time, of the year, of the month, of the day and of the hour; nor yet consider these causes exclusively and forget God — for it was in this manner that heathen idolatry was instituted. […] The heathen found that the celestial spirits were not united to their bodies as our souls are united to ours, but that they could rejoice in the presence of God and prepare their bodies without great labor to work with the lower creatures of God. They regarded the celestial spirits as gods and conferred divine honors upon them. Very often the Jews turned away from God and worshipped the hosts of heaven, and the wrath of God was kindled against them. But by reason of the order of all things, God has placed them before us as his instruments, which we must regard, on account of their honorable office, as the noblest creation of God, and honor, after God, according to their rank — not as gods, but as creatures which he has established as twelve princes over the twelve gates of heaven, so that they may admit what they have received from the divine name, transposed twelve times.
+But even though all things hold their existence from God, the great First Cause, we must not despise the other causes, according to the changes of the time, of the year, of the month, of the day and of the hour; nor yet consider these causes exclusively and forget God — for it was in this manner that heathen idolatry was instituted. For this reason God does not regard time, because it robs him of his honor. The heathen found that the celestial spirits were not united to their bodies as our souls are united to ours, but that they could rejoice in the presence of God and prepare their bodies without great labor to work with the lower creatures of God. They regarded the celestial spirits as gods and conferred divine honors upon them. Very often the Jews turned away from God and worshipped the hosts of heaven, and the wrath of God was kindled against them. But by reason of the order of all things, God has placed them before us as his instruments, which we must regard, on account of their honorable office, as the noblest creation of God, and honor, after God, according to their rank — not as gods, but as creatures which he has established as twelve princes over the twelve gates of heaven, so that they may admit what they have received from the divine name, transposed twelve times.
 
 Ezekiel writes: “The laws of the twelve tribes of Israel were thus written, and God Tetragrammaton reigned over them.” Likewise it is written in the Apocalypse that the stones of our heavenly city are planted in the ground, or that the Church of Christ is represented by the twelve names of the Apostles, including twelve angels, and among them the name of Jesus, who has received all power from the Father — so that the heavens shall receive what the angels give them, according to the will of God. If, therefore, an *Intelligentia* is attributed to each heaven, each star and each department of the heaven must have a distinct and separate power and influence, and consequently a distinct *Intelligentia*. There are therefore twelve princes of the angels, who represent the twelve signs of the Zodiac; thirty-six, who represent as many *Decuriae*; and seventy-two angels, who represent as many *Quinariae* of the heaven, of the seventy-two nations and languages of men. Likewise seven angels of the hosts for the seven heavens of the seven planets, to govern the world; and four angels who represent the *Triplicitates* of the twelve signs of the Zodiac and the four elements.
 
@@ -1682,11 +1956,11 @@ All have their names and their signs, which the philosophers used in their works
 
 In the third place, they designated the lowest angels as servants. They distributed them over the world and named them after the seven planets; these have their special course according to the four elements and the four parts of the air and of the earth — several *Diurni* for the day, several *Nocturni*, several *Meridiani* — not that they are subordinate to the influence of the stars like the body which they represent, but because they are more akin than others to the nature of that astral body; otherwise they might be everywhere.
 
-Every human being has three angels. For God has ordained that every human being should have his good angel as protector, who also strengthens the spirit and urges and exhorts us to that which is good and praiseworthy, so that we may flee from that which is evil. And likewise every man has also an evil spirit, which commands the desires of the flesh and awakens the lusts of the heart; between these two angels there is a constant struggle for supremacy, and the one to which man gives the preference shall carry off the victory: if the evil angel triumphs, man becomes his servant; if the good angel shows himself the stronger, he will purify the soul and save man from destruction. The angel and his impulses come from the stars. In the third place come the *Genii* of man, which govern the birth and are joined to every perfection in man. They are recognized by the star which is the Lord of the birth. The Chaldeans seek this *Genium* in the sun and the moon; the astronomers wish to draw the good *Genium* from the eleventh house, which they call for this reason *bonum Genium*, and the evil one from the sixth house. But each shall learn to know it by the natural inclination toward which he was borne from his youth. Therefore it is called the angel of birth, sent into the world by God. The Psalmist says of it: “Thou hast made the spirit of man a flame of fire.” For experience teaches us that the flame of fire and the spirit of birth may be separated without harm to man, and that we may learn hidden things from it, if it is good and true. […]
+Every human being has three angels. For God has ordained that every human being should have his good angel as protector, who also strengthens the spirit and urges and exhorts us to that which is good and praiseworthy, so that we may flee from that which is evil. And likewise every man has also an evil spirit, which commands the desires of the flesh and awakens the lusts of the heart; between these two angels there is a constant struggle for supremacy, and the one to which man gives the preference shall carry off the victory: if the evil angel triumphs, man becomes his servant; if the good angel shows himself the stronger, he will purify the soul and save man from destruction. The angel and his impulses come from the stars. In the third place come the *Genii* of man, which govern the birth and are joined to every perfection in man. They are recognized by the star which is the Lord of the birth. The Chaldeans seek this *Genium* in the sun and the moon; the astronomers wish to draw the good *Genium* from the eleventh house, which they call for this reason *bonum Genium*, and the evil one from the sixth house. But each shall learn to know it by the natural inclination toward which he was borne from his youth. Therefore it is called the angel of birth, sent into the world by God. The Psalmist says of it: “Thou hast made the spirit of man a flame of fire.” For experience teaches us that the flame of fire and the spirit of birth may be separated without harm to man, and that we may learn hidden things from it, if it is good and true. But he is powerless over the members of birth. If, however, a virgin or a companion becomes marriageable, he may be liberated from the glass [sic], and our time of life will be extended.
 
 Moreover, God has endowed man with a divine character by the number **Pachad** — the sword of the left hand of God, by which man becomes a curse to all creatures; and on the other hand he has another character in the number of God **Hesed** — the right hand and the scepter of God, by which he finds favor in the eyes of God and of all his creatures. An evil conscience is man's judge, but a good conscience is his happiness. Thus, by the other divine numbers, and by the angels and the stars, man finds himself marked with signs and characters of conscience, which make him happy at one moment and unhappy at another.
 
-For this reason, if a man has committed a murder, a theft, or any other act which his conscience condemns, he may be brought to confess his fault by the persistent invocation of the name of God, for his conscience will leave him no rest until he restores what he has stolen, or has suffered the punishment due to his crime. To this end: in the name of the Father, of the Son and of the Holy Ghost, take three small pieces of wood from the threshold of the door through which the thief passed in leaving the place where he committed the theft; place them in a wagon wheel, and say through the hub of the wheel the following words: “I pray thee, holy Trinity, to cause that he who has robbed me […] may have neither rest nor peace until he has restored to me what he has stolen.” Turn the wheel three times and replace it on the wagon. — Nevertheless, all pious Christians who have any concern for their future happiness must carefully avoid all superstitious matters, and refrain from employing unworthily the holy name of God, holding it in the greatest reverence, lest they draw down upon themselves eternal punishment.
+For this reason, if a man has committed a murder, a theft, or any other act which his conscience condemns, he may be brought to confess his fault by the persistent invocation of the name of God, for his conscience will leave him no rest until he restores what he has stolen, or has suffered the punishment due to his crime. To this end: in the name of the Father, of the Son and of the Holy Ghost, take three small pieces of wood from the threshold of the door through which the thief passed in leaving the place where he committed the theft; place them in a wagon wheel, and say through the hub of the wheel the following words: “I pray thee, holy Trinity, to cause that A., who has robbed me of B., C., may have neither rest nor peace until he has restored to me what he has stolen.” Turn the wheel three times and replace it on the wagon. — Nevertheless, all pious Christians who have any concern for their future happiness must carefully avoid all superstitious matters, and refrain from employing unworthily the holy name of God, holding it in the greatest reverence, lest they draw down upon themselves eternal punishment.
 
 If a man knows himself and understands that he is created in the image and likeness of God, he will recognize God the Creator before all things, and then the world and all its creatures. From the higher spirits, the angels and the heavens he holds his portion; and from the elements, the animals, the vegetation and the stones, he possesses within himself all that he desires to obtain.
 
@@ -2015,7 +2289,7 @@ According to tradition, this Psalm is also a good remedy against dangerous and p
 
 Whosoever prays this Psalm with childlike faith, trusting in the most holy name of Eel Emmet — that is to say the true God, or God of truth —, and recites daily the prayer belonging to it, will find favor with all men and will be safe from slander and from distrust. The prayer is as follows: “May it please thee, O Eel Emmet, to grant me grace, love and favor with all men whose help I need. Grant that all may believe my words, and that no slander may avail anything against me to deprive me of the confidence of men. Thou canst do this, for thou turnest the hearts of men according to thy holy will, and liars and slanderers are an abomination unto thee. Hear me for the sake of thy name. Amen. — Selah!”
 
-The letters composing this holy name are found in the words: Elohim, verse 1; Maskil, verse 2; […], verse 3; Ammi, verse 4; and […], verse 5.
+The letters composing this holy name are found in the words: Elohim, verse 1; Maskiel, verse 2; Echad, verse 3; Ammi, verse 4; and Azat (?), verse 6.
 
 ### Psalm 15
 
@@ -2384,9 +2658,11 @@ And now, whoever will punctually observe the foregoing instructions three days i
 
 The kabbalists, and particularly the celebrated Rabbi Isaac Loria, have assured us that in time of plague or general calamity, the prayer Vihi Noam must be prayed seven times a day, associating with it in spirit the figure of the golden candlestick, when it is composed of the forty-one holy and important words and names of this psalm, among which we must particularly consider the holy names in their order. Here are the names:
 
-Yean, Aim, Bich, Iba, Wich, Ika, Aan, Beni, Mil, Tmol, Veal, Ktaz, Ilu, Mehoh, Imi, Becha, Im, Retak, Betu, Lir, Uma, Ima, Mix, Mehi, Aki, Lakad, Mili, Ibak, Rul, Leta, Akham, Pesch, Aab, Schin, Aki, Acchu, Kuck, Yetat, Raasch, Jaub, Ana.
+Vean, Alm, Bich, Iba, Wich, Ika, Aan, Beni, Mii, Tmol, Veal, Ktaz, Ilu, Mehoh, Imi, Becha, Im, Retak, Betu, Lir, Uma, Ima, Miz, Mehi, Aki, Lakad, Mili, Ibak, Rul, Leta, Afcham, Pesch, Aab, Schin, Aki, Acchu, Kuck, Vetat, Raasch, Jaub, Ana.
 
 *(see fig. A)*
+
+![Fig. A — the golden candlestick composed of the Hebrew letters of Psalm 91](../Septieme-Livres-de-Moise/Gravures/fig-A.jpg)
 
 After this must be pronounced verses 21 to 28 of chapter XII of Exodus, keeping in mind the names contained in the 23rd and 28th verses, in the following order:
 
@@ -2876,4 +3152,4 @@ Rapid journeys weaken the sight; but it may be restored by pronouncing the bless
 
 ---
 
-*Source: “The Sixth and Seventh Books of Moses,” New York edition, 1880 — Internet Archive, identifier `1880TheSixthAndSeventhBooksOfMoses` (public domain). French translation: July 2026.*
+*Source: “The Sixth and Seventh Books of Moses,” New York edition, 1880 — Internet Archive, identifier `1880TheSixthAndSeventhBooksOfMoses` (public domain). French translation: July 2026. Edition revised against the high-resolution scan — engravings reproduced and illegible passages restored: October 2026.*
