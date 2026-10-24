@@ -2368,7 +2368,9 @@
 ### Prière à la sainte Trinité contre le voleur
 *Source : « Semiphoras et Schemhamphoras du roi Salomon », section sur les caractères de conscience. Usage : amener un voleur à confesser sa faute et à rendre ce qu’il a dérobé (prononcée à travers le moyeu d’une roue de chariot).*
 
-> « Je te prie, sainte Trinité, de faire que celui qui m’a volé […] n’ait ni repos ni paix jusqu’à ce qu’il m’ait rendu ce qu’il a dérobé. »
+> « Je te prie, sainte Trinité, de faire que A., qui m’a volé B., C., n’ait ni repos ni paix jusqu’à ce qu’il m’ait rendu ce qu’il a dérobé. »
+
+*(A. : le nom du voleur, s’il est connu ; B., C. : les choses dérobées.)*
 
 <div markdown="1" class="lang-annot">
 
@@ -3513,7 +3515,7 @@
 ### Conjuration de la Quatrième Table — les Esprits de la Terre
 *Source : Septième Livre, « La Quatrième Table — les Esprits de la Terre ». Usage : obtenir les trésors de la terre ; ses esprits les livrent en tout temps.*
 
-> « Moi, N. N., je te commande, Aziel ; moi, N. N., serviteur de Dieu, je te conjure par Otheos, Athanatos, Agios, et par les noms par lesquels Aaron fut cité et appelé […] Agios. Zebaoth. »
+> « Moi, N. N., je te commande, Awijel, par Otheos comme aussi par Elmez, par Agios. — Moi, N. N., serviteur de Dieu, je te conjure, Ahenatos Elijon, comme aussi Adon fut cité et appelé Zebaoth. »
 
 <div markdown="1" class="lang-annot">
 
@@ -3522,17 +3524,20 @@
 **Termes et traduction :**
 
 - « Otheos » (grec, ho theos) — « le Dieu / Dieu »
-- « Athanatos » (grec) — « immortel »
+- « Ahenatos » (graphie de 1880 pour le grec Athanatos) — « immortel »
 - « Agios » (grec) — « saint »
 - « Zebaoth » (hébreu) — « (Seigneur) des Armées »
-- « Aziel » — nom d'esprit se terminant par le suffixe hébreu -el (« Dieu »), sans traduction globale attestée
+- « Elijon » (hébreu, Elyon) — « Très-Haut »
+- « Adon » (hébreu) — « Seigneur »
+- « Awijel » — nom d'esprit (la planche de la Table porte AWYEL), suffixe hébreu -el (« Dieu »), sans traduction globale attestée
+- « Elmez » — nom/mot magique sans traduction attestée
 
 **Mode d'emploi :**
 
 - Heure : non précisé dans la source
 - Lieu : non précisé dans la source
 - Fréquence / nombre de fois : non précisé dans la source
-- Rituel : conjuration « par les noms par lesquels Aaron fut cité et appelé » — aucun autre détail rituel donné
+- Rituel : conjuration « comme aussi Adon fut cité et appelé Zebaoth » — aucun autre détail rituel donné
 
 </div>
 
@@ -3540,7 +3545,7 @@
 ### Conjuration de la Sixième Table — Jupiter
 *Source : Septième Livre, « La Sixième Table — Jupiter ». Usage : gagner les procès, surmonter querelles et litiges ; ses esprits portent assistance en tout temps.*
 
-> « Je te conjure […] par l’Alphabet céleste […] et Tetragrammaton ; Zeno, par le Paraclet ; Obel, par Orlenius ; Lima, par Agla : que vous obéissiez, que vous paraissiez devant moi et accomplissiez mon désir — ainsi, dans et par le nom Elion […]. F. f. f. »
+> « Je te conjure, Esprit Ofel, par Alpha et Oméga ; Lezo et Yschirios, Ohin, Ission, Niva, par Tetragramaton ; Zeno, par le Paraclet ; Ohel, par Orlenius ; Lima, par Agla : que vous obéissiez, que vous paraissiez devant moi et accomplissiez mon désir — ainsi, dans et par le nom Elion, que Moïse nomma. F. f. f. »
 
 <div markdown="1" class="lang-annot">
 
@@ -3552,7 +3557,8 @@
 - « Agla » (hébreu) — acronyme kabbalistique
 - « Elion » (hébreu, Elyon) — « Très-Haut »
 - « F. f. f. » (latin, Fiat fiat fiat) — « qu'il soit fait »
-- « Zeno, Obel, Orlenius, Lima » — noms/mots magiques sans traduction attestée
+- « Yschirios » (grec, ischyros) — « fort, puissant »
+- « Ofel, Lezo, Ohin, Ission, Niva, Zeno, Ohel, Orlenius, Lima » — noms/mots magiques sans traduction attestée (les sept cercles de la planche portent OFEL, LEZO, OHYN, NYVA, ZENO, OHEL, LYMA)
 
 **Mode d'emploi :**
 
@@ -3727,7 +3733,7 @@
 ### Citatio Arielis [Citation d’Ariel]
 *Source : Appendice, « Citation des Sept Grands Princes ». Usage : citer Ariel, esprit très serviable qui commande aux trésors perdus de la terre et de la mer.*
 
-> Yschyros, Theor, Zebaoth, Wyzeth, Yzathos, Xyzo, Xywethorowdy, Xantho, Wiros, Rurawey, Ymowe, Noswathosway, Wirvnethowesy, Zebaoth, Yvmo, Zvswethonowe, Yschyrioskay, Ulathos, Wytoy, Yrsawo, Xyzeth, Durobij, Chaos, Wudowelhus, Yzweoy, Zaday, Zywaye, […], Yachyros, Imas, Tetragrammaton, **Ariel**.
+> Yschyros, Theor, Zebaoth, Wyzeth, Yzathos, Xyzo, Xywethorowdy, Xantho, Wiros, Rurawey, Ymowe, Noswathosway, Wirvnethowesy, Zebaoth, Yvmo, Zvswethonowe, Yschyrioskay, Ulathos, Wytoy, Yrsawo, Xyzeth, Durobij, Chaos, Wudowelhus, Yzweoy, Zaday, Zywaye, Hagathorwos, Yachyros, Imas, Tetragrammaton, **Ariel**.
 
 <div markdown="1" class="lang-annot">
 
@@ -3757,7 +3763,7 @@
 ### Citatio Marbuelis [Citation de Marbuel]
 *Source : Appendice, « Citation des Sept Grands Princes ». Usage : citer Marbuel, qui livre les trésors de l’eau et de la terre et aide à toute connaissance secrète et tous les honneurs.*
 
-> Adonay, Jehova, Zebaoth, Theos, Yzhathoroswe, Wehozymathos, […]yghoroy, Vegorym, Abaij, Wogos, Gijghym, Zewoij, Ycosowe, Wothym, Kijzwe, Uijwoth, Omegros, Hehgewe, Zebaoij, Wezator, Zibuo, Sijbetho, Ythos, Zeatijm, Wovoe, Sijwoijmwethij, Pharvoij, Zewor, Wefgos, Ruben, Hvbathoroos, Stawows, Zijen, Zijwowij, Ham, Worse, Yzwet, Zebaoth, Agla, **Marbuel**.
+> Adonay, Jehova, Zebaoth, Theos, Yzhathoroswe, Wehozymathos, Zesim, Yghoroy, Vegorym, Abaij, Wogos, Gijghijm, Zewoij, Ykosowe, Wothym, Kijzwe, Uijwoth, Omegros, Hehgewe, Zebaoij, Wezator, Zibuo, Sijbetho, Ythos, Zeatijm, Wovoe, Sijwoijmwethij, Pharvoij, Zewor, Wefgos, Ruhen, Hvbathoroos, Stawows, Zijen, Zijwowij, Haros, Worse, Yzwet, Zebaoth, Agla, **Marbuel**.
 
 <div markdown="1" class="lang-annot">
 
@@ -3770,10 +3776,8 @@
 - « Jehova » (hébreu) — forme vocalisée du Tétragramme YHWH, « l'Éternel »
 - « Zebaoth / Zebaoij » (hébreu) — « [Seigneur] des armées »
 - « Theos » (grec) — « Dieu »
-- « Ruben » (hébreu, nom biblique) — Ruben, fils de Jacob
-- « Ham » (hébreu, nom biblique) — Cham, fils de Noé
 - « Agla » (hébreu, acronyme) — « Tu es puissant à jamais, Seigneur »
-- « Yzhathoroswe, Wehozymathos, […]yghoroy, Vegorym, Abaij, Wogos, Gijghym, Zewoij, Ycosowe, Wothym, Kijzwe, Uijwoth, Omegros, Hehgewe, Wezator, Zibuo, Sijbetho, Ythos, Zeatijm, Wovoe, Sijwoijmwethij, Pharvoij, Zewor, Wefgos, Hvbathoroos, Stawows, Zijen, Zijwowij, Worse, Yzwet » — noms/mots magiques sans traduction attestée
+- « Yzhathoroswe, Wehozymathos, Zesim, Yghoroy, Vegorym, Abaij, Wogos, Gijghijm, Zewoij, Ykosowe, Wothym, Kijzwe, Uijwoth, Omegros, Hehgewe, Wezator, Zibuo, Sijbetho, Ythos, Zeatijm, Wovoe, Sijwoijmwethij, Pharvoij, Zewor, Wefgos, Ruhen, Hvbathoroos, Stawows, Zijen, Zijwowij, Haros, Worse, Yzwet » — noms/mots magiques sans traduction attestée
 - « Marbuel » — nom de l'esprit cité, sans traduction attestée
 
 **Mode d'emploi :**
@@ -3789,7 +3793,7 @@
 ### Citatio Mephistophiles [Citation de Méphistophilès]
 *Source : Appendice, « Citation des Sept Grands Princes ». Usage : citer Méphistophilès, qui aide dans tous les arts d’habileté et donne les spiritus servos (« familiers »).*
 
-> Messias, Adonaij, Weforus, Xathor, Yxewe, Soraweijs, Yxaron, Wegharb, Zijbalor, Wegbaij, Wesorou, Xoxywe, Zykohwowetho, R[…]atho, Zebaoth, Adonaij, Zijwetho, Aglaij, W[…]daij, Zijebo, Xosthoy, Athlato, Zsewey, Zyxyzet, Ysche, Sarsewu, Zyzyrn, Deworonhathbo, Xyxewe, Syzwe, Theos, Yschaos, Worsoubefgosy, Gefgowe, Hegor, Quaratho, Zywe, Messias, Abarabi, **Mephistophiles**.
+> Messias, Adonaij, Weforus, Xathor, Yxewe, Soraweijs, Yxaron, Wegharb, Zijbalor, Wegbaij, Wesorou, Xoxijwe, Zijwohwawetho, Ragthoswatho, Zebaoth, Adonaij, Zijwetho, Aglaij, Wijzathe, Zadaij, Zijebo, Xosthoy, Athlato, Zsewey, Zyxyzet, Ysche, Sarsewu, Zyzyrn, Deworonhathbo, Xyxewe, Syzwe, Theos, Yschaos, Worsoubefgosy, Gefgowe, Hegor, Quaratho, Zywe, Messias, Abarabi, **Mephistophiles**.
 
 <div markdown="1" class="lang-annot">
 
@@ -3805,7 +3809,7 @@
 - « Aglaij » (hébreu, variante d'Agla) — cf. Agla, « Tu es puissant à jamais, Seigneur »
 - « Theos » (grec) — « Dieu »
 - « Abarabi » — nom/mot magique sans traduction attestée
-- « Weforus, Xathor, Yxewe, Soraweijs, Yxaron, Wegharb, Zijbalor, Wegbaij, Wesorou, Xoxywe, Zykohwowetho, R[…]atho, Zijwetho, W[…]daij, Zijebo, Xosthoy, Athlato, Zsewey, Zyxyzet, Ysche, Sarsewu, Zyzyrn, Deworonhathbo, Xyxewe, Syzwe, Yschaos, Worsoubefgosy, Gefgowe, Hegor, Quaratho, Zywe » — noms/mots magiques sans traduction attestée
+- « Weforus, Xathor, Yxewe, Soraweijs, Yxaron, Wegharb, Zijbalor, Wegbaij, Wesorou, Xoxijwe, Zijwohwawetho, Ragthoswatho, Zijwetho, Wijzathe, Zadaij, Zijebo, Xosthoy, Athlato, Zsewey, Zyxyzet, Ysche, Sarsewu, Zyzyrn, Deworonhathbo, Xyxewe, Syzwe, Yschaos, Worsoubefgosy, Gefgowe, Hegor, Quaratho, Zywe » — noms/mots magiques sans traduction attestée
 - « Mephistophiles » — nom de l'esprit cité, sans traduction attestée
 
 **Mode d'emploi :**
@@ -3918,9 +3922,9 @@
 
 > Le Père ✠ Dieu, le Fils ✠, ✠ Dieu le Saint-Esprit ✠
 >
-> **YSS CHAYA HSTH RACHMYEL AYSCHEB.**
+> **YES CHAYA HETH RACHMYEL AYSCHER.**
 >
-> Que le sang innocent et saint de Jésus-Christ, le Fils de Dieu, nous purifie de tout péché, et qu’il vous donne, ô esprits, le repos et la paix éternels, par *Jesum Christum* ✠, le Fils de Dieu. **AWEL** […] **SHEYE**.
+> Que le sang innocent et saint de Jésus-Christ, le Fils de Dieu, nous purifie de tout péché, et qu’il vous donne, ô esprits, le repos et la paix éternels, par *Jesum Christum* ✠, le Fils de Dieu. **AWEL** ………… **YHEYE**.
 >
 > C’est pourquoi, que les esprits de Jésus-Christ vous rachètent de toute peine et de toute souffrance, et qu’ils nous donnent les trésors qui sont ici, par le sang répandu de **I. N. R. I.**, **El Elyon**, *Jesu Christo* **Bheyoba**. Amen.
 
@@ -3932,7 +3936,7 @@
 
 - « YSS CHAYA HSTH RACHMYEL AYSCHEB » (hébreu, formule) — nom/mot magique sans traduction attestée dans le texte
 - « Jesum Christum » (latin, accusatif) — « Jésus-Christ »
-- « AWEL […] SHEYE » — nom/mot magique sans traduction attestée
+- « AWEL ………… YHEYE » — noms/mots magiques sans traduction attestée (les points de conduite sont dans l'imprimé)
 - « I. N. R. I. » (latin, sigle) — « Iesus Nazarenus Rex Iudaeorum », traduction attestée : « Jésus de Nazareth, roi des Juifs »
 - « El Elyon » (hébreu) — « Dieu Très-Haut »
 - « Jesu Christo » (latin) — « à Jésus-Christ »
@@ -4318,7 +4322,7 @@
 
 > « Aha, je te conjure, Aha, par Eheye ; par Ihros, Eheye ; par Agla, Aysch, Jehovah, je te conjure : que tu m’apparaisses. »
 >
-> Autour du sceau : *Eheyeh — Aha — … — Schvwym — Asmlh — Chartye — Jehovah — Veloheij — … — Schadey — […]*
+> Autour du sceau : *Sursamor — Dehschyfa* (en haut), *Zywah* et *Thoayl* (sur les montants), *Yehoel — Saruyel — Eryhon* (en bas) ; au centre, les cercles *Yae Eheye*, *Aysh* et *Aha Eheye*.
 
 <div markdown="1" class="lang-annot">
 
@@ -4346,7 +4350,7 @@
 ### Conjuration de la Cinquième Table — Saturne
 *Source : Septième Livre, « La Cinquième Table — Saturne ». Usage : les esprits de Saturne serviront en toute chose.*
 
-> « Moi, N. N., j’ordonne, je commande et je te conjure, Sadol, par Hother ; Vednij, par Sabaoth ; […] par Helioren ; Jaho, par la Vérité Jehovah ; Rawa, Alha : que vous paraissiez devant moi sous forme humaine, aussi vrai que Daniel vainquit et confondit Baal. F. f. f. »
+> « Moi, N. N., j’ordonne, je commande et je te conjure, Saalij, par Agios ; Scdul, par Sother ; Vednij, par Sabaot ; Sove, Amonzion, Adoij, par Heloim ; Jaho, par la Vérité Jehovah ; Kawa, Alha : que vous paraissiez devant moi sous forme humaine, aussi vrai que Daniel vainquit et confondit Baal. F. f. f. »
 
 <div markdown="1" class="lang-annot">
 
@@ -4354,11 +4358,14 @@
 
 **Termes et traduction :**
 
-- « Sabaoth » (hébreu) — « des Armées »
+- « Sabaot » (graphie de 1880 pour l'hébreu Sabaoth) — « des Armées »
+- « Sother » (grec, Sôter) — « Sauveur »
+- « Heloim » (graphie de 1880 pour l'hébreu Elohim) — « Dieu »
+- « Agios » (grec) — « saint »
 - « Jehovah » (hébreu) — nom propre de Dieu
 - « Jaho » (grec, forme du Tétragramme apparentée à Iao) — variante ancienne du nom divin « Yahvé »
 - « Fiat, fiat, fiat » / « F. f. f. » (latin) — « qu'il soit fait »
-- « Sadol, Hother, Vednij, Helioren, Rawa, Alha » — noms/mots magiques sans traduction attestée
+- « Saalij, Scdul, Vednij, Sove, Amonzion, Adoij, Kawa, Alha » — noms/mots magiques sans traduction attestée
 
 **Mode d'emploi :**
 
@@ -5416,7 +5423,7 @@
 ### Citatio Generalis (Tabellae Rabellinae — Spiritus Commando)
 *Source : Appendice, « Tabellae Rabellinae », Citatio generalis (de Moïse ?) et de Salomon, canonisée par Alexandre VI. Usage : citation générale d’un bon ou d’un mauvais esprit (texte très gravement endommagé dans les deux exemplaires consultés).*
 
-> Aba, A[…], […]gowosyroloss[…], […], Monhato, Queo, Zuweset, Rumoy, Ruwoteo, Quinos, Dby, Xet[…]matru, Xosto, X[…]Kawewe, Z[…], Agtay, Tetragrammaton, Theos, Yschyroroseth, Zurequros, My[…], […], H[…], We[…], Wagha[…], […], Ysgest[…], […], Zuy, Zywethorosto, B[…], X[…]care, K[…]se, W[…], Zywest, […].
+> Aba, Alpha, Omega, Hewozywetony, Xewerator, Menhatoy, Queo, Zuwezet, Rumoy, Ruwetze, Quano, Duzy, Xenthono-Rohmatru, Xono, Xode[…], Zebaoth, Aglay, Tetragrammaton, Adonay, Theos, Ysehyroroseth, Zumquvos, Ny[…], Athanatos, Theos, Quyhet, Honor, Wethotith, Yarus, Vegeboth, Otay, Zywe, Ysgestot, Zartafegos, Zuy, Zywethorosto, Butrom, Xuwye, Xunewe, Kebas, Weesta, Zyweso, Tetragrammaton.
 >
 > *Prononce distinctement le nom du bon ou du mauvais ✠✠✠ esprit, et il paraîtra très soudainement ; tu devras alors t’adresser à lui.*
 
@@ -5432,7 +5439,7 @@
 - « Tetragrammaton » (grec) — « [nom] de quatre lettres », désigne YHWH
 - « Theos » (grec) — « Dieu »
 - « Yschyroroseth » (grec, variante d'Ischyros) — « fort, puissant »
-- « Aba, Monhato, Queo, Zuweset, Rumoy, Ruwoteo, Quinos, Dby, Xosto, Agtay, Zurequros, Zuy, Zywethorosto, Zywest » (et fragments illisibles « […] ») — noms/mots magiques sans traduction attestée
+- « Aba, Hewozywetony, Xewerator, Menhatoy, Queo, Zuwezet, Rumoy, Ruwetze, Quano, Duzy, Xenthono-Rohmatru, Xono, Zumquvos, Quyhet, Wethotith, Yarus, Vegeboth, Otay, Zywe, Ysgestot, Zartafegos, Zuy, Zywethorosto, Butrom, Xuwye, Xunewe, Kebas, Weesta, Zyweso » (deux mots restent sous tampon : « Xode[…] », « Ny[…] ») — noms/mots magiques sans traduction attestée
 
 **Mode d'emploi :**
 
@@ -5489,9 +5496,9 @@
 ### Les sept Semiphoras de Moïse (paroles d’invocation)
 *Source : « Semiphoras et Schemhamphoras du roi Salomon », « Les sept Semiphoras de Moïse ». Usage : les sept paroles que Dieu donna à Moïse (buisson ardent, montagne, mer Rouge, bâton-serpent, front d’Aaron, serpent d’airain, manne et rocher).*
 
-> **Dans le premier** sont les paroles que Moïse prononça en montant sur la montagne, lorsqu’il parla aux flammes du feu : **Maya, Affaby, Zien, Jaramye, yne Latebni damaa yrsano, noy lyloo Lhay yly yre Kylo Zya Lyelee, Loate, lideloy eyloy, mecha ramethy rybifassa fu azyry scihin rite Zelohabe vete hebe ede neyo ramy rahabe conbec** […]. Si tu adresses dévotement cette parole à Dieu, ton entreprise s’accomplira sans aucun doute.
+> **Dans le premier** sont les paroles que Moïse prononça en montant sur la montagne, lorsqu’il parla aux flammes du feu : **Maya, Affaby, Zien, Jaramye, yne Latebni damaa yrsano, noy lyloo Lhay yly yre Eylvi Zya Lyelee, Loate, lideloy eyloy, mecha ramethy rybifassa fu aziry scihin rite Zelohabe vete hebe ede neyo ramy rahabe (conoq anubec)** *(les deux mots entre parenthèses, ainsi imprimés, sont d’une lecture incertaine)*. Si tu adresses dévotement cette parole à Dieu, ton entreprise s’accomplira sans aucun doute.
 >
-> **Dans le deuxième** sont les paroles que Dieu adressa à Moïse lorsqu’il monta sur la montagne : **Abtan, Abynistan, Zoratan Juran nondiesip otarte fays alapeina pognij podaij sacrificium.** Par ces paroles, le prophète parla aux anges dont sont remplis les quatre quartiers de la terre […]. Si tu veux les prononcer, tu dois jeûner trois jours, être chaste et pur ; alors tu pourras accomplir bien des merveilles.
+> **Dans le deuxième** sont les paroles que Dieu adressa à Moïse lorsqu’il monta sur la montagne : **Abtan, Abynistan, Zoratan Juran nondiesip otarte fays alapeina pognij podaij sacrificium.** Par ces paroles, le prophète parla aux anges par lesquels les quatre quartiers de la terre sont scellés, et par lesquels fut fondé le temple Bosale. Si tu veux les prononcer, tu dois jeûner trois jours, être chaste et pur ; alors tu pourras accomplir bien des merveilles.
 >
 > **Dans le troisième** sont les paroles que Moïse prononça pour diviser la mer Rouge : **Qua claie saijec holowomaatl ; bekahu aijclo mare asnia baene hicha ijfale malieha arnija aremeholona queleij, Lineno, feijano, ijoije nfalao flaboira nethee hijcere.** Si tu as perdu la faveur de ton maître, ou si tu veux gagner la bienveillance de quelqu’un, prononce ces paroles avec ferveur et humilité.
 >
