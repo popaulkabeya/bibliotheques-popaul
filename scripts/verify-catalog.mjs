@@ -36,8 +36,8 @@ const HORS_CATALOGUE = [
   { raison: 'source de travail (scan d\'origine, OCR)', chemins: [
     'Enchiridion_du_pape_Leon.pdf', 'Enchiridion_du_pape_Leon_texte_OCR.txt',
   ] },
-  { raison: 'édition anglaise en cours', chemins: [
-    'Une-Meme-Lumiere-Cinq-Religions-EN.md', 'Une-Meme-Lumiere-Cinq-Religions-EN.pdf',
+  { raison: 'ancien PDF anglais (septembre), remplacé par l\'intérieur du broché', chemins: [
+    'Une-Meme-Lumiere-Cinq-Religions-EN.pdf',
   ] },
 ];
 
