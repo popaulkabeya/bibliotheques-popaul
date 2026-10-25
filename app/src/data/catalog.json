@@ -1267,16 +1267,16 @@
             "Septieme-Livres-de-Moise/Livre-Moise-Audio/10 - L'Usage des Psaumes (2).mp3"
           ],
           "sizes": [
-            1223280,
-            4858848,
-            3096000,
-            25203024,
-            19103472,
-            11560608,
-            7707312,
-            21147696,
-            22668768,
-            29644416
+            1344188,
+            5062412,
+            3482012,
+            26305580,
+            19402652,
+            10847180,
+            8422508,
+            23417516,
+            23336444,
+            30159308
           ]
         },
         {
@@ -1547,7 +1547,7 @@
           "bytes": 17218830
         }
       ],
-      "bytes": 196611009,
+      "bytes": 202177385,
       "addedAt": "2026-09-03"
     },
     {
@@ -2143,7 +2143,7 @@
           "label": "Texte intégral",
           "type": "md",
           "path": "Recueil-Prieres-et-Invocations/Recueil-Prieres-et-Invocations-FR.md",
-          "bytes": 507421
+          "bytes": 508573
         },
         {
           "label": "Version PDF",
@@ -2165,17 +2165,17 @@
             "Recueil-Prieres-et-Invocations/Livre-Audio/07 - 7. Bénédictions diverses.m4a"
           ],
           "sizes": [
-            27046363,
-            26709830,
-            11930121,
-            11810692,
-            13310658,
-            39162687,
-            27802499
+            27128534,
+            26797776,
+            12004185,
+            11858499,
+            13593924,
+            39478692,
+            27875111
           ]
         }
       ],
-      "bytes": 159168468,
+      "bytes": 160133491,
       "addedAt": "2026-09-03"
     },
     {
@@ -3388,6 +3388,6 @@
       "bytes": 627074
     }
   ],
-  "totalBytes": 4238004013,
+  "totalBytes": 4244535412,
   "generatedAt": "2026-10-24"
 }
