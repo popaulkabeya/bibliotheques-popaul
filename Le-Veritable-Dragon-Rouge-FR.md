@@ -6,7 +6,7 @@
 
 > **Note de l'éditeur.**
 > Le « Dragon rouge » (ou « Grand Grimoire ») est l'un des grimoires français les plus célèbres, connu depuis le XVIIIe siècle et sans cesse réimprimé au XIXe sous des titres et des attributions diverses. Comme les autres volumes de cette collection, c'est un document historique et littéraire — fourni à titre documentaire.
-> — L'orthographe et le style de l'édition de 1850 ont été conservés ; seules les erreurs d'OCR ont été corrigées. Les passages irrécupérables sont marqués […].
+> — L'orthographe et le style de l'édition de 1850 ont été conservés ; seules les erreurs d'OCR ont été corrigées. Le texte a été entièrement relu sur le fac-similé Internet Archive (`b33030169`, octobre 2026) : les lacunes de l'OCR ont été restituées d'après le scan, et les onze gravures de l'édition (frontispice, verge foudroyante, cercle cabalistique, signatures et apparitions des esprits, triangle des pactes, planche du Secret magique, poule noire) sont insérées à leur place d'origine. Les rares passages encore irrécupérables (marges rognées par la reliure) restent marqués […] ; les lectures douteuses sont suivies de (?). Les fautes propres à l'imprimé de 1850 ont été conservées telles quelles, notamment « remasse », « Murathon », « le genre de votre planette » (pour « génie »), « sous l'oreille » (pour « l'oreiller ») et le titre « COMPOSITION DE MORT » (la table de l'édition porte « Composition de l'or »).
 
 ---
 
@@ -22,15 +22,17 @@ Avec le secret de faire parler les morts ; de gagner toutes les fois qu'on met a
 
 Suivi de LA POULE NOIRE. *(voir fig.)*
 
+![Fig. — Frontispice de l'édition de 1850 : le dragon tenant l'écu à la poule noire](../Dragon-Rouge-Gravures/frontispice.jpg)
+
 ---
 
 ## [Avant-propos]
 
-[…] qui gémit sous le poids accablant des préjugés de la présomption, aura peine à se persuader qu'il m'ait été possible de renfermer dans un si petit recueil l'essence de plus de vingt volumes, qui par leurs redits et ambiguités, rendoient l'accès des opérations philosophiques presque impraticable ; mais que l'incrédule et le prévenu se donnent la peine de suivre pas à pas la route que je leur trace, et ils verront la vérité bannir de leur esprit la méfiance et la crainte que peut avoir occasionné un tas d'essais sans [succès], étant faits hors de saison […].
+L'HOMME qui gémit sous le poids accablant des préjugés de la présomption, aura peine à se persuader qu'il m'ait été possible de renfermer dans un si petit recueil l'essence de plus de vingt volumes, qui par leur dits, redits et ambiguités, rendoient l'accès des opérations philosophiques presque impraticable ; mais que l'incrédule et le prévenu se donnent la peine de suivre pas à pas la route que je leur trace, et ils verront la vérité bannir de leur esprit la méfiance et la crainte que peut avoir occasionné un tas d'essais sans fruit, étant faits hors de saison ou sur indices imparfaits.
 
-C'est encore en vain qu'on croit qu'il n'est pas possible de faire de semblables [opérations] sans engager sa conscience ; il ne faut, pour être [convain]cu du contraire, que jetter un coup d'œil sur la vie de S. Cyprien.
+C'est encore en vain qu'on croit qu'il n'est pas possible de faire de semblables [opérations] sans engager sa conscience ; il ne faut, pour être [convain]cu du contraire, que jetter un clin d'œil sur la vie de St. Cyprien.
 
-[J']ose me flatter que les sçavans attachés aux mystères de la science divine, surnommée occulte, regarderont ce livre comme le plus [précieux] trésor […].
+[J']ose me flatter que les sçavans attachés aux mystères de la science divine, surnommée occulte, regarderont ce livre comme le plus précieux trésor de l'univers.
 
 ---
 
@@ -62,7 +64,7 @@ Je t'implore, ô grand et puissant Adonay, maitre de tous les esprits ; je t'imp
 
 Prenez ensuite votre repas, et ne vous deshabillez ni ne dormez que le moins qu'il vous sera possible, pendant tout ledit quartier de lune, pensant continuellement à votre ouvrage et fondant toute votre espérance dans l'infinie bonté du grand Adonay ; après quoi, le lendemain de la première nuit dudit quart de lune, vous irez chez un droguiste, [pour] y acheter une pierre sanguine dite Ematille, [que] vous porterez continuellement avec vous, crainte d'accident, attendu que dès-lors [l']esprit que vous avez en vue de forcer et contraindre fait tout ce qu'il peut pour vous dégouter par la crainte, pour faire échouer votre entreprise, croyant par cette voie se dégager des filets que vous commencez à [lui] tendre.
 
-Il faut observer qu'il ne peut être qu'un ou trois, y compris le Karcist, qui est celui qui doit parler à l'esprit, tenant en main la verge foudroyante. Vous aurez soin de choisir pour l'endroit de l'action un lieu solitaire et écarté du monde, afin que le Karcist ne soit point interrompu ; après quoi vous acheterez un jeune chevreau vierge, que vous décorerez le troisième jour de la lune d'une guirlande de verveine, que [vous] attacherez à son col, au-dessus de sa tête, avec un ruban verd ; ensui[te vous le transporterez à l'endroit mar]qué pour l'apparition, et, le bras droit nud jusqu'à l'épau[le, armé] d'une lame de pur acier, […] vous direz les paroles suivantes, avec espérance et fermeté.
+Il faut observer qu'il ne peut être qu'un ou trois, y compris le Karcist, qui est celui qui doit parler à l'esprit, tenant en main la verge foudroyante. Vous aurez soin de choisir pour l'endroit de l'action un lieu solitaire et écarté du monde, afin que le Karcist ne soit point interrompu ; après quoi vous acheterez un jeune chevreau vierge, que vous décorerez le troisième jour de la lune d'une guirlande de verveine, que vous attacherez à son col, au-dessus de sa tête, avec un ruban verd ; ensuite le transporterez à l'endroit marqué pour l'apparition, et le bras droit nud jusqu'à l'épaule, armé d'une lame de pur acier, le feu étant allumé avec du bois blanc, vous direz les paroles suivantes, avec espérance et fermeté.
 
 ### Prémière Offrande
 
@@ -70,9 +72,7 @@ Je t'offre cette victime, ô grand Adonay, Eloïm, Ariel et Jehovan, et cela à 
 
 Ensuite vous égorgerez le chevreau et lui otterez la peau, et mettrez le reste dessus le feu, pour y étre réduit en cendres, que vous ramasserez et les jetterez du côté du soleil levant, en disant les paroles suivantes : c'est pour l'honneur, gloire et puissance de ton nom, ô grand Adonay, Eloïm, Ariel et Jehovan, que je repand le sang de cette victime ; daignes, ô grand Adonay, recevoir ses cendres pour [agréables].
 
-[Pendant] que brule [la victime], vous [pourrez] vous réjouir en l'honneur et gloire du grand Adonay, Eloïm, Ariel et Jehovan, ayant soin de conserver la peau du chevreau vierge, pour former le rond ou le grand cercle cabalistique, dans lequel vous vous [tiendrez] le jour de la grande [entreprise].
-
-[…]
+[Pendant] que brule [la victime], vous [pourrez] vous réjouir en l'honneur et gloire du grand Adonay, Eloïm, Ariel et Jehovan, ayant soin de conserver la peau du chevreau vierge, pour former le rond ou le grand cercle cabalistique, dans lequel vous vous mettrez le jour de la grande entreprise.
 
 ---
 
@@ -80,7 +80,9 @@ Ensuite vous égorgerez le chevreau et lui otterez la peau, et mettrez le reste 
 
 *Contenant la véritable composition de la baguette mystérieuse, ou verge foudroyante, telle qu'elle est représentée ci-dessous.* *(voir fig.)*
 
-La veille de la grande entreprise, vous irez chercher une baguette ou verge de noisetier sauvage, qui n'ait jamais porté, et qu'elle soit précisément semblable à celle que vous voyez ci-devant *(voir fig.)* ; ladite baguette devant fourcher en haut, c'est-à-dire du côté des deux bouts, [et être] de dix-neuf pouces [de longueur]. Quand vous aurez trouvé une baguette de même forme, vous ne la toucherez que des yeux, en attendant jusqu'au lendemain, jour de l'action, que vous irez la couper positivement au lever du soleil ; et alors vous la dépouillerez de ses feuilles et petites branches, si elle en a, avec la même lame d'acier qui a servi à égorger la victime, qui sera encore teinte de son sang ; attendu que vous ne devez pas essuyer ladite lame ; en [commençant] à la couper quand le soleil commencera à paroître sur cet hémisphère, en prononçant les paroles suivantes :
+![Fig. — La verge foudroyante (gravure de l'édition de 1850)](../Dragon-Rouge-Gravures/verge-foudroyante.jpg)
+
+La veille de la grande entreprise, vous irez chercher une baguette ou verge de noisetier sauvage, qui n'ait jamais porté, et qu'elle soit précisément semblable à celle que vous voyez ci-devant *(voir fig.)* ; ladite baguette devant faire fourche en haut, c'est-à-dire du coté des deux bouts, sa longueur doit être de dix-neuf pouces et demi ; après que vous aurez trouvé une baguette de même forme, vous ne la toucherez que des yeux, en attendant jusqu'au lendemain, jour de l'action, que vous irez la couper positivement au lever du soleil ; et alors vous la dépouillerez de ses feuilles et petites branches, si elle en a, avec la même lame d'acier qui a servi à égorger la victime, qui sera encore teinte de son sang ; attendu que vous ne devez pas essuyer ladite lame ; en [commençant] à la couper quand le soleil commencera à paroître sur cet hémisphère, en prononçant les paroles suivantes :
 
 Je te récommande, ô grand Adonay, Eloïm, Ariel et Jehovam, de m'être favorable et de donner à cette baguette que je coupe la force et [la vertu] de celle de Jacob, de celle de Moïse et de celle du grand Josué ; je [te recommande aussi de renfermer dans cette baguette toute la force d']Emanuel et les foudres [de] Zariatnatmik, qui vengera les injures des hommes au grand jour du jugement. Amen.
 
@@ -88,13 +90,15 @@ Aprés avoir prononcé ces grandes et terribles paroles, et ayant toujours la vu
 
 Par la puissance du grand Adonay, Eloïm, Ariel et Jehovam, je te commande d'unir et d'attirer toutes les matières que je voudrai ; par la puissance du grand Adonay, Eloïm, [Ariel et Jehovam, je te commande,] suivant l'incompatibihté du feu et de l'eau, de [séparer] toutes matiéres, comme elles furent séparées le jour de la création du monde. Amen.
 
-Ensuite vous vous réjouirez en l'honneur du grand Adonay, étant sûr que vous possédez le plus grand trésor de la lumiére. Le soir ensuite, vous prendrez votre baguette, votre peau de chevreau, votre pierre ématille et deux couronnes de verveine, de même que deux chandeliers et deux livres de cire vierge, bénis et faits par une fille vierge ; vous prendrez aussi un batefeu neuf, deux pierres neuves avec de l'amadou pour allumer votre feu, de même qu'une demi-bouteille d'esprit de brandevin et une portion d'encens béni avec du ca[mphre, ainsi] que quatre clous […] montré ci-a[près]. *(voir fig.)*
+Ensuite vous vous réjouirez en l'honneur du grand Adonay, étant sûr que vous possédez le plus grand trésor de la lumiére. Le soir ensuite, vous prendrez votre baguette, votre peau de chevreau, votre pierre ématille et deux couronnes de verveine, de même que deux chandeliers et deux livres de cire vierge, bénis et faits par une fille vierge ; vous prendrez aussi un batefeu neuf, deux pierres neuves avec de l'amadou pour allumer votre feu, de même qu'une demi-bouteille d'esprit de brandevin et une portion d'encens béni avec du camphre, aussi bien que quatre clous qui aient servi à la bière d'un enfant mort et ensuite vous vous transporterez à l'endroit où se doit faire le grand œuvre et ferez exactement ce qui suit en imitant de point en point le grand cercle cabalistique, tel qu'il est démontré ci-à-coté. *(voir fig.)*
 
 ---
 
 ## CHAPITRE [IV]
 
 *Contenant la véritable représentation du grand cercle cabalistique.* *(voir fig.)*
+
+![Fig. — Le grand cercle cabalistique et sa « route du trésor » (p. 17 de l'édition de 1850)](../Dragon-Rouge-Gravures/cercle-cabalistique.jpg)
 
 Vous commencerez par former un cercle avec la peau du chevreau, tel qu'il est indiqué ci-dessus *(voir fig.)*, que vous [clouerez avec vos] quatre clous ; vous prendrez ensuite votre pierre [ématille], et tracerez un triangle au dedans du cercle, tel qu'il est représenté, en commencant du coté du levant ; vous formerez aussi, avec votre pierre ématille, le grand A, le petit E, le petit A et le petit J, de même que le St. nom de Jésus au milieu de deux croix, afin que les esprits ne vous puissent [nuire] par derrière ; après quoi le Karcist fera entrer ses confrères dans le triangle, à leur place, telle qu'elle est marquée, et y entrera lui-même sans s'épouvanter, quelque bruit qu'il entende ; placant les deux chandeliers avec les deux couronnes de verveine à la droite et à la gauche du triangle intérieur.
 
@@ -120,11 +124,11 @@ Je t'offre cet encens comme [le] plus pur que j'aie pu trouver, ô grand Adonay,
 
 ### PREMIÉRE APPELLATION A L'EMPEREUR LUCIFER
 
-Empereur Lucifer, prince et maitre des esprits rebelles, je te prie de quitter ta demeure, dans quelque partie du monde qu'elle puisse être, pour venir me parler ; je te commande [et] conjure, de la part du grand Dieu vivant, le père, le fils et le St. esprit, de venir sans faire aucun bruit et sans exhaler aucune mauvaise odeur, pour me répondre à haute et intelligible voix, article par article, sur ce que je te demanderai ; sans quoi tu y seras contraint par la puissance du grand Adonay, Eloïm, [Ariel, Jehovam,] et de tous les autres esprits supérieurs qui t'y contraindront malgré toi. Venite, Venite. Submiritillor Lucifuge, ou tu vas étre éternellement tourmenté par la [grande] force de cette baguette foudroyante. In subito.
+Empereur Lucifer, prince et maitre des esprits rebelles, je te prie de quitter ta demeure, dans quelque partie du monde qu'elle puisse être, pour venir me parler ; je te commande [et] conjure, de la part du grand Dieu vivant, le père, le fils et le St. esprit, de venir sans faire aucun bruit et sans exhaler aucune mauvaise odeur, pour me répondre à haute et intelligible voix, article par article, sur ce que je te demanderai ; sans quoi tu y seras contraint par la puissance du grand Adonay, Eloim Ariel, Jehovam, Tagla, Mathon, et de tous les autres esprits supérieurs qui t'y contraindront malgré toi. Venite, Venite. Submiritillor Lucifuge, ou tu vas étre éternellement tourmenté par la [grande] force de cette baguette foudroyante. In subito.
 
 ### SECONDE APPELLATION
 
-Je te commande et conjure, Empereur Lucifer, de la part du grand Dieu vivant, et par la puissance d'Emanuel, son fils unique, ton maitre et le mien, et par la vertu de son sang précieux, qu'il a répandu pour arracher les hommes de tes chaines ; je t'ordonne de quitter ta demeure, dans quelque partie du monde qu'elle soit, jurant que je ne te donne qu'un quart d'heure de repos, si tu ne viens me parler au plutôt à [haute et in]telligible voix, ou, si tu ne peux vénir toi-même, m'envoyer ton messager Astarot en signe humain, sans bruit et mauvaise odeur ; sans quoi je te vais frapper, toi et toute [ta race, et te précipiter au fond des] abymes ; et ce par la puissance de ces grandes paroles de la clavicule : Par Adonay, Eloïm, Ariel, Jehovam, Tagla, Mathon, Almouzin, Arios, Pithona, Magots, Salphæ, Kabots, Salamandræ, Gnomus, Terra, Cœlis, Godens, Aqua, [Gingua, Janua, Etitnamus] […].
+Je te commande et conjure, Empereur Lucifer, de la part du grand Dieu vivant, et par la puissance d'Emanuel, son fils unique, ton maitre et le mien, et par la vertu de son sang précieux, qu'il a répandu pour arracher les hommes de tes chaines ; je t'ordonne de quitter ta demeure, dans quelque partie du monde qu'elle soit, jurant que je ne te donne qu'un quart d'heure de repos, si tu ne viens me parler au plutôt à intelligible voix, ou, si tu ne peux vénir toi-même, m'envoyer ton messager Astarot en signe humain, sans bruit et mauvaise odeur ; sans quoi je te vais frapper, toi et toute ta race de la véritable baguette foudroyante, jusqu'au fond des abymes ; et ce par la puissance de ces grandes paroles de la clavicule : Par Adonay, Eloïm, Ariel, Jehovam, Taglo, Mathon, Almouzin, Arios Pithona, Magots Salphæ, Kabots Solamandræ, Gnomus, Terra, Cœlis, Godens, Aqua. In subito.
 
 ### AVERTISSEMENT
 
@@ -140,15 +144,19 @@ Si l'esprit ne paroït pas jusqu'ici, mettez encore les deux bouts de votre bagu
 
 *Tirée de la véritable Clavicule.*
 
-[Je te conjure, Empereur Lucifer, de comparo]ître dans la minute, par la force du grand Adonay, par Eloïm, par Ariel, par Jehovam, par Agla, Tagla, Mathon, Oarios, Almouzin, Arios, Membrot, Varios, Pithona, Magots, Salphæ, Gabots, Salamandræ, [Fabois ?], Gnomus, Terræ, Cœlis, Godens, Aqua, Gingua, Janua, Etitnamus, Zariatnatmick, […]
+Je te conjure, ô esprit, de paroître dans la minute, par la force du grand Adonay, par Eloïm, par Ariel, par Jehovam, par Agla, Tagla, Mathon, Oarios, Almouzin, Arios, Membrot, Varios, Pithona, Magots Salphæ, Gabois, Salamandræ, Tabots, Gnomus, Terræ, Cœlis, Godens, Aqua, Gingua, jauna (?), Etitnamus, Zariatnatmick, etc.
 
-[…]
+A…, E…, A…, J…, A…, T…,
+M…, O…, A…, A…, M…, V…,
+P…, M…, S…, G…, S…, T…,
+G…, T…, C…, G…, A…,
+G…, J…, E…, Z… etc.
 
 ### De l'apparition de l'Esprit
 
 Après avoir répété deux fois ces grandes et puissantes paroles, vous êtes sûr que l'esprit paroîtra comme [suit] :
 
-*Apparition de l'Esprit.* — Me voici : que me demandes-tu ? Pourquoi troubles-tu mon repos ? [Retiens les coups] de cette terrible baguette.
+*Apparition de l'Esprit.* — Me voici : que me demandes-tu ? Pourquoi troubles-tu mon repos ? Ne me frappes plus de cette terrible baguette.
 
 LUCIFUGÉ ROFOCALE.
 
@@ -200,11 +208,13 @@ Le Samedi, à dix heures et à une heure.
 
 J'approuve aussi ton livre, et te donne ma véritable signature en parchemin, que tu y attacheras à la fin, pour t'en servir au besoin ; me soumettant aussi de comparoitre devant toi toutes les fois que j'y serai appellé, lorsque tu ouvriras le livre, que tu seras purifé, que tu auras la terrible baguette foudroyante, et que tu auras composé le grand cercle cabalistique, et que tu prononceras le mot de Rofocale ; te promettant de comparoitre et [de] traiter à l'amiablé avec ceux qui seront munis dudit [livre où est ma véritable signature, pourvu] qu'ils m'appellent en règle, la première fois qu'ils auront besoin de moi.
 
-Je m'engage aussi à te livrer le trésor que tu me démandés, pourvu que tu sois charitable envers les pauvres, et que tu me donnes une [pièce d'or ou d'argent tous les pre]miers jours de chaque mois ; si tu y manques, tu seras à moi pour toujours.
+Je m'engage aussi à te livrer le trésor que tu me démandés, pourvu que tu gardes le secret pour toujours, que tu sois charitable envers les pauvres, et que tu me donnes une [pièce d'or ou d'argent tous les pre]miers jours de chaque mois ; si tu y manques, tu seras à moi pour toujours.
 
 LUCIFUGE ROFOCALE.
 
-Approuvé, [à condition] que tu gardes le secret pour toujours.
+Approuvé.
+
+![Signature-caractères de Lucifugé Rofocale (gravure de l'édition de 1850)](../Dragon-Rouge-Gravures/signature-lucifuge.jpg)
 
 ### RÉPONSE A L'ESPRIT
 
@@ -212,9 +222,11 @@ J'acquiesce à ta demande.
 
 SALOMON.
 
+![Apparition de Lucifugé Rofocale (gravure de l'édition de 1850)](../Dragon-Rouge-Gravures/apparition-lucifuge.jpg)
+
 Approuvé.
 
-[…]
+![Signature-caractères de Lucifugé Rofocale](../Dragon-Rouge-Gravures/signature-lucifuge.jpg)
 
 Je t'obéirai quand tu voudras.
 
@@ -242,11 +254,11 @@ Sensa che in tali occasioni mai [si] offenda[no] le campagne, o al[tre] cose del
 
 *CAPO QUINTO.*
 
-Piu prometto e giuro nella forma predetta sua universalissima servitu, [e] per tutti miei suditi di pro[…]
+Piu prometto è giuro nella forma predetta sua universalissima servit[u] di tutti i miei suditti al padrone [di] questo libro sensa diferenza di gra[do] dignitta o d'altre regioni, m[a] ogniqual volta, tempo, stagion[e], anno mese, settimana, giorno, o[ra] e, quarto, e instante che sara let[ta] la mia chiamata di comparire in fo[r]ma di bel giovino, è di soministra[re] li qualsisia de miei sudditti in se[r]vizio al padrone di que[s]to libro, di non partire se prima non sara […], sara licensiatto colla simplice form[o]la, o di me, o delli altri.
 
 *CAPO SEXTO.*
 
-[…]
+Piu prometto, è giuro per me[…] tutti li altri al nome di dio e de[i] nostri misteriosi carateri segretes[simi (?)], fedelta invincibile sensa ponto m[ai] mai contra venire al mio giurame[n]to ë promessi.
 
 *CAPO SEPTIMO.*
 
@@ -278,9 +290,9 @@ VALE.
 
 *CONTENANT LE VÉRITABLE SANCTUM REGNUM DE LA CLAVICULE, ou la véritable manière de faire les PACTES.*
 
-Avec les noms, puissances et talens de tous les grands esprits supérieurs, comme aussi la manière de les faire paroître par la force de la grande appellation du chapitre des Pactes de la grande clavicule, qui les force d'obéir à quelqu'opération que l'on souhaite. Suivi du grand art magique, ou le [secret de …]
+Avec les noms, puissances et talens de tous les grands esprits supérieurs, comme aussi la manière de les faire paroître par la force de la grande appellation du chapitre des Pactes de la grande clavicule, qui les force d'obéir à quelqu'opération que l'on souhaite. Suivi du grand art magique, ou le véritable secret de pouvoir parler aux morts.
 
-[…]
+*Augmenté de plusieurs magies.*
 
 ### LE VÉRITABLE SANCTUM REGNUM
 
@@ -294,6 +306,8 @@ Enfin, nous commencérons par [dé]crire les noms des principaux esprits, avec l
 
 ### Leurs Signes et Caractères *(voir fig.)*
 
+![Fig. — Signes et caractères de Lucifer, Empereur ; Belzebuth, Prince ; Astarot, Grand Duc (p. 47 de l'édition de 1850)](../Dragon-Rouge-Gravures/signes-superieurs.jpg)
+
 LUCIFER, *Empereur.*
 
 BELZEBUTH, *Prince.*
@@ -301,6 +315,8 @@ BELZEBUTH, *Prince.*
 ASTAROT, *Grand Duc.*
 
 ### Leurs Signes et Caractères *(voir fig.)*
+
+![Fig. — Signes des six grands esprits subalternes : Lucifuge, Satanachia, Agaliarept, Fleurety, Sargatanas, Nebiros (p. 49 de l'édition de 1850)](../Dragon-Rouge-Gravures/signes-subalternes.jpg)
 
 LUCIFUGE, *prémiér ministre.*
 
@@ -352,11 +368,15 @@ Nebiros, maréchal de camp et inspecteur général, a la puissance de donner du 
 
 ### AVERTISSEMENT
 
-Quand vous voudrez faire votre pacte avec un des principaux esprits que je viens de nommer, vous commencerez, l'avant-veille du pacte, d'aller couper, avec un couteau neuf qui n'ait jamais servi, une baguette de noiselier sauvage qui n'ait jamais porté et qui soit semblable à la verge foudroyante, telle que celle qui est déjà décrite, et dont vous avez la figure dans le premier livre *(voir fig.)*, [et cela] au moment que le soleil paroît sur notre horizon.
+Quand vous voudrez faire votre pacte avec un des principaux esprits que je viens de nommer, vous commencerez, l'avant-veille du pacte, d'aller couper, avec un couteau neuf qui n'ait jamais servi, une baguette de noiselier sauvage qui n'ait jamais porté et qui soit semblable à la verge foudroyante, telle que celle qui est déjà décrite, et dont vous avez la figure dans le premier livre *(voir fig.)*, positivement au moment que le soleil paroit sur notre horizon.
 
-Cela étant fait, vous vous munirez d'une pierre ématille et de deux cierges benis, et vous choisirez ensuite, pour l'exécution, un endroit où personne ne vous incommode ; vous pouvez même faire le pacte dans une chambre écartée, ou dans quelque masure de vieux chateau ruiné, parce que l'esprit a le pouvoir d'y transporter quel trésor qu'il lui plait. Cela étant, vous tracerez un triangle avec votre pierre ématille, et cela seulement la première fois que vous ferez votre pacte ; ensuite vous placerez les deux cierges benis à côté, et tels qu'ils sont placés vers [le St. nom de] Jésus derrière, afin que les esprits ne vous puissent faire aucun mal ; ensuite vous vous placerez au milieu dudit triangle, ayant en main la baguette mystérieuse, avec la grande appellation à l'esprit, la clavicule, la demande que vous voulez [fai]re à l'esprit, avec le pacte et le renvoi de l'esprit, tel qu'il est marqué ci-après le modèle du triangle cabalistique des pactes. *(voir fig.)*
+Cela étant fait, vous vous munirez d'une pierre ématille et de deux cierges benis, et vous choisirez ensuite, pour l'exécution, un endroit où personne ne vous incommode ; vous pouvez même faire le pacte dans une chambre écartée, ou dans quelque masure de vieux chateau ruiné, parce que l'esprit a le pouvoir d'y transporter quel trésor qu'il lui plait. Cela étant, vous tracerez un triangle avec votre pierre ématille, et cela seulement la première fois que vous ferez votre pacte ; ensuite vous placerez les deux cierges benis à côté, et tels qu'ils sont placés vers le triangle des pactes que vous voyez ci-après, y plaçant le St. nom de Jésus derrière, afin que les esprits ne vous puissent faire aucun mal ; ensuite vous vous placerez au milieu dudit triangle, ayant en main la baguette mystérieuse, avec la grande appellation à l'esprit, la clavicule, la demande que vous voulez faire à l'esprit, avec le pacte et le renvoi de l'esprit, tel qu'il est marqué ci-après le modèle du triangle cabalistique des pactes. *(voir fig.)*
 
-[Au triangle des pactes est écrit :] « Je suis tout [ce que tu voudras ?] » […]
+![Fig. — Triangle des pactes (planche de l'édition de 1850)](../Dragon-Rouge-Gravures/triangle-des-pactes.jpg)
+
+![Fig. — L'esprit apparaissant au Karcist, planche en regard de la grande appellation](../Dragon-Rouge-Gravures/apparition-esprit.jpg)
+
+*[Sous la gravure de l'apparition de l'esprit, en regard de la grande appellation, est gravée la légende :]* « Je suis tout à toi. »
 
 Ayant exécuté exactement tout ce qui est marqué ci-devant, vous commencerez à réciter l'appellation suivante, avec espérance et fermeté.
 
@@ -452,7 +472,11 @@ C'est dans cette posture que vous appellerez, par son nom, celui ou celle que vo
 
 Lorsque vous aurez obtenü de l'ombre que vous invoquez ce qui vous aura paru le plus propre à vous satisfaire, vous la renverrez en lui disant : *Retournes dans le royaume des élus, je suis content de ta présence.* Alors, quittant la posture où vous vous étiez mise, vous retournerez sur la même tombe où vous avez déjà fait une prière, et sur laquelle vous ferez une croix de la main gauche, [avec la p]ointe de votre couteau.
 
-Il ne faut pas omettre la moindre circonstance de ce qui est ici prescrit ; sans cela, on courroit risque de devenir la proie de toutes les puissances de [l'enfer] […].
+*Le Lecteur n'oubliera point qu'il ne faut pas omettre la moindre circonstance de ce qui est ici prescrit ; sans cela, on courroit risque de devenir soi-même la proie de toutes les puissances de l'enfer.*
+
+Voyez les figures ci-après.
+
+![Planche du Secret magique — « Prononces ta demande » (édition de 1850)](../Dragon-Rouge-Gravures/parler-aux-morts.jpg)
 
 ---
 
@@ -460,39 +484,38 @@ Il ne faut pas omettre la moindre circonstance de ce qui est ici prescrit ; sans
 
 ### Pour faire la Baguette devinatoire et la faire tourner
 
-Dès le moment que le [soleil pa]roit sur l'horison, vous prenez [de la] main gauche une baguette vierge de noisetier sauvage, et la coupez de la droite en trois coups, disant : Je te ramasse au nom d'Eloim, Mitraton, Adonay et Semiphoras, afin que tu ayes la vertu de la verge de Moïse et de Jacob, pour découvrir tout ce que je voudrois savoir ; et pour la faire tourner, il faut dire, la tenant serrée dans ses mains par les deux bouts qui font la fourche : Je te commande, au nom [d'Eloim, Mitraton, Adonay et Semiphoras,] de me révéler […].
+Dès le moment que le soleil paroît sur l'horison, vous prenez de la main gauche une baguette vierge de noisetier sauvage, et la coupez de la droite en trois coups, disant : Je te remasse, au nom d'Eloïm, Mitraton, Adonay et Semiphoras, afin que tu ayes la vertu de la verge de Moïse et de Jacob, pour découvrir tout ce que je voudrois savoir ; et pour la faire tourner, il faut dire, la tenant serrée dans ses mains par les deux bouts qui font la fourche : Je te commande, au nom d'Eloïm, Murathon, Adonay et Semiphoras, de me révéler.
 
 ### Pour gagner toutes les fois qu'on met aux Loteries
 
-Il faut, avant de se coucher, réciter trois fois cette Oraison, aprés quoi vous la mettrez sous l'oreiller, écrite sur du parchemin vierge, sur lequel vous aurez fait dire une messe du St. Esprit ; et pendant le sommeil, le génie de votre planette [viendra] vous dire l'heure que vous devez prendre votre billet.
+Il faut, avant de se coucher, réciter trois fois cette Oraison, aprés quoi vous la mettrez sous l'oreille, écrite sur du parchemin vierge, sur lequel vous aurez fait dire une messe du St. Esprit ; et pendant le sommeil, le genre de votre planette vient vous dire l'heure que vous devez prendre votre billet.
 
 #### Oraison
 
-Domine Jesu Christe, qui dixisti ego sum via, veritas et vita, ecce enim veritatem dilexisti, incerta et occulta sapientiæ tuæ manifestasti mihi ; adhuc quæ revel[es in] hac [nocte, ita] revel[a]ta [mihi] sunt [et co]gnita, et ventura unaque alia [...], ut [possim] omnia cognoscere, si et [ita] sit, ita monstra mihi pulchram et gratum pomarium, [aut] mensam ornatam omni cibo bono, aut quandam rem gratam ; sin autem, ministra mihi ignem ardentem, vel aquam currentem, vel aliam quamcunque rem quæ domino placeant ; et vel angeli Uriel, Rubiel et Barachiel, sitis mihi [...] amatores et factores ad opus istud obtinendum, quod cupio scire, videre, cognoscere et prævidere, per illum Deum [qui] venturus est judicare vivos et mortuos, et sæculum per ignem. Amen.
+Domine Jesu Christi, qui dixisti ego sum via, veritas et vita, ecce enim veritatem dilexisti, incerta et occulta sapientiæ tuæ manifestasti mihi ; adhuc que revellet in hac nocte sicut ita revellatum sunt parvulis so[l]is incognita, et ventura unaque alia [m]e doceat, ut possint omnia cognoscere, si et fi (?) sit, ita monstra mihi mortem ornatam omni cibo bono. Pulchrum et gratum pomarium, aut quandam rem gratam ; sin autem ministra mihi ignem ardentem, vel aquam currentem, vel aliam quamcunque rem quæ domino placeant, et vel angeli Uriel, Rubiel et Barachiel, sitis mihi multum amatores et factores ad opus istud obtinendum, quod cupio scire, videre, cognoscere et prævidere, per illum Deum qui venturus est judicare vivos et mortuos, et sœculum per ignem. Amen.
 
 Vous direz trois Pater [et tro]is Ave Maria pour les ames du purgatoire.
 
 ### Pour charmer les Armes à feu
 
-[Lorsqu'on vous couche] en joue, il faut dire : […] per dominum nostrum Jesum [Chri]stum. Maton. Amen.
+Il faut dire : Dieu y ait part, et le diable la sortie ; et lorsqu'on met en joue, il faut dire en croisant la jambe gauche sur la droite : non tradas dominum nostrum Jesum Christum Maton. Amen.
 
 ### [Pour] être insensible aux tortures
 
-Il faut écrire ces vers sur du pa[pier], et avaler le papier :
+Il faut écrire ces vers sur du papier, et avaler le papier :
 
-[Impari]bus meritis tria pendent [c]orpora ramis :
-Di[s]mas et Gestas, dam[n]atur potestas [...]
-[Dis]mas et Gestas dam[n]atur Potestas.
+In paribus meritis, fria (?) pendent corpora ramis.
+Dismas et gestas damnatur Potestas.
+Dismas et gestas damnatur.
+Ad astra levatur.
 
-### Lorsqu'on veut [être appliqué à la question], il faut dire :
+### Et lorsqu'on veut appliquer, il faut dire :
 
-Que cette corde soit aussi suave [...] comme le [...] la [...] ; [vous laisserez pendre] la jambe gauche [...] sur la [...]
+Que cette corde soit aussi suave à mes membres comme le lait de la Ste. Vierge l'a été à notre seigneur.
 
-[…]
+### COMPOSITION DE MORT, ou la Pierre philosophale
 
-### [Composition de l'or, ou la pierre philosophale]
-
-[… Vous met]tez-[l]à une livre de cuivre rouge avec une demi-chopine d'eau-forte, que vous ferez bouillir pendant une [demi-]heure ; après quoi vous y mettrez trois onces de verd-de-gris, que vous ferez bouillir une heure, puis vous y mettrez deux onces et demie d'arsenic, que vous ferez bouillir une heure ; vous [y] mettrez trois onces d'écorce de chêne bien pulvérisée, que vous laisserez bouillir une [demi-]heure ; une potée d'e[au de] rose, bouillie douze minutes, [puis] trois onces de noir de fumée, [que vous ferez bouillir jusqu'à] ce que la composition soit [bonne]. Pour voir si elle est assez cuite, il faut y tremper un clou : si elle y prend, ôtez-la ; elle vous produira une livre et demie de bon or ; et si elle n'y prend point, c'est une preuve qu'elle n'est pas assez cuite. La liqueur peut servir pour [...].
+Prenez un pot de terre neuve, mettez-y une livre de cuivre rouge avec une demi-chopine d'eau-forte, que vous ferez bouillir pendant une [demi-]heure ; après quoi vous y mettrez trois onces de verd-de-gris, que vous ferez bouillir une heure, puis vous y mettrez deux onces et demie d'arsenic, que vous ferez bouillir une heure ; vous [y] mettrez trois onces d'écorce de chêne bien pulvérisée, que vous laisserez bouillir une [demi-]heure ; une potée d'eau rose, bouillie douze minutes, et trois onces de noir de fumée, que vous laisserez bouillir jusqu'à ce que la composition soit bonne. Pour voir si elle est assez cuite, il faut y tremper un clou : si elle y prend, ôtez-la ; elle vous produira une livre et demie de bon or ; et si elle n'y prend point, c'est une preuve qu'elle n'est pas assez cuite. La liqueur peut servir pour quatre fois.
 
 ### Pour parler aux esprits la veille de la St. Jean Baptiste
 
@@ -597,23 +620,36 @@ Faites un signe de croix sur vous et sur le miroir.
 
 ### TABLE des jours, heures et [momens] heureux et malheureux
 
-*(Table des jours heureux et malheureux par mois — en grande partie illisible dans l'OCR ; on y distingue, entre autres :)*
-
-Juin : 5. 9. 12. […] 20. — Juillet : 5. 13. 27. — Août : […] — Septem. : 12. 16. 22. 24. — Octobré : 3. 9. 27. — Novem. : 6. […] 25. — Décem. : 15. 28. […]
+| Heureux | Mois | Malheureux |
+|---|---|---|
+| 4. 19. 27. 31. | Janvier. | 13. 23. |
+| 7. 8. 18. | Février. | 2. 10. 17. 22. |
+| 3. 9. 12. 14. 16. | Mars. | 13. 19. 25 (?). 28. |
+| 5. 27. | Avril. | 10. 20. 29. 30. |
+| 1. 2. 4. 6. 9. 14. | Mai. | 10. 17. 20. |
+| 3. 5. 7. 9. 12. 23. | Juin. | 4. 20. |
+| 2. 6. 10. 23. 30. | Juillet. | 5. 13. 27. |
+| 5. 7. 10. 14. 19. | Août. | 2. 13. 27. 31. |
+| 6. 10. 13. 18. 30. | Septem. | 12. 16. 22. 24. |
+| 13. 16. 23. 31. | Octobre. | 3. 9. 27. |
+| 3. 13. 23. 30. | Novem. | 6. 25. |
+| 10. 20. 29. | Décem. | 15. 28. 31. |
 
 ### REMARQUES
 
-Plusieurs savans prétendent que […] ne semoit ni ne transplantoit rien que dans les jours [heu]reux, [et que] tout lui [a]rrivoit à [souhait ; que si] nos cultivateurs [suivoient] ses traces, [on verroit l']abondance c[ouler sous] nos yeux. […]
+Plusieurs savans prétendent que cette table fut donnée à Adam, par un ange, aussi étoit-elle la règle de sa conduite ; il ne semoit ni ne transplantoit rien, que dans les jours heureux, et tout lui arrivoit à bon port ; si nos cultivateurs suivoient ses traces, l'abondance combleroit nos vœux.
 
 ---
 
-## [LA] POULE NOIRE
+## SECRET DE LA POULE NOIRE
 
-Le fameux secret de la Poule Noire, secret sans lequel on ne peut compter sur la réussite d'aucune cabale, étoit perdu depuis longtems ; [a]pres des recherches multipliées, [no]us sommes parvenus à le retrouver, et les épreuves que nous avons [fa]ites pour nous assurer qu'il étoit effectivement [celui] que nous cherchions, ont [parf]aitement répondu à notre attente ; aussi ne nous reste-t-il aujourd'hui rien à desirér, et c'est pour faire [partager] notre bonheur à tous ceux qui auront le courage de nous imiter, que nous le transcri[v]ons ici.
+![La Poule Noire — vignette de tête du « Secret de la Poule Noire » (édition de 1850)](../Dragon-Rouge-Gravures/poule-noire.jpg)
 
-Prenez une Poule Noire qui n'ait jamais pondu et qu'aucun coq n'ait approché ; faites en sorte, en la prenant, de ne la point faire crier ; et pour cela vous irez à onze heures, lorsqu'elle dormira, la prendre par le cou, que vous ne serrerez qu'autant qu'[il faudra] pour l'empêcher de crier ; rendez-vous sur un grand chemin, dans l'endroit où deux routes se croisent ; là, à minuit sonnant, faites un [rond] avec une baguette de ciprés, mettez-vous au milieu, et fendez le corps de la poule en deux, en prononcant ces mots par trois fois : *Eloïm, Essaïm, frugativi et appellavi.* Tournez ensuite [la face vers l'Orient, agenouillez-vous] et dites l'Oraison [… ;] cela fait, vous ferez la [grande] appellation [;] alors l'esprit immonde vous apparoîtra sous la figure d'un humain, deux cornes de bellier sur la tête, [re]vêtu d'un habit écarlate galon[né], et vous demandera vos ordres ; vous les lui donnerez comme vous le jugerez bon, car il ne pourra plus refuser [de] vous obéir, et vous pourrez vous rendre le plus riche, et par conséquent le [plus heureux] de tous les hommes. Ainsi s[u]is-je.
+Le fameux secret de la Poule Noire, secret sans lequel on ne peut compter sur la réussite d'aucune cabale, étoit perdu depuis longtems ; [a]pres des recherches multipliées, [no]us sommes parvenus à le retrouver, et les épreuves que nous avons [fa]ites pour nous assurer qu'il étoit effectivement [celui] que nous cherchions, ont [parf]aitement répondu à notre attente ; aussi ne nous reste-t-il aujourd'hui rien à desirér, et c'est pour faire [partager] notre bonheur à tous ceux qui auront le courage de nous imiter, que nous le transcrivons ci-après.
 
-Il est bon que vous sachiez qu'avant de commencer tout ce qui est dit ci-de[ssus, il] faut que vous ayez fait [votre paix] et que vous n'eussiez plus rien à vous reprocher.
+Prenez une Poule Noire qui n'ait jamais pondu et qu'aucun coq n'ait approché ; faites en sorte, en la prenant, de ne la point faire crier ; et pour cela vous irez à onze heures, lorsqu'elle dormira, la prendre par le cou, que vous ne serrerez qu'autant qu'il le faudra pour l'empêcher de crier ; rendez-vous sur un grand chemin, dans l'endroit où deux routes se croisent ; là, à minuit sonnant, faites un [rond] avec une baguette de ciprés, mettez-vous au milieu, et fendez le corps de la poule en deux, en prononcant ces mots par trois fois : *Eloïm, Essaïm, frugativi et appellavi.* Tournez ensuite la face vers l'orient, agenouillez-vous et dites l'Oraison page 67 ; cela fait, vous ferez la grande appellation pag. 25 ; alors l'esprit immonde vous apparoîtra sous la figure d'un humain, deux cornes de bellier sur la tête, vêtu d'un habit écarlatte, galoné, et vous demandera vos ordres ; vous les lui donnerez comme vous le jugerez bon, car il ne pourra plus se refuser à vous obéir, et vous pourrez vous rendre le plus riche, et par conséquent le [plus heureux] de tous les hommes. Ainsi suis-je.
+
+Il est bon que vous sachiez qu'avant de commencer tout ce qui est dit ci-dessus, il faut que vous ayez fait vos dévotions et que vous n'eussiez plus rien à vous reprocher.
 
 ---
 
@@ -623,8 +659,8 @@ Le Dragon rouge, chapitre 1er. — Chapitre II. — Première Offrande. — Chap
 
 ---
 
-*[Les dernières lignes du fac-similé (page imprimée à l'envers dans la numérisation, vraisemblablement une notice de libraire ou d'éditeur) sont irrécupérables : […]]*
+*[La dernière page du fac-similé est un fragment imprimé à l'envers, étranger au texte : un mémoire de librairie relatif à une saisie, où l'on lit notamment : « …nterai des frontispices. — …ière, qui vit avec lui, …airie que comme son …tribue au sieur Dufart …aît être la sienne, le [si]eur Delaporte rend des [s]ieur Dufart, sans dire [t]irage ; et qu'il replace… » et « pour le convaincre qu'il a des registres qu… qu'il est notoirement le Lombard de la l… À l'époque de la saisie il avait en n[antisse]ment l'édition du Buffon du sieur Duf[art]… sieur Vacher, libraire, rue du Hurep[oix]… redemande un Rollin, qui lui a été aus[si remis] en nantissement par un autre Libraire… ouvrage n'appartient qu'en partie. — Le sept vous aviez jugé nécessaire le rep… »]*
 
 ---
 
-*Source : « Le véritable Dragon rouge, ou l'art de commander les esprits », édition de 1850 — Internet Archive, identifiant `b33030169` (domaine public). Restauration : juillet 2026.*
+*Source : « Le véritable Dragon rouge, ou l'art de commander les esprits », édition de 1850 — Internet Archive, identifiant `b33030169` (domaine public). Restauration : juillet 2026 ; relecture intégrale sur le fac-similé et insertion des gravures : octobre 2026.*
