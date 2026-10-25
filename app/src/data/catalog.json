@@ -2234,9 +2234,43 @@
       "addedAt": "2026-09-03"
     },
     {
-      "id": "priere-deblocage",
+      "id": "prieres-richesse",
       "category": "pratique",
       "order": 6,
+      "title": "Prières de Richesse, de Domination et d'Autorité",
+      "subtitle": "Fascicule thématique",
+      "author": "Compilation",
+      "era": "—",
+      "lang": "fr",
+      "glyph": "☉",
+      "tags": [
+        "richesse",
+        "domination",
+        "autorité",
+        "sceaux",
+        "intention"
+      ],
+      "summary": "Prières, rituels, invocations et sceaux pour l'attirance des grandes richesses et l'exercice de l'autorité : psaumes de la fortune, sceaux de Moïse, pentacles de Jupiter et du Soleil, Semiphoras, Salomon et Élie.",
+      "volumes": [
+        {
+          "label": "Texte intégral",
+          "type": "md",
+          "path": "Prieres-de-Richesse-Domination-et-Autorite/Prieres-de-Richesse-Domination-et-Autorite-FR.md",
+          "bytes": 36516
+        },
+        {
+          "label": "Version PDF",
+          "type": "pdf",
+          "path": "Prieres-de-Richesse-Domination-et-Autorite/Prieres-de-Richesse-Domination-et-Autorite-FR.pdf",
+          "bytes": 1980021
+        }
+      ],
+      "bytes": 2016537
+    },
+    {
+      "id": "priere-deblocage",
+      "category": "pratique",
+      "order": 7,
       "title": "Prière du Matin — Déblocage Financier",
       "subtitle": "Séquence matinale",
       "author": "Compilation",
@@ -2293,7 +2327,7 @@
     {
       "id": "sept-jours-travail",
       "category": "pratique",
-      "order": 7,
+      "order": 8,
       "title": "Sept Jours contre les Attaques au Travail",
       "subtitle": "Office de sept jours",
       "author": "Compilation",
@@ -2362,7 +2396,7 @@
     {
       "id": "sept-nuits-famille",
       "category": "pratique",
-      "order": 8,
+      "order": 9,
       "title": "Sept Nuits de Prière pour la Famille",
       "subtitle": "Programme de minuit",
       "author": "Popaul Kabeya",
@@ -2566,7 +2600,7 @@
     {
       "id": "imitation",
       "category": "pratique",
-      "order": 9,
+      "order": 10,
       "title": "L'Imitation de Jésus-Christ",
       "subtitle": "Les quatre livres",
       "author": "Attribué à Thomas a Kempis",
@@ -2602,7 +2636,7 @@
     {
       "id": "vie-devote",
       "category": "pratique",
-      "order": 10,
+      "order": 11,
       "title": "Introduction à la vie dévote",
       "subtitle": "Saint François de Sales",
       "author": "François de Sales, trad. Jean Brignon",
@@ -2638,7 +2672,7 @@
     {
       "id": "combat-spirituel",
       "category": "pratique",
-      "order": 11,
+      "order": 12,
       "title": "Le Combat spirituel",
       "subtitle": "Lorenzo Scupoli, trad. Brignon 1703",
       "author": "Lorenzo Scupoli, trad. Jean Brignon",
@@ -2674,7 +2708,7 @@
     {
       "id": "jean-de-la-croix",
       "category": "pratique",
-      "order": 12,
+      "order": 13,
       "title": "Les Œuvres spirituelles de Jean de la Croix",
       "subtitle": "Traduction Maillard, 1834",
       "author": "Saint Jean de la Croix, trad. Jean Maillard",
@@ -2711,7 +2745,7 @@
     {
       "id": "prieres-invocations",
       "category": "pratique",
-      "order": 13,
+      "order": 14,
       "title": "Prières, Invocations et Exercices",
       "subtitle": "Recueil thématique",
       "author": "Compilation",
@@ -2774,7 +2808,7 @@
     {
       "id": "traite-priere",
       "category": "pratique",
-      "order": 14,
+      "order": 15,
       "title": "Traité de la Prière",
       "subtitle": "Cent cinquante-trois chapitres sur l'oraison",
       "author": "Attribué à Évagre le Pontique",
@@ -2822,7 +2856,7 @@
     {
       "id": "litanies-sacre-coeur",
       "category": "pratique",
-      "order": 15,
+      "order": 16,
       "title": "Litanies du Sacré Cœur",
       "subtitle": "Suivies de l'oraison",
       "author": "Compilation",
@@ -2867,7 +2901,7 @@
     {
       "id": "regle-augustin",
       "category": "pratique",
-      "order": 16,
+      "order": 17,
       "title": "Règle de saint Augustin",
       "subtitle": "Les douze chapitres de la vie commune",
       "author": "Attribuée à saint Augustin",
@@ -3294,7 +3328,7 @@
     {
       "id": "nuage-inconnaissance",
       "category": "pratique",
-      "order": 17,
+      "order": 18,
       "title": "Le Nuage d'inconnaissance",
       "subtitle": "The Cloud of Unknowing — éd. Evelyn Underhill",
       "author": "Anonyme anglais",
@@ -3388,6 +3422,6 @@
       "bytes": 627074
     }
   ],
-  "totalBytes": 4244535412,
-  "generatedAt": "2026-10-24"
+  "totalBytes": 4246551949,
+  "generatedAt": "2026-10-25"
 }

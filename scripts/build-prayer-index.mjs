@@ -26,6 +26,7 @@ const EXCERPT_MAX = 800;
 const SOURCES = [
   { bookId: 'recueil-prieres', file: 'Recueil-Prieres-et-Invocations/Recueil-Prieres-et-Invocations-FR.md' },
   { bookId: 'prieres-faveur', file: 'Prieres-de-Faveur-et-d-Autorite/Prieres-de-Faveur-et-d-Autorite-FR.md' },
+  { bookId: 'prieres-richesse', file: 'Prieres-de-Richesse-Domination-et-Autorite/Prieres-de-Richesse-Domination-et-Autorite-FR.md' },
   { bookId: 'priere-deblocage', file: 'Priere-du-Matin-Deblocage-Financier/Priere-du-Matin-Deblocage-Financier-FR.md' },
   { bookId: 'office-matin-soir', file: 'Office-Matin-et-Soir/Office-Matin-et-Soir-FR.md' },
   { bookId: 'livret-trois-prieres', file: 'Livret-Trois-Prieres-du-Jour/Livret-Trois-Prieres-du-Jour-FR.md' },
