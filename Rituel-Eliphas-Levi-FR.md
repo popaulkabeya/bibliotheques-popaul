@@ -4,13 +4,15 @@
 
 **Éliphas Lévi** (Alphonse Louis Constant, 1810-1875)
 
-*Première édition : Paris, 1856. Texte de la présente restauration établi d'après la deuxième édition, très augmentée, Germer Baillière, libraire-éditeur, Paris, 1861 (source : Google Books, identifiant bub_gb_LBMUb7rZNVYC — domaine public).*
+*Première édition : Paris, 1856. Texte de la présente restauration établi d'après la deuxième édition, très augmentée, Germer Baillière, libraire-éditeur, Paris, 1861 (source : Google Books, identifiant bub_gb_LBMUb7rZNVYC — domaine public). Lacunes et épigraphes relues, et gravures tirées, du scan Wellcome Library de la même édition (Internet Archive, b24884340_0002).*
+
+![1re figure. — Le Bouc du Sabbat : Baphomet de Mendès, bras marqués SOLVE et COAGULA, signé « Eliphas Levi del. » (frontispice de l'édition de 1861)](../Levi-Gravures/rituel-01-baphomet.jpg)
 
 ---
 
 **Note du transcripteur**
 
-Le texte qui suit est une restauration du Tome Second (*Le Rituel*) de l'ouvrage capital d'Éliphas Lévi, à partir d'un OCR brut de l'édition de 1861. Le travail s'est limité à corriger les erreurs de reconnaissance optique évidentes et à moderniser la ponctuation et les accents là où l'OCR les avait perdus ; aucun contenu n'a été ajouté, résumé ou modifié sur le fond. Les passages véritablement illisibles dans le scan source sont signalés par la mention *[OCR illisible]* ou équivalent. Les citations latines et les rares fragments grecs (dans le Nuctéméron d'Apollonius de Tyane) sont conservés tels quels ; lorsque l'OCR du grec s'est révélé trop dégradé pour être restitué de façon fiable, seule la traduction française donnée par Lévi lui-même a été conservée, avec une mention explicite.
+Le texte qui suit est une restauration du Tome Second (*Le Rituel*) de l'ouvrage capital d'Éliphas Lévi, à partir d'un OCR brut de l'édition de 1861. Le travail s'est limité à corriger les erreurs de reconnaissance optique évidentes et à moderniser la ponctuation et les accents là où l'OCR les avait perdus ; aucun contenu n'a été ajouté, résumé ou modifié sur le fond. Les lacunes de l'OCR d'origine (caractères hébreux, figures, renvois) ont ensuite été restituées par relecture visuelle du scan haute résolution de la Wellcome Library (même édition de 1861), et les gravures de l'édition, recadrées depuis ce même scan, sont insérées à leur place (dossier Levi-Gravures/). Les citations latines et les fragments grecs sont conservés tels quels. Les douze épigraphes grecques du Nuctéméron d'Apollonius de Tyane, d'abord perdues par l'OCR, ont été restituées en grec polytonique par relecture visuelle du scan haute résolution de la Wellcome Library (même édition de 1861), en conservant l'orthographe et les accents de l'imprimé, fautes comprises ; une seule lecture douteuse y est marquée (?).
 
 L'ouvrage appartient au domaine public : Éliphas Lévi est mort en 1875, soit plus de cent quarante ans avant cette restauration.
 
@@ -308,7 +310,9 @@ Il existe une autre signature qui représente aussi les mystères de la lumière
 
 C'est la signature de Salomon.
 
-Les talismans de Salomon portaient, d'un côté, l'empreinte de son sceau dont nous avons donné la figure dans notre *Dogme* [note : page 70]. De l'autre côté était la signature, dont voici la forme *[figure non reproductible — pantacle]*.
+Les talismans de Salomon portaient, d'un côté, l'empreinte de son sceau dont nous avons donné la figure dans notre *Dogme* [note : page 70]. De l'autre côté était la signature, dont voici la forme :
+
+![La signature du revers des talismans de Salomon (page 28 de l'édition de 1861)](../Levi-Gravures/rituel-16-signature-salomon.jpg)
 
 Cette figure est la théorie hiéroglyphique de la composition des aimants et représente la loi circulatoire de la foudre.
 
@@ -524,7 +528,9 @@ Ces combinaisons hiéroglyphiques de lettres et de nombres appartiennent à la p
 
 Le double triangle de Salomon est expliqué par saint Jean d'une manière remarquable. Il y a, dit-il, trois témoins dans le ciel : le Père, le Logos et le Saint-Esprit, et trois témoins sur la terre : le souffle, l'eau et le sang. Saint Jean est ainsi d'accord avec les maîtres de philosophie hermétique, qui donnent à leur soufre le nom d'éther, à leur mercure le nom d'eau philosophique, à leur sel la qualification de sang du dragon ou de menstrue de la terre : le sang ou le sel correspond par opposition avec le Père, l'eau azotique ou mercurielle avec le Verbe ou Logos, et le souffle avec le Saint-Esprit. Mais les choses de haut symbolisme ne peuvent être bien entendues que par les vrais enfants de la science.
 
-Aux combinaisons triangulaires on unissait dans les cérémonies magiques les répétitions des noms par trois fois, et avec des intonations différentes. La baguette magique était souvent surmontée d'une petite fourche aimantée, que Paracelse remplaçait par un trident *[figure non reproductible]*.
+Aux combinaisons triangulaires on unissait dans les cérémonies magiques les répétitions des noms par trois fois, et avec des intonations différentes. La baguette magique était souvent surmontée d'une petite fourche aimantée, que Paracelse remplaçait par un trident, dont nous donnons ici la figure :
+
+![3e figure. — Le Trident de Paracelse : OBITO, IMO, AR DO SEL, le manche marqué P. P. P. et VLI DOX FATO (page 70 de l'édition de 1861)](../Levi-Gravures/rituel-03-trident-paracelse.jpg)
 
 Le trident de Paracelse est un pantacle exprimant le résumé du ternaire dans l'unité, qui complète ainsi le quaternaire sacré. Il attribuait à cette figure toutes les vertus que les cabalistes hébreux attribuent au nom de Jéhovah, et les propriétés thaumaturgiques de l'Abracadabra des hiérophantes d'Alexandrie. Reconnaissons ici que c'est un pantacle, et par conséquent un signe concret et absolu de toute une doctrine qui a été celle d'un cercle magnétique immense, tant pour les philosophes anciens que pour les adeptes du moyen âge. En lui rendant, de nos jours, sa valeur primitive par l'intelligence de ses mystères, ne pourrait-on pas lui rendre toute sa vertu miraculeuse et toute sa puissance contre les maladies humaines ?
 
@@ -680,6 +686,8 @@ Mais la divination, de quelque manière qu'on puisse l'opérer, est dangereuse, 
 
 ## Chapitre V. — Le pentagramme flamboyant
 
+![4e figure. — Le Pentagramme flamboyant, portant le nom TÉTRAGRAMMATON (page 100 de l'édition de 1861)](../Levi-Gravures/rituel-04-pentagramme.jpg)
+
 Nous arrivons à l'explication et à la consécration du saint et mystérieux pentagramme.
 
 Ici, que l'ignorant et que le superstitieux ferment le livre : ils n'y verront que ténèbres, ou seront scandalisés.
@@ -788,6 +796,8 @@ La lumière astrale se projette par le regard, par la voix, par les pouces et la
 
 ## Chapitre VII. — Le septénaire des talismans
 
+![5e figure. — Les instruments magiques : la Lampe, la Baguette, l'Épée et la Serpe (planche face à la page 103 de l'édition de 1861)](../Levi-Gravures/rituel-05-instruments-magiques.jpg)
+
 Les cérémonies, les vêtements, les parfums, les caractères et les figures étant, comme nous l'avons dit, nécessaires pour employer l'imagination à l'éducation de la volonté, le succès des œuvres magiques dépend de la fidèle observation de tous les rites. Ces rites, comme nous l'avons dit, n'ont rien de fantastique ni d'arbitraire ; ils nous ont été transmis par l'antiquité, et subsistent toujours par les lois essentielles de la réalisation analogique et du rapport qui existe nécessairement entre les idées et les formes. Après avoir passé plusieurs années à consulter et à comparer tous les grimoires et tous les rituels magiques les plus authentiques, nous sommes parvenu, non sans travail, à reconstituer le cérémonial de la magie universelle et primitive. Les seuls livres sérieux que nous ayons vus sur ce sujet sont manuscrits, et tracés en caractères de convention, que nous avons déchiffrés à l'aide de la polygraphie de Trithème ; d'autres sont tout entiers dans les hiéroglyphes et les symboles dont ils sont ornés, et déguisent la vérité de leurs images sous les fictions superstitieuses d'un texte mystificateur. Tel est, par exemple, l'*Enchiridion* du pape Léon III, qui n'a jamais été imprimé avec ses vraies figures, et que nous avons refait pour notre usage particulier d'après un ancien manuscrit.
 
 Les rituels connus sous le nom de *Clavicules de Salomon* sont en grand nombre. Plusieurs ont été imprimés, d'autres sont restés manuscrits et ont été copiés avec un grand soin. Il en existe un bel exemplaire, fort élégamment calligraphié, à la Bibliothèque impériale ; il est orné des pentacles et des caractères qui se retrouvent, pour la plupart, dans les calendriers magiques de Tycho-Brahé et de Duchenteau. Il existe enfin des clavicules et des grimoires imprimés qui sont des mystifications et des spéculations honteuses de basse librairie. Le livre si connu et si décrié de nos pères sous le nom du *Petit Albert* appartient par tout un côté de sa rédaction à cette dernière catégorie ; il n'a de sérieux que quelques calculs empruntés à Paracelse et quelques figures de talismans.
@@ -872,7 +882,7 @@ Pour ce qui est des instruments magiques, les principaux sont : la baguette, l'�
 
 Venons à la description et à la consécration des instruments.
 
-La baguette magique, qu'il ne faut pas confondre avec la simple baguette divinatoire, ni avec la fourche des nécromans ou le trident de Paracelse ; la vraie et absolue baguette magique doit être d'un seul jet, parfaitement droite, d'amandier ou de noisetier, coupée d'un seul coup avec la serpette magique ou la faucille d'or, avant le lever du soleil et au moment où l'arbre est prêt à fleurir. Il faut la perforer dans toute sa longueur sans la fendre ni la rompre, et y introduire une longue aiguille de fer aimanté qui en occupe toute l'étendue ; puis on adapte à l'une de ses extrémités un prisme polyèdre taillé triangulairement, et à l'autre bout une figure pareille en résine noire. Au milieu de la baguette on placera deux anneaux, l'un de cuivre rouge, l'autre de zinc ; puis la baguette sera dorée du côté de la résine et argentée du côté du prisme jusqu'aux anneaux du milieu, et on la revêtira de soie jusqu'aux extrémités exclusivement. Sur l'anneau de cuivre il faut graver certains caractères hébraïques, et sur l'anneau de zinc d'autres caractères correspondants [caractères non reproductibles]. La consécration de la baguette doit durer sept jours, en commençant à la nouvelle lune, et doit être faite par un initié possesseur des grands arcanes et ayant lui-même une baguette consacrée. C'est la transmission du sacerdoce magique, et cette transmission n'a pas cessé depuis les ténébreuses origines de la haute science. La baguette et les autres instruments, mais la baguette surtout, doivent être cachés avec soin, et sous aucun prétexte le magiste ne doit les laisser voir ou toucher aux profanes ; autrement ils perdraient toute leur vertu.
+La baguette magique, qu'il ne faut pas confondre avec la simple baguette divinatoire, ni avec la fourche des nécromans ou le trident de Paracelse ; la vraie et absolue baguette magique doit être d'un seul jet, parfaitement droite, d'amandier ou de noisetier, coupée d'un seul coup avec la serpette magique ou la faucille d'or, avant le lever du soleil et au moment où l'arbre est prêt à fleurir. Il faut la perforer dans toute sa longueur sans la fendre ni la rompre, et y introduire une longue aiguille de fer aimanté qui en occupe toute l'étendue ; puis on adapte à l'une de ses extrémités un prisme polyèdre taillé triangulairement, et à l'autre bout une figure pareille en résine noire. Au milieu de la baguette on placera deux anneaux, l'un de cuivre rouge, l'autre de zinc ; puis la baguette sera dorée du côté de la résine et argentée du côté du prisme jusqu'aux anneaux du milieu, et on la revêtira de soie jusqu'aux extrémités exclusivement. Sur l'anneau de cuivre il faut graver ces caractères : ירושליסהקדשה, et sur l'anneau de zinc : שלמה המלך. La consécration de la baguette doit durer sept jours, en commençant à la nouvelle lune, et doit être faite par un initié possesseur des grands arcanes et ayant lui-même une baguette consacrée. C'est la transmission du sacerdoce magique, et cette transmission n'a pas cessé depuis les ténébreuses origines de la haute science. La baguette et les autres instruments, mais la baguette surtout, doivent être cachés avec soin, et sous aucun prétexte le magiste ne doit les laisser voir ou toucher aux profanes ; autrement ils perdraient toute leur vertu.
 
 Le mode de transmission de la baguette est un des arcanes de la science qu'il n'est jamais permis de révéler.
 
@@ -1212,6 +1222,8 @@ Les procédés de la magie noire ont pour but de troubler la raison et de produi
 
 ## Chapitre XIV. — Les transmutations
 
+![6e figure. — La Clef du Thot : la roue T-A-R-O (en tête du chapitre XIV, page 196 de l'édition de 1861)](../Levi-Gravures/rituel-06-clef-du-thot.jpg)
+
 Saint Augustin, avons-nous dit, se demande si Apulée a pu être changé en âne, puis rendu à sa première forme. Le même docteur pouvait se préoccuper également de l'aventure des compagnons d'Ulysse changés en pourceaux par Circé. Les transmutations et les métamorphoses ont toujours été, dans l'opinion du vulgaire, l'essence même de la magie. Or, le vulgaire, qui se fait l'écho de l'opinion, reine du monde, n'a jamais ni parfaitement raison ni entièrement tort.
 
 La magie change réellement la nature des choses, ou plutôt modifie à son gré leurs apparences, suivant la force de volonté de l'opérateur et la fascination des adeptes aspirants. La parole crée sa forme, et, quand un personnage réputé infaillible a nommé une chose d'un nom quelconque, il transforme réellement cette chose en la substance signifiée par le nom qu'il lui donne. Le chef-d'œuvre de la parole et de la foi, en ce genre, c'est la transmutation réelle d'une substance dont les apparences ne changent pas. Si Apollonius avait dit à ses disciples en leur donnant une coupe pleine de vin : Voici mon sang que vous boirez à jamais pour perpétuer ma vie en vous, et si ses disciples avaient pendant des siècles cru continuer cette transformation en répétant les mêmes paroles, et pris le vin, malgré son odeur et sa saveur, pour le sang réel, humain et vivant d'Apollonius, il faudrait reconnaître ce maître en théurgie pour le plus habile des fascinateurs et le plus puissant de tous les mages. Il nous resterait à l'adorer.
@@ -1253,6 +1265,8 @@ Les mots hébreux [יהוה, אהיה, אשר, אהיה] ont été regardés par
 Une autre légende rapporte qu'un saint dont le nom m'échappe, ne trouvant à manger qu'une volaille, en carême ou un vendredi, commanda à cette volaille d'être un poisson et en fit un poisson. Cette parabole n'a pas besoin de commentaire, et nous rappelle un beau trait de saint Spiridion de Trémithonte, le même qui évoquait l'âme de sa fille Irène. Un voyageur arriva le jour même du vendredi saint chez ce bon évêque, et, comme en ce temps-là les évêques, prenant le christianisme au sérieux, étaient pauvres, Spiridion, qui jeûnait régulièrement, n'avait chez lui que du lard salé qu'on préparait d'avance pour le temps pascal. Toutefois, comme l'étranger était exténué de fatigue et de faim, Spiridion lui présenta de cette viande, et, pour l'encourager à en manger, il se mit à table avec lui et partagea ce repas de la charité, transformant ainsi la chair même que les Israélites regardaient comme la plus impure en agapes de pénitence, se mettant au-dessus du matériel de la loi par l'esprit de la loi même et se montrant un vrai et intelligent disciple de l'homme-Dieu, qui a établi ses élus rois de la nature dans les trois mondes.
 
 ## Chapitre XV. — Le sabbat des sorciers
+
+![7e figure. — Le Cercle goétique des évocations noires et des pactes (planche face à la page 208 de l'édition de 1861)](../Levi-Gravures/rituel-07-cercle-goetique.jpg)
 
 Nous voici revenus à ce terrible nombre quinze, qui, dans la clavicule du tarot, présente pour symbole un monstre debout sur un autel, portant une mitre et des cornes, ayant un sein de femme et les parties sexuelles d'un homme, une chimère, un sphinx difforme, une synthèse de monstruosités ; et, au-dessous de cette figure, nous lisons en inscription toute franche et toute naïve : le diable.
 
@@ -1376,7 +1390,11 @@ Hy ! HAU ! HAU ! HAY ! HAY ! vy ! va ! va ! va ! CHAVAJOTH.
 
 *Aie Saraye, aie Saraye, aie Saraye ! per Eloym, Archima, Rabur, Bathas super Abrac ruens superveniens Abeor super Aseriens Chavajoth ! Chavajoth ! Chavajoth ! impero tibi per clavem Salomonis et nomen magnum Semhamphoras.* »
 
-Voici maintenant les signes et signatures ordinaires des démons : *[figures non reproductibles en texte]*
+Voici maintenant les signes et signatures ordinaires des démons :
+
+![8e figure. — Signes et signatures ordinaires des démons, tirés d'Agrippa, d'Apone et de divers grimoires (page 231 de l'édition de 1861)](../Levi-Gravures/rituel-08-signatures-demons.jpg)
+
+![9e figure. — Signatures officielles des princes de l'enfer, d'après le pacte du procès d'Urbain Grandier (page 232 de l'édition de 1861)](../Levi-Gravures/rituel-09-signatures-princes-enfer.jpg)
 
 Ce sont là les signatures des simples démons ; voici les signatures officielles des princes de l'enfer, signatures constatées juridiquement (juridiquement ! à M. le comte de Mirville !), et conservées dans les archives judiciaires comme pièces de conviction pour le procès du malheureux Urbain Grandier.
 
@@ -1486,6 +1504,8 @@ Les savants, d'ailleurs, ne sont pas d'accord sur la configuration des lettres d
 
 Pour ce qui est de l'alphabet des étoiles, nous croyons qu'il est facultatif, comme la configuration des nuages, qui semblent prendre toutes les formes que notre imagination leur prête. Il en est des groupes d'étoiles comme des points de la géomancie et de l'assemblage des cartes dans la moderne cartomancie. C'est un prétexte pour se magnétiser soi-même et un instrument qui peut fixer et déterminer l'intuition naturelle. Ainsi un cabaliste habitué aux hiéroglyphes mystiques verra dans les étoiles des signes que n'y découvrira pas un simple berger ; mais le berger, de son côté, y trouvera des combinaisons qui échapperaient au cabaliste. Les gens de la campagne voient un râteau dans la ceinture et l'épée d'Orion ; un cabaliste hébreu verrait dans le même Orion, considéré en son entier, tous les mystères d'Ézéchiel, les dix sephiroth disposés en ternaire, un triangle central formé de quatre étoiles puis une ligne de trois formant le iod, et les deux figures ensemble exprimant tous les mystères du Bereschit, puis quatre étoiles formant les roues de la Mercavah et complétant le chariot divin. En regardant d'une autre manière et en disposant d'autres lignes idéales, il y verrait un ghimel parfaitement formé et placé au-dessus d'un iod, dans un grand daleth renversé ; figure qui représente la lutte du bien et du mal, avec le triomphe définitif du bien. En effet, le ghimel, fondé sur le iod, c'est le ternaire produit par l'unité, c'est la manifestation divine du Verbe ; tandis que le daleth renversé c'est le ternaire composé du mauvais binaire multiplié par lui-même. La figure d'Orion, considérée ainsi, serait donc identique avec celle de l'ange Michaël luttant contre le dragon, et l'apparition de ce signe, se présentant sous cette forme, serait, pour le cabaliste, un présage de victoire et de bonheur.
 
+![10e figure. — La figure d'Orion et ses signes cabalistiques (page 259 de l'édition de 1861)](../Levi-Gravures/rituel-10-signes-orion.jpg)
+
 Une longue contemplation du ciel exalte l'imagination ; les étoiles alors répondent à nos pensées. Les lignes tracées mentalement de l'une à l'autre par les premiers contemplateurs ont dû donner aux hommes les premières idées de la géométrie. Suivant que notre âme est agitée ou paisible, les étoiles semblent rutilantes de menaces ou scintillantes d'espérances. Le ciel est ainsi le miroir de l'âme humaine, et lorsque nous croyons lire dans les astres, c'est en nous-mêmes que nous lisons.
 
 Gaffarel, appliquant aux destinées des empires les présages de l'Écriture céleste, dit que les anciens n'ont pas vainement figuré dans la partie septentrionale du ciel tous les signes de mauvais augure, et qu'ainsi de tout temps, les calamités ont été regardées comme devant venir du nord pour se répandre sur la terre en envahissant le midi.
@@ -1497,6 +1517,8 @@ Nous avons transcrit en entier ce passage de Gaffarel, parce qu'il n'est pas san
 Gaffarel ajoute encore quelques pronostics tirés des étoiles, celui par exemple de l'affaiblissement progressif de l'empire ottoman ; mais, comme nous l'avons déjà dit, ses figures de lettres constellées sont assez arbitraires. Il déclare, du reste, avoir emprunté ces prédictions à un cabaliste hébreu nommé Rabbi Chômer, qu'il ne se flatte pas lui-même de bien comprendre.
 
 Voici le tableau des caractères magiques qui ont été tracés par les anciens astrologues d'après les constellations zodiacales ; chacun de ces caractères représente le nom d'un génie, bon ou mauvais. On sait que les signes du Zodiaque se rapportent à diverses influences célestes, et par conséquent expriment une alternative annuelle de bien et de mal.
+
+![11e figure. — Caractères infernaux des douze signes du zodiaque (page 263 de l'édition de 1861)](../Levi-Gravures/rituel-11-caracteres-zodiaque.jpg)
 
 Les noms des génies désignés par ces caractères sont :
 
@@ -1570,13 +1592,19 @@ Un moyen fort simple de trouver les horoscopes célestes par onomancie est celui
 
 Ayez une carte noire dans laquelle vous découperez à jour le nom de la personne pour laquelle vous consultez ; placez cette carte au bout d'un tube aminci du côté de l'œil de l'observateur, et plus large du côté de la carte ; puis vous regarderez vers les quatre points cardinaux alternativement, en commençant par l'orient et en finissant par le nord. Vous prendrez note de toutes les étoiles que vous verrez à travers les lettres, puis vous convertirez les lettres en nombres, et, avec la somme de l'addition écrite de la même manière, vous renouvellerez l'opération ; vous compterez combien vous avez d'étoiles ; puis, ajoutant ce nombre à celui du nom, vous additionnerez encore et vous écrirez le total des deux nombres en caractères hébraïques. Vous renouvellerez alors l'opération, et vous inscrirez à part les étoiles que vous aurez rencontrées ; puis vous chercherez dans le planisphère céleste les noms de toutes les étoiles ; vous en ferez la classification suivant leur grandeur et leur éclat, vous choisirez la plus grande et la plus brillante pour étoile polaire de votre opération astrologique ; vous chercherez ensuite dans le planisphère égyptien (il s'en trouve un assez complet et bien gravé dans l'atlas du grand ouvrage de Dupuis), vous chercherez les noms et la figure des génies auxquels appartiennent les étoiles. Vous connaîtrez alors quels sont les signes heureux ou malheureux qui entrent dans le nom de la personne et quelle sera leur influence, soit dans l'enfance (c'est le nom tracé à l'orient), soit dans la jeunesse (c'est le nom du midi), soit dans l'âge mûr (c'est le nom de l'occident), soit dans la vieillesse (c'est le nom du nord), soit enfin dans toute la vie (ce sont les étoiles qui entreront dans le nombre entier formé par l'addition des lettres et des étoiles). Cette opération astrologique est simple, facile, et demande peu de calculs ; elle nous reporte à la plus haute antiquité, et appartient évidemment, comme on pourra s'en convaincre en étudiant les ouvrages de Gaffarel et de son maître Rabbi Chômer, à la magie primitive des patriarches.
 
-Cette astrologie onomantique était celle de tous les anciens cabalistes hébreux, comme le prouvent leurs observations conservées par Rabbi Chômer, Rabbi Kapol, Rabbi Abjudan et autres maîtres en cabale. Les menaces des prophètes aux divers empires du monde étaient fondées sur les caractères des étoiles qui se trouvaient verticalement au-dessus d'eux dans le rapport habituel de la sphère céleste à la sphère terrestre. C'est ainsi qu'en écrivant dans le ciel même de la Grèce son nom en hébreu, et en le traduisant en nombres, ils avaient trouvé le mot signifiant détruit, désolé.
+Cette astrologie onomantique était celle de tous les anciens cabalistes hébreux, comme le prouvent leurs observations conservées par Rabbi Chômer, Rabbi Kapol, Rabbi Abjudan et autres maîtres en cabale. Les menaces des prophètes aux divers empires du monde étaient fondées sur les caractères des étoiles qui se trouvaient verticalement au-dessus d'eux dans le rapport habituel de la sphère céleste à la sphère terrestre. C'est ainsi qu'en écrivant dans le ciel même de la Grèce son nom en hébreu יוך, ou יוג, et en le traduisant en nombres, ils avaient trouvé le mot חרב, qui signifie détruit, désolé.
 
-*[Suivent dans l'original des schémas de constellations avec valeurs numériques hébraïques, non reproductibles en texte : la Grèce (Javan) totalisant 42, correspondant au mot « détruit, désolé » (Chabal) également 42.]*
+> חרב — 2 2 8 — CHARAB. — *Détruit, Désolé.* — Somme 12.
+>
+> יוג — 5 6 1 — JAVAN. — *Grèce.* — Somme 12.
 
 Ils en conclurent qu'après un cycle de douze périodes la Grèce serait désolée et détruite.
 
-Un peu avant l'incendie et la destruction du temple de Jérusalem par Nabuzardan, les cabalistes avaient remarqué verticalement au-dessus du temple onze étoiles ainsi disposées : *[figure non reproductible]* et qui entrèrent toutes dans le mot écrit du septentrion à l'occident : *Hibschich*, ce qui signifie réprobation et abandon sans miséricorde. La somme du nombre des lettres est 423, juste le temps de la durée du temple.
+Un peu avant l'incendie et la destruction du temple de Jérusalem par Nabuzardan, les cabalistes avaient remarqué verticalement au-dessus du temple onze étoiles ainsi disposées :
+
+![Les onze étoiles remarquées au-dessus du temple de Jérusalem (page 274 de l'édition de 1861)](../Levi-Gravures/rituel-17-onze-etoiles.jpg)
+
+et qui entrèrent toutes dans le mot écrit du septentrion à l'occident : *Hibschich*, ce qui signifie réprobation et abandon sans miséricorde. La somme du nombre des lettres est 423, juste le temps de la durée du temple.
 
 Les empires de Perse et d'Assyrie étaient menacés de destruction par quatre étoiles verticales qui entrèrent dans ces trois lettres, et le nombre fatal indiqué par les lettres était 208 ans.
 
@@ -1824,6 +1852,8 @@ Le règne de chaque ange est de 354 ans et 4 mois. Le premier est Orifiel, l'ang
 
 ## Chapitre XXII. — Le livre d'Hermès
 
+![12e figure. — Le Chariot d'Hermès, septième clef du Tarot (planche face à la page 332 de l'édition de 1861)](../Levi-Gravures/rituel-12-chariot-hermes.jpg)
+
 Nous arrivons à la fin de notre œuvre, et c'est ici que nous devons en donner la clef universelle et en dire le dernier mot.
 
 La clef universelle des arts magiques, c'est la clef de tous les anciens dogmes religieux, la clef de la cabale et de la Bible, la clavicule de Salomon.
@@ -1842,21 +1872,25 @@ Le savant Gaffarel ne doute pas que les theraphim des Hébreux, au moyen desquel
 
 On voit dans la Bible que les grands prêtres consultaient le Seigneur sur la table d'or de l'arche sainte, entre les chérubs ou sphinx à corps de taureau et à ailes d'aigle, et qu'ils consultaient à l'aide des theraphim, par l'urim, par le thumim et par l'éphod. L'éphod était, comme on sait, un carré magique de douze nombres et de douze mots gravés sur des pierres précieuses. Le mot theraphim, en hébreu, signifie hiéroglyphes ou signes figurés ; l'urim et le thumim, c'était le haut et le bas, l'orient et l'occident, le oui et le non, et ces signes correspondaient aux deux colonnes du temple Jakin et Boaz. Lors donc que le grand prêtre voulait faire parler l'oracle, il tirait au sort les theraphim ou lames d'or qui portaient les images des quatre mots sacrés, et les plaçait trois par trois autour du rational ou éphod, entre l'urim et le thumim, c'est-à-dire entre les deux onyx qui servaient d'agrafes aux chaînettes de l'éphod. L'onyx de droite signifiait Gédulah ou miséricorde et magnificence ; l'onyx de gauche se rapportait à Géburah et signifiait justice et colère, et si, par exemple, le signe du lion se trouvait près de la pierre où était gravé le nom de la tribu de Juda du côté gauche, le grand-prêtre lisait ainsi l'oracle : La verge du Seigneur est irritée contre Juda. Si le theraphim représentait l'homme ou la coupe et qu'il se trouvât également à gauche, près de la pierre de Benjamin, le grand-prêtre lisait : La miséricorde du Seigneur est lasse des offenses de Benjamin, qui l'outrage dans son amour. C'est pourquoi il va épancher sur lui la coupe de sa colère, etc. Lorsque le souverain sacerdoce cessa en Israël, quand tous les oracles du monde se turent en présence du Verbe fait homme et parlant par la bouche du plus populaire et du plus doux des sages, quand l'arche fut perdue, le sanctuaire profané et le temple détruit, les mystères de l'éphod et des theraphim, qui n'étaient plus tracés sur l'or et les pierres précieuses, furent écrits ou plutôt figurés par quelques sages cabalistes sur l'ivoire, sur le parchemin, sur le cuir argenté et doré, puis enfin sur de simples cartes, qui furent toujours suspectes à l'Église officielle, comme renfermant une clef dangereuse de ses mystères. De là sont venus ces tarots dont l'antiquité, révélée au savant Court de Gébelin par la science même des hiéroglyphes et des nombres, a tant exercé, plus tard, la douteuse perspicacité et la tenace investigation de l'Etteilla.
 
-Court de Gébelin, dans le huitième volume de son Monde primitif, donne la figure des vingt-deux clefs et des quatre as du Tarot, et en démontre la parfaite analogie avec tous les symboles de la plus haute antiquité ; il essaye ensuite d'en donner l'explication et il s'égare naturellement, parce qu'il ne prend pas pour point de départ le tétragramme universel et sacré, le lo evohé des bacchanales, le jod hé vau hé du sanctuaire, le mrr [?] de la cabale.
+Court de Gébelin, dans le huitième volume de son Monde primitif, donne la figure des vingt-deux clefs et des quatre as du Tarot, et en démontre la parfaite analogie avec tous les symboles de la plus haute antiquité ; il essaye ensuite d'en donner l'explication et il s'égare naturellement, parce qu'il ne prend pas pour point de départ le tétragramme universel et sacré, le Io evohé des bacchanales, le jod hé vau hé du sanctuaire, le יהוה de la cabale.
 
 Etteilla ou Alliette, préoccupé uniquement de son système de divination et du profit matériel qu'il pouvait en tirer, Alliette, ancien coiffeur, n'ayant jamais appris ni le français, ni même l'orthographe, prétendit réformer et s'approprier ainsi le livre de Thot. Sur le tarot qu'il fit graver, et qui est devenu fort rare, on lit à la carte vingt-huitième (le huit de bâtons) cette réclame naïve : « Etteilla, professeur d'algèbre, rénovateur de la cartomancie et rédacteur des modernes incorrections de cet ancien livre de Thot, demeure rue de l'Oseille, n° 48, à Paris. » Etteilla eût certainement mieux fait de ne pas négliger les incorrections dont il parle ; ses travaux ont fait retomber dans le domaine de la magie vulgaire et des tireuses de cartes le livre antique découvert par Court de Gébelin. Qui veut trop prouver ne prouve rien, dit un axiome de logique ; Etteilla en fournit un exemple de plus, et pourtant ses efforts l'avaient amené à une certaine connaissance de la cabale, comme on peut le voir dans quelques rares passages de ses illisibles ouvrages.
 
 Les véritables initiés contemporains d'Etteilla, les roses-croix, par exemple, et les martinistes qui étaient en possession du vrai Tarot, comme le prouve un livre de Saint-Martin, dont les divisions sont celles du Tarot, et ce passage d'un ennemi des roses-croix : « Ils prétendent qu'ils ont un volume dans lequel ils peuvent apprendre tout ce qui est dans les autres livres qui sont ou qui pourraient jamais être. Ce volume est leur raison dans laquelle ils trouvent le prototype de tout ce qui existe par la facilité d'analyser, de faire des abstractions, de former une espèce de monde intellectuel et de créer tous les êtres possibles. Voyez les cartes philosophiques, théosophistes, microcosmites, etc. » Conjuration contre la religion catholique et les souverains, par l'auteur du Voile levé pour les curieux. Paris, Crapart, 1792. Les véritables initiés, disons-nous, qui tenaient le secret du tarot parmi leurs plus grands mystères, se gardèrent bien de protester contre les erreurs d'Etteilla, et le laissèrent non pas révéler, mais revoiler l'arcane des vraies clavicules de Salomon. Aussi n'est-ce pas sans un profond étonnement que nous avons retrouvé intacte et ignorée encore cette clef de tous les dogmes et de toutes les philosophies de l'ancien monde. Je dis une clef, et c'en est véritablement une, ayant le cercle des quatre décades pour anneau, et pour tige ou pour corps l'échelle des 22 caractères, puis pour tournant les trois degrés du ternaire, comme l'a compris et figuré Guillaume Postel dans sa Clef des choses cachées depuis le commencement du monde, clef dont il indique ainsi le nom occulte et connu des seuls initiés :
 
-[…] (nom occulte figuré en caractères hébraïques dans l'original, illisible dans la présente source)
+![Le nom occulte de la clef de Postel : quatre lettres disposées en croix — T au sommet, O à gauche, A à droite, R renversée au pied —, se lisant en roue ROTA ou TARO (page 341 de l'édition de 1861)](../Levi-Gravures/rituel-20-croix-rota-taro.jpg)
 
-le mot qui peut se lire Rota, et qui signifie la roue d'Ezéchiel, ou Tarot, et alors il est synonyme de l'Azoth des philosophes hermétiques. C'est un mot qui exprime cabalistiquement l'absolu dogmatique et naturel ; il est formé des caractères du monogramme de Christ, suivant les Grecs et les Hébreux. L'R latine ou le P grec se trouve au milieu, entre l'alpha et l'oméga de l'Apocalypse ; puis le Tau sacré, image de la croix, enferme le mot tout entier, comme nous l'avons représenté à la page 65 de notre Rituel.
+le mot qui peut se lire Rota, et qui signifie la roue d'Ezéchiel, ou Tarot, et alors il est synonyme de l'Azoth des philosophes hermétiques. C'est un mot qui exprime cabalistiquement l'absolu dogmatique et naturel ; il est formé des caractères du monogramme de Christ, suivant les Grecs et les Hébreux. L'R latine ou le P grec se trouve au milieu, entre l'alpha et l'oméga de l'Apocalypse ; puis le Tau sacré, image de la croix, enferme le mot tout entier, comme nous l'avons représenté à la page 95 de notre Rituel.
 
 Sans le tarot, la magie des anciens est un livre fermé pour nous, et il est impossible de pénétrer aucun des grands mystères de la cabale. Le tarot seul donne l'interprétation des carrés magiques d'Agrippa et de Paracelse, comme on peut s'en convaincre en formant ces mêmes carrés avec les clefs du tarot et en lisant les hiéroglyphes qui se trouveront ainsi rassemblés.
 
 Voici les sept carrés magiques des génies planétaires suivant Paracelse :
 
-*(Suivent, dans l'original, les sept carrés magiques numériques de Saturne, Jupiter, Mars, du Soleil, de Vénus, de Mercure et de la Lune : les grilles de chiffres sont trop dégradées par la numérisation pour être restituées fidèlement — […])*
+![13e figure (1/3). — Carrés magiques de Saturne (3×3), de Jupiter (4×4) et de Mars (5×5), suivant Paracelse (page 342 de l'édition de 1861)](../Levi-Gravures/rituel-13-carres-magiques-p342.jpg)
+
+![13e figure (2/3). — Carrés magiques du Soleil (6×6), de Vénus (7×7) et de Mercure (8×8), suivant Paracelse (page 343 de l'édition de 1861)](../Levi-Gravures/rituel-13-carres-magiques-p343.jpg)
+
+![13e figure (3/3). — Carré magique de la Lune (9×9), suivant Paracelse (page 344 de l'édition de 1861)](../Levi-Gravures/rituel-13-carres-magiques-p344.jpg)
 
 En additionnant chacune des colonnes de ces carrés, vous obtenez invariablement le nombre caractéristique de la planète, et, en trouvant l'explication de ce nombre par les hiéroglyphes du Tarot, vous cherchez le sens de toutes les figures, soit triangulaires, soit carrées, soit circulaires, que vous trouverez formées par les nombres. Le résultat de cette opération sera une connaissance complète et approfondie de toutes les allégories et de tous les mystères cachés par les anciens sous le symbole de chaque planète, ou plutôt de chaque personnification des influences, soit célestes, soit humaines, sur tous les événements de la vie.
 
@@ -1972,21 +2006,34 @@ Ainsi, aux versets 18 et 19 de l'Exode, il faut traduire de cette manière le te
 
 Les chérub ou sphinx étaient en effet accouplés par deux de chaque côté de l'arche, et leurs têtes se retournaient aux quatre coins du propitiatoire, qu'ils couvraient de leurs ailes arrondies en voûte, ombrageant ainsi la couronne de la table d'or, qu'ils soutenaient sur leurs épaules, et se regardant l'un l'autre par les coupes et regardant le propitiatoire. (Voyez la figure.)
 
+![14e figure. — L'Arche d'alliance, avec ses chérubs ou sphinx accouplés (page 358 de l'édition de 1861)](../Levi-Gravures/rituel-14-arche.jpg)
+
 L'arche ainsi avait trois parties ou trois étages, représentant Aziluth, Jezirah et Briah, les trois mondes de la cabale : la base du coffre, à laquelle étaient adaptés les quatre anneaux des deux leviers analogues aux colonnes du temple Jakin et Boaz ; le corps du coffre, sur lequel ressortait en relief celui des sphinx, et le couvercle, ombragé par les ailes des sphinx. La base représentait le royaume du sel, pour parler le langage des adeptes d'Hermès ; le coffre le royaume du mercure ou de l'azoth, et le couvercle le royaume du soufre ou du feu. Les autres objets du culte n'étaient pas moins allégoriques, mais il faudrait un ouvrage spécial pour les décrire et les expliquer.
 
 Saint-Martin, dans son Tableau naturel des rapports qui existent entre Dieu, l'homme et la nature, a suivi, comme nous l'avons dit, la division du Tarot, et donne sur les 22 clefs un commentaire mystique assez étendu ; mais il se garde bien de dire où il a pris le plan de son livre et de révéler les hiéroglyphes qu'il commente. Postel a eu la même discrétion, et, en nommant seulement le Tarot dans la figure de sa clef des arcanes, il le désigne dans le reste du livre sous le nom de Genèse d'Hénoch. Le personnage d'Hénoch, auteur du premier livre sacré, est en effet identique avec celui de Thot chez les Égyptiens, de Cadmus chez les Phéniciens, et de Palamède chez les Grecs.
 
 Nous avons trouvé d'une manière assez extraordinaire une médaille du XVIe siècle qui est une clef du Tarot. Nous ne savons trop s'il faut dire que cette médaille et le lieu où nous devions la trouver nous avaient été montrés en songe par le divin Paracelse ; quoi qu'il en soit, la médaille est en notre possession. Elle représente, d'un côté, le bateleur en costume allemand du XVIe siècle, tenant d'une main sa ceinture et de l'autre le pentagramme ; il a devant lui, sur sa table, entre un livre ouvert et une bourse fermée, dix deniers ou talismans disposés en deux lignes de trois chacune et en un carré de quatre ; les pieds de la table forment deux hé, et ceux du bateleur deux jod renversés. Le revers de la médaille contient les lettres de l'alphabet, disposées en carré magique de cette façon :
 
-*(carré magique de 25 lettres latines, disposition dégradée par l'OCR — […])*
+![Le carré des vingt-cinq lettres au revers de la médaille du XVIe siècle (page 360 de l'édition de 1861)](../Levi-Gravures/rituel-18-carre-25-lettres.jpg)
 
-On peut remarquer que cet alphabet n'a que 22 lettres, le V et l'N y étant répétés deux fois, et qu'il est disposé par quatre quinaires et un quaternaire pour clef et pour base. Les quatre lettres finales sont deux combinaisons du binaire et du ternaire, et, lues cabalistiquement, elles forment le mot Azoth, en rendant aux configurations de lettres leur valeur en hébreu primitif et en prenant N pour aleph, Z pour ce qu'il est en latin, V pour le vau hébreu, qui se prononce O entre deux voyelles ou lettres qui en ont la valeur, et l'X pour le tau primitif, qui en avait exactement la figure. Le Tarot tout entier est donc expliqué dans cette merveilleuse médaille, digne en effet de Paracelse, et que nous tenons à la disposition des curieux. Les lettres, disposées par quatre fois cinq, ont pour résumé le mot […], analogue à ceux de […] et d'INRI, et contenant tous les mystères de la cabale.
+> | A | B | C | D | E |
+> |---|---|---|---|---|
+> | F | G | H | I | K |
+> | L | N | M | O | P |
+> | Q | R | S | T | V |
+> |   | X | V | Z | N |
+
+*(Quatre rangées de cinq lettres et une rangée finale de quatre : l'alphabet de 22 lettres, le V et l'N répétés deux fois ; la troisième rangée porte N avant M, tel quel dans l'original.)*
+
+On peut remarquer que cet alphabet n'a que 22 lettres, le V et l'N y étant répétés deux fois, et qu'il est disposé par quatre quinaires et un quaternaire pour clef et pour base. Les quatre lettres finales sont deux combinaisons du binaire et du ternaire, et, lues cabalistiquement, elles forment le mot Azoth, en rendant aux configurations de lettres leur valeur en hébreu primitif et en prenant N pour aleph, Z pour ce qu'il est en latin, V pour le vau hébreu, qui se prononce O entre deux voyelles ou lettres qui en ont la valeur, et l'X pour le tau primitif, qui en avait exactement la figure. Le Tarot tout entier est donc expliqué dans cette merveilleuse médaille, digne en effet de Paracelse, et que nous tenons à la disposition des curieux. Les lettres, disposées par quatre fois cinq, ont pour résumé le mot אZות (Azoth), analogue à ceux de יהוה et d'INRI, et contenant tous les mystères de la cabale.
 
 Le livre du Tarot ayant une si haute importance scientifique, il est bien à désirer qu'on ne l'altère plus. Nous avons parcouru à la Bibliothèque impériale la collection des anciens Tarots, et c'est là que nous en avons recueilli tous les hiéroglyphes dont nous donnons la description. Il reste une œuvre importante à faire : c'est de faire graver et de publier un Tarot rigoureusement complet et soigneusement exécuté. Peut-être l'entreprendrons-nous bientôt.
 
 On trouve des vestiges du Tarot chez tous les peuples du monde. Le Tarot italien est, comme nous l'avons dit, le mieux conservé et le plus fidèle ; mais on pourrait le perfectionner encore avec de précieux renseignements empruntés aux jeux espagnols : le deux de coupes, par exemple, dans les naïbis, est complètement égyptien, et l'on y voit deux vases antiques dont des ibis forment les anses, superposés au-dessus d'une vache ; on trouve dans les mêmes cartes une licorne au milieu du quatre de deniers ; le trois de coupes présente la figure d'Isis sortant d'un vase, et des deux autres vases sortent deux ibis portant, l'un une couronne pour la déesse, l'autre une fleur de lotus qu'il semble lui offrir. Les quatre as portent l'image du serpent hiératique et sacré, et, dans certains jeux, au milieu du quatre de deniers, au lieu de la licorne symbolique, on trouve le double triangle de Salomon.
 
 Les Tarots allemands sont plus altérés, et l'on n'y trouve plus guère que les nombres des clefs, surchargées de figures bizarres ou pantagruéliques. Nous avons entre les mains un Tarot chinois, et il se trouve à la Bibliothèque impériale quelques échantillons d'un jeu semblable. M. Paul Boiteau, dans son remarquable ouvrage sur les cartes à jouer, en a donné des spécimens fort bien faits. Le Tarot chinois conserve encore plusieurs des emblèmes primitifs : on y distingue très bien les deniers et les épées, mais il serait plus difficile d'y retrouver les coupes et les bâtons.
+
+![15e figure. — La Clef apocalyptique : les sept sceaux de saint Jean (planche face à la page 364 de l'édition de 1861)](../Levi-Gravures/rituel-15-clef-apocalyptique.jpg)
 
 C'est aux époques des hérésies gnostiques et manichéennes que le Tarot a dû se perdre pour l'Église, et c'est à la même époque que le sens de la divine Apocalypse a été également perdu. On n'a plus compris que les sept sceaux de ce livre cabalistique sont sept pantacles dont nous donnons la figure, et qui s'expliquent par les analogies des nombres, des caractères et des figures du Tarot. Ainsi la tradition universelle de la religion unique a été un instant interrompue, les ténèbres du doute se sont répandues sur toute la terre, et il a semblé à l'ignorance que le vrai catholicisme, la révélation universelle, avait un instant disparu. L'explication du livre de saint Jean par les caractères de la cabale sera toute une révélation nouvelle, qu'ont pressentie déjà plusieurs magistes distingués. Voici comment s'exprime l'un d'entre eux, M. Augustin Chaho :
 
@@ -2116,73 +2163,73 @@ Ce monument de la haute magie des Assyriens est assez curieux pour que nous soyo
 
 **Première heure.**
 
-*[épigraphe grecque, OCR illisible]*
+*(I.) Ἔν ἥ αἰνοῦσιν δαίμονες ανοῦντες (lege ὑμνοῦντες vel αἰνοῦντες) τὸν Θεὸν, ὄυτε ἀδὶκουσιν, ὄυτε κολάζουσιν.*
 
 Dans l'unité, les démons chantent les louanges de Dieu, ils perdent leur malice et leur colère.
 
 **Seconde heure.**
 
-*[épigraphe grecque, OCR illisible]*
+*(II.) Ἔν ἥ αἰνοῦσιν οι ἴχθυες τὸν Θεὸν, καὶ τὸ τοῦ πυρὸς βάθος, ἐν ἥ ςφειλει οτοιχείουσθαι ἀποτέλεσματα εἰς δράκοντας καὶ πῦρ.*
 
 Par le binaire, les poissons du Zodiaque chantent les louanges de Dieu, les serpents de feu s'enlacent autour du caducée et la foudre devient harmonieuse.
 
 **Troisième heure.**
 
-*[épigraphe grecque, OCR illisible]*
+*(III.) Ἔν ἥ αἰνοῦσιν ὄφεις καὶ κύνες καὶ πῦρ.*
 
 Les serpents du caducée d'Hermès s'entrelacent trois fois, Cerbère ouvre sa triple gueule et le feu chante les louanges de Dieu par les trois langues de la foudre.
 
 **Quatrième heure.**
 
-*[épigraphe grecque, OCR illisible]*
+*(IV.) Εν ἥ δίερχονται δαιμονες ἐν τοῖς μνήμασιν, καὶ ὁ ἐρχόμενος ὁ ἐκεῖσε βλαβήσεται, καὶ φόβον καὶ φρίκην ἐκ τῆς δαιμόνων λέψεται φαντάσιας, ἐν ἥ ὄφειλει ἐνερεῖν ἐπὶ μαγίκου καὶ παντὸς γοητίκου πράγματος.*
 
 À la quatrième heure l'âme retourne visiter les tombeaux, c'est le moment où s'allument les lampes magiques aux quatre coins des cercles, c'est l'heure des enchantements et des prestiges.
 
 **Cinquième heure.**
 
-*[épigraphe grecque, OCR illisible ; note marginale : aquæ supracœlestes, tabula marmoris mundi Hebræorum]*
+*(V.) Ἔν ἥ αἰνουσιν τὰ ἄνω ὕδατα τὸν Θεὸν τοῦ οὐράνου* (aquæ supracœlestes (tabula marmoris mundi Hebræorum).
 
 La voix des grandes eaux chante le Dieu des sphères célestes.
 
 **Sixième heure.**
 
-*[épigraphe grecque, OCR illisible]*
+*(VI.) Ὅτε δεὸν ἡσύχαζεῖν καὶ ἀναπαύεσθαι, διότι ἔχει φόβον.*
 
 L'esprit se tient immobile, il voit les monstres infernaux marcher contre lui et il est sans crainte.
 
 **Septième heure.**
 
-*[épigraphe grecque, OCR illisible]*
+*(VII.) Ἔν ἥ ἀναπάυει πάντα τὰ ζῶα καὶ ἐὰν τὶς κάθαρος ἄνθρωπος ἁρπάση καὶ βάλλη αὐτὸ ὁ ἱερεὺς, καὶ μιξεῖ Ἐλαίω καί ἁγιὰση κὐτὸ (?) καὶ ἀλείψη ἐπὶ αὐτοῦ ἀσθένη, πὰρενθ ἐν τῆς νόσου ἀπαλλαγήσεται.*
 
 Un feu qui donne la vie à tous les êtres animés est dirigé par la volonté des hommes purs. L'initié étend la main et les souffrances s'apaisent.
 
 **Huitième heure.**
 
-*[épigraphe grecque, OCR illisible]*
+*(VIII.) Ἔν ἥ ἀποτέλεσμα ςτοιχείων καὶ παντοῖῶ φυτῶν.*
 
 Les étoiles se parlent, l'âme des soleils correspond avec le soupir des fleurs, des chaînes d'harmonie font correspondre entre eux tous les êtres de la nature.
 
 **Neuvième heure.**
 
-*[épigraphe grecque, OCR illisible]*
+*(IX.) Ἔν ἥ τέλειται ὀυδεν.*
 
 Le nombre qui ne doit pas être révélé.
 
 **Dixième heure.**
 
-*[épigraphe grecque, OCR illisible]*
+*(X.) Ἔν ἥ ἀνοίγωνται αἰ πύλαι τοῦ οὐράνου καὶ ἄνθρωπος ἐν κατανύξει ἐρχόμενος εὐήκοος γενήσεται.*
 
 C'est la clé du cycle astronomique et du mouvement circulaire de la vie des hommes.
 
 **Onzième heure.**
 
-*[épigraphe grecque, OCR illisible]*
+*(XI.) Ἔν ἥ πέτονται ταῖς πτέρυξιν σὺν ἠχὼ οἱ ἄγγελοι καὶ χέρουβιμ καὶ σέραφιμ, καὶ ἔστιν χὰρα ἐν οὐράνω, καὶ γὴ ἀνατέλλει δὲ καὶ ὁ ἥλιος ἐξ Ἀδαμ (lege Ἐδεμ).*
 
 Les ailes des génies s'agitent avec un bruissement mystérieux, ils volent d'une sphère à l'autre et portent de monde en monde les messages de Dieu.
 
 **Douzième heure.**
 
-*[épigraphe grecque, OCR illisible]*
+*(XII.) Ἔν ἥ ἀναπὰύονται τὰ πύρινά τάγματα.*
 
 Ici s'accomplissent par le feu les œuvres de l'éternelle lumière.
 

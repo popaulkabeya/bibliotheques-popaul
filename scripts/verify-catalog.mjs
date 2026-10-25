@@ -30,6 +30,9 @@ const HORS_CATALOGUE = [
     'Secrets-Egyptiens-Albert-le-Grand-FR.md',
     'Enchiridion_Oraisons_de_protection.md', 'Enchiridion_Oraisons_voyage_et_saint_Cyprien.md',
   ] },
+  { raison: 'gravures d\'une édition texte en cours, cataloguées avec elle', chemins: [
+    'Dragon-Rouge-Gravures/', 'Levi-Gravures/',
+  ] },
   { raison: 'fascicule à convertir (.docx, illisible par l\'application)', chemins: [
     'Fascicule_Psaumes_Athanase.docx',
   ] },

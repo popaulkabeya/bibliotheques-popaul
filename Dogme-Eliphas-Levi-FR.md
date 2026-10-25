@@ -4,13 +4,15 @@
 
 **Éliphas Lévi** (Alphonse Louis Constant, 1810-1875)
 
-*Première édition : Paris, 1856. Texte de la présente restauration établi d'après la deuxième édition, très augmentée, Germer Baillière, libraire-éditeur, Paris, 1861 (source : Google Books, identifiant bub_gb_NDbYpMigCgAC — domaine public).*
+*Première édition : Paris, 1856. Texte de la présente restauration établi d'après la deuxième édition, très augmentée, Germer Baillière, libraire-éditeur, Paris, 1861 (source : Google Books, identifiant bub_gb_NDbYpMigCgAC — domaine public). Lacunes et épigraphes relues, et gravures tirées, du scan Wellcome Library de la même édition (Internet Archive, b24884340_0001).*
+
+![Première figure. — Le grand Symbole de Salomon : le Macroprosope et le Microprosope, QUOD SUPERIUS, QUOD INFERIUS (frontispice de l'édition de 1861)](../Levi-Gravures/dogme-01-symbole-salomon.jpg)
 
 ---
 
 **Note du transcripteur**
 
-Le texte qui suit est une restauration du Tome Premier (*Le Dogme*) de l'ouvrage capital d'Éliphas Lévi, à partir d'un OCR brut de l'édition de 1861. Le travail s'est limité à corriger les erreurs de reconnaissance optique évidentes et à moderniser la ponctuation et les accents là où l'OCR les avait perdus ; aucun contenu n'a été ajouté, résumé ou modifié sur le fond. Les passages véritablement illisibles dans le scan source (notamment les épigraphes de chapitre en caractères hébreux ou grecs, non restituables par l'OCR) sont signalés par la mention *[OCR illisible]* ou équivalent. Les citations latines sont conservées telles quelles ; lorsqu'un fragment hébreu ou grec s'est révélé trop dégradé pour être restitué de façon fiable, il est signalé par la mention *[…texte hébreu…]* ou *[épigraphe grecque, OCR illisible]*.
+Le texte qui suit est une restauration du Tome Premier (*Le Dogme*) de l'ouvrage capital d'Éliphas Lévi, à partir d'un OCR brut de l'édition de 1861. Le travail s'est limité à corriger les erreurs de reconnaissance optique évidentes et à moderniser la ponctuation et les accents là où l'OCR les avait perdus ; aucun contenu n'a été ajouté, résumé ou modifié sur le fond. Les lacunes de l'OCR d'origine (épigraphes de chapitre, caractères hébreux, passages dégradés) ont ensuite été restituées par relecture visuelle du scan haute résolution de la Wellcome Library (même édition de 1861) : lettres hébraïques en Unicode, épigraphes latines complétées, passage reconstruit du chapitre V retranscrit intégralement. Les gravures de l'édition, recadrées depuis ce même scan, sont insérées à leur place (dossier Levi-Gravures/). Toute lecture restée douteuse serait marquée (?) ; rien n'a été ajouté, résumé ou modifié sur le fond.
 
 L'ouvrage appartient au domaine public : Éliphas Lévi est mort en 1875, soit plus de cent quarante ans avant cette restauration.
 
@@ -48,7 +50,7 @@ Au-dessous, la roue d'Ézéchiel, clef de tous les pantacles, et le pantacle de 
 
 Le chérub d'Ézéchiel est représenté ici tel que le décrit le prophète. Ses quatre têtes sont le quaternaire de Mercavah ; ses six ailes sont le senaire de Bereschit. La figure humaine qui est au milieu représente la raison ; la tête d'aigle, c'est la croyance ; le bœuf, c'est la résignation et le travail ; le lion, c'est la lutte et la conquête. Ce symbole est analogue à celui du sphinx des Égyptiens, mais il est plus approprié à la cabale des Hébreux.
 
-**8e Fig. Addha-Nari, grand Pan [...] indien** . . . 366
+**8e Fig. Addha-Nari, grand Pantacle indien** . . . 366
 
 Cette image panthéistique représente la Religion ou la Vérité, terrible pour les profanes et douce pour les initiés. Cette figure a plus d'une analogie avec le chérub d'Ézéchiel. La figure humaine est placée entre un veau bridé et un tigre, ce qui forme le triangle de Kether, de Geburah et de Gedulah ou Chesed. Dans le symbole indien, on trouve les quatre signes magiques du Tarot dans les quatre mains d'Addha-Nari : du côté de l'initié et de la miséricorde, le sceptre et la coupe ; du côté du profane, représenté par le tigre, l'épée et le cercle, qui peut devenir soit l'anneau d'une chaîne, soit un collier de fer. Du côté de l'initié, la déesse n'est vêtue que des dépouilles du tigre ; du côté du tigre, elle porte une longue robe étoilée, et ses cheveux mêmes sont couverts d'un voile. Une source de lait jaillit de son front, coule du côté de l'initié, et forme autour d'Addha-Nari et de ses deux animaux un cercle magique qui les enferme dans une île, représentation du monde. La déesse porte à son cou une chaîne magique formée d'anneaux de fer du côté des profanes, et de têtes pensantes du côté des initiés ; elle porte sur le front la figure du lingam, et de chaque côté trois lignes superposées qui représentent l'équilibre du ternaire et rappellent les trigrammes de Fo-Hi.
 
@@ -56,7 +58,7 @@ Cette image panthéistique représente la Religion ou la Vérité, terrible pour
 
 **1re Fig. Bouc du Sabbat. — Baphomet et Mendès** . . . Frontispice
 
-Figure panthéistique et magique de l'absolu. Le flambeau placé entre les deux cornes représente l'intelligence équilibrante du ternaire ; la tête du bouc, tête synthétique qui réunit quelques caractères du chien, du taureau et de l'âne, représente la responsabilité de la matière seule et l'expiation, dans les corps, des péchés corporels. Les mains sont humaines, pour montrer la sainteté du travail, elles font le signe de l'ésotérisme en haut et en bas, pour recommander le mystère aux initiés, et elles montrent deux croissants lunaires, l'un blanc qui est en haut, l'autre noir, qui est en bas, pour expliquer les rapports du bien et du mal, de la miséricorde et de la justice. Le bas du corps est voilé, image des mystères de la génération universelle, exprimée seulement par le symbole du caducée. Le ventre du bouc est écaillé, et doit être coloré en vert ; le demi-cercle qui est au-dessus doit être bleu ; les plumes, qui montent jusqu'à la poitrine, doivent être de diverses couleurs. Le bouc a un sein de femme, et ne porte ainsi de l'humanité que les signes de la maternité et ceux du travail, c'est-à-dire les signes [...] rédempteurs. Par son front, entre ses cornes et au-dessous du flambeau, on voit le signe du microcosme ou le pentagramme la pointe en haut, symbole de l'intelligence humaine, qui, placé ainsi au-dessous du flambeau, fait de la flamme de ce dernier une image de la révélation divine. Ce panthée doit avoir pour siège un cube, et pour marchepied soit une boule seule, soit une boule et un escabeau triangulaire. Dans notre dessin nous lui avons donné la boule seulement, pour ne pas trop compliquer la figure.
+Figure panthéistique et magique de l'absolu. Le flambeau placé entre les deux cornes représente l'intelligence équilibrante du ternaire ; la tête du bouc, tête synthétique qui réunit quelques caractères du chien, du taureau et de l'âne, représente la responsabilité de la matière seule et l'expiation, dans les corps, des péchés corporels. Les mains sont humaines, pour montrer la sainteté du travail, elles font le signe de l'ésotérisme en haut et en bas, pour recommander le mystère aux initiés, et elles montrent deux croissants lunaires, l'un blanc qui est en haut, l'autre noir, qui est en bas, pour expliquer les rapports du bien et du mal, de la miséricorde et de la justice. Le bas du corps est voilé, image des mystères de la génération universelle, exprimée seulement par le symbole du caducée. Le ventre du bouc est écaillé, et doit être coloré en vert ; le demi-cercle qui est au-dessus doit être bleu ; les plumes, qui montent jusqu'à la poitrine, doivent être de diverses couleurs. Le bouc a un sein de femme, et ne porte ainsi de l'humanité que les signes de la maternité et ceux du travail, c'est-à-dire les signes rédempteurs. Par son front, entre ses cornes et au-dessous du flambeau, on voit le signe du microcosme ou le pentagramme la pointe en haut, symbole de l'intelligence humaine, qui, placé ainsi au-dessous du flambeau, fait de la flamme de ce dernier une image de la révélation divine. Ce panthée doit avoir pour siège un cube, et pour marchepied soit une boule seule, soit une boule et un escabeau triangulaire. Dans notre dessin nous lui avons donné la boule seulement, pour ne pas trop compliquer la figure.
 
 **2e Fig. Triangle de Salomon**
 
@@ -523,6 +525,8 @@ Notre ouvrage a deux parties : dans l'une, nous établissons le dogme cabalistiq
 
 ## Chapitre premier. — Le récipiendaire
 
+![2e figure. — L'Ésotérisme sacerdotal formulant la réprobation : la main sacerdotale projetant dans son ombre la figure du démon (planche face à la page 103 de l'édition de 1861)](../Levi-Gravures/dogme-02-esoterisme-sacerdotal.jpg)
+
 *Disciplina. — Ensoph. — Kether.*
 
 Lorsqu'un philosophe a pris pour base d'une nouvelle révélation de la sagesse humaine ce raisonnement : Je pense, donc j'existe, il a changé en quelque sorte et à son insu, suivant la révélation chrétienne, la notion antique de l'Être suprême. Moïse fait dire à l'Être des êtres : Je suis celui qui suis. Descartes fait dire à l'homme : Je suis celui qui pense, et, comme penser c'est parler intérieurement, l'homme de Descartes peut dire comme le Dieu de saint Jean l'Évangéliste : Je suis celui en qui est et par qui se manifeste le verbe, *In principio erat verbum.*
@@ -670,11 +674,11 @@ Il n'y a qu'un dogme en magie, et le voici : le visible est la manifestation de 
 
 Le mage élève une main vers le ciel et abaisse l'autre vers la terre, et il dit : Là-haut l'immensité ! là-bas l'immensité encore ; l'immensité égale l'immensité. Ceci est vrai dans les choses visibles, comme dans les choses invisibles.
 
-La première lettre de l'alphabet de la langue sainte, Aleph, représente un homme qui élève une main vers le ciel, et abaisse l'autre vers la terre.
+La première lettre de l'alphabet de la langue sainte, Aleph א, représente un homme qui élève une main vers le ciel, et abaisse l'autre vers la terre.
 
 C'est l'expression du principe actif de toute chose, c'est la création dans le ciel, correspondant à la toute-puissance du verbe ici-bas. Cette lettre à elle seule est un pantacle, c'est-à-dire un caractère exprimant la science universelle.
 
-La lettre *[OCR illisible — probablement Aleph, mentionné ci-dessus]* peut suppléer aux signes sacrés du macrocosme et du microcosme, elle explique le double triangle maçonnique et l'étoile brillante aux cinq pointes : car le verbe est un et la révélation est une. Dieu, en donnant à l'homme la raison, lui a donné la parole ; et la révélation, multiple dans ses formes, mais une dans son principe, est tout entière dans le verbe universel, interprète de la raison absolue.
+La lettre א peut suppléer aux signes sacrés du macrocosme et du microcosme, elle explique le double triangle maçonnique et l'étoile brillante aux cinq pointes : car le verbe est un et la révélation est une. Dieu, en donnant à l'homme la raison, lui a donné la parole ; et la révélation, multiple dans ses formes, mais une dans son principe, est tout entière dans le verbe universel, interprète de la raison absolue.
 
 C'est ce que veut dire le mot si mal compris de catholicisme, qui, en langue hiératique moderne, signifie infaillibilité.
 
@@ -702,7 +706,9 @@ Nous répondrons à cette question dans le second chapitre de ce livre.
 
 CHOCMAH.
 
-*[épigraphe hébraïque/grecque, OCR illisible]*
+DOMUS.
+
+GNOSIS.
 
 La science, c'est la possession absolue et complète de la vérité.
 
@@ -732,11 +738,11 @@ Le principe créateur, c'est le phallus idéal ; et le principe créé, c'est le
 
 L'insertion du phallus vertical dans le cteïs horizontal forme le stauros des gnostiques, ou la croix philosophique des maçons. Ainsi le croisement de deux produit quatre, qui, en se mouvant, déterminent le cercle avec tous ses degrés.
 
-*[symbole, OCR illisible]*, c'est l'homme ; *[symbole, OCR illisible]*, c'est la femme ; 1, c'est le principe ; 2, c'est le verbe ; A, c'est l'actif ; B, c'est le passif ; l'unité, c'est Bohas ; et le binaire, c'est Jakin.
+א, c'est l'homme ; ב, c'est la femme ; 1, c'est le principe ; 2, c'est le verbe ; A, c'est l'actif ; B, c'est le passif ; l'unité, c'est Bohas ; et le binaire, c'est Jakin.
 
 Dans les trigrammes de Fohi, l'unité, c'est le yang ; et le binaire, c'est le yin.
 
-*(figure : trait plein = yang, trait brisé = yin — non reproduite)*
+*(figure : deux traits verticaux — le trait plein, yang ; le trait brisé, yin)*
 
 Bohas et Jakin sont les noms des deux colonnes symboliques qui étaient devant la porte principale du temple cabalistique de Salomon.
 
@@ -768,7 +774,7 @@ L'unité ne peut se manifester que par le binaire ; l'unité elle-même et l'id�
 
 L'unité du macrocosme se révèle par les deux points opposés des deux triangles :
 
-*(figure : deux triangles opposés — non reproduite)*
+![3e figure. — Le Triangle de Salomon : le sceau de Salomon, deux triangles entrelacés portant des caractères hébreux, un T et un Ω (page 127 de l'édition de 1861)](../Levi-Gravures/dogme-03-triangle-salomon.jpg)
 
 L'unité humaine se complète par la droite et la gauche. L'homme primitif est androgyne. Tous les organes du corps humain sont disposés par deux, excepté le nez, la langue, l'ombilic et le jod cabalistique.
 
@@ -837,7 +843,7 @@ Mais nous avons dit que la reproduction de l'unité par le binaire conduit forc�
 PLENITUDO VOCIS.
 BINAH.
 
-*[épigraphe grecque, OCR illisible]*
+PHYSIS.
 
 Le verbe parfait, c'est le ternaire, parce qu'il suppose un principe intelligent, un principe parlant et un principe parlé.
 
@@ -959,7 +965,7 @@ Dans le tétragramme, le ternaire, pris au commencement du mot, exprime la copul
 
 GÉBURAH. CHESED.
 
-*[épigraphe latine, OCR illisible]*
+PORTA LIBRORUM.
 
 ELEMENTA.
 
@@ -1013,7 +1019,7 @@ Le secret absolu de cette direction a été possédé par quelques hommes, et pe
 
 L'axiome incommunicable est renfermé cabalistiquement dans les quatre lettres du tétragramme disposées de cette manière :
 
-*(figure : disposition cabalistique des quatre lettres du tétragramme — non reproduite)*
+![4e figure. — Les quatre grands noms cabalistiques : TARO entre l'alpha et l'oméga, le tétragramme disposé en triangles, INRI (page 154 de l'édition de 1861)](../Levi-Gravures/dogme-04-quatre-noms-cabalistiques.jpg)
 
 dans les lettres des mots AZOTH et INRI, écrites cabalistiquement, et dans le monogramme du Christ, tel qu'il était brodé sur le labarum, et que le cabaliste Postel interprète par le mot ROTA, dont les adeptes ont formé leur taro ou tarot, en répétant deux fois la première lettre, pour indiquer le cercle et faire comprendre que le mot est retourné.
 
@@ -1084,9 +1090,9 @@ Ajoutons maintenant l'unité au quaternaire, et nous aurons ensemble et séparé
 
 GÉBURAH.
 
-ECCE...
+ECCE.
 
-*[épigraphe latine, OCR illisible]*
+![5e figure. — Le Pentagramme de Faust, portant le nom TETRAGRAMMATON (en tête du chapitre V, page 166 de l'édition de 1861)](../Levi-Gravures/dogme-05-pentagramme-faust.jpg)
 
 Jusqu'ici nous avons exposé le dogme magique dans ce qu'il a de plus aride et de plus abstrait ; ici commencent les enchantements ; ici nous pouvons annoncer les prodiges et révéler les choses les plus cachées.
 
@@ -1169,7 +1175,17 @@ Le secret de la lucidité magnétique et la direction des phénomènes du magné
 
 Nous éclaircirons de plus en plus ce point important et fondamental dans les chapitres qui vont suivre.
 
-[Passage abîmé par l'OCR — lignes ou colonnes mêlées ; reconstruction partielle, mots manquants marqués] […] avons placé la figure au […]. Aussi les esprits […] et on peut, en tout ce qui s'applique […] des évocations, les […] où […]. Tous les esprits créés […] des signes et adhèrent tous à déter[minées] […] de vérités exprimées par certaines for[mes] […] minées, […] en raison […] l'expression d'un pouvoir […] exactement ce pouvoir. Ainsi, avec le pentagramme, on peut les esprits à apparaître en songe, soit pendant la veille, soit pendant le sommeil, en amenant eux-mêmes devant notre diaphane leur reflet, qui existe dans la lumière astrale, s'ils ont vécu, ou un reflet analogue à leur verbe spirituel, s'ils n'ont pas vécu sur la terre. Ceci explique toutes les visions et démontre surtout pourquoi les morts apparaissent toujours aux voyants, soit tels qu'ils étaient sur la terre, soit tels qu'ils sont encore dans la tombe, mais comme ils sont dans une existence qui échappe aux perceptions de notre organisme actuel.
+Cet empire de la volonté sur la lumière astrale, qui est l'âme physique des quatre éléments, est figuré en magie par le pentagramme, dont nous avons placé la figure en tête de ce chapitre.
+
+Aussi les esprits élémentaires sont-ils soumis à ce signe lorsqu'on l'emploie avec intelligence, et on peut, en le plaçant dans le cercle ou sur la table des évocations, les rendre dociles, ce qui s'appelle en magie les emprisonner.
+
+Expliquons en peu de mots cette merveille. Tous les esprits créés communiquent entre eux par des signes et adhèrent tous à un certain nombre de vérités exprimées par certaines formes déterminées.
+
+La perfection des formes augmente en raison du dégagement des esprits, et ceux qui ne sont pas appesantis par les chaînes de la matière reconnaissent à la première intuition si un signe est l'expression d'un pouvoir réel ou d'une volonté téméraire.
+
+L'intelligence du sage donne donc de la valeur à son pantacle, comme sa science donne du poids à sa volonté, et les esprits comprennent immédiatement ce pouvoir.
+
+Ainsi, avec le pentagramme, on peut forcer les esprits à apparaître en songe, soit pendant la veille, soit pendant le sommeil, *en amenant eux-mêmes devant notre diaphane leur reflet, qui existe dans la lumière astrale, s'ils ont vécu, ou un reflet analogue à leur verbe spirituel, s'ils n'ont pas vécu sur la terre*. Ceci explique toutes les visions et démontre surtout pourquoi les morts apparaissent toujours aux voyants, soit tels qu'ils étaient sur la terre, soit tels qu'ils sont encore dans la tombe, jamais comme ils sont dans une existence qui échappe aux perceptions de notre organisme actuel.
 
 Les femmes enceintes sont plus que d'autres sous l'influence de la lumière astrale, qui concourt à la formation de leur enfant, et qui leur présente sans cesse les réminiscences de formes dont elle est pleine. C'est ainsi que des femmes très vertueuses trompent par des ressemblances équivoques la malignité des observateurs. Elles impriment souvent à l'œuvre de leur mariage une image qui les a frappées en songe, et c'est ainsi que les mêmes physionomies se perpétuent de siècle en siècle.
 
@@ -1198,7 +1214,9 @@ Si l'on demande comment un signe peut avoir tant de puissance sur les esprits, n
 C'est aussi par le pentagramme qu'on mesure les proportions exactes du grand et unique athanor nécessaire à la confection de la pierre philosophale et à l'accomplissement du grand œuvre. L'alambic le plus parfait qui puisse élaborer la quintessence est conforme à cette figure, et la quintessence elle-même est figurée par le signe du pentagramme,
 
 ## Chapitre VI. — L'équilibre magique
-*(Tiphereth — […])*
+TIPHERET.
+
+UNCUS.
 
 L'intelligence suprême est nécessairement raisonnable. Dieu, en philosophie, peut n'être qu'une hypothèse, mais c'est une hypothèse imposée par le bon sens à la raison humaine. Personnifier la raison absolue, c'est déterminer l'idéal divin.
 
@@ -1222,13 +1240,13 @@ On disait autrefois : la nature a horreur du vide ; il fallait dire : la nature 
 
 Le vulgaire prend habituellement en toutes choses l'ombre pour la réalité. Il tourne le dos à la lumière et se mire dans l'obscurité qu'il projette lui-même.
 
-Les forces de la nature sont à la disposition de celui qui sait leur […]. Êtes-vous assez maître de vous-même pour n'être jamais ivre, vous disposez de la terrible et fatale puissance de l'ivresse. Si vous voulez enivrer les autres, donnez-leur envie de boire, mais ne buvez pas.
+Les forces de la nature sont à la disposition de celui qui sait leur résister. Êtes-vous assez maître de vous-même pour n'être jamais ivre, vous disposez de la terrible et fatale puissance de l'ivresse. Si vous voulez enivrer les autres, donnez-leur envie de boire, mais ne buvez pas.
 
 Celui-là dispose de l'amour des autres qui est maître du sien. Voulez-vous posséder, ne vous donnez pas.
 
 Le monde est aimanté de la lumière du soleil, et nous sommes aimantés de la lumière astrale du monde. Ce qui s'opère dans le corps de la planète se répète en nous. Il y a en nous trois mondes analogues et hiérarchiques, comme dans la nature entière.
 
-L'homme est le microcosme ou petit monde, et, suivant le dogme des analogies, tout ce qui est dans le grand monde se reproduit dans le petit. Il y a donc en nous trois centres d'attraction et de projection fluidique : le cerveau, le cœur ou l'épigastre et l'organe génital. Chacun de ces organes est unique et double, c'est-à-dire qu'on y retrouve l'idée du ternaire. Chacun de ces organes attire d'un côté et repousse de l'autre. C'est au moyen de ces appareils que nous nous mettons en communication avec le fluide universel, transmis en nous par le système nerveux. Ce sont aussi ces trois centres qui sont le siège de la triple […] magnétique, comme nous l'expliquerons ailleurs.
+L'homme est le microcosme ou petit monde, et, suivant le dogme des analogies, tout ce qui est dans le grand monde se reproduit dans le petit. Il y a donc en nous trois centres d'attraction et de projection fluidique : le cerveau, le cœur ou l'épigastre et l'organe génital. Chacun de ces organes est unique et double, c'est-à-dire qu'on y retrouve l'idée du ternaire. Chacun de ces organes attire d'un côté et repousse de l'autre. C'est au moyen de ces appareils que nous nous mettons en communication avec le fluide universel, transmis en nous par le système nerveux. Ce sont aussi ces trois centres qui sont le siège de la triple opération magnétique, comme nous l'expliquerons ailleurs.
 
 Lorsque le mage est parvenu à la lucidité, soit par l'intermédiaire d'une pythonisse ou somnambule, soit par ses propres efforts, il communique et dirige à volonté des vibrations magnétiques dans toute la masse de la lumière astrale, dont il devine les courants à l'aide de la baguette magique, qui est une baguette divinatoire perfectionnée. Au moyen de ces vibrations, il influence le système nerveux des personnes soumises à son action, précipite ou suspend les courants de la vie, calme ou tourmente, guérit ou rend malade, tue enfin ou ressuscite. Mais ici nous nous arrêtons devant le sourire de l'incrédulité. Laissons-lui le triomphe facile de nier ce qu'elle ne sait pas.
 
@@ -1307,11 +1325,11 @@ Saint Jean, dépositaire de la doctrine secrète du Christ, a consigné cette do
 
 Le chérub ou taureau symbolique que Moïse place à la porte du monde édénique, et qui tient à la main une épée flamboyante, est un sphinx ayant un corps de taureau et une tête humaine ; c'est l'antique sphinx assyrien, dont le combat et la victoire de Mithra étaient l'analyse hiéroglyphique. Ce sphinx armé représente la loi du mystère qui veille à la porte de l'initiation pour en écarter les profanes. Voltaire, qui ne savait rien de tout cela, a beaucoup ri de voir un bœuf tenir une épée. Qu'aurait-il dit s'il avait visité les ruines de Memphis et de Thèbes, et qu'aurait eu à répondre à ses petits sarcasmes, tant goûtés en France, cet écho des siècles passés qui dort dans les sépulcres de Psamétique et de Ramsès ?
 
-Le chérub de Moïse représente aussi le grand mystère magique, dont le septénaire exprime tous les éléments, sans en donner toutefois le dernier mot. Ce verbum inenarrabile des sages de l'école d'Alexandrie, ce mot que les cabalistes hébreux écrivent […] et traduisent par […], exprimant ainsi la triplicité du principe secondaire, le dualisme des moyens et l'unité tant du premier principe que de la fin, puis aussi l'alliance du ternaire avec le quaternaire dans un mot composé de quatre lettres, qui forment sept au moyen d'une triple et d'une double répétition ; ce mot se prononce Ararita.
+Le chérub de Moïse représente aussi le grand mystère magique, dont le septénaire exprime tous les éléments, sans en donner toutefois le dernier mot. Ce verbum inenarrabile des sages de l'école d'Alexandrie, ce mot que les cabalistes hébreux écrivent יהוה et traduisent par אראריתא, exprimant ainsi la triplicité du principe secondaire, le dualisme des moyens et l'unité tant du premier principe que de la fin, puis aussi l'alliance du ternaire avec le quaternaire dans un mot composé de quatre lettres, qui forment sept au moyen d'une triple et d'une double répétition ; ce mot se prononce Ararita.
 
 La vertu du septénaire est absolue en magie, car le nombre est décisif en toutes choses ; aussi toutes les religions l'ont-elles consacré dans leurs rites. La septième année chez les Juifs était jubilaire ; le septième jour est consacré au repos et à la prière ; il y a sept sacrements, etc.
 
-Les sept couleurs du prisme, les sept notes de la musique, correspondent aussi aux sept planètes des anciens, c'est-à-dire aux sept cordes de la lyre humaine. Le ciel spirituel n'a jamais changé, et l'astrologie est restée plus invariable que l'astronomie. Les sept planètes, en effet, ne sont autre chose que des symboles hiéroglyphiques du clavier de nos affections. Faire des talismans du Soleil, de la Lune ou de Saturne, c'est attacher magnétiquement sa volonté à des signes qui correspondent aux principales puissances de l'âme ; consacrer quelque chose à Vénus ou à Mercure, c'est magnétiser cette chose dans une intention directe, soit de plaisir, soit de science ou de profit. Les métaux, les animaux, les plantes et les parfums analogues, sont en cela nos auxiliaires. Les sept animaux magiques sont : parmi les oiseaux correspondant au monde divin, le cygne, la chouette, le vautour, la colombe, la cigogne, l'aigle et la huppe ; parmi les poissons correspondant au monde spirituel ou scientifique, le phoque, l'œlurus, le lucius, le […], le mugil, le dauphin, et la sépia ou seiche ; parmi les quadrupèdes correspondant au monde naturel, ce sont le lion, le chat, le loup, le bouc, le singe, le cerf et la taupe. Le sang, la graisse, le foie et le fiel de ces animaux, servent pour les enchantements ; leur cervelle se combine avec les parfums des planètes, et il est reconnu par la pratique des anciens qu'ils possèdent des vertus magnétiques correspondant aux sept influences planétaires.
+Les sept couleurs du prisme, les sept notes de la musique, correspondent aussi aux sept planètes des anciens, c'est-à-dire aux sept cordes de la lyre humaine. Le ciel spirituel n'a jamais changé, et l'astrologie est restée plus invariable que l'astronomie. Les sept planètes, en effet, ne sont autre chose que des symboles hiéroglyphiques du clavier de nos affections. Faire des talismans du Soleil, de la Lune ou de Saturne, c'est attacher magnétiquement sa volonté à des signes qui correspondent aux principales puissances de l'âme ; consacrer quelque chose à Vénus ou à Mercure, c'est magnétiser cette chose dans une intention directe, soit de plaisir, soit de science ou de profit. Les métaux, les animaux, les plantes et les parfums analogues, sont en cela nos auxiliaires. Les sept animaux magiques sont : parmi les oiseaux correspondant au monde divin, le cygne, la chouette, le vautour, la colombe, la cigogne, l'aigle et la huppe ; parmi les poissons correspondant au monde spirituel ou scientifique, le phoque, l'œlurus, le lucius, le thimallus, le mugil, le dauphin, et la sépia ou seiche ; parmi les quadrupèdes correspondant au monde naturel, ce sont le lion, le chat, le loup, le bouc, le singe, le cerf et la taupe. Le sang, la graisse, le foie et le fiel de ces animaux, servent pour les enchantements ; leur cervelle se combine avec les parfums des planètes, et il est reconnu par la pratique des anciens qu'ils possèdent des vertus magnétiques correspondant aux sept influences planétaires.
 
 Les talismans des sept esprits se font soit sur les pierres précieuses, tels que le carbunculus, le cristal, le diamant, l'émeraude, l'agate, le saphir et l'onyx ; soit sur les métaux, comme l'or, l'argent, le fer, le cuivre, le mercure fixé, l'étain et le plomb. Les signes cabalistiques des sept esprits sont : pour le Soleil, un serpent à tête de lion ; pour la Lune, un globe coupé par deux croissants ; pour Mars, un dragon mordant la garde d'une épée ; pour Vénus, un lingam ; pour Mercure, le caducée hermétique et le cynocéphale ; pour Jupiter, le pentagramme flamboyant dans les serres ou au bec d'un aigle ; pour Saturne, un vieillard boiteux ou un serpent enlacé autour de la pierre héliaque. On retrouve tous ces signes sur les pierres gravées des anciens, et particulièrement sur les talismans des époques gnostiques connus sous le nom d'Abraxas. Dans la collection des talismans de Paracelse, Jupiter est représenté par un prêtre en costume ecclésiastique, et dans le tarot il est figuré par un grand hiérophante coiffé de la tiare à trois diadèmes, tenant en main la croix à trois étages, formant le triangle magique et représentant à la fois le sceptre et la clef des trois mondes.
 
@@ -1467,6 +1485,8 @@ Tel est, suivant la cabale, le fondement de toutes les religions et de toutes le
 10. Malchut ou Malkout. — Le Royaume, c'est l'univers, c'est la création tout entière, l'œuvre et le miroir de Dieu, la preuve de la raison suprême, la conséquence formelle qui nous force de remonter aux prémisses virtuelles, l'énigme dont le mot est Dieu, c'est-à-dire : raison suprême et absolue.
 
 Ces dix notions premières attachées aux dix premiers caractères de l'alphabet primitif, signifiant à la fois des principes et des nombres, sont ce que les maîtres de la Cabale appellent les dix Séphiroth.
+
+![6e figure. — Le Tétragramme de Sohar : le nom sacré tracé en vingt-quatre signes couronnés (page 225 de l'édition de 1861)](../Levi-Gravures/dogme-06-tetragramme-sohar.jpg)
 
 Le tétragramme sacré, tracé de cette manière, indique le nombre, la source et le rapport des noms divins. C'est au nom de Iotchavah, écrit avec ces vingt-quatre signes couronnés d'un triple fleuron de lumière, qu'il faut rapporter les vingt-quatre trônes du ciel et les vingt-quatre vieillards couronnés de l'Apocalypse. En Cabale, le principe occulte se nomme le vieillard, et ce principe multiplié et comme reflété dans les causes secondes crée ses images, c'est-à-dire autant de vieillards qu'il y a de conceptions diverses de son unique essence. Ces images, moins parfaites en s'éloignant de leur source, jettent dans les ténèbres un dernier reflet ou une dernière lueur qui représente un vieillard horrible et défiguré : c'est ce qu'on appelle vulgairement le diable. Aussi un initié a-t-il osé dire : « Le diable, c'est Dieu compris par les méchants » ; et un autre, en termes plus étranges, mais non moins énergiques, a ajouté : « Le diable est formé de déchirures de Dieu. » Nous pourrions résumer et expliquer ces assertions si nouvelles en faisant remarquer que, dans le symbolisme même, le démon est un ange tombé du ciel pour avoir voulu usurper la divinité. Ceci appartient au langage allégorique des prophètes et des légendaires. Philosophiquement parlant, le diable est une idée humaine de la divinité surpassée et dépossédée du ciel par le progrès de la science et de la raison. Moloch, Adramelek, Baal, ont été, chez les Orientaux primitifs, les personnifications du dieu unique, déshonorées par des attributs barbares. Le dieu des jansénistes, créant pour l'enfer la majorité des humains et se complaisant aux tortures éternelles de ceux qu'il n'a pas voulu sauver, est une conception encore plus barbare que celle de Moloch : aussi le dieu des jansénistes est-il déjà, pour les chrétiens sages et éclairés, un véritable Satan tombé du ciel.
 
@@ -1702,7 +1722,7 @@ Dans les anciennes écritures antérieures à la captivité, le Tau hébreu a la
 
 ## Chapitre XIII. — La Nécromancie
 
-*XIII — […] N. — Ex ipsis. Mors.*
+*XIII — מ N. — Ex ipsis. Mors.*
 
 Nous avons dit que dans la lumière astrale se conservent les images des personnes et des choses. C'est aussi dans cette lumière qu'on peut évoquer les formes de ceux qui ne sont plus dans notre monde, et c'est par son moyen que s'accomplissent les mystères aussi contestés que réels de la nécromancie.
 
@@ -1750,7 +1770,7 @@ Ce sont des morts, que nous prenons pour des vivants ; ce sont des vampires, que
 
 ## Chapitre XIV. — Les Transmutations
 
-*XIV — […] O. — […]. Sempiternum. Auxilium.*
+*XIV — נ O. — Sphera Lunæ. Sempiternum. Auxilium.*
 
 Saint Augustin doute sérieusement qu'Apulée ait pu être changé en âne par une sorcière de Thessalie. Des théologiens ont disserté longuement sur la transmutation de Nabuchodonosor en bête sauvage. Cela prouve simplement que l'éloquent docteur d'Hippone ignorait les arcanes magiques, et que les théologiens en question n'étaient pas très avancés en exégèse. Nous avons à examiner, dans ce chapitre, des merveilles bien autrement incroyables, et incontestables pourtant. Je veux parler de la lycanthropie ou de la transformation nocturne des hommes en loups, si célèbre dans les veillées de nos campagnes, par les histoires de loups-garous ; histoires si bien avérées, que, pour les expliquer, la science incrédule a recours à des manies furieuses et à des travestissements en animaux. Mais de pareilles hypothèses sont puériles et n'expliquent rien. Cherchons ailleurs le secret des phénomènes observés à ce sujet, et constatons d'abord :
 
@@ -1802,7 +1822,7 @@ On a beaucoup parlé dans le siècle dernier d'un adepte accusé de charlatanism
 
 ## Chapitre XV. — La Magie noire
 
-*XV — […] P. — Samaël. Auxiliator.*
+*XV — ס P. — Samaël. Auxiliator.*
 
 Nous entrons dans la magie noire. Nous allons affronter, jusque dans son sanctuaire, le dieu Noir du Sabbat, le bouc formidable de Mendès. Ici, ceux qui ont peur doivent fermer le livre, et les personnes sujettes aux impressions nerveuses feront bien de se distraire ou de s'abstenir ; mais nous nous sommes imposé une tâche, nous la finirons.
 
@@ -1842,7 +1862,7 @@ Ce qu'il faut exclure du royaume des êtres, c'est l'arbitraire. Rien n'arrive n
 
 ## Chapitre XVI. — Les Envoûtements
 
-*XVI — […] Q. — Fors. Oculis. Vvlc[…].*
+*XVI — ע Q. — Fons. Oculus. Fulgur.*
 
 L'homme qui regarde une femme avec un désir impur profane cette femme, a dit le grand Maître. Ce qu'on veut avec persévérance, on le fait. Toute volonté réelle se confirme par des actes ; toute volonté confirmée par un acte est une action. Toute action est soumise à un jugement, et ce jugement est éternel. — Ce sont là des dogmes et des principes.
 
@@ -2200,6 +2220,10 @@ La transmutation métallique s'opère spirituellement et matériellement par la 
 La médecine occulte n'est que l'exercice de la volonté appliquée à la source même de la vie, à cette lumière astrale dont l'existence est un fait, et dont le mouvement est conforme aux calculs dont l'échelle ascendante et descendante est le grand arcane magique.
 
 Cet arcane universel, dernier et éternel secret de la haute initiation, est représenté dans le Tarot par une jeune fille nue qui ne touche la terre que d'un pied, tient une baguette aimantée de chaque main, et semble courir dans une couronne que supportent un ange, un aigle, un bœuf et un lion. Cette figure est analogue quant au fond des choses au chérub d'Ézéchiel, dont nous donnons la figure, et au symbole indien d'Addhanari, analogue à l'Adonaï d'Ézéchiel, que nous nommons vulgairement Ezéchiel.
+
+![7e figure. — Les Pentacles d'Ézéchiel et de Pythagore : le chérub à quatre têtes dans le double triangle ADONAI, la roue d'Ézéchiel et le pantacle de Pythagore (planche face à la page 333 de l'édition de 1861)](../Levi-Gravures/dogme-07-pentacles-ezechiel.jpg)
+
+![8e figure. — Addha-Nari, grand Pantacle indien, entre le veau bridé et le tigre (planche face à la page 366 de l'édition de 1861)](../Levi-Gravures/dogme-08-addha-nari.jpg)
 
 L'intelligence de cette figure est la clef de toutes les sciences occultes. Les lecteurs de mon livre doivent déjà la comprendre philosophiquement, s'ils se sont un peu familiarisés avec le symbolisme de la cabale. Il nous reste maintenant à réaliser ; ce qui est la seconde et la plus importante opération du grand œuvre. Trouver la pierre philosophale, c'est quelque chose sans doute ; mais comment doit-on la triturer pour en faire la poudre de projection ? Quel est l'usage de la baguette magique ? Quelle est la puissance réelle des noms divins de la cabale ? Les initiés le savent, et les initiables le sauront si, par les indications si multipliées et si précises que nous venons de leur donner, ils découvrent le grand arcane.
 
