@@ -7,7 +7,7 @@
  * un rythme régulier comme un livret dont chaque jour a son propre texte.
  * Cochage conservé par jour : `faits['2026-08-30'] = ['s1','s2']`.
  */
-import { allProgrammes, saveProgramme, deleteProgramme, getProgramme, deleteAlarm } from './store.js';
+import { allProgrammes, saveProgramme, deleteProgramme, getProgramme } from './store.js';
 import { escapeHtml } from './reader.js';
 import { bookOf, state } from './library.js';
 import { armerLecture } from './lecture-validation.js';
@@ -549,9 +549,6 @@ function brancherListe({ mode = 'creer', prog = null } = {}) {
       const p = modeleTrenteJours();
       if (!p) { toast("Le livret n'est pas indexé."); return; }
       await saveProgramme(p);
-      // Le programme porte déjà la prière de Joseph matin, midi et soir, à ses dates :
-      // les anciens rappels quotidiens « Comme Joseph » feraient doublon.
-      for (const id of ['joseph-matin', 'joseph-midi', 'joseph-soir']) await deleteAlarm(id);
       toast(`« ${p.titre} » programmé du 7 octobre au 5 novembre — ${p.seances.length} séances.`);
     } else toast('Ce programme est déjà en place.');
     location.hash = `#/programmes/${ID_TRENTE_JOURS}`;
