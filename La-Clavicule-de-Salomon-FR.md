@@ -7,7 +7,7 @@
 > **Note du traducteur.**
 > La Clavicule de Salomon est le plus fameux et le plus influent de tous les grimoires attribués au roi Salomon — la source dont se réclament directement le Sixième et Septième Livres de Moïse et la plupart des grimoires européens ultérieurs. L'édition ici traduite est celle établie par S. L. MacGregor Mathers (fondateur de l'Ordre hermétique de la Golden Dawn), à partir de plusieurs manuscrits des XVe-XVIIe siècles conservés au British Museum. Document historique et littéraire majeur pour l'étude de l'ésotérisme occidental, fourni à titre documentaire.
 > — Le texte comprend, insérées par l'éditeur pirate L. W. de Laurence dans l'édition de 1914, des annonces publicitaires d'époque pour du « parchemin vierge authentique » vendu par correspondance : elles sont traduites telles quelles, comme curiosité historique de cette édition.
-> — Noms divins et hébraïques conservés tels quels (Adonaï, Tétragrammaton, Shaddaï, etc.) ; les citations bibliques suivent la numérotation des psaumes de la tradition hébraïque/protestante (identique à celle de l'original anglais). Passages illisibles de l'OCR marqués […]. Renvois aux planches et figures gravées de l'édition originale conservés sous la forme *(voir Figure N)*, les gravures elles-mêmes n'étant pas reproductibles en texte.
+> — Noms divins et hébraïques conservés tels quels (Adonaï, Tétragrammaton, Shaddaï, etc.) ; les citations bibliques suivent la numérotation des psaumes de la tradition hébraïque/protestante (identique à celle de l'original anglais). Les renvois *(voir Figure N)* de l'original sont conservés, et les 94 figures gravées de l'édition de 1889 (pentacles des sept planètes, instruments de l'Art, caractères, ainsi que la Planche XV des Alphabets mystiques) sont désormais toutes reproduites dans le texte, recadrées depuis le scan de l'exemplaire de la Wellcome Library (Internet Archive, b24884431). Les deux tables des heures planétaires et des noms magiques des heures, auparavant illisibles dans l'OCR, ont été restituées d'après ce même scan (pages 7-8 de l'original) ; plus aucun passage marqué […] ne subsiste. Les lectures douteuses seraient marquées (?).
 
 ---
 
@@ -66,6 +66,8 @@ Les manuscrits d'après lesquels cet ouvrage est édité sont : Add. MSS. 10 862
 De tous ceux-ci, l'Add. MSS. 10 862 est le plus ancien, sa date se situant vers la fin du seizième siècle ; le Harleian 3981 est probablement du milieu du dix-septième siècle ; les autres sont de date plus tardive.
 
 L'Add. MSS. 10 862 est écrit en latin abrégé et difficile à lire, mais il contient des Chapitres omis dans les autres, ainsi qu'une Introduction importante. Il est plus concis dans sa formulation. Son titre est bref : simplement *La Clavicule de Salomon, traduite de la langue hébraïque en latin*. Une copie exacte de la signature du copiste de ce manuscrit est donnée à la Figure 93.
+
+![Fig. 93 — Signature du copiste de l'Add. MSS. 10862](../Clavicule-Salomon-Gravures/fig-93.jpg)
 
 Les manuscrits Harleian 3981, King's 288 et Sloane 3091 sont semblables et contiennent la même matière, presque dans les mêmes termes ; mais ce dernier manuscrit comporte de nombreuses erreurs de transcription. Ils sont tous en français. Les Conjurations et le texte en sont bien plus développés que dans l'Add. MSS. 10 862 et le Lansdowne 1202. Le titre en est : *La Clavicule de Salomon, Roi des Hébreux, traduite de la langue hébraïque en italien par Abraham Colorno, par ordre de Sa Sérénissime Altesse de Mantoue, et récemment mise en français.* Les Pentacles y sont bien mieux dessinés, à l'encre de couleur, et, dans le cas du Sloane 3091, l'or et l'argent y sont employés.
 
@@ -323,7 +325,32 @@ De plus, je veux te faire comprendre que Dieu a destiné à chacun de nous un Es
 
 ### Tableau des heures planétaires
 
-*[Table des heures planétaires de chaque jour de la semaine (heures du coucher du soleil à minuit, et de minuit au lever du soleil), avec les colonnes Dimanche, Lundi, Mardi, Mercredi, Jeudi, Vendredi, Samedi — grille de cellules illisible dans l'OCR reçu ; contenu non reconstitué pour éviter toute invention. […]]*
+| Dimanche | Lundi | Mardi | Mercredi | Heures du coucher du soleil au coucher du soleil | Heures de minuit à minuit | Jeudi | Vendredi | Samedi |
+|---|---|---|---|---|---|---|---|---|
+| Mercure | Jupiter | Vénus | Saturne | 8 | 1 | Soleil | Lune | Mars |
+| Lune | Mars | Mercure | Jupiter | 9 | 2 | Vénus | Saturne | Soleil |
+| Saturne | Soleil | Lune | Mars | 10 | 3 | Mercure | Jupiter | Vénus |
+| Jupiter | Vénus | Saturne | Soleil | 11 | 4 | Lune | Mars | Mercure |
+| Mars | Mercure | Jupiter | Vénus | 12 | 5 | Saturne | Soleil | Lune |
+| Soleil | Lune | Mars | Mercure | 1 | 6 | Jupiter | Vénus | Saturne |
+| Vénus | Saturne | Soleil | Lune | 2 | 7 | Mars | Mercure | Jupiter |
+| Mercure | Jupiter | Vénus | Saturne | 3 | 8 | Soleil | Lune | Mars |
+| Lune | Mars | Mercure | Jupiter | 4 | 9 | Vénus | Saturne | Soleil |
+| Saturne | Soleil | Lune | Mars | 5 | 10 | Mercure | Jupiter | Vénus |
+| Jupiter | Vénus | Saturne | Soleil | 6 | 11 | Lune | Mars | Mercure |
+| Mars | Mercure | Jupiter | Vénus | 7 | 12 | Saturne | Soleil | Lune |
+| Soleil | Lune | Mars | Mercure | 8 | 1 | Jupiter | Vénus | Saturne |
+| Vénus | Saturne | Soleil | Lune | 9 | 2 | Mars | Mercure | Jupiter |
+| Mercure | Jupiter | Vénus | Saturne | 10 | 3 | Soleil | Lune | Mars |
+| Lune | Mars | Mercure | Jupiter | 11 | 4 | Vénus | Saturne | Soleil |
+| Saturne | Soleil | Lune | Mars | 12 | 5 | Mercure | Jupiter | Vénus |
+| Jupiter | Vénus | Saturne | Soleil | 1 | 6 | Lune | Mars | Mercure |
+| Mars | Mercure | Jupiter | Vénus | 2 | 7 | Saturne | Soleil | Lune |
+| Soleil | Lune | Mars | Mercure | 3 | 8 | Jupiter | Vénus | Saturne |
+| Vénus | Saturne | Soleil | Lune | 4 | 9 | Mars | Mercure | Jupiter |
+| Mercure | Jupiter | Vénus | Saturne | 5 | 10 | Soleil | Lune | Mars |
+| Lune | Mars | Mercure | Jupiter | 6 | 11 | Vénus | Saturne | Soleil |
+| Saturne | Soleil | Lune | Mars | 7 | 12 | Mercure | Jupiter | Vénus |
 
 ### Tableau des noms magiques des heures et des anges qui les gouvernent
 
@@ -336,11 +363,25 @@ De plus, je veux te faire comprendre que Dieu a destiné à chacun de nous un Es
 | 3 | Nasnia | Cassiel | Michael | Gabriel | Zamael | Raphael | Sachiel | Anael |
 | 4 | Salla | Sachiel | Anael | Cassiel | Michael | Gabriel | Zamael | Raphael |
 | 5 | Sadedali | Zamael | Raphael | Sachiel | Anael | Cassiel | Michael | Gabriel |
-| 6 | Tharaur | Michael | Gabriel | Zamael | Raphael | Sachiel | Anael | Cassiel |
+| 6 | Thamur | Michael | Gabriel | Zamael | Raphael | Sachiel | Anael | Cassiel |
 | 7 | Ourer | Anael | Cassiel | Michael | Gabriel | Zamael | Raphael | Sachiel |
-| 8 | Thaine | Raphael | Sachiel | Anael | Cassiel | Michael | Gabriel | Zamael |
+| 8 | Thainé | Raphael | Sachiel | Anael | Cassiel | Michael | Gabriel | Zamael |
 | 9 | Neron | Gabriel | Zamael | Raphael | Sachiel | Anael | Cassiel | Michael |
 | 10 | Yayon | Cassiel | Michael | Gabriel | Zamael | Raphael | Sachiel | Anael |
+| 11 | Abai | Sachiel | Anael | Cassiel | Michael | Gabriel | Zamael | Raphael |
+| 12 | Nathalon | Zamael | Raphael | Sachiel | Anael | Cassiel | Michael | Gabriel |
+| 1 | Beron | Michael | Gabriel | Zamael | Raphael | Sachiel | Anael | Cassiel |
+| 2 | Barol | Anael | Cassiel | Michael | Gabriel | Zamael | Raphael | Sachiel |
+| 3 | Thanu | Raphael | Sachiel | Anael | Cassiel | Michael | Gabriel | Zamael |
+| 4 | Athor | Gabriel | Zamael | Raphael | Sachiel | Anael | Cassiel | Michael |
+| 5 | Mathon | Cassiel | Michael | Gabriel | Zamael | Raphael | Sachiel | Anael |
+| 6 | Rana | Sachiel | Anael | Cassiel | Michael | Gabriel | Zamael | Raphael |
+| 7 | Netos | Zamael | Raphael | Sachiel | Anael | Cassiel | Michael | Gabriel |
+| 8 | Tafrac | Michael | Gabriel | Zamael | Raphael | Sachiel | Anael | Cassiel |
+| 9 | Sassur | Anael | Cassiel | Michael | Gabriel | Zamael | Raphael | Sachiel |
+| 10 | Agla | Raphael | Sachiel | Anael | Cassiel | Michael | Gabriel | Zamael |
+| 11 | Cäerra | Gabriel | Zamael | Raphael | Sachiel | Anael | Cassiel | Michael |
+| 12 | Salam | Cassiel | Michael | Gabriel | Zamael | Raphael | Sachiel | Anael |
 
 ## TABLE DES HEURES PLANÉTAIRES
 
@@ -354,11 +395,9 @@ Table des Archanges, Anges, Métaux, Jours de la semaine et Couleurs attribués 
 | Métal | Plomb | Étain | Fer | Or | Cuivre | Mercure | Argent |
 | Couleur | Noir | Bleu | Rouge | Jaune | Vert | Pourpre ou couleurs mêlées | Blanc |
 
-*[Table des Noms magiques des Heures et des Anges qui les régissent, chaque heure numérotée de 1 à 12 pour le jour et pour la nuit, disposition identique à l'original — table de correspondances, non reproduite ligne à ligne ici par souci de clarté ; consulter l'original pour le détail complet des 24 noms d'heures et de leurs anges régents.]*
-
 ### Note de de Laurence
 
-Ces tables ont été rassemblées et comparées à divers exemplaires, tant manuscrits qu'imprimés. Voici comment les employer : supposons que l'étudiant veuille connaître les propriétés de l'heure de midi à une heure de l'après-midi, un mardi ; qu'il regarde dans la « Table des Heures planétaires », et ayant trouvé l'heure marquée 1 dans la colonne intitulée « Heures de minuit à minuit », il verra dans la colonne « Heures du coucher du soleil au coucher du soleil », sur la même ligne, le chiffre 8, montrant que c'est la huitième heure du jour ; et dans la colonne intitulée Mardi, le nom Mars, montrant qu'elle est sous la domination de la planète Mars. En consultant la « Table des Noms magiques des Heures », etc., il trouvera sous le numéro 1 le nom Beron, et dans la colonne « Mardi » le nom de l'ange Zamaël en regard, sur la même ligne, montrant que le régent de l'heure est l'Ange Zamaël, et que son Nom magique est Beron. En outre, en se reportant à la troisième Table, il verra que le mardi est sous la règle de la planète Mars, dont l'Archange est Khamaël, l'Ange Zamaël, le Métal le Fer, et la Couleur le Rouge. De même on trouvera que l'heure de dix à onze heures du soir, le samedi, est la sixième heure de la nuit, sous la domination du Soleil, que son Nom magique est Cderra, et que l'Ange Michaël la régit ; tandis que le samedi lui-même est sous la domination de l'Archange Tzaphqiel, de l'Ange Cassiel, de la Planète Saturne, et que le Métal Plomb et la Couleur Noire lui sont applicables.
+Ces tables ont été rassemblées et comparées à divers exemplaires, tant manuscrits qu'imprimés. Voici comment les employer : supposons que l'étudiant veuille connaître les propriétés de l'heure de midi à une heure de l'après-midi, un mardi ; qu'il regarde dans la « Table des Heures planétaires », et ayant trouvé l'heure marquée 1 dans la colonne intitulée « Heures de minuit à minuit », il verra dans la colonne « Heures du coucher du soleil au coucher du soleil », sur la même ligne, le chiffre 8, montrant que c'est la huitième heure du jour ; et dans la colonne intitulée Mardi, le nom Mars, montrant qu'elle est sous la domination de la planète Mars. En consultant la « Table des Noms magiques des Heures », etc., il trouvera sous le numéro 1 le nom Beron, et dans la colonne « Mardi » le nom de l'ange Zamaël en regard, sur la même ligne, montrant que le régent de l'heure est l'Ange Zamaël, et que son Nom magique est Beron. En outre, en se reportant à la troisième Table, il verra que le mardi est sous la règle de la planète Mars, dont l'Archange est Khamaël, l'Ange Zamaël, le Métal le Fer, et la Couleur le Rouge. De même on trouvera que l'heure de dix à onze heures du soir, le samedi, est la sixième heure de la nuit, sous la domination du Soleil, que son Nom magique est Cäerra, et que l'Ange Michaël la régit ; tandis que le samedi lui-même est sous la domination de l'Archange Tzaphqiel, de l'Ange Cassiel, de la Planète Saturne, et que le Métal Plomb et la Couleur Noire lui sont applicables.
 
 Le texte qui suit est tiré des manuscrits suivants, collationnés et comparés entre eux : Sloane MSS. 1307 ; Sloane MSS. 3091 ; Harleian MSS. 3981 ; Add. MSS. 10862 ; King's MSS. 288 ; Lansdowne MSS. 1202.
 
@@ -493,6 +532,8 @@ Au Sud, AGLA, Agla ;
 Et au Nord, ADNI, Adonaï.
 
 Entre les deux Carrés, le Nom Tétragrammaton doit être écrit de la même manière que le montre la planche. *(Voir Figure 2.)*
+
+![Fig. 2 — Le Cercle magique et ses quatre encensoirs](../Clavicule-Salomon-Gravures/fig-02.jpg)
 
 En construisant le Cercle, le Maître devrait réciter les Psaumes suivants : Psaume II ; Psaume LIV ; Psaume CXIII ; Psaume LXVII ; Psaume XLVII ; Psaume LXVIII.
 
@@ -792,6 +833,8 @@ Les Pentacles étant achevés et complétés, prends un tissu de soie très fine
 
 (Pour une forme commode de Cercle qui peut être utilisée pour préparer les Instruments et autres choses de même nature, ainsi que pour consacrer les Pentacles, voir la Figure 3.)
 
+![Fig. 3 — Cercle pour la consécration des Pentacles et autres instruments](../Clavicule-Salomon-Gravures/fig-03.jpg)
+
 Après cela tu réciteras l'Oraison suivante :
 
 **L'ORAISON**
@@ -838,6 +881,8 @@ Car si tu ne tiens pas compte de ces choses, tu n'accompliras ni ce que tu dési
 
 Prends un Tamis, après avoir brûlé une demi-cuillerée à café d'Encens du Temple, et suspends-le par un morceau de corde ayant servi à pendre un homme, laquelle devrait être attachée autour de la circonférence du bord. Dans le bord, écris avec du sang, dans les quatre divisions de celui-ci, les caractères donnés en Figure 4. Après cela, prends un bassin de laiton parfaitement propre que tu rempliras d'eau de fontaine, et ayant prononcé ces paroles : *Dies mies yes-chet bene done fet Donnima Metemauz*, fais tourner le tamis de ta main gauche, et en même temps tourne de ta main droite l'eau du bassin en sens contraire, en la remuant avec un brin de laurier vert. Quand l'eau devient calme et que le tamis ne tourne plus, regarde fixement dans l'eau, et tu verras la forme de celui qui a commis le vol ; et afin de mieux le reconnaître, tu le marqueras en quelque partie de son visage avec l'Épée magique de l'Art ; car le signe que tu auras ainsi tracé dans l'eau se retrouvera véritablement par la suite sur sa propre personne.
 
+![Fig. 4 — Caractères à écrire avec du sang sur le bord du tamis](../Clavicule-Salomon-Gravures/fig-04.jpg)
+
 **LA MANIÈRE DE FAIRE TOURNER LE TAMIS, AFIN DE SAVOIR QUI A COMMIS LE VOL.**
 
 Prends un Tamis et pique dans l'extérieur du bord les pointes ouvertes d'une paire de ciseaux, et ayant posé les anneaux desdits ciseaux ouverts sur les ongles des pouces de deux personnes, que l'une d'elles dise la Prière suivante :
@@ -878,6 +923,10 @@ Mais si, au contraire, tu laisses échapper l'une de ces choses, ou si tu les m�
 
 Fais une petite image de cire jaune, en forme d'homme, au mois de janvier et au jour et à l'heure de Saturne, et en ce moment écris avec une aiguille au-dessus du sommet de sa tête et sur son crâne que tu auras adroitement soulevé, le caractère suivant. (Voir Figure 5.) Après quoi tu remettras le crâne en place. Tu écriras ensuite sur une petite bande de peau de grenouille ou de crapaud que tu auras tué, les mots et caractères suivants. (Voir Figure 6.) Tu iras alors suspendre ladite figure par l'un de tes cheveux à la voûte d'une caverne, à l'heure de minuit, et brûlant de l'Encens du Temple au-dessous d'elle, tu diras :
 
+![Fig. 5 — Caractère à écrire sur la tête de l'image de cire](../Clavicule-Salomon-Gravures/fig-05.jpg)
+
+![Fig. 6 — Mots et caractères à écrire sur la bande de peau de grenouille](../Clavicule-Salomon-Gravures/fig-06.jpg)
+
 Métatron, Melekh, Beroth, Noth, Venibbeth, Mach, et vous tous, je vous conjure, ô Figure de cire, par le Dieu Vivant, que par la vertu de ces Caractères et de ces mots, tu me rendes invisible, où que je te porte avec moi. Amen.
 
 Et après avoir brûlé à nouveau de l'Encens du Temple au-dessous d'elle, tu l'enterreras au même endroit dans une petite boîte de sapin, et chaque fois que tu désireras passer ou entrer en quelque lieu sans être vu, tu diras ces mots, portant ladite figure dans ta poche gauche :
@@ -890,9 +939,13 @@ Ensuite tu la rapporteras soigneusement au lieu susdit et la couvriras de terre 
 
 Prends un bâton de sureau vert, dont tu nettoieras la moelle aux deux extrémités. À chaque bout, place une bande de parchemin de peau de lièvre, ayant écrit dessus avec le sang d'une poule noire le caractère et le mot suivants. (Voir Figure 7.) Ayant fait deux de ces bandes, place-en une à chaque bout du bâton et referme les ouvertures avec de la moelle ; ensuite, un vendredi du mois de février, tu fumigeras ledit bâton d'un encens convenable trois fois dans l'air, et l'ayant retiré, tu l'enterreras sous un sureau. Ensuite tu l'exposeras sur le chemin par lequel le chasseur doit passer, et une fois qu'il l'aura franchi, il ne doit pas espérer tuer aucun gibier ce jour-là. Si tu désires une seconde fois lui jeter un sort de même manière, il te suffit d'exposer de nouveau le bâton sur son chemin ; mais prends soin de le réenterrer sous un sureau, afin de pouvoir l'en retirer chaque fois que tu en auras besoin, et de le reprendre chaque fois dès que le chasseur sera passé.
 
+![Fig. 7 — Caractère et mot à écrire sur les bandes de parchemin de peau de lièvre](../Clavicule-Salomon-Gravures/fig-07.jpg)
+
 ### Chapitre XII. — Comment faire les jarretières magiques
 
 Prends assez de peau de cerf pour faire deux Jarretières tubulaires creuses, mais avant de les coudre tu écriras sur le côté de la peau qui touchait la chair les mots et caractères montrés en Figure 8, avec le sang d'un lièvre tué le 25 juin, et ayant rempli lesdites Jarretières d'armoise verte cueillie également le 25 juin avant le lever du soleil, tu placeras aux deux bouts de chacune l'œil du poisson appelé barbeau ; et quand tu voudras t'en servir, tu te lèveras avant le lever du soleil et les laveras dans un ruisseau d'eau courante, et les placeras l'une sur chaque jambe au-dessus du genou. Après cela tu prendras une courte baguette de chêne vert coupée le même 25 juin, te tourneras dans la direction où tu désires aller, écriras sur le sol le nom du lieu, et commençant ton voyage tu le trouveras accompli en quelques jours et sans fatigue. Quand tu voudras t'arrêter, tu n'as qu'à dire *Amech* et à battre l'air de ladite baguette, et aussitôt tu seras sur terre ferme.
+
+![Fig. 8 — Mots et caractères à écrire sur les Jarretières](../Clavicule-Salomon-Gravures/fig-08.jpg)
 
 ### Chapitre XIII. — Comment faire le tapis magique propre à interroger les Intelligences, afin d'obtenir une réponse sur quelque matière que l'on veuille apprendre
 
@@ -906,6 +959,8 @@ Après cela tu le plieras, en disant les paroles suivantes : *Recabustira, Cabus
 
 Quand tu désireras faire tes interrogations, choisis la nuit de pleine ou de nouvelle lune, et depuis minuit jusqu'au point du jour. Tu te transporteras au lieu désigné si c'est dans le but de découvrir un trésor ; sinon, tout lieu conviendra pourvu qu'il soit propre et pur. Ayant eu soin, la veille au soir, d'écrire sur une bande de parchemin vierge teinte en bleu azur, avec une plume faite d'une plume de colombe, ce Caractère et ce Nom (voir Figure 9) ; prenant ton tapis, tu t'en couvriras la tête et le corps, et prenant l'encensoir, avec du feu nouveau dedans, tu le placeras en ou sur le lieu convenable, et y jetteras un peu d'encens. Puis tu te prosterneras sur le sol, la face vers la terre, avant que l'encens ne commence à fumer, gardant le feu de celui-ci sous le tapis, tenant ta baguette droite, contre laquelle reposer ton menton ; tu tiendras de ta main droite ladite bande de parchemin contre ton front, et tu diras les paroles suivantes :
 
+![Fig. 9 — Caractère et Nom à écrire sur la bande de parchemin bleu azur](../Clavicule-Salomon-Gravures/fig-09.jpg)
+
 Vegale, Hamicata, Umsa, Terata, Yeh, Dah, Ma, Baxasoxa, Un, Horah, Himesere ; ô Dieu le Vaste, envoie-moi l'inspiration de Ta Lumière, fais-moi découvrir la chose secrète que je Te demande, quelle qu'elle soit, fais-moi la rechercher par l'aide de Tes saints Ministres Raziel, Tzaphniel, Matmoniel ; voici, Tu as désiré la vérité dans le jeune homme, et dans la chose cachée Tu me feras connaître la sagesse. Recabustira, Cabustira, Bustira, Tira, Ra, A, Karkahita, Kahita, Hita, Ta.
 
 Et tu entendras distinctement la réponse que tu auras cherchée.
@@ -917,6 +972,8 @@ La Terre étant habitée, comme je te l'ai déjà dit, par un grand nombre d'Êt
 **LA MANIÈRE D'ACCOMPLIR L'OPÉRATION.**
 
 Un dimanche avant le lever du soleil, entre le 10 juillet et le 20 août, quand la lune est dans le Signe du Lion, tu iras au lieu où tu sauras, soit par interrogation des Intelligences, soit autrement, qu'il y a un trésor ; là tu décriras un Cercle de dimension suffisante avec l'Épée de l'Art magique pour y ouvrir la terre, autant que la nature du sol le permettra ; trois fois pendant le jour tu l'encenseras de l'encens propre au jour, après quoi, étant vêtu du vêtement propre à l'Opération, tu suspendras d'une manière quelconque, par un dispositif, immédiatement au-dessus de l'ouverture, une lampe dont l'huile devrait être mêlée à la graisse d'un homme mort au mois de juillet, et dont la mèche devrait être faite de l'étoffe dans laquelle il a été enseveli. L'ayant allumée d'un feu nouveau, tu fortifieras les travailleurs d'une ceinture de peau de bouc nouvellement tué, sur laquelle seront écrits avec le sang de l'homme mort dont tu auras pris la graisse ces mots et caractères (voir Figure 10) ; et tu les mettras au travail en sécurité, les avertissant de ne point du tout s'inquiéter des Spectres qu'ils verront, mais de travailler hardiment. Au cas où ils ne pourraient achever l'ouvrage en un seul jour, chaque fois qu'ils devront le quitter tu les feras mettre une couverture de bois sur l'ouverture, et sur la couverture environ six pouces de terre ; et ainsi continueras-tu jusqu'à la fin, étant tout le temps présent dans le vêtement de l'Art, et avec l'Épée Magique, durant l'opération. Après quoi tu réciteras cette prière :
+
+![Fig. 10 — Mots et caractères à écrire sur la ceinture de peau de bouc](../Clavicule-Salomon-Gravures/fig-10.jpg)
 
 **PRIÈRE.**
 
@@ -1036,13 +1093,19 @@ Six Pentacles consacrés à la Lune = Argent.
 
 **Note de l'éditeur sur la Figure 1. — La Figure Mystique de Salomon.** — Elle n'est donnée que dans les deux manuscrits Lansdowne 1202 et 1203. Elle fut donnée par Lévi dans son « Dogme et Rituel de la Haute Magie », et par Tycho Brahé dans son « Calendarium Naturale Magicum », mais dans chaque cas sans les mots et lettres hébraïques, probablement parce qu'ils étaient si défigurés par des copistes illettrés qu'ils en devenaient méconnaissables. Après beaucoup de travail et d'étude de la figure, je crois que les mots dans le corps du symbole sont destinés aux Dix Sephiroth disposées en forme de l'Arbre de Vie, avec le Nom de Salomon à droite et à gauche ; tandis que les caractères environnants sont destinés aux vingt-deux lettres de l'Alphabet hébreu. Je les ai donc ainsi restaurés. Cette Figure forme, dans chaque cas, le frontispice du manuscrit auquel il est fait référence.
 
+![Fig. 1 — La Figure Mystique de Salomon](../Clavicule-Salomon-Gravures/fig-01.jpg)
+
 **SATURNE.**
 
 *Figure 11. — Le Premier Pentacle de Saturne.* — Ce Pentacle est d'une grande valeur et utilité pour frapper de terreur les Esprits. C'est pourquoi, sur simple présentation, ils se soumettent, et s'agenouillant sur la terre devant lui, ils obéissent.
 
+![Fig. 11 — Le Premier Pentacle de Saturne](../Clavicule-Salomon-Gravures/fig-11.jpg)
+
 **Note de l'éditeur.** — Les Lettres hébraïques à l'intérieur du carré sont les quatre grands Noms de Dieu qui s'écrivent avec quatre lettres : IHVH, Yod, He, Vau, He ; ADNI, Adonaï ; IIAI, Yiaï (ce Nom a la même valeur numérique en hébreu que le Nom El) ; et AHIH, Eheieh. Le verset hébreu qui l'entoure est tiré du Psaume 72, verset 9 : « Les Éthiopiens s'agenouilleront devant Lui, Ses ennemis lécheront la poussière. »
 
 *Figure 12. — Le Second Pentacle de Saturne.* — Ce Pentacle est d'une grande valeur contre les adversaires ; et d'un usage particulier pour réprimer l'orgueil des Esprits.
+
+![Fig. 12 — Le Second Pentacle de Saturne](../Clavicule-Salomon-Gravures/fig-12.jpg)
 
 **Note de l'éditeur.** — Voici le célèbre :
 
@@ -1058,21 +1121,31 @@ la forme la plus parfaite qui existe de double acrostiche, pour ce qui est de la
 
 *Figure 13. — Le Troisième Pentacle de Saturne.* — Celui-ci devrait être fait à l'intérieur du Cercle Magique, et il est bon pour un usage nocturne quand tu invoques les Esprits de la nature de Saturne.
 
+![Fig. 13 — Le Troisième Pentacle de Saturne](../Clavicule-Salomon-Gravures/fig-13.jpg)
+
 **Note de l'éditeur.** — Les caractères aux extrémités des rayons de la Roue Mystique sont des Caractères Magiques de Saturne. L'entourant sont les Noms des Anges : Omellel, Anachiel, Arauchiah, et Anazachia, écrits en hébreu.
 
 *Figure 14. — Le Quatrième Pentacle de Saturne.* — Ce Pentacle sert principalement à exécuter toutes les expériences et opérations de ruine, de destruction et de mort. Et quand il est fait en pleine perfection, il sert aussi pour les Esprits qui apportent des nouvelles, quand tu les invoques du côté du Sud.
+
+![Fig. 14 — Le Quatrième Pentacle de Saturne](../Clavicule-Salomon-Gravures/fig-14.jpg)
 
 **Note de l'éditeur.** — Les mots hébreux autour des côtés du triangle sont tirés du Deutéronome 6, 4 : « Écoute, Israël, IHVH Elohénou est IHVH Ehad. » Le verset environnant est tiré du Psaume 109, verset 18 : « Comme il s'est vêtu de malédiction ainsi que d'un vêtement, qu'elle entre comme de l'eau dans ses entrailles, et comme de l'huile dans ses os. » Au centre du Pentacle est la lettre mystique Yod.
 
 *Figure 15. — Le Cinquième Pentacle de Saturne.* — Ce Pentacle défend ceux qui invoquent les Esprits de Saturne pendant la nuit, et chasse les Esprits qui gardent les trésors.
 
+![Fig. 15 — Le Cinquième Pentacle de Saturne](../Clavicule-Salomon-Gravures/fig-15.jpg)
+
 **Note de l'éditeur.** — Les lettres hébraïques dans les angles de la Croix sont celles du Nom IHVH. Celles dans les Angles du Carré forment ALVH, Eloah. Autour des quatre côtés du Carré sont les Noms des Anges : Arehanah, Rakhaniel, Roelhaïphar, et Noaphiel. Le verset est : « Un Dieu Grand, Puissant et Terrible. » — Deutéronome 10, 17.
 
 *Figure 16. — Le Sixième Pentacle de Saturne.* — Autour de ce Pentacle chaque Nom est symbolisé comme il convient. La personne contre qui tu le prononceras sera possédée par des Démons.
 
+![Fig. 16 — Le Sixième Pentacle de Saturne](../Clavicule-Salomon-Gravures/fig-16.jpg)
+
 **Note de l'éditeur.** — Il est formé de Caractères Mystiques de Saturne. Autour est écrit en hébreu : « Établis un méchant pour dominer sur lui, et que Satan se tienne à sa droite. »
 
 *Figure 17. — Le Septième et Dernier Pentacle de Saturne.* — Ce Pentacle est propre à exciter des tremblements de terre, vu que la puissance de chaque ordre d'Anges ici invoqué suffit à faire trembler l'Univers entier.
+
+![Fig. 17 — Le Septième et Dernier Pentacle de Saturne](../Clavicule-Salomon-Gravures/fig-17.jpg)
 
 **Note de l'éditeur.** — À l'intérieur du Pentacle sont les Noms des Neuf Ordres d'Anges, ceux de six d'entre eux en Caractères hébreux ordinaires, et le reste dans les lettres connues sous le nom de « Passage du Fleuve ». Ces Neuf Ordres sont : 1, Chaioth Ha-Qadesch, Saintes Créatures Vivantes ; 2, Auphanim, Roues ; 3, Aralim, Trônes ; 4, Chaschmalim, Brillants ; 5, Séraphins, Ardents ; 6, Melakim, Rois ; 7, Elohim, Dieux ; 8, Bene Elohim, Fils des Elohim ; 9, Kerubim, Kéroubim. Le verset est tiré du Psaume 18, verset 7 : « Alors la terre fut ébranlée et trembla, les fondements des montagnes aussi furent remués et ébranlés, parce qu'Il était courroucé. »
 
@@ -1080,31 +1153,44 @@ la forme la plus parfaite qui existe de double acrostiche, pour ce qui est de la
 
 *Figure 18. — Le Premier Pentacle de Jupiter.* — Celui-ci sert à invoquer les Esprits de Jupiter, et particulièrement ceux dont les Noms sont écrits autour du Pentacle, parmi lesquels Parasiel est le Seigneur et Maître des Trésors, et enseigne comment devenir possesseur des lieux où ils se trouvent.
 
+![Fig. 18 — Le Premier Pentacle de Jupiter](../Clavicule-Salomon-Gravures/fig-18.jpg)
+
 **Note de l'éditeur.** — Ce Pentacle est composé de Caractères Mystiques de Jupiter. Autour sont les Noms des Anges : Netoniel, Devachiah, Tzedeqiah, et Parasiel, écrits en hébreu.
 
 *Figure 19. — Le Second Pentacle de Jupiter.* — Celui-ci est propre à acquérir gloire, honneurs, dignités, richesses, et toutes sortes de biens, ainsi qu'une grande tranquillité d'esprit ; aussi pour découvrir des Trésors et chasser les Esprits qui y président. Il devrait être écrit sur Parchemin Vierge, avec la plume de l'hirondelle et le sang du hibou effraie.
+
+![Fig. 19 — Le Second Pentacle de Jupiter](../Clavicule-Salomon-Gravures/fig-19.jpg)
 
 **Note de l'éditeur.** — Au centre de l'Hexagramme sont les lettres du Nom AHIH, Eheieh ; dans les angles supérieur et inférieur de celui-ci, celles du Nom AB, le Père ; dans les angles restants celles du Nom IHVH. Je crois que les lettres à l'extérieur de l'Hexagramme, dans les angles rentrants, sont destinées aux deux premiers mots du Verset, tiré du Psaume 112, verset 3 : « L'abondance et la richesse sont dans sa maison, et sa justice demeure à jamais. »
 
 *Figure 20. — Le Troisième Pentacle de Jupiter.* — Celui-ci défend et protège ceux qui invoquent et font venir les Esprits. Quand ils apparaissent, montre-leur ce Pentacle et ils obéiront immédiatement.
 
+![Fig. 20 — Le Troisième Pentacle de Jupiter](../Clavicule-Salomon-Gravures/fig-20.jpg)
+
 **Note de l'éditeur.** — Dans le coin supérieur gauche est le Sceau Magique de Jupiter avec les lettres du Nom IHVH. Dans les autres sont le Sceau de l'Intelligence de Jupiter, et les Noms Adonaï et IHVH. Autour est le Verset tiré du Psaume 125, verset 1 : « Cantique des degrés. Ceux qui se confient en IHVH seront comme la montagne de Sion, qui ne peut être ébranlée, mais qui demeure à jamais. »
 
-*[Suivent dans l'original les Planches IV et V, gravures des pentacles, non reproductibles en texte.]*
 
 *Figure 21. — Le Quatrième Pentacle de Jupiter.* — Il sert à acquérir richesse et honneur, et à posséder beaucoup de biens. Son Ange est Bariel. Il devrait être gravé sur argent au jour et à l'heure de Jupiter quand celui-ci est dans le Signe du Cancer.
+
+![Fig. 21 — Le Quatrième Pentacle de Jupiter](../Clavicule-Salomon-Gravures/fig-21.jpg)
 
 **Note de l'éditeur.** — Au-dessus du Sceau Magique est le Nom IH, Iah. Au-dessous sont les Noms des Anges Adoniel et Bariel, les lettres de ce dernier étant disposées autour d'un carré de quatre compartiments. Autour est le Verset tiré du Psaume 112, verset 3 : « L'abondance et la richesse sont dans sa maison, et sa justice demeure à jamais. »
 
 *Figure 22. — Le Cinquième Pentacle de Jupiter.* — Celui-ci a un grand pouvoir. Il sert aux visions assurées. Jacob, armé de ce Pentacle, contempla l'échelle qui atteignait le ciel.
 
+![Fig. 22 — Le Cinquième Pentacle de Jupiter](../Clavicule-Salomon-Gravures/fig-22.jpg)
+
 **Note de l'éditeur.** — Les lettres hébraïques à l'intérieur du Pentacle sont tirées des cinq derniers mots du verset qui l'entoure, dont chacun contient cinq lettres. Celles-ci sont ensuite recombinées de façon à former certains Noms Mystiques. Le verset est tiré d'Ézéchiel 1, 1 : « Comme j'étais parmi les captifs près du fleuve du Kébar, les cieux s'ouvrirent, et je vis des visions d'Elohim. » À mon avis, le verset ne devrait consister qu'en ses cinq derniers mots, auquel cas l'anachronisme de Jacob usant d'un Pentacle portant une phrase d'Ézéchiel n'existerait plus.
 
 *Figure 23. — Le Sixième Pentacle de Jupiter.* — Il sert à la protection contre tous les dangers terrestres, en le regardant chaque jour dévotement, et en répétant le verset qui l'entoure. « Ainsi ne périras-tu jamais. »
 
+![Fig. 23 — Le Sixième Pentacle de Jupiter](../Clavicule-Salomon-Gravures/fig-23.jpg)
+
 **Note de l'éditeur.** — Les quatre Noms sur les Bras de la Croix sont : Séraph, Kerub, Ariel, et Tharsis ; les quatre régents des Éléments. Le verset est tiré du Psaume 22, versets 16-17 : « Ils ont percé mes mains et mes pieds, je pourrais compter tous mes os. »
 
 *Figure 24. — Le Septième et Dernier Pentacle de Jupiter.* — Il a un grand pouvoir contre la pauvreté, si tu le considères avec dévotion, en répétant le verset. Il sert en outre à chasser les Esprits qui gardent les trésors, et à les découvrir.
+
+![Fig. 24 — Le Septième et Dernier Pentacle de Jupiter](../Clavicule-Salomon-Gravures/fig-24.jpg)
 
 **Note de l'éditeur.** — Caractères Mystiques de Jupiter avec le verset : « Relevant le pauvre de la poussière, et élevant l'indigent du fumier, pour le faire asseoir avec les princes, avec les princes de son peuple. » — Psaume 113, verset 7.
 
@@ -1112,29 +1198,43 @@ la forme la plus parfaite qui existe de double acrostiche, pour ce qui est de la
 
 *Figure 25. — Le Premier Pentacle de Mars.* — Il est propre à invoquer les Esprits de la Nature de Mars, spécialement ceux qui sont inscrits dans le Pentacle.
 
+![Fig. 25 — Le Premier Pentacle de Mars](../Clavicule-Salomon-Gravures/fig-25.jpg)
+
 **Note de l'éditeur.** — Caractères Mystiques de Mars, et les Noms des quatre Anges : Madimiel, Bartzachiah, Eschiel, et Ithuriel, écrits en hébreu autour du Pentacle.
 
 *Figure 26. — Le Second Pentacle de Mars.* — Ce Pentacle sert avec grand succès contre toutes sortes de maladies, si on l'applique sur la partie affligée.
+
+![Fig. 26 — Le Second Pentacle de Mars](../Clavicule-Salomon-Gravures/fig-26.jpg)
 
 **Note de l'éditeur.** — La lettre He, dans les angles de l'Hexagramme. À l'intérieur, les Noms IHVH, IHShVH Yeheshuah (le Nom hébreu mystique pour Josué ou Jésus, formé de l'IHVH ordinaire avec la lettre Sh placée dedans comme emblème de l'Esprit), et Elohim. Autour est la phrase de Jean 1, 4 : « En Lui était la vie, et la vie était la lumière des hommes. » Ceci peut être avancé comme argument de la plus grande antiquité des premiers versets mystiques de l'Évangile de saint Jean.
 
 *Figure 27. — Le Troisième Pentacle de Mars.* — Il est d'une grande valeur pour exciter la guerre, la colère, la discorde et l'hostilité ; aussi pour résister aux ennemis, et frapper de terreur les Esprits rebelles ; les Noms du Dieu Tout-Puissant y sont expressément marqués.
 
+![Fig. 27 — Le Troisième Pentacle de Mars](../Clavicule-Salomon-Gravures/fig-27.jpg)
+
 **Note de l'éditeur.** — Les lettres des Noms Eloah et Shaddaï. Au Centre est la grande lettre Vau, la signature du Microprosope Qabalistique. Autour est le verset du Psaume 77, verset 13 : « Quel Dieu est aussi grand que notre Elohim ? »
 
 *Figure 28. — Le Quatrième Pentacle de Mars.* — Il est d'une grande vertu et puissance à la guerre, c'est pourquoi sans doute il te donnera la victoire.
+
+![Fig. 28 — Le Quatrième Pentacle de Mars](../Clavicule-Salomon-Gravures/fig-28.jpg)
 
 **Note de l'éditeur.** — Au Centre est le grand Nom Agla ; à droite et à gauche, les lettres du Nom IHVH ; au-dessus et au-dessous, El. Autour est le verset du Psaume 110, verset 5 : « Le Seigneur, à ta droite, frappera des rois au jour de Sa colère. »
 
 *Figure 29. — Le Cinquième Pentacle de Mars.* — Écris ce Pentacle sur Parchemin Vierge, car il est terrible pour les Démons, et à sa vue et à son aspect ils t'obéiront, car ils ne peuvent résister à sa présence.
 
+![Fig. 29 — Le Cinquième Pentacle de Mars](../Clavicule-Salomon-Gravures/fig-29.jpg)
+
 **Note de l'éditeur.** — Autour de la figure du Scorpion est le mot HVL. Le verset est tiré du Psaume 91, verset 13 : « Tu marcheras sur le lion et la vipère, tu fouleras aux pieds le lionceau et le dragon. »
 
 *Figure 30. — Le Sixième Pentacle de Mars.* — Il a une si grande vertu que, si tu en es armé et que tu sois attaqué par quelqu'un, tu ne seras ni blessé ni atteint quand tu combattras avec lui, et ses propres armes se retourneront contre lui.
 
+![Fig. 30 — Le Sixième Pentacle de Mars](../Clavicule-Salomon-Gravures/fig-30.jpg)
+
 **Note de l'éditeur.** — Autour des huit pointes des rayons du Pentacle sont les mots « Elohim qeber, Elohim a couvert (ou protégé) », écrits dans l'Alphabet Secret de Malachim, ou l'écriture des Anges. Le verset est tiré du Psaume 37, verset 15 : « Leur épée entrera dans leur propre cœur, et leur arc sera brisé. »
 
 *Figure 31. — Le Septième et Dernier Pentacle de Mars.* — Écris-le sur Papier de Parchemin Vierge avec le sang d'une chauve-souris, au jour et à l'heure de Mars ; et découvre-le à l'intérieur du Cercle, en invoquant les Démons dont les Noms y sont écrits ; et tu verras aussitôt grêle et tempête.
+
+![Fig. 31 — Le Septième et Dernier Pentacle de Mars](../Clavicule-Salomon-Gravures/fig-31.jpg)
 
 **Note de l'éditeur.** — Au centre du Pentacle sont les Noms Divins, El et Yiaï, qui ont la même valeur numérique en hébreu. Les Lettres en hébreu, et dans l'Alphabet Secret dit Céleste, composent les Noms des Esprits. Autour du Pentacle est : « Il leur donna la grêle pour pluie, et un feu flamboyant sur leur pays. Il frappa aussi leurs vignes et leurs figuiers. » — Psaume 105, versets 32-33.
 
@@ -1142,17 +1242,25 @@ la forme la plus parfaite qui existe de double acrostiche, pour ce qui est de la
 
 *Figure 32. — Le Premier Pentacle du Soleil.* — La Face de Shaddaï le Tout-Puissant, dont l'aspect fait obéir toutes les créatures, et devant qui les Esprits Angéliques s'inclinent à genoux.
 
+![Fig. 32 — Le Premier Pentacle du Soleil](../Clavicule-Salomon-Gravures/fig-32.jpg)
+
 **Note de l'éditeur.** — Ce singulier Pentacle contient la tête du grand Ange Methratron ou Metatron, vice-régent et représentant de Shaddaï, appelé le Prince des Faces, et le Kéroub droit et masculin de l'Arche, comme Sandalphon en est le gauche et féminin. De chaque côté est le Nom « El Shaddaï ». Autour est écrit en latin : « Voici Sa face et Sa forme, par qui toutes choses furent faites, et à qui toutes les créatures obéissent. »
 
 *Figure 33. — Le Second Pentacle du Soleil.* — Ce Pentacle, et le précédent et le suivant, appartiennent à la nature du Soleil. Ils servent à réprimer l'orgueil et l'arrogance des Esprits Solaires, qui sont par nature tout à fait orgueilleux et arrogants.
+
+![Fig. 33 — Le Second Pentacle du Soleil](../Clavicule-Salomon-Gravures/fig-33.jpg)
 
 **Note de l'éditeur.** — Caractères Mystiques du Soleil et les Noms des Anges : Shemeshiel, Paimoniah, Rekhodiah, et Malkhiel.
 
 *Figure 34. — Le Troisième Pentacle du Soleil.* — Celui-ci sert, en plus des effets des deux précédents, à acquérir Royaume et Empire, à infliger des pertes, et à acquérir renom et gloire, particulièrement par le Nom de Dieu, Tétragrammaton, qui y est contenu douze fois.
 
+![Fig. 34 — Le Troisième Pentacle du Soleil](../Clavicule-Salomon-Gravures/fig-34.jpg)
+
 **Note de l'éditeur.** — Le Nom IHVH, répété douze fois ; et un verset assez semblable à Daniel 4, 34 : « Mon Royaume est un Royaume éternel, et ma domination subsiste d'âge en âge. »
 
 *Figure 35. — Le Quatrième Pentacle du Soleil.* — Celui-ci sert à te permettre de voir les Esprits quand ils apparaissent invisibles à ceux qui les invoquent ; car, lorsque tu l'auras découvert, ils apparaîtront aussitôt visibles.
+
+![Fig. 35 — Le Quatrième Pentacle du Soleil](../Clavicule-Salomon-Gravures/fig-35.jpg)
 
 **Note de l'éditeur.** — Les Noms IHVH, Adonaï, sont écrits au centre en hébreu ; et autour des rayons dans les caractères mystiques du « Passage du Fleuve ». Le verset est tiré du Psaume 13, versets 3-4 : « Éclaire mes yeux, afin que je ne m'endorme pas dans la mort, de peur que mon ennemi ne dise : J'ai prévalu contre lui. »
 
@@ -1160,13 +1268,19 @@ la forme la plus parfaite qui existe de double acrostiche, pour ce qui est de la
 
 *Figure 36. — Le Cinquième Pentacle du Soleil.* — Il sert à invoquer les Esprits qui peuvent te transporter d'un lieu à un autre, sur une longue distance et en peu de temps.
 
+![Fig. 36 — Le Cinquième Pentacle du Soleil](../Clavicule-Salomon-Gravures/fig-36.jpg)
+
 **Note de l'éditeur.** — Caractères de l'alphabet du « Passage du Fleuve », formant des Noms d'Esprits. Le Verset est tiré du Psaume 91, versets 11-12 : « Il donnera des ordres à Ses Anges de te garder en toutes tes voies. Ils te porteront sur leurs mains. »
 
 *Figure 37. — Le Sixième Pentacle du Soleil.* — Il sert excellemment à l'opération d'invisibilité, quand il est correctement fait.
 
+![Fig. 37 — Le Sixième Pentacle du Soleil](../Clavicule-Salomon-Gravures/fig-37.jpg)
+
 **Note de l'éditeur.** — Au centre est la lettre mystique Yod, dans l'Alphabet Céleste. Les trois lettres dans l'écriture du « Passage du Fleuve », aux Angles du triangle, forment le grand Nom Shaddaï. Les mots dans les mêmes caractères autour de ses trois côtés sont, à mon avis, tirés de la Genèse 1, 1 : « Au commencement les Elohim créèrent, etc. » ; mais les caractères sont fâcheusement mutilés dans les manuscrits. Le verset est tiré des Psaumes 69, verset 23, et 135, verset 16 : « Que leurs yeux s'obscurcissent afin qu'ils ne voient point ; et fais continuellement chanceler leurs reins. Ils ont des yeux et ne voient point. »
 
 *Figure 38. — Le Septième et Dernier Pentacle du Soleil.* — Si quelqu'un se trouve par hasard emprisonné ou retenu dans des fers, à la présence de ce Pentacle, qui devrait être gravé en Or au jour et à l'heure du Soleil, il sera immédiatement délivré et mis en liberté.
+
+![Fig. 38 — Le Septième et Dernier Pentacle du Soleil](../Clavicule-Salomon-Gravures/fig-38.jpg)
 
 **Note de l'éditeur.** — Sur les Bras de la Croix sont écrits les Noms de Chasan, Ange de l'Air ; Arel, Ange du Feu ; Phorlakh, Ange de la Terre ; et Tallahad, Ange de l'Eau. Entre les quatre Bras de la Croix sont écrits les noms des Quatre Régents des Éléments : Ariel, Séraph, Tharsis, et Kerub. Le verset est tiré du Psaume 116, versets 16-17 : « Tu as rompu mes liens. Je T'offrirai le sacrifice d'actions de grâces, et j'invoquerai le Nom d'IHVH. »
 
@@ -1174,21 +1288,31 @@ la forme la plus parfaite qui existe de double acrostiche, pour ce qui est de la
 
 *Figure 39. — Le Premier Pentacle de Vénus.* — Celui-ci et les suivants servent à maîtriser les Esprits de Vénus, et spécialement ceux qui y sont inscrits.
 
+![Fig. 39 — Le Premier Pentacle de Vénus](../Clavicule-Salomon-Gravures/fig-39.jpg)
+
 **Note de l'éditeur.** — Caractères Mystiques de Vénus, et les Noms des Anges Nogahiel, Achéliah, Socodiah (ou Socohiah) et Nangariel.
 
 *Figure 40. — Le Second Pentacle de Vénus.* — Ces Pentacles sont aussi propres à obtenir grâce et honneur, et pour toutes choses qui appartiennent à Vénus, et pour accomplir tous tes désirs en cette matière.
+
+![Fig. 40 — Le Second Pentacle de Vénus](../Clavicule-Salomon-Gravures/fig-40.jpg)
 
 **Note de l'éditeur.** — Les lettres autour et à l'intérieur du Pentagramme forment les Noms des Esprits de Vénus. Le verset est tiré du Cantique des Cantiques 8, 6 : « Mets-moi comme un sceau sur ton cœur, comme un sceau sur ton bras, car l'amour est fort comme la mort. »
 
 *Figure 41. — Le Troisième Pentacle de Vénus.* — Celui-ci, s'il est seulement montré à quelque personne, sert à attirer l'amour. Son Ange Monachiel devrait être invoqué au jour et à l'heure de Vénus, à une heure ou à huit heures.
 
+![Fig. 41 — Le Troisième Pentacle de Vénus](../Clavicule-Salomon-Gravures/fig-41.jpg)
+
 **Note de l'éditeur.** — Les Noms suivants sont écrits à l'intérieur de la Figure : IHVH, Adonaï, Ruach, Achides, Figalmiel, Monachiel, et Dégaliel. Le verset est tiré de la Genèse 1, 28 : « Et les Elohim les bénirent, et les Elohim leur dirent : Soyez féconds, multipliez, et remplissez la terre, et l'assujettissez. »
 
 *Figure 42. — Le Quatrième Pentacle de Vénus.* — Il est d'un grand pouvoir, car il contraint les Esprits de Vénus à obéir, et à faire venir sur l'instant toute personne que tu désires voir venir à toi.
 
+![Fig. 42 — Le Quatrième Pentacle de Vénus](../Clavicule-Salomon-Gravures/fig-42.jpg)
+
 **Note de l'éditeur.** — Aux quatre Angles de la Figure sont les quatre lettres du Nom IHVH. Les autres lettres forment les Noms d'Esprits de Vénus, par exemple : Schii, Eli, Aylb, etc. Le verset est tiré de la Genèse 2, 23-24 : « Ceci est os de mes os, et chair de ma chair. Et ils devinrent une seule chair. »
 
 *Figure 43. — Le Cinquième et Dernier Pentacle de Vénus.* — Lorsqu'il est simplement montré à quelque personne que ce soit, il incite et excite merveilleusement à l'amour.
+
+![Fig. 43 — Le Cinquième et Dernier Pentacle de Vénus](../Clavicule-Salomon-Gravures/fig-43.jpg)
 
 **Note de l'éditeur.** — Autour du Carré central sont les Noms Elohim, El Gebil, et deux autres Noms que je ne puis déchiffrer, et que j'ai donc donnés tels quels. Les caractères sont ceux du « Passage du Fleuve ». Le verset environnant est tiré du Psaume 22, verset 14 : « Mon cœur est comme la cire, il se fond dans mes entrailles. »
 
@@ -1198,21 +1322,31 @@ la forme la plus parfaite qui existe de double acrostiche, pour ce qui est de la
 
 *Figure 44. — Le Premier Pentacle de Mercure.* — Il sert à invoquer les Esprits qui sont sous le Firmament.
 
+![Fig. 44 — Le Premier Pentacle de Mercure](../Clavicule-Salomon-Gravures/fig-44.jpg)
+
 **Note de l'éditeur.** — Lettres formant les Noms des Esprits Yékahel et Agiel.
 
 *Figure 45. — Le Second Pentacle de Mercure.* — Les Esprits ici inscrits servent à effectuer et à accorder des choses contraires à l'ordre de la Nature ; et qui ne sont contenues sous aucune autre rubrique. Ils répondent aisément, mais on peut difficilement les voir.
+
+![Fig. 45 — Le Second Pentacle de Mercure](../Clavicule-Salomon-Gravures/fig-45.jpg)
 
 **Note de l'éditeur.** — Les Lettres forment les Noms de Boël et d'autres Esprits.
 
 *Figure 46. — Le Troisième Pentacle de Mercure.* — Celui-ci et le suivant servent à invoquer les Esprits soumis à Mercure ; et spécialement ceux qui sont inscrits dans ce Pentacle.
 
+![Fig. 46 — Le Troisième Pentacle de Mercure](../Clavicule-Salomon-Gravures/fig-46.jpg)
+
 **Note de l'éditeur.** — Caractères Mystiques de Mercure, et les Noms des Anges : Kokaviel, Ghéoriah, Savaniah, et Chokmahiel.
 
 *Figure 47. — Le Quatrième Pentacle de Mercure.* — Celui-ci est en outre propre à acquérir la compréhension et la Connaissance de toutes choses créées, et à rechercher et pénétrer les choses cachées ; et à commander aux Esprits appelés Allatori d'accomplir des ambassades. Ils obéissent très volontiers.
 
+![Fig. 47 — Le Quatrième Pentacle de Mercure](../Clavicule-Salomon-Gravures/fig-47.jpg)
+
 **Note de l'éditeur.** — Au centre est le Nom de Dieu, El. Les lettres hébraïques inscrites autour du dodécagramme forment la phrase : « IHVH, fixe le Volatil, et qu'il y ait pour le vide restriction. » Le verset est : « Sagesse et vertu sont dans sa maison, et la Connaissance de toutes choses demeure avec lui à jamais. »
 
 *Figure 48. — Le Cinquième et Dernier Pentacle de Mercure.* — Celui-ci commande aux Esprits de Mercure, et sert à ouvrir les portes de quelque manière qu'elles soient fermées, et rien de ce qu'il rencontre ne peut lui résister.
+
+![Fig. 48 — Le Cinquième et Dernier Pentacle de Mercure](../Clavicule-Salomon-Gravures/fig-48.jpg)
 
 **Note de l'éditeur.** — À l'intérieur du Pentacle sont les Noms El Ab, et IHVH. Le verset est tiré du Psaume 24, verset 7 : « Levez vos têtes, ô portes, et élevez-vous, portes éternelles, et le Roi de gloire fera son entrée. »
 
@@ -1220,25 +1354,37 @@ la forme la plus parfaite qui existe de double acrostiche, pour ce qui est de la
 
 *Figure 49. — Le Premier Pentacle de la Lune.* — Celui-ci et les suivants servent à appeler et invoquer les Esprits de la Lune ; et il sert en outre à ouvrir les portes, de quelque manière qu'elles soient fermées.
 
+![Fig. 49 — Le Premier Pentacle de la Lune](../Clavicule-Salomon-Gravures/fig-49.jpg)
+
 **Note de l'éditeur.** — Le Pentacle est une sorte de représentation hiéroglyphique d'une porte. Au centre est écrit le Nom IHVH. À droite sont les Noms IHV, IHVH, AL, et IHH. À gauche sont les Noms des Anges : Schioel, Vaol, Yashiel, et Véhiel. Le verset au-dessus des Noms de chaque côté est tiré du Psaume 107, verset 16 : « Il a brisé les portes d'airain, et mis en pièces les barres de fer. »
 
 *Figure 50. — Le Second Pentacle de la Lune.* — Celui-ci sert contre tous les périls et dangers de l'eau, et s'il arrivait que les Esprits de la Lune excitent et causent grande pluie et tempêtes excessives autour du Cercle, afin de t'étonner et de te terrifier ; en leur montrant ce Pentacle, tout cessera promptement.
+
+![Fig. 50 — Le Second Pentacle de la Lune](../Clavicule-Salomon-Gravures/fig-50.jpg)
 
 **Note de l'éditeur.** — Une main indiquant le Nom El, et celui de l'Ange Abariel. Le verset est tiré du Psaume 56, verset 11 : « En Elohim j'ai mis ma confiance, je ne craindrai point, que peut me faire l'homme ? »
 
 *Figure 51. — Le Troisième Pentacle de la Lune.* — Celui-ci, dûment porté sur soi en voyage, s'il est correctement fait, sert contre toutes les attaques nocturnes, et contre toute sorte de danger et de péril par l'Eau.
 
+![Fig. 51 — Le Troisième Pentacle de la Lune](../Clavicule-Salomon-Gravures/fig-51.jpg)
+
 **Note de l'éditeur.** — Les Noms Aub et Vévaphel. Le verset est tiré du Psaume 40, verset 13 : « Qu'il Te plaise, ô IHVH, de me délivrer, ô IHVH, hâte-Toi de me secourir. »
 
 *Figure 52. — Le Quatrième Pentacle de la Lune.* — Celui-ci te défend de toute source de mal, et de toute atteinte à l'âme ou au corps. Son Ange, Sophiel, donne la connaissance de la vertu de toutes les herbes et les pierres ; et à quiconque le nommera, il procurera la connaissance de toutes choses.
+
+![Fig. 52 — Le Quatrième Pentacle de la Lune](../Clavicule-Salomon-Gravures/fig-52.jpg)
 
 **Note de l'éditeur.** — Le Nom Divin Eheieh Asher Eheieh, et les Noms des Anges Yahel et Sophiel. Le verset est : « Qu'ils soient confondus, ceux qui me persécutent, et que je ne sois point confondu ; qu'ils craignent, et non moi. »
 
 *Figure 53. — Le Cinquième Pentacle de la Lune.* — Il sert à obtenir des réponses en songe. Son Ange Iachadiel sert à la destruction et à la perte, ainsi qu'à la destruction des ennemis. Tu peux aussi l'invoquer par Abdon et Dalé contre tous les Fantômes de la nuit, et pour évoquer les âmes des défunts depuis l'Hadès.
 
+![Fig. 53 — Le Cinquième Pentacle de la Lune](../Clavicule-Salomon-Gravures/fig-53.jpg)
+
 **Note de l'éditeur.** — Les Noms Divins IHVH et Elohim, un caractère mystique de la Lune, et les Noms des Anges Iachadiel et Azarel. Le verset est tiré du Psaume 68, verset 1 : « Que Dieu se lève, et que Ses ennemis soient dispersés ; que ceux qui Le haïssent fuient devant Sa face. »
 
 *Figure 54. — Le Sixième et Dernier Pentacle de la Lune.* — Celui-ci est merveilleusement bon, et sert excellemment à exciter et causer de fortes pluies, s'il est gravé sur une plaque d'argent ; et si on le place sous l'eau, tant qu'il y demeure, il pleuvra. Il devrait être gravé, dessiné, ou écrit au jour et à l'heure de la Lune.
+
+![Fig. 54 — Le Sixième et Dernier Pentacle de la Lune](../Clavicule-Salomon-Gravures/fig-54.jpg)
 
 **Note de l'éditeur.** — Le Pentacle est composé de caractères mystiques de la Lune, entouré d'un verset tiré de la Genèse 7, 11-12 : « Toutes les fontaines du grand abîme furent rompues... et la pluie fut sur la terre. »
 
@@ -1460,11 +1606,19 @@ Les habits extérieurs que le Maître de l'Art devra porter doivent être de lin
 
 Les caractères montrés à la Figure 55 devront être brodés sur la poitrine, avec l'aiguille de l'Art, en soie rouge.
 
+![Fig. 55 — Caractères à broder en soie rouge sur la poitrine du vêtement](../Clavicule-Salomon-Gravures/fig-55.jpg)
+
 Les chaussures devront aussi être blanches, sur lesquelles les caractères de la Figure 56 devront être tracés de la même manière.
+
+![Fig. 56 — Caractères à tracer sur les chaussures blanches](../Clavicule-Salomon-Gravures/fig-56.jpg)
 
 Les chaussures ou bottes devront être faites de cuir blanc, sur lesquelles devront être marqués les Signes et Caractères de l'Art. Ces chaussures devront être faites durant les jours de jeûne et d'abstinence, à savoir durant les neuf jours mis à part avant le commencement de l'Opération, durant lesquels les Instruments nécessaires devront aussi être préparés, polis, brillantés et nettoyés.
 
 Outre cela, le Maître de l'Art devra avoir une Couronne faite de papier Vierge, sur laquelle devront être écrits ces quatre Noms : YOD, HÉ, VAU, HÉ, devant ; Adonaï derrière ; El à droite ; et Elohim à gauche. (Voir Figure 57.) Ces noms devront être écrits avec l'encre et la plume de l'Art, dont nous parlerons au Chapitre approprié. Les Disciples devront aussi avoir chacun une Couronne de papier Vierge sur laquelle ces symboles Divins devront être marqués en écarlate. (Voir Figure 58.)
+
+![Fig. 57 — Noms divins de la Couronne du Maître (Yod Hé Vau Hé, Adonaï, El, Elohim)](../Clavicule-Salomon-Gravures/fig-57.jpg)
+
+![Fig. 58 — Symboles divins des Couronnes des Disciples](../Clavicule-Salomon-Gravures/fig-58.jpg)
 
 Prends garde aussi qu'en te revêtant de ces habits susdits, tu récites ces Psaumes : Psaumes XV ; CXXXI ; CXXXVII ; CXVII ; LXVII ; LXVIII ; et CXXVII.
 
@@ -1510,6 +1664,10 @@ Quand ils seront arrivés au lieu, et toutes choses étant disposées dans leur 
 
 D'abord, qu'il ait une Trompette faite de bois neuf, sur un côté de laquelle seront écrits en hébreu, avec la plume et l'encre de l'Art, ces Noms de Dieu : Elohim Gibor, Elohim Tzabaoth (voir Figure 59) ; et sur l'autre côté ces caractères (voir Figure 60).
 
+![Fig. 59 — Noms de Dieu à écrire en hébreu sur la Trompette (Elohim Gibor, Elohim Tzabaoth)](../Clavicule-Salomon-Gravures/fig-59.jpg)
+
+![Fig. 60 — Caractères de l'autre côté de la Trompette](../Clavicule-Salomon-Gravures/fig-60.jpg)
+
 Étant entré dans le Cercle pour accomplir l'Expérience, il devra sonner sa Trompette vers les quatre points cardinaux de l'Univers, d'abord vers l'Est, puis vers le Sud, puis vers l'Ouest, et enfin vers le Nord. Puis qu'il dise :
 
 Entendez, et soyez prêts, en quelque partie de l'Univers que vous soyez, à obéir à la Voix de Dieu le Puissant, et aux Noms du Créateur. Nous vous faisons savoir par ce signal et ce son que vous serez convoqués ici ; c'est pourquoi tenez-vous prêts à obéir à nos commandements.
@@ -1522,13 +1680,31 @@ Afin d'accomplir correctement les plus grandes et les plus importantes Opératio
 
 Le Couteau à manche blanc (voir Figure 61) devra être fait au jour et à l'heure de Mercure, quand Mars est dans le Signe du Bélier ou du Scorpion. Il devra être trempé dans le sang d'un oison et dans le jus de la pimprenelle, la Lune étant à son plein ou croissante en lumière. Trempe aussi le manche blanc, sur lequel tu auras gravé les Caractères montrés. Ensuite, parfume-le des parfums de l'Art.
 
+![Fig. 61 — Le Couteau à manche blanc](../Clavicule-Salomon-Gravures/fig-61.jpg)
+
 Avec ce Couteau, tu pourras accomplir toutes les Opérations nécessaires de l'Art, hormis les Cercles. Mais s'il te semble trop pénible de faire un tel Couteau, fais-en faire un de même façon ; et tu le placeras trois fois dans le feu jusqu'à ce qu'il devienne rouge, et chaque fois tu l'immergeras dans le sang et le jus susdits, tu y fixeras le manche blanc ayant gravé sur lui les caractères susdits, et sur le manche tu écriras, avec la plume de l'Art, en commençant depuis la pointe et allant vers le manche, ces Noms Agla, On, comme montré à la Figure 61. Ensuite tu le parfumeras et l'aspergeras, et l'envelopperas d'un morceau de tissu de soie.
 
 Mais quant au Couteau à manche noir (voir Figure 62) pour former le Cercle, avec lequel frapper de terreur et de crainte les Esprits, il devra être fait de la même manière, sauf qu'il devra l'être au jour et à l'heure de Saturne, et trempé dans le sang d'un chat noir et dans le jus de la ciguë, les Caractères et Noms montrés à la Figure 62 étant écrits dessus, depuis la pointe vers le manche. Ce qui étant achevé, tu l'envelopperas dans un tissu de soie noire.
 
+![Fig. 62 — Le Couteau à manche noir](../Clavicule-Salomon-Gravures/fig-62.jpg)
+
 Le Cimeterre (Figure 63), et la Faucille (Figure 64), se font de la même manière, ainsi que la Dague (Figure 65), le Poignard (Figure 66), et la courte Lance (Figure 67), au jour et à l'heure de Mercure, et ils devront être trempés dans le sang d'une pie et le jus de l'herbe Mercuriale. Tu dois leur faire des manches de buis blanc, coupés d'un seul coup de l'arbre, au lever du Soleil, avec un couteau neuf, ou avec tout autre instrument commode. Les caractères montrés devront y être tracés. Tu les parfumeras selon les règles de l'Art ; et les envelopperas de tissu de soie comme les autres.
 
+![Fig. 63 — Le Cimeterre](../Clavicule-Salomon-Gravures/fig-63.jpg)
+
+![Fig. 64 — La Faucille](../Clavicule-Salomon-Gravures/fig-64.jpg)
+
+![Fig. 65 — La Dague](../Clavicule-Salomon-Gravures/fig-65.jpg)
+
+![Fig. 66 — Le Poignard](../Clavicule-Salomon-Gravures/fig-66.jpg)
+
+![Fig. 67 — La courte Lance](../Clavicule-Salomon-Gravures/fig-67.jpg)
+
 Le Bâton (voir Figure 68) devra être de sureau, de canne, ou de bois de rose ; et la Baguette (Figure 69) de noisetier ou de noyer, en tout cas le bois étant vierge, c'est-à-dire d'une seule année de croissance. Ils devront chacun être coupés de l'arbre d'un seul coup, au jour de Mercure, au lever du soleil. Les caractères montrés devront être écrits ou gravés dessus au jour et à l'heure de Mercure.
+
+![Fig. 68 — Le Bâton](../Clavicule-Salomon-Gravures/fig-68.jpg)
+
+![Fig. 69 — La Baguette](../Clavicule-Salomon-Gravures/fig-69.jpg)
 
 Cela étant fait, tu diras :
 
@@ -1537,6 +1713,8 @@ Adonaï, Très-Saint, daigne bénir et consacrer cette Baguette et ce Bâton, af
 Après les avoir parfumés et consacrés, mets-les à part en un lieu pur et propre pour l'usage quand il sera requis.
 
 Les Épées sont aussi fréquemment nécessaires pour l'usage des Arts Magiques. Tu prendras donc une Épée neuve que tu nettoieras et polira au jour de Mercure, et à la première ou à la quinzième heure, et après cela tu écriras sur un côté ces Noms Divins en hébreu, YOD HÉ VAU HÉ, Adonaï, Eheieh, Yayai ; et de l'autre côté Elohim Gibor (voir Figure 70) ; asperge-la et encense-la et récite sur elle la conjuration suivante :
+
+![Fig. 70 — L'Épée magique](../Clavicule-Salomon-Gravures/fig-70.jpg)
 
 **La Conjuration de l'Épée.**
 
@@ -1550,11 +1728,31 @@ Trois* autres Épées devront être faites pour l'usage des Disciples.
 
 La première devra avoir sur le pommeau le Nom Cardiel ou Gabriel (voir Figure 71) ; sur le Lamen de la Garde, Région (Figure 72) ; sur la Lame, Panoraim Heamesin (Figure 73).
 
+![Fig. 71 — Pommeau de la première Épée — Cardiel ou Gabriel](../Clavicule-Salomon-Gravures/fig-71.jpg)
+
+![Fig. 72 — Lamen de la Garde de la première Épée — Région](../Clavicule-Salomon-Gravures/fig-72.jpg)
+
+![Fig. 73 — Lame de la première Épée — Panoraim Heamesin](../Clavicule-Salomon-Gravures/fig-73.jpg)
+
 La Seconde devra avoir sur le pommeau le Nom Auriel (Figure 74) ; sur le Lamen de la Garde, Sarion (Figure 75) ; sur la Lame, Gamorin Debalin (Figure 76).
+
+![Fig. 74 — Pommeau de la seconde Épée — Auriel](../Clavicule-Salomon-Gravures/fig-74.jpg)
+
+![Fig. 75 — Lamen de la Garde de la seconde Épée — Sarion](../Clavicule-Salomon-Gravures/fig-75.jpg)
+
+![Fig. 76 — Lame de la seconde Épée — Gamorin Debalin](../Clavicule-Salomon-Gravures/fig-76.jpg)
 
 La troisième devra avoir sur le pommeau le Nom Damiel ou Raphaël (Figure 77) ; sur le Lamen de la Garde, Yemeton (Figure 78) ; sur la Lame, Lamedin Eradim (Figure 79).
 
+![Fig. 77 — Pommeau de la troisième Épée — Damiel ou Raphaël](../Clavicule-Salomon-Gravures/fig-77.jpg)
+
+![Fig. 78 — Lamen de la Garde de la troisième Épée — Yemeton](../Clavicule-Salomon-Gravures/fig-78.jpg)
+
+![Fig. 79 — Lame de la troisième Épée — Lamedin Eradim](../Clavicule-Salomon-Gravures/fig-79.jpg)
+
 Le Burin† (Figure 80) ou Graveur est utile pour graver ou inciser les caractères. Au jour et à l'heure soit de Mars soit de Vénus, tu graveras sur lui les caractères montrés, et l'ayant aspergé et encensé, tu réciteras sur lui la Prière suivante :
+
+![Fig. 80 — Le Burin ou Graveur](../Clavicule-Salomon-Gravures/fig-80.jpg)
 
 **Prière.**
 
@@ -1575,6 +1773,8 @@ Ces choses étant faites, que le Mage de l'Art† assemble ses Disciples, les ex
 Après cela, que le Mage commence ses Incantations, ayant placé la Faucille, l'Épée, ou tout autre Instrument de l'Art dressé en terre à ses pieds. Ayant sonné la trompette comme il a été enseigné auparavant, qu'il invoque les Esprits, et si besoin est qu'il les conjure, comme il est dit dans le Premier Livre, et ayant obtenu l'effet désiré, qu'il leur donne congé de se retirer.
 
 Voici la Forme du Cercle (voir Figure 81), en lequel quiconque entrera sera en sûreté comme dans un Château fortifié, et rien ne pourra lui nuire.
+
+![Fig. 81 — La Forme du Cercle](../Clavicule-Salomon-Gravures/fig-81.jpg)
 
 *Ce Chapitre n'est donné que dans le manuscrit Additional 10862.
 
@@ -1628,6 +1828,10 @@ Après cela, jette le sel dans le vase où se trouve l'Eau, et récite les Psaum
 
 Tu te feras ensuite un Aspersoir de verveine, fenouil, lavande, sauge, valériane, menthe, basilic et hysope, cueillis au jour et à l'heure de Mercure, la lune étant en son croissant. Lie ensemble ces herbes avec un fil filé par une jeune fille, et grave sur le manche, d'un côté les caractères montrés en Figure 82, et de l'autre ceux donnés en Figure 83.
 
+![Fig. 82 — Caractères à graver sur un côté du manche de l'Aspersoir](../Clavicule-Salomon-Gravures/fig-82.jpg)
+
+![Fig. 83 — Caractères de l'autre côté du manche de l'Aspersoir](../Clavicule-Salomon-Gravures/fig-83.jpg)
+
 Après cela, tu pourras employer l'Eau, en te servant de l'Aspersoir chaque fois qu'il en sera besoin ; et sache qu'en quelque lieu que tu asperges cette Eau, elle chassera tous les Fantômes, et ceux-ci ne pourront gêner ni importuner personne. C'est avec cette même Eau que tu feras tous les préparatifs de l'Art.
 
 ### Chapitre XII. — De la Lumière et du Feu
@@ -1635,6 +1839,8 @@ Après cela, tu pourras employer l'Eau, en te servant de l'Aspersoir chaque fois
 Il a toujours été de coutume, chez toutes les nations, d'employer le feu et la lumière dans les choses sacrées. C'est pourquoi le Maître de l'Art doit lui aussi les employer dans les rites sacrés ; et outre ceux destinés à lire les Conjurations et à l'Encens, des Lumières sont nécessaires dans le Cercle en toutes opérations.
 
 Pour cette raison, il fera des cierges de cire vierge au jour et à l'heure de Mercure ; les mèches devront avoir été faites par une jeune fille, et les Cierges devront être faits pendant que la lune est en son croissant, du poids d'une demi-livre chacun, et sur eux tu graveras ces caractères avec le Poignard ou le Burin de l'Art (voir Figure 84).
+
+![Fig. 84 — Caractères à graver sur les cierges de cire vierge](../Clavicule-Salomon-Gravures/fig-84.jpg)
 
 Après cela, tu réciteras sur les Cierges les Psaumes CLI, CIII, CVII, et tu diras :
 
@@ -1686,6 +1892,8 @@ Après cela, tu la tailleras avec le canif de l'Art, tu la parfumeras, tu l'aspe
 
 Tu auras un encrier fait de terre ou de toute autre matière commode, et au jour et à l'heure de Mercure tu y graveras avec le Burin de l'Art ces Noms : Yod, Hé, Vau, Hé, Métatron, Iah Iah Iah, Qadosch, Elohim Tzabaoth (voir Figure 85) ; et en y mettant l'encre tu diras :
 
+![Fig. 85 — Noms à graver sur l'encrier](../Clavicule-Salomon-Gravures/fig-85.jpg)
+
 Je t'exorcise, ô Créature d'Encre, par Anaïréton, par Simulator, et par le Nom Adonaï, et par le Nom de Celui par qui toutes choses ont été faites, afin que tu me sois une aide et un secours en tout ce que je désire accomplir par ton aide.
 
 Comme il arrive parfois qu'il soit nécessaire d'écrire avec quelque couleur noble, il est bon d'avoir une boîte neuve et propre pour les conserver. Les couleurs principales seront le Jaune ou l'Or, le Rouge, le Bleu Céleste ou Azur, le Vert et le Brun, et toute autre couleur qui pourrait être requise. Tu les exorciseras, parfumeras et aspergeras de la manière habituelle.
@@ -1697,6 +1905,8 @@ Prends la plume d'une Hirondelle ou d'un Corbeau, et avant de l'arracher, tu dir
 Que le Saint Archange Michel, et Midaël et Miraël, Chefs et Capitaines de l'Armée Céleste, me soient en aide dans l'opération que je vais accomplir, afin que je puisse écrire par elle toutes les choses nécessaires, et que toutes les expériences que je commence par elle soient, par vous et par vos noms, menées à leur perfection par la puissance du Très-Haut Créateur. Amen.
 
 Après cela tu tailleras et achèveras la plume avec le Couteau de l'Art, et avec la plume et l'encre de l'art tu écriras sur son côté le Nom Anaïréton (voir Figure 86), et tu réciteras sur elle les Psaumes suivants : CXXXIII, CXVII.
+
+![Fig. 86 — Le Nom Anaïréton à écrire sur la plume](../Clavicule-Salomon-Gravures/fig-86.jpg)
 
 ### Chapitre XVI. — Du Sang de la Chauve-souris, du Pigeon et d'Autres Animaux
 
@@ -1736,6 +1946,8 @@ Avant de couper le Roseau, récite le Psaume LXXII.
 
 Après cela, avec le Couteau de l'Art, tu façonneras le Roseau en forme de Couteau, et sur lui tu écriras ces Noms : Aglâ, Adonaï, Éloï (voir Figure 87), par lesquels s'accomplira l'œuvre de ce Couteau. Puis tu diras :
 
+![Fig. 87 — Noms à écrire sur le Couteau de roseau — Aglâ, Adonaï, Éloï](../Clavicule-Salomon-Gravures/fig-87.jpg)
+
 Ô Dieu, qui as tiré Moïse, Ton bien-aimé et Ton élu, du milieu des Roseaux, sur les rives marécageuses du Nil, et des Eaux, alors qu'il n'était encore qu'un enfant, accorde-moi, par Ta grande miséricorde et compassion, que ce Roseau reçoive Pouvoir et Vertu pour accomplir ce que je désire, par Ton Saint Nom et les Noms de Tes Saints Anges. Amen.
 
 Cela fait, tu commenceras avec ce Couteau à dépouiller l'Animal, qu'il soit Vierge ou Prématuré, en disant :
@@ -1747,6 +1959,8 @@ L'Animal étant dépouillé, prends du Sel, et dis ainsi sur lui :
 Dieu des Dieux, et Seigneur des Seigneurs, qui as créé toutes choses à partir de l'Existence Négative, daigne bénir et sanctifier ce Sel, afin qu'en le plaçant sur ce parchemin que je veux faire, il ait une telle vertu que tout ce que j'écrirai dessus par la suite atteigne sa fin désirée. Amen.
 
 Ensuite, frotte ledit parchemin avec le sel exorcisé, et laisse-le au Soleil, pour s'imprégner de ce sel pendant l'espace d'une journée entière. Prends ensuite un grand vase de terre vernissé intérieurement et extérieurement, autour duquel tu écriras les caractères de la Figure 88.
+
+![Fig. 88 — Caractères à écrire autour du grand vase de terre](../Clavicule-Salomon-Gravures/fig-88.jpg)
 
 Après cela tu mettras de la chaux en poudre dans le vase, en disant :
 
@@ -1773,6 +1987,8 @@ Nulle femme, si ses menstrues sont sur elle, ne devra être admise à voir ce Pa
 Mais si la préparation du parchemin susdit semble trop laborieuse, tu pourras le faire de la manière suivante, bien qu'elle soit moins bonne.
 
 Prends un Parchemin quelconque et exorcise-le ; prépare un encensoir avec des parfums ; écris sur le parchemin les caractères de la Figure 89, tiens-le au-dessus de l'Encens, et dis :
+
+![Fig. 89 — Caractères à écrire sur le parchemin exorcisé](../Clavicule-Salomon-Gravures/fig-89.jpg)
 
 Soyez présents pour m'aider, et que mon opération s'accomplisse par vous ; Zazaï, Zalmaï, Dalmaï, Adonaï, Anaphaxéton, Cédrion, Cripon, Prion, Anaïréton, Élion, Octinomon, Zévanion, Alazaïon, Zidéon, Aglâ, On, Yod Hé Vau Hé, Artor, Dinotor, Saints Anges de Dieu, soyez présents et infusez vertu à ce Parchemin, afin qu'il obtienne par vous un tel pouvoir que tous les Noms ou Caractères qui y seront écrits reçoivent la puissance qui leur est due, et que toute tromperie et tout obstacle s'en éloignent, par le Dieu Seigneur miséricordieux et clément, qui vit et règne à travers tous les Siècles. Amen.
 
@@ -1820,6 +2036,8 @@ Lorsqu'un Instrument de l'Art a été dûment consacré, il doit être envelopp�
 
 Prends donc de la soie de n'importe quelle couleur, excepté le noir ou le gris, sur laquelle tu écriras les mots et Caractères de la Figure 90.
 
+![Fig. 90 — Mots et Caractères à écrire sur la soie](../Clavicule-Salomon-Gravures/fig-90.jpg)
+
 Parfume-la avec de l'encens de bonne odeur, asperge-la, et récite les Psaumes LXXXII, LXXII, CXXXIV, LXIV.
 
 Après cela tu la mettras de côté pendant sept jours avec des épices suaves ; et tu emploieras cette soie pour envelopper tous les instruments de l'Art.
@@ -1827,6 +2045,10 @@ Après cela tu la mettras de côté pendant sept jours avec des épices suaves ;
 ### Chapitre XXI. — Concernant les Caractères, et la Consécration du Livre Magique
 
 Chaque fois qu'en une quelconque Opération il est nécessaire d'écrire des Caractères, et que tu crains d'échouer, fais ceci : écris au commencement le Nom Eheieh Asher Eheieh (Figure 91), et à la fin le nom Aïn Soph (Figure 92) ; entre ces Noms écris ce que tu veux, et si tu as quelque chose de particulier à faire, porte lesdits Noms écrits sur l'enveloppe de soie, et tu diras sur eux :
+
+![Fig. 91 — Le Nom Eheieh Asher Eheieh](../Clavicule-Salomon-Gravures/fig-91.jpg)
+
+![Fig. 92 — Le Nom Aïn Soph](../Clavicule-Salomon-Gravures/fig-92.jpg)
 
 Très Sage et Très Haut Créateur de toutes choses, je Te prie, par Ta grâce et Ta miséricorde, d'accorder à ces Saints Noms une telle vertu et un tel pouvoir que Tu préserves ces caractères de toute tromperie et de toute erreur, par Toi, ô Très Saint Adonaï. Amen.
 
@@ -1966,6 +2188,8 @@ Josué, ou Jehoshua le Sauveur, est un symbole du Messiach.
 
 Son Nom est composé des lettres du Divin Tétragramme changé en Pentagramme par l'adjonction de la Lettre Schin (voir Figure 94).
 
+![Fig. 94 — Le Tétragramme changé en Pentagramme par la lettre Schin](../Clavicule-Salomon-Gravures/fig-94.jpg)
+
 Chaque lettre de ce Pentagramme représente une puissance du bien attaquée par les cinq nations maudites.
 
 Car la véritable histoire du peuple de Dieu est la légende allégorique de l'Humanité.
@@ -2060,7 +2284,11 @@ Ces trente-six Talismans formeront un Livre qui contiendra tous les Secrets de l
 
 *Ici s'achève le Fragment de la Clavicule de Salomon.*
 
-[Note du traducteur : la planche qui suit dans l'original (Planche XV) est un tableau de lettres hébraïques et de caractères talismaniques ; l'OCR de cette page graphique est illisible et ne comporte pas de texte suivi — elle est donc omise ici comme artefact non traduisible.]
+### Planche XV — Les Alphabets mystiques
+
+![Planche XV — Les Alphabets mystiques : alphabet hébreu, alphabet des Mages, caractères de l'Écriture céleste, Malachim ou Écriture des Anges, écriture dite « Passage du Fleuve », noms et puissances des lettres](../Clavicule-Salomon-Gravures/planche-xv-alphabets-mystiques.jpg)
+
+[Note du traducteur : cette planche, tableau comparatif des alphabets magiques (hébreu, alphabet des Mages, Écriture céleste, Malachim, « Passage du Fleuve »), n'existe que sous forme gravée ; elle est reproduite ci-dessus d'après le scan de l'édition de 1889.]
 
 ### L'Invocation Qabalistique de Salomon
 
