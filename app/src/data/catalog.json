@@ -2262,7 +2262,7 @@
           "label": "Version PDF",
           "type": "pdf",
           "path": "Prieres-de-Richesse-Domination-et-Autorite/Prieres-de-Richesse-Domination-et-Autorite-FR.pdf",
-          "bytes": 1980117
+          "bytes": 1982835
         },
         {
           "label": "Planches des symboles (impression)",
@@ -2271,7 +2271,7 @@
           "bytes": 6786489
         }
       ],
-      "bytes": 8803154
+      "bytes": 8805872
     },
     {
       "id": "priere-deblocage",
@@ -3428,6 +3428,6 @@
       "bytes": 627074
     }
   ],
-  "totalBytes": 4253338566,
+  "totalBytes": 4253341284,
   "generatedAt": "2026-10-30"
 }
