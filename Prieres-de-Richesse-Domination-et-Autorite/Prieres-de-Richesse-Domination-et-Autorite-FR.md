@@ -257,7 +257,7 @@
 
 *Sa conjuration, telle que le Sixième Livre la donne :*
 
-> « Moi, N. N., serviteur de Dieu, je t'appelle, te requiers et te conjure, ô Esprit Anoch, par la sagesse de Salomon, par l'obéissance d'Isaac, par la bénédiction d'Abraham, par la piété de Jacob et de Noé, qui ne pécha point devant Dieu, par les serpents de Moïse, et par les douze tribus — que tu paraisses devant moi sous une belle forme humaine, et me donnes ce que je désire. »
+> « Moi, Popaul Kabeya, serviteur de Dieu, je t'appelle, te requiers et te conjure, ô Esprit Anoch, par la sagesse de Salomon, par l'obéissance d'Isaac, par la bénédiction d'Abraham, par la piété de Jacob et de Noé, qui ne pécha point devant Dieu, par les serpents de Moïse, et par les douze tribus — que tu paraisses devant moi sous une belle forme humaine, et me donnes ce que je désire. »
 
 *Les Chérubins et Séraphins ministrants de ce Sceau : Anoch, Sewachar, Chaylon, Esor, Yaron, Oseny, Yagelor, Ehym, Maakyel, Echad, Yalyon, Yagar, Ragat, Ymmat, Chabalym, Schadym.*
 
@@ -268,7 +268,7 @@
 
 ![Fig. 17 — Huitième Table : les Esprits du Soleil](../Septieme-Livres-de-Moise/Gravures/fig-17.jpg)
 
-> « Moi, N. N., je te conjure, Wijch, par Dalia ; Jka, par Doluth ; Auet, par Dilu ; Veal, par Anub ; Meho, par Igfa ; Ymij, par Elon : que vous paraissiez devant moi — aussi vrai que Zebaoth, que Moïse nomma, et tous les fleuves d'Égypte furent changés en sang. »
+> « Moi, Popaul Kabeya, je te conjure, Wijch, par Dalia ; Jka, par Doluth ; Auet, par Dilu ; Veal, par Anub ; Meho, par Igfa ; Ymij, par Elon : que vous paraissiez devant moi — aussi vrai que Zebaoth, que Moïse nomma, et tous les fleuves d'Égypte furent changés en sang. »
 
 *Source : Septième Livre de Moïse, Huitième Table.*
 
@@ -277,7 +277,7 @@
 
 ![Fig. 20 — Onzième Table](../Septieme-Livres-de-Moise/Gravures/fig-20.jpg)
 
-> « Moi, N. N., je te cite, Esprit Yhaij, par El ; Yvaij, par Elohim ; Ileh, par Elho ; Kijlij, par Zebaoth ; Taijn, Iseij, par Tetragrammaton ; Jeha, par Zadaij ; Ahel, par Agla : que vous obéissiez à mes ordres — aussi vrai que dans et par le nom Schemesumatie, qu'invoqua Josué, et le soleil s'arrêta dans sa course. Fiat, f. f. f. »
+> « Moi, Popaul Kabeya, je te cite, Esprit Yhaij, par El ; Yvaij, par Elohim ; Ileh, par Elho ; Kijlij, par Zebaoth ; Taijn, Iseij, par Tetragrammaton ; Jeha, par Zadaij ; Ahel, par Agla : que vous obéissiez à mes ordres — aussi vrai que dans et par le nom Schemesumatie, qu'invoqua Josué, et le soleil s'arrêta dans sa course. Fiat, f. f. f. »
 
 *Source : Septième Livre de Moïse, Onzième Table. Les Troisième et Quatrième Tables complètent cet office : la Troisième « apporte une grande fortune par l'eau », la Quatrième « donnera les trésors de la terre si on la dépose dans la terre ».*
 
@@ -317,7 +317,7 @@
 *Invocation composée pour l'usage du Pentacle, au jour et à l'heure de Jupiter :*
 
 > Au nom du Dieu très-haut, El Ab, Père de toute abondance,  
-> moi, N. N., je me tourne vers les intelligences de Jupiter,  
+> moi, Popaul Kabeya, je me tourne vers les intelligences de Jupiter,  
 > et vers toi, Parasiel, Seigneur et Maître des Trésors,  
 > dont le nom est écrit autour de ce Pentacle.
 >
