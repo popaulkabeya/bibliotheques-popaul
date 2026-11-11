@@ -3107,85 +3107,6 @@
       "addedAt": "2026-09-14"
     },
     {
-      "id": "une-meme-lumiere",
-      "category": "ecritures",
-      "order": 7,
-      "title": "Une même lumière",
-      "subtitle": "Dieu, la mort, le pardon, la prospérité et la puissance — ce que répondent les Écritures des cinq religions",
-      "author": "Popaul Kabeya",
-      "era": "2026 — textes du XVe s. av. J.-C. au XVIIIe s.",
-      "lang": "fr",
-      "glyph": "✹",
-      "tags": [
-        "religions comparées",
-        "hindouisme",
-        "judaïsme",
-        "bouddhisme",
-        "christianisme",
-        "islam",
-        "règle d'or",
-        "écritures",
-        "dialogue interreligieux"
-      ],
-      "summary": "Après une présentation des cinq traditions et de leurs fondateurs (Abraham, Moïse, le Bouddha, Jésus, Muhammad), dix-huit thèmes — Dieu et l'Absolu, la lumière, la Règle d'or, la compassion, la paix, le pardon, le don, les parents, la vérité, la maîtrise de soi, la prière, le cœur, le détachement, les actes, la mort, l'expérience des mystiques — où les Veda et la Gîtâ, la Torah, le Dhammapada, l'Évangile et le Coran parlent côte à côte, puis Kabîr, la Kabbale, Shantideva, Jean de la Croix et Ghazâlî, cités dans leurs traductions anciennes et vérifiés dans leurs sources. Chaque thème dit ce qui converge et ce qui nuance ; une partie entière expose ce qui distingue les cinq traditions, et une annexe ouvre une sixième lampe : le Tao Te King.",
-      "volumes": [
-        {
-          "label": "Texte intégral",
-          "type": "md",
-          "path": "Une-Meme-Lumiere-Cinq-Religions-FR.md",
-          "bytes": 199220
-        },
-        {
-          "label": "Version PDF — 74 pages",
-          "type": "pdf",
-          "path": "Une-Meme-Lumiere-Cinq-Religions-FR.pdf",
-          "bytes": 4167536
-        }
-      ],
-      "bytes": 4366756,
-      "addedAt": "2026-09-12"
-    },
-    {
-      "id": "the-same-light",
-      "category": "ecritures",
-      "order": 8,
-      "title": "The Same Light",
-      "subtitle": "God, Death, Forgiveness, Prosperity and Power — How the Scriptures of Five Religions Answer",
-      "author": "Popaul Kabeya",
-      "era": "2026 — textes du XVe s. av. J.-C. au XVIIIe s.",
-      "lang": "en",
-      "glyph": "✹",
-      "tags": [
-        "religions comparées",
-        "hindouisme",
-        "judaïsme",
-        "bouddhisme",
-        "christianisme",
-        "islam",
-        "règle d'or",
-        "écritures",
-        "dialogue interreligieux",
-        "édition anglaise"
-      ],
-      "summary": "Édition anglaise d'« Une même lumière » : les cinq traditions et leurs fondateurs, puis dix-huit thèmes où les Veda et la Gîtâ, la Torah, le Dhammapada, l'Évangile et le Coran parlent côte à côte, avec les mystiques, ce qui converge et ce qui distingue les cinq traditions, et le Tao Te King en annexe. Chaque citation est rendue au plus près des traductions françaises anciennes du livre d'origine, sans les moderniser ; la référence nomme la traduction suivie, ou signale une traduction de travail.",
-      "volumes": [
-        {
-          "label": "Texte intégral (EN)",
-          "type": "md",
-          "path": "Une-Meme-Lumiere-Cinq-Religions-EN.md",
-          "bytes": 186912
-        },
-        {
-          "label": "Édition PDF (EN) — 131 pages",
-          "type": "pdf",
-          "path": "docs/edition-amazon/en/The-Same-Light-interior-5.5x8.5in.pdf",
-          "bytes": 1257058
-        }
-      ],
-      "addedAt": "2026-10-23",
-      "bytes": 1443970
-    },
-    {
       "id": "levi-fables-symboles",
       "category": "doctrine",
       "order": 5,
@@ -3428,6 +3349,6 @@
       "bytes": 627074
     }
   ],
-  "totalBytes": 4253367290,
+  "totalBytes": 4247556564,
   "generatedAt": "2026-10-30"
 }
